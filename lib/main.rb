@@ -170,12 +170,12 @@ def main
   logger = Logger.new($stdout)
   logger.level = Logger::DEBUG
   # Get the arguments
-  # begin
-  args = retrieve_args
-  # rescue StandardError => e
-  #  warn "Wrong usage of the program: #{e.message}"
-  #  exit 2
-  # end
+  begin
+    args = retrieve_args
+  rescue StandardError => e
+    warn "Wrong usage of the program: #{e.message}"
+    exit 2
+  end
   # Prints the arguments
   logger.debug("Parsed arguments: #{args}")
 
@@ -189,9 +189,9 @@ def main
 end
 
 # call the main function
-# begin
-main
-# rescue StandardError => e
-#  warn "Unexpected error: #{e.message}"
-#  exit 3
-# end
+begin
+  main
+rescue StandardError => e
+  warn "Unexpected error: #{e.message}"
+  exit 3
+end
