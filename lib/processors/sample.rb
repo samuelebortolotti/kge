@@ -19,7 +19,7 @@ module Sample
         puts opts
         exit
       end
-      opts.on('-d', '--dummy [DUMMY]', String, 'dummy argument') do |_file|
+      opts.on('-d', '--dummy [DUMMY]', String, 'dummy argument') do |dummy|
         options[:dummy] = dummy
       end
     end
