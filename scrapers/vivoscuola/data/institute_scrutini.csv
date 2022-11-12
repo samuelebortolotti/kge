@@ -1,0 +1,2113 @@
+ord_scol,tipo_orario,num_anni,etichetta,percentuale_ammessi,anno,miur_code
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC81300R
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC81300R
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC81300R
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC81300R
+Primaria,Diurno,5,Amessi 2020/21,99.1304347826087,5,TNIC81300R
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC81300R
+Primaria,Diurno,5,Amessi 2021/22,98.79518072289156,2,TNIC81300R
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC81300R
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC81300R
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC81300R
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC81300R
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC81300R
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC81300R
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC81300R
+Primaria,Diurno,5,Amessi 2019/20,99.01960784313727,5,TNIC81300R
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,99.0,1,TNIC81300R
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC81300R
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC81300R
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.0909090909091,1,TNIC81300R
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.0,2,TNIC81300R
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.05825242718447,3,TNIC81300R
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC81300R
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC81300R
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC81300R
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,91.1504424778761,1,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,88.35616438356165,2,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.04347826086956,3,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.28301886792453,4,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,96.7479674796748,5,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,86.48648648648648,1,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,91.07142857142857,2,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,88.80597014925374,3,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,93.69369369369369,4,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,98.09523809523809,5,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,1,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.19354838709677,2,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.1304347826087,3,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.2,4,TNIS00100P
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNIS00100P
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,1,TNIS00100P
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,2,TNIS00100P
+Secondaria di primo grado,Serale,3,Amessi 2020/21,25.0,3,TNIS00100P
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,1,TNIS00100P
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,2,TNIS00100P
+Secondaria di primo grado,Serale,3,Amessi 2021/22,33.33333333333333,3,TNIS00100P
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,1,TNIS00100P
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,2,TNIS00100P
+Secondaria di primo grado,Serale,3,Amessi 2019/20,16.666666666666664,3,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,1,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,2,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,3,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,4,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,57.14285714285714,5,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,1,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,2,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,18.181818181818183,3,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,40.909090909090914,4,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,70.0,5,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,1,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,2,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,75.86206896551724,3,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,66.66666666666666,4,TNIS00100P
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,92.85714285714286,5,TNIS00100P
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC861006
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC861006
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC861006
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC861006
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC861006
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC861006
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC861006
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC861006
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC861006
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC861006
+Primaria,Diurno,5,Amessi 2019/20,0.0,1,TNIC861006
+Primaria,Diurno,5,Amessi 2019/20,0.0,2,TNIC861006
+Primaria,Diurno,5,Amessi 2019/20,0.0,3,TNIC861006
+Primaria,Diurno,5,Amessi 2019/20,0.0,4,TNIC861006
+Primaria,Diurno,5,Amessi 2019/20,0.0,5,TNIC861006
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC861006
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.2972972972973,2,TNIC861006
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC861006
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC861006
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.87234042553192,2,TNIC861006
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC861006
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,0.0,1,TNIC861006
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,0.0,2,TNIC861006
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,0.0,3,TNIC861006
+Formazione professionale,Diurno,5,Amessi 2020/21,83.78378378378379,1,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2020/21,90.43478260869566,2,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2020/21,81.37254901960785,3,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2020/21,97.10144927536231,4,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2020/21,96.0,5,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2021/22,77.52808988764045,1,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2021/22,86.3013698630137,2,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2021/22,81.73913043478261,3,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2021/22,88.67924528301887,4,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2021/22,88.46153846153845,5,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2019/20,99.1304347826087,1,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2019/20,100.0,2,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2019/20,97.72727272727273,3,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2019/20,100.0,4,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2019/20,100.0,5,TNCF001001
+Formazione professionale,Diurno,5,Amessi 2020/21,77.02702702702703,1,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2020/21,74.48979591836735,2,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2020/21,75.0,3,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2020/21,100.0,4,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2020/21,85.71428571428571,5,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2021/22,79.12087912087912,1,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2021/22,80.51948051948052,2,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2021/22,80.45977011494253,3,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2021/22,88.09523809523809,4,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2021/22,88.46153846153845,5,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2019/20,94.94949494949495,1,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2019/20,96.42857142857143,2,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2019/20,85.8974358974359,3,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2019/20,100.0,4,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2019/20,100.0,5,TNCF007001
+Formazione professionale,Diurno,5,Amessi 2020/21,64.70588235294117,1,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2020/21,73.20261437908496,2,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2020/21,75.57251908396947,3,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2020/21,90.41095890410958,4,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2020/21,92.5925925925926,5,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2021/22,65.78947368421053,1,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2021/22,74.21875,2,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2021/22,75.0,3,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2021/22,82.75862068965517,4,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2021/22,94.11764705882352,5,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2019/20,92.40506329113924,1,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2019/20,95.41984732824427,2,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2019/20,85.96491228070175,3,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2019/20,92.85714285714286,4,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2019/20,100.0,5,TNCF008001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,1,TNCF008001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,2,TNCF008001
+Formazione professionale,Serale,5,Amessi 2020/21,55.172413793103445,3,TNCF008001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,4,TNCF008001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,5,TNCF008001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,1,TNCF008001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,2,TNCF008001
+Formazione professionale,Serale,5,Amessi 2021/22,58.82352941176471,3,TNCF008001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,4,TNCF008001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,5,TNCF008001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,1,TNCF008001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,2,TNCF008001
+Formazione professionale,Serale,5,Amessi 2019/20,50.0,3,TNCF008001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,4,TNCF008001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,5,TNCF008001
+Formazione professionale,Diurno,5,Amessi 2020/21,89.90825688073394,1,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2020/21,80.99173553719008,2,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2020/21,86.60714285714286,3,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2020/21,93.24324324324324,4,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2020/21,100.0,5,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2021/22,85.43689320388349,1,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2021/22,85.47008547008546,2,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2021/22,90.17857142857143,3,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2021/22,96.875,4,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2021/22,94.44444444444444,5,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2019/20,94.78260869565217,1,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2019/20,94.05940594059405,2,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2019/20,90.83333333333333,3,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2019/20,100.0,4,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2019/20,100.0,5,TNCF005001
+Formazione professionale,Diurno,5,Amessi 2020/21,96.55172413793103,1,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2020/21,92.95774647887323,2,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2020/21,66.66666666666666,3,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2020/21,100.0,4,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2020/21,100.0,5,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2021/22,98.30508474576271,1,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2021/22,86.4406779661017,2,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2021/22,73.17073170731707,3,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2021/22,96.36363636363636,4,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2021/22,97.5609756097561,5,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2019/20,98.4375,1,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2019/20,98.59154929577466,2,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2019/20,68.4931506849315,3,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2019/20,96.0,4,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2019/20,98.18181818181819,5,TNCF004001
+Formazione professionale,Diurno,5,Amessi 2020/21,73.4375,1,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2020/21,70.58823529411765,2,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2020/21,82.1917808219178,3,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2020/21,96.7741935483871,4,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2020/21,94.73684210526315,5,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2021/22,81.25,1,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2021/22,89.87341772151899,2,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2021/22,91.02564102564102,3,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2021/22,100.0,4,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2021/22,93.22033898305084,5,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2019/20,88.09523809523809,1,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2019/20,92.95774647887323,2,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2019/20,95.6043956043956,3,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2019/20,97.1830985915493,4,TNCF003001
+Formazione professionale,Diurno,5,Amessi 2019/20,94.44444444444444,5,TNCF003001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,1,TNCF003001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,2,TNCF003001
+Formazione professionale,Serale,5,Amessi 2020/21,57.446808510638306,3,TNCF003001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,4,TNCF003001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,5,TNCF003001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,1,TNCF003001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,2,TNCF003001
+Formazione professionale,Serale,5,Amessi 2021/22,70.37037037037037,3,TNCF003001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,4,TNCF003001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,5,TNCF003001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,1,TNCF003001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,2,TNCF003001
+Formazione professionale,Serale,5,Amessi 2019/20,56.09756097560976,3,TNCF003001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,4,TNCF003001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,5,TNCF003001
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.36842105263158,1,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.96984924623115,2,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.33333333333333,3,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.0,4,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.97979797979798,5,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,87.92270531400966,1,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,92.3076923076923,2,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,87.5,3,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,92.16867469879519,4,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,90.38461538461539,5,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,1,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.88888888888889,2,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,3,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,4,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.82352941176471,5,TNIS00300A
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,1,TNIS00300A
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,2,TNIS00300A
+Secondaria di primo grado,Serale,3,Amessi 2020/21,71.42857142857143,3,TNIS00300A
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,1,TNIS00300A
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,2,TNIS00300A
+Secondaria di primo grado,Serale,3,Amessi 2021/22,71.42857142857143,3,TNIS00300A
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,1,TNIS00300A
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,2,TNIS00300A
+Secondaria di primo grado,Serale,3,Amessi 2019/20,70.83333333333334,3,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,1,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,42.857142857142854,2,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,3,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,81.81818181818183,4,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,71.42857142857143,5,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,1,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,57.14285714285714,2,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,3,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,50.0,4,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,66.66666666666666,5,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,1,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,66.66666666666666,2,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,3,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,57.14285714285714,4,TNIS00300A
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,65.0,5,TNIS00300A
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,91.4027149321267,1,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,91.869918699187,2,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,91.54411764705883,3,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.81395348837209,4,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.85964912280701,5,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,91.13475177304964,1,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,91.25,2,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.61016949152543,3,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.8,4,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.11538461538461,5,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,97.6,1,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.13432835820896,2,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,97.68518518518519,3,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,96.56652360515021,4,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.47916666666666,5,TNSD02000X
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,79.28994082840237,1,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,81.81818181818183,2,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,89.6103896103896,3,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,96.34146341463415,4,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.57575757575758,5,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,73.33333333333333,1,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,82.05128205128204,2,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,81.70731707317073,3,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,91.42857142857143,4,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.57575757575758,5,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.47643979057592,1,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,2,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.89502762430939,3,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,4,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.31932773109243,5,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,1,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,53.84615384615385,2,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,5.0,3,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,42.30769230769231,4,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,66.66666666666666,5,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,1,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,25.0,2,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,2.564102564102564,3,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,42.857142857142854,4,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,65.21739130434783,5,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,22.22222222222222,1,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,54.54545454545454,2,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,14.634146341463413,3,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,77.41935483870968,4,TNTD18000T
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,88.88888888888889,5,TNTD18000T
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,94.92753623188406,1,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.24324324324324,2,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,92.71523178807946,3,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.6896551724138,4,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.9020979020979,5,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,89.1025641025641,1,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,95.65217391304348,2,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,98.6013986013986,3,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.52777777777779,4,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,100.0,5,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,1,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,2,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,3,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,4,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNTD100001
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,1,TNTD100001
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,2,TNTD100001
+Secondaria di primo grado,Serale,3,Amessi 2020/21,80.0,3,TNTD100001
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,1,TNTD100001
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,2,TNTD100001
+Secondaria di primo grado,Serale,3,Amessi 2021/22,60.0,3,TNTD100001
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,1,TNTD100001
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,2,TNTD100001
+Secondaria di primo grado,Serale,3,Amessi 2019/20,100.0,3,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,1,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,2,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,3,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,29.411764705882355,4,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,77.77777777777779,5,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,1,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,2,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,3,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,66.66666666666666,4,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,66.66666666666666,5,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,1,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,2,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,3,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,85.71428571428571,4,TNTD100001
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,100.0,5,TNTD100001
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,78.94736842105263,1,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,78.26086956521739,2,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,90.80459770114942,3,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.15068493150685,4,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.50561797752809,5,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,94.44444444444444,1,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,95.18072289156626,2,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,93.67088607594937,3,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,93.90243902439023,4,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,98.57142857142858,5,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,1,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,2,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,3,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,4,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,1,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,2,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,3,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,88.88888888888889,4,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,92.3076923076923,5,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,1,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,2,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,3,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,100.0,4,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,78.57142857142857,5,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,1,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,2,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,3,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,100.0,4,TNTD020009
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,100.0,5,TNTD020009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,89.41798941798942,1,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,90.2439024390244,2,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,90.81632653061224,3,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,96.15384615384616,4,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.09302325581395,5,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,85.85365853658537,1,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,93.54838709677419,2,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,90.77669902912622,3,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,94.5054945054945,4,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.94520547945206,5,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,1,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,2,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,3,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,4,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,1,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,2,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,3,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,53.84615384615385,4,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,58.333333333333336,5,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,1,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,2,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,4.3478260869565215,3,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,70.0,4,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,50.0,5,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,1,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,2,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,34.61538461538461,3,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,66.66666666666666,4,TNTF02000G
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,100.0,5,TNTF02000G
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.3130699088146,1,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,94.375,2,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,92.9530201342282,3,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.33333333333334,4,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.24137931034483,5,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,90.31413612565446,1,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,94.70404984423676,2,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,91.22807017543859,3,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,92.19858156028369,4,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,95.1219512195122,5,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.41176470588235,1,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.24812030075188,2,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.01315789473685,3,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.3127147766323,4,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,1,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,2,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,3,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,48.148148148148145,4,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,75.0,5,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,1,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,2,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,3.0303030303030303,3,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,53.333333333333336,4,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,77.77777777777779,5,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,1,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,2,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,3,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,65.21739130434783,4,TNIS013001
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,90.9090909090909,5,TNIS013001
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.13725490196079,1,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,91.59663865546219,2,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,94.85981308411215,3,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.74774774774775,4,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,100.0,5,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,94.96124031007753,1,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.11111111111111,2,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.65258215962442,3,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.01492537313433,4,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,99.06976744186046,5,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,1,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.54954954954955,2,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.56140350877193,3,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.51456310679612,4,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNPC02000A
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,86.62790697674419,1,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,89.60396039603961,2,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,94.05940594059405,3,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,96.92307692307692,4,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,98.27586206896551,5,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,85.85858585858585,1,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,92.89340101522842,2,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,90.14778325123153,3,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.89119170984456,4,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,98.42931937172776,5,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,95.40816326530613,1,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.00497512437812,2,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,96.05911330049261,3,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,4,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNPM01000X
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,1,TNPM01000X
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,2,TNPM01000X
+Secondaria di primo grado,Serale,3,Amessi 2020/21,62.5,3,TNPM01000X
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,1,TNPM01000X
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,2,TNPM01000X
+Secondaria di primo grado,Serale,3,Amessi 2021/22,82.35294117647058,3,TNPM01000X
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,1,TNPM01000X
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,2,TNPM01000X
+Secondaria di primo grado,Serale,3,Amessi 2019/20,75.80645161290323,3,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,10.416666666666668,1,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,42.857142857142854,2,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,20.454545454545457,3,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,58.333333333333336,4,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,84.61538461538461,5,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,3.4482758620689653,1,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,50.0,2,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,17.02127659574468,3,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,80.0,4,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,82.6086956521739,5,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,8.91089108910891,1,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,35.714285714285715,2,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,14.893617021276595,3,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,60.0,4,TNPM01000X
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,100.0,5,TNPM01000X
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,98.89502762430939,1,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,98.67549668874173,2,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,99.4535519125683,3,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.59036144578313,4,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,98.83720930232558,5,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.31182795698925,1,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.0414201183432,2,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.66666666666667,3,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,98.36065573770492,4,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,98.77300613496932,5,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,1,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.93617021276596,2,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,3,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.42196531791907,4,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNIS00600T
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,94.90445859872611,1,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,98.61111111111111,2,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.1830985915493,3,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,96.55172413793103,4,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.16981132075472,5,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,88.54961832061069,1,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,93.10344827586206,2,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,92.36111111111111,3,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,94.96402877697841,4,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,95.53571428571429,5,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,97.27891156462584,1,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,97.97297297297297,2,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.08256880733946,3,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.07407407407408,4,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNPM02000E
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,87.62886597938144,1,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,90.36144578313254,2,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.77777777777777,3,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,100.0,4,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,100.0,5,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,88.73239436619718,1,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,98.80952380952381,2,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.36842105263158,3,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.61904761904762,4,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,100.0,5,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.95833333333334,1,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,2,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,3,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.05660377358491,4,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNPC04000G
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.3125,1,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.38461538461539,2,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,96.64804469273743,3,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.91666666666666,4,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,99.28571428571429,5,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,95.6989247311828,1,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.73913043478261,2,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.73913043478261,3,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.61016949152543,4,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,100.0,5,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.50738916256158,1,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.47089947089947,2,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,3,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.30555555555556,4,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNPS01000V
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,90.82278481012658,1,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,90.65743944636678,2,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,96.44128113879003,3,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,92.93286219081273,4,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.96747967479675,5,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,88.62973760932945,1,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.12230215827337,2,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.57794676806084,3,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.87985865724382,4,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.42647058823529,5,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.68152866242038,1,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,2,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.64912280701755,3,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.79518072289156,4,TNPS02000D
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNPS02000D
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC85000Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC85000Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC85000Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC85000Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC85000Q
+Primaria,Diurno,5,Amessi 2021/22,97.5609756097561,1,TNIC85000Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC85000Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC85000Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC85000Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC85000Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC85000Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC85000Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC85000Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC85000Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC85000Q
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC85000Q
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,99.04761904761905,2,TNIC85000Q
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC85000Q
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC85000Q
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC85000Q
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.14814814814815,3,TNIC85000Q
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC85000Q
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC85000Q
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,99.07407407407408,3,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,92.5531914893617,1,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.45794392523365,2,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,94.18604651162791,3,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,100.0,4,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,100.0,5,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,94.68085106382979,1,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,93.18181818181817,2,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,98.96907216494846,3,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.25,4,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,98.46153846153847,5,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,1,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,2,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.55072463768117,3,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,4,TNIC85000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.75,5,TNIC85000Q
+Primaria,Diurno,5,Amessi 2020/21,98.13664596273291,1,TNIC85800A
+Primaria,Diurno,5,Amessi 2020/21,99.3975903614458,2,TNIC85800A
+Primaria,Diurno,5,Amessi 2020/21,97.45222929936305,3,TNIC85800A
+Primaria,Diurno,5,Amessi 2020/21,99.375,4,TNIC85800A
+Primaria,Diurno,5,Amessi 2020/21,97.17514124293785,5,TNIC85800A
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC85800A
+Primaria,Diurno,5,Amessi 2021/22,99.38650306748467,2,TNIC85800A
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC85800A
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC85800A
+Primaria,Diurno,5,Amessi 2021/22,99.38271604938271,5,TNIC85800A
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC85800A
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC85800A
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC85800A
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC85800A
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC85800A
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.71794871794873,1,TNIC85800A
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.07692307692307,2,TNIC85800A
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.49624060150376,3,TNIC85800A
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.31972789115646,1,TNIC85800A
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.36708860759494,2,TNIC85800A
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC85800A
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC85800A
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC85800A
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC85800A
+Primaria,Diurno,5,Amessi 2020/21,98.91304347826086,1,TNIC83400T
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC83400T
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC83400T
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC83400T
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC83400T
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC83400T
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC83400T
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC83400T
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC83400T
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC83400T
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC83400T
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC83400T
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC83400T
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC83400T
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC83400T
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.9381443298969,1,TNIC83400T
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.41379310344827,2,TNIC83400T
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.32142857142857,3,TNIC83400T
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,93.25842696629213,1,TNIC83400T
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.01960784313727,2,TNIC83400T
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.15254237288136,3,TNIC83400T
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC83400T
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC83400T
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC83400T
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC84400C
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC84400C
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC84400C
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC84400C
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC84400C
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC84400C
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC84400C
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC84400C
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC84400C
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC84400C
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC84400C
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC84400C
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC84400C
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC84400C
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC84400C
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC84400C
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC84400C
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC84400C
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC84400C
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC84400C
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC84400C
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC84400C
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC84400C
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC84400C
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC80600N
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC80600N
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC80600N
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC80600N
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC80600N
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC80600N
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC80600N
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC80600N
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC80600N
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC80600N
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC80600N
+Primaria,Diurno,5,Amessi 2019/20,97.61904761904762,2,TNIC80600N
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC80600N
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC80600N
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC80600N
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC80600N
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC80600N
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.21428571428571,3,TNIC80600N
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC80600N
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC80600N
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC80600N
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC80600N
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC80600N
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC80600N
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC803006
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC803006
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC803006
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC803006
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC803006
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC803006
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC803006
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC803006
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC803006
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC803006
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC803006
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC803006
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC803006
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC803006
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC803006
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC803006
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC803006
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC803006
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC803006
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC803006
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC803006
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC803006
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC803006
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC803006
+Primaria,Diurno,5,Amessi 2020/21,97.9381443298969,1,TNIC846004
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC846004
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC846004
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC846004
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC846004
+Primaria,Diurno,5,Amessi 2021/22,98.9795918367347,1,TNIC846004
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC846004
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC846004
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC846004
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC846004
+Primaria,Diurno,5,Amessi 2019/20,99.0,1,TNIC846004
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC846004
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC846004
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC846004
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC846004
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC846004
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,95.74468085106383,2,TNIC846004
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC846004
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.70114942528735,1,TNIC846004
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.8021978021978,2,TNIC846004
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.77777777777777,3,TNIC846004
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC846004
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,98.9247311827957,2,TNIC846004
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC846004
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC817004
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC817004
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC817004
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC817004
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC817004
+Primaria,Diurno,5,Amessi 2021/22,98.38709677419355,1,TNIC817004
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC817004
+Primaria,Diurno,5,Amessi 2021/22,98.78048780487805,3,TNIC817004
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC817004
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC817004
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC817004
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC817004
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC817004
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC817004
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC817004
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC817004
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC817004
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC817004
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC817004
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC817004
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC817004
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC817004
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC817004
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC817004
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC838005
+Primaria,Diurno,5,Amessi 2020/21,99.03846153846155,2,TNIC838005
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC838005
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC838005
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC838005
+Primaria,Diurno,5,Amessi 2021/22,97.33333333333334,1,TNIC838005
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC838005
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC838005
+Primaria,Diurno,5,Amessi 2021/22,98.9010989010989,4,TNIC838005
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC838005
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC838005
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC838005
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC838005
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC838005
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC838005
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.18181818181819,1,TNIC838005
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.67441860465115,2,TNIC838005
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,96.29629629629629,3,TNIC838005
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,96.96969696969697,1,TNIC838005
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.27272727272728,2,TNIC838005
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.50746268656717,3,TNIC838005
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC838005
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC838005
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,99.05660377358491,3,TNIC838005
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC804002
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC804002
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC804002
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC804002
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC804002
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC804002
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC804002
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC804002
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC804002
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC804002
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC804002
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC804002
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC804002
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC804002
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC804002
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC804002
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC804002
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC804002
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC804002
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC804002
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.14285714285714,3,TNIC804002
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC804002
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC804002
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC804002
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC82800E
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC82800E
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC82800E
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC82800E
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC82800E
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC82800E
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC82800E
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC82800E
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC82800E
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC82800E
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC82800E
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC82800E
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC82800E
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC82800E
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC82800E
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC82800E
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.95918367346938,2,TNIC82800E
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC82800E
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,94.9579831932773,1,TNIC82800E
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.1869918699187,2,TNIC82800E
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.96907216494846,3,TNIC82800E
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC82800E
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC82800E
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,98.4251968503937,3,TNIC82800E
+Secondaria di secondo grado,Diurno,4,Amessi 2020/21,100.0,1,TNCF002001
+Secondaria di secondo grado,Diurno,4,Amessi 2020/21,96.0,2,TNCF002001
+Secondaria di secondo grado,Diurno,4,Amessi 2020/21,100.0,3,TNCF002001
+Secondaria di secondo grado,Diurno,4,Amessi 2020/21,0.0,4,TNCF002001
+Secondaria di secondo grado,Diurno,4,Amessi 2021/22,97.22222222222221,1,TNCF002001
+Secondaria di secondo grado,Diurno,4,Amessi 2021/22,89.28571428571429,2,TNCF002001
+Secondaria di secondo grado,Diurno,4,Amessi 2021/22,95.23809523809523,3,TNCF002001
+Secondaria di secondo grado,Diurno,4,Amessi 2021/22,100.0,4,TNCF002001
+Secondaria di secondo grado,Diurno,4,Amessi 2019/20,100.0,1,TNCF002001
+Secondaria di secondo grado,Diurno,4,Amessi 2019/20,100.0,2,TNCF002001
+Secondaria di secondo grado,Diurno,4,Amessi 2019/20,0.0,3,TNCF002001
+Secondaria di secondo grado,Diurno,4,Amessi 2019/20,0.0,4,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2020/21,85.71428571428571,1,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2020/21,81.08108108108108,2,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2020/21,93.93939393939394,3,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2020/21,89.90825688073394,4,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2020/21,91.66666666666666,5,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2021/22,81.03448275862068,1,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2021/22,83.2,2,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2021/22,90.51094890510949,3,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2021/22,83.49514563106796,4,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2021/22,82.75862068965517,5,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2019/20,94.96402877697841,1,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2019/20,97.8102189781022,2,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2019/20,97.54601226993866,3,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2019/20,97.43589743589743,4,TNCF002001
+Formazione professionale,Diurno,5,Amessi 2019/20,100.0,5,TNCF002001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,1,TNCF002001
+Formazione professionale,Serale,5,Amessi 2020/21,47.05882352941176,2,TNCF002001
+Formazione professionale,Serale,5,Amessi 2020/21,60.0,3,TNCF002001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,4,TNCF002001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,5,TNCF002001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,1,TNCF002001
+Formazione professionale,Serale,5,Amessi 2021/22,13.333333333333334,2,TNCF002001
+Formazione professionale,Serale,5,Amessi 2021/22,71.42857142857143,3,TNCF002001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,4,TNCF002001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,5,TNCF002001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,1,TNCF002001
+Formazione professionale,Serale,5,Amessi 2019/20,58.333333333333336,2,TNCF002001
+Formazione professionale,Serale,5,Amessi 2019/20,81.81818181818183,3,TNCF002001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,4,TNCF002001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,5,TNCF002001
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC84800Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC84800Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC84800Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC84800Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC84800Q
+Primaria,Diurno,5,Amessi 2021/22,98.82352941176471,1,TNIC84800Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC84800Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC84800Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC84800Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC84800Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC84800Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC84800Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC84800Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC84800Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC84800Q
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC84800Q
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC84800Q
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC84800Q
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.9010989010989,1,TNIC84800Q
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC84800Q
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.61904761904762,3,TNIC84800Q
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC84800Q
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC84800Q
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC84800Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC82100Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC82100Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC82100Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC82100Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC82100Q
+Primaria,Diurno,5,Amessi 2021/22,99.13793103448276,1,TNIC82100Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC82100Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC82100Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC82100Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC82100Q
+Primaria,Diurno,5,Amessi 2019/20,99.11504424778761,1,TNIC82100Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC82100Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC82100Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC82100Q
+Primaria,Diurno,5,Amessi 2019/20,99.03846153846155,5,TNIC82100Q
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC82100Q
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.48484848484848,2,TNIC82100Q
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.32142857142857,3,TNIC82100Q
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.4,1,TNIC82100Q
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.14285714285714,2,TNIC82100Q
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.46153846153847,3,TNIC82100Q
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC82100Q
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC82100Q
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC82100Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC832006
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC832006
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC832006
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC832006
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC832006
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC832006
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC832006
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC832006
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC832006
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC832006
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC832006
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC832006
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC832006
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC832006
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC832006
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC832006
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC832006
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC832006
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC832006
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC832006
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC832006
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC832006
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC832006
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC832006
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC86000A
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC86000A
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC86000A
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC86000A
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC86000A
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC86000A
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC86000A
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC86000A
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC86000A
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC86000A
+Primaria,Diurno,5,Amessi 2019/20,98.68421052631578,1,TNIC86000A
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC86000A
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC86000A
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC86000A
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC86000A
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC86000A
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC86000A
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.59154929577466,3,TNIC86000A
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.7012987012987,1,TNIC86000A
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC86000A
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC86000A
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC86000A
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC86000A
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC86000A
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC816008
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC816008
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC816008
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC816008
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC816008
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC816008
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC816008
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC816008
+Primaria,Diurno,5,Amessi 2021/22,98.73417721518987,4,TNIC816008
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC816008
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC816008
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC816008
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC816008
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC816008
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC816008
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.46153846153847,1,TNIC816008
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,95.65217391304348,2,TNIC816008
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,96.42857142857143,3,TNIC816008
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.66666666666667,1,TNIC816008
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.52941176470588,2,TNIC816008
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.14285714285714,3,TNIC816008
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC816008
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC816008
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC816008
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC840005
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC840005
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC840005
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC840005
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC840005
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC840005
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC840005
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC840005
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC840005
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC840005
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC840005
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC840005
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC840005
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC840005
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC840005
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC840005
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC840005
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.64864864864865,3,TNIC840005
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC840005
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC840005
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.35483870967742,3,TNIC840005
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC840005
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC840005
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,98.10126582278481,3,TNIC840005
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC81400L
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC81400L
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC81400L
+Primaria,Diurno,5,Amessi 2020/21,98.3739837398374,4,TNIC81400L
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC81400L
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC81400L
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC81400L
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC81400L
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC81400L
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC81400L
+Primaria,Diurno,5,Amessi 2019/20,99.08256880733946,1,TNIC81400L
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC81400L
+Primaria,Diurno,5,Amessi 2019/20,99.18032786885246,3,TNIC81400L
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC81400L
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC81400L
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.48484848484848,1,TNIC81400L
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC81400L
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,96.875,3,TNIC81400L
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.34710743801654,1,TNIC81400L
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.47328244274809,2,TNIC81400L
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.27586206896551,3,TNIC81400L
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC81400L
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC81400L
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC81400L
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC81500C
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC81500C
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC81500C
+Primaria,Diurno,5,Amessi 2020/21,99.03846153846155,4,TNIC81500C
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC81500C
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC81500C
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC81500C
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC81500C
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC81500C
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC81500C
+Primaria,Diurno,5,Amessi 2019/20,99.1869918699187,1,TNIC81500C
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC81500C
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC81500C
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC81500C
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC81500C
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,99.36708860759494,1,TNIC81500C
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.31932773109243,2,TNIC81500C
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,99.07407407407408,3,TNIC81500C
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.35064935064936,1,TNIC81500C
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.39024390243902,2,TNIC81500C
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.16666666666667,3,TNIC81500C
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC81500C
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC81500C
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC81500C
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC808009
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC808009
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC808009
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC808009
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC808009
+Primaria,Diurno,5,Amessi 2021/22,98.75,1,TNIC808009
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC808009
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC808009
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC808009
+Primaria,Diurno,5,Amessi 2021/22,98.87640449438202,5,TNIC808009
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC808009
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC808009
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC808009
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC808009
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC808009
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.87640449438202,1,TNIC808009
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC808009
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC808009
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC808009
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.86363636363636,2,TNIC808009
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.95918367346938,3,TNIC808009
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC808009
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC808009
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC808009
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC84200R
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC84200R
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC84200R
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC84200R
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC84200R
+Primaria,Diurno,5,Amessi 2021/22,98.27586206896551,1,TNIC84200R
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC84200R
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC84200R
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC84200R
+Primaria,Diurno,5,Amessi 2021/22,97.32142857142857,5,TNIC84200R
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC84200R
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC84200R
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC84200R
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC84200R
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC84200R
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC84200R
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.93617021276596,2,TNIC84200R
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC84200R
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC84200R
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC84200R
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC84200R
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC84200R
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC84200R
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC84200R
+Primaria,Diurno,5,Amessi 2020/21,98.78048780487805,1,TNIC859006
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC859006
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC859006
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC859006
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC859006
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC859006
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC859006
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC859006
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC859006
+Primaria,Diurno,5,Amessi 2021/22,98.91304347826086,5,TNIC859006
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC859006
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC859006
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC859006
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC859006
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC859006
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC859006
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC859006
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.82352941176471,3,TNIC859006
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.0909090909091,1,TNIC859006
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.10714285714286,2,TNIC859006
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC859006
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC859006
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC859006
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC859006
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC80100E
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC80100E
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC80100E
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC80100E
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC80100E
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC80100E
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC80100E
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC80100E
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC80100E
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC80100E
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC80100E
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC80100E
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC80100E
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC80100E
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC80100E
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.1830985915493,1,TNIC80100E
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC80100E
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC80100E
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.61111111111111,1,TNIC80100E
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC80100E
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.95918367346938,3,TNIC80100E
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC80100E
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC80100E
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC80100E
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC837009
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC837009
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC837009
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC837009
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC837009
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC837009
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC837009
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC837009
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC837009
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC837009
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC837009
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC837009
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC837009
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC837009
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC837009
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.70114942528735,1,TNIC837009
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.36842105263158,2,TNIC837009
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.76543209876543,3,TNIC837009
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC837009
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.70114942528735,2,TNIC837009
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.63013698630137,3,TNIC837009
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC837009
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC837009
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC837009
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC825003
+Primaria,Diurno,5,Amessi 2020/21,99.23664122137404,2,TNIC825003
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC825003
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC825003
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC825003
+Primaria,Diurno,5,Amessi 2021/22,99.03846153846155,1,TNIC825003
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC825003
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC825003
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC825003
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC825003
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC825003
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC825003
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC825003
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC825003
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC825003
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.14814814814815,1,TNIC825003
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,95.6896551724138,2,TNIC825003
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.21428571428571,3,TNIC825003
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC825003
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC825003
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.09909909909909,3,TNIC825003
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC825003
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC825003
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC825003
+Primaria,Diurno,5,Amessi 2020/21,98.65771812080537,1,TNIC81800X
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC81800X
+Primaria,Diurno,5,Amessi 2020/21,99.3006993006993,3,TNIC81800X
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC81800X
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC81800X
+Primaria,Diurno,5,Amessi 2021/22,99.29577464788733,1,TNIC81800X
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC81800X
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC81800X
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC81800X
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC81800X
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC81800X
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC81800X
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC81800X
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC81800X
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC81800X
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,99.38650306748467,1,TNIC81800X
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.74213836477988,2,TNIC81800X
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC81800X
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.38271604938271,1,TNIC81800X
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.40476190476191,2,TNIC81800X
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC81800X
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC81800X
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC81800X
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC81800X
+Primaria,Diurno,5,Amessi 2020/21,99.14529914529915,1,TNIC82300B
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC82300B
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC82300B
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC82300B
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC82300B
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC82300B
+Primaria,Diurno,5,Amessi 2021/22,99.14529914529915,2,TNIC82300B
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC82300B
+Primaria,Diurno,5,Amessi 2021/22,99.27007299270073,4,TNIC82300B
+Primaria,Diurno,5,Amessi 2021/22,99.11504424778761,5,TNIC82300B
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC82300B
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC82300B
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC82300B
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC82300B
+Primaria,Diurno,5,Amessi 2019/20,99.11504424778761,5,TNIC82300B
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.21428571428571,1,TNIC82300B
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.18181818181819,2,TNIC82300B
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,99.05660377358491,3,TNIC82300B
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC82300B
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.29059829059828,2,TNIC82300B
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.27272727272728,3,TNIC82300B
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC82300B
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC82300B
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC82300B
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC824007
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC824007
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC824007
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC824007
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC824007
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC824007
+Primaria,Diurno,5,Amessi 2021/22,99.1304347826087,2,TNIC824007
+Primaria,Diurno,5,Amessi 2021/22,99.37106918238993,3,TNIC824007
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC824007
+Primaria,Diurno,5,Amessi 2021/22,99.25373134328358,5,TNIC824007
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC824007
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC824007
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC824007
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC824007
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC824007
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC824007
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC824007
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC824007
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.6013986013986,1,TNIC824007
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.23664122137404,2,TNIC824007
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC824007
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC824007
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC824007
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC824007
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC84700X
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC84700X
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC84700X
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC84700X
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC84700X
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC84700X
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC84700X
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC84700X
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC84700X
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC84700X
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC84700X
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC84700X
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC84700X
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC84700X
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC84700X
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC84700X
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC84700X
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,95.55555555555556,3,TNIC84700X
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC84700X
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC84700X
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC84700X
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC84700X
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC84700X
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC84700X
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC833002
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC833002
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC833002
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC833002
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC833002
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC833002
+Primaria,Diurno,5,Amessi 2021/22,98.55072463768117,2,TNIC833002
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC833002
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC833002
+Primaria,Diurno,5,Amessi 2021/22,98.93617021276596,5,TNIC833002
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC833002
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC833002
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC833002
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC833002
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC833002
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC833002
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC833002
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC833002
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC833002
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.84946236559139,2,TNIC833002
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,94.25287356321839,3,TNIC833002
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC833002
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC833002
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC833002
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC812001
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC812001
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC812001
+Primaria,Diurno,5,Amessi 2020/21,98.78048780487805,4,TNIC812001
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC812001
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC812001
+Primaria,Diurno,5,Amessi 2021/22,98.55072463768117,2,TNIC812001
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC812001
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC812001
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC812001
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC812001
+Primaria,Diurno,5,Amessi 2019/20,98.57142857142858,2,TNIC812001
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC812001
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC812001
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC812001
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC812001
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.75,2,TNIC812001
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC812001
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC812001
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC812001
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.75,3,TNIC812001
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC812001
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC812001
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC812001
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC809005
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC809005
+Primaria,Diurno,5,Amessi 2020/21,99.0,3,TNIC809005
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC809005
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC809005
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC809005
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC809005
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC809005
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC809005
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC809005
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC809005
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC809005
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC809005
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC809005
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC809005
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.18181818181819,1,TNIC809005
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,99.07407407407408,2,TNIC809005
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC809005
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC809005
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC809005
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC809005
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC809005
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC809005
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC809005
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC82200G
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC82200G
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC82200G
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC82200G
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC82200G
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC82200G
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC82200G
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC82200G
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC82200G
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC82200G
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC82200G
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC82200G
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC82200G
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC82200G
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC82200G
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC82200G
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.86363636363636,2,TNIC82200G
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC82200G
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.5,1,TNIC82200G
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC82200G
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC82200G
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC82200G
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC82200G
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC82200G
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC82600V
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC82600V
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC82600V
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC82600V
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC82600V
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC82600V
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC82600V
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC82600V
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC82600V
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC82600V
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC82600V
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC82600V
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC82600V
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC82600V
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC82600V
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC82600V
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC82600V
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC82600V
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC82600V
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC82600V
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC82600V
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC82600V
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC82600V
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC82600V
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC83600D
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC83600D
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC83600D
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC83600D
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC83600D
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC83600D
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC83600D
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC83600D
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC83600D
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC83600D
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC83600D
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC83600D
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC83600D
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC83600D
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC83600D
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.88888888888889,1,TNIC83600D
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.82352941176471,2,TNIC83600D
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC83600D
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC83600D
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.82608695652173,2,TNIC83600D
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.82352941176471,3,TNIC83600D
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC83600D
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC83600D
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC83600D
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC81900Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC81900Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC81900Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC81900Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC81900Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC81900Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC81900Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC81900Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC81900Q
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC81900Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC81900Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC81900Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC81900Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC81900Q
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC81900Q
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC81900Q
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC81900Q
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC81900Q
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC81900Q
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.06542056074767,2,TNIC81900Q
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC81900Q
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC81900Q
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC81900Q
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC81900Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC82000X
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC82000X
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC82000X
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC82000X
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC82000X
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC82000X
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC82000X
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC82000X
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC82000X
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC82000X
+Primaria,Diurno,5,Amessi 2019/20,99.1869918699187,1,TNIC82000X
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC82000X
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC82000X
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC82000X
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC82000X
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC82000X
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC82000X
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.01492537313433,3,TNIC82000X
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC82000X
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC82000X
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.32432432432432,3,TNIC82000X
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC82000X
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC82000X
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC82000X
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC85600P
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC85600P
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC85600P
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC85600P
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC85600P
+Primaria,Diurno,5,Amessi 2021/22,98.4251968503937,1,TNIC85600P
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC85600P
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC85600P
+Primaria,Diurno,5,Amessi 2021/22,99.27007299270073,4,TNIC85600P
+Primaria,Diurno,5,Amessi 2021/22,97.93103448275862,5,TNIC85600P
+Primaria,Diurno,5,Amessi 2019/20,99.29577464788733,1,TNIC85600P
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC85600P
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC85600P
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC85600P
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC85600P
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,99.35064935064936,1,TNIC85600P
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,99.32432432432432,2,TNIC85600P
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,96.45390070921985,3,TNIC85600P
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.14285714285714,1,TNIC85600P
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC85600P
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.33333333333334,3,TNIC85600P
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,99.28057553956835,1,TNIC85600P
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,99.3103448275862,2,TNIC85600P
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,97.70992366412213,3,TNIC85600P
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC85700E
+Primaria,Diurno,5,Amessi 2020/21,98.79518072289156,2,TNIC85700E
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC85700E
+Primaria,Diurno,5,Amessi 2020/21,97.61904761904762,4,TNIC85700E
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC85700E
+Primaria,Diurno,5,Amessi 2021/22,98.52941176470588,1,TNIC85700E
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC85700E
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC85700E
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC85700E
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC85700E
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC85700E
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC85700E
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC85700E
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC85700E
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC85700E
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.70114942528735,1,TNIC85700E
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.18181818181819,2,TNIC85700E
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.22222222222221,3,TNIC85700E
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,96.3855421686747,1,TNIC85700E
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.82608695652173,2,TNIC85700E
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC85700E
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC85700E
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC85700E
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC85700E
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC85200B
+Primaria,Diurno,5,Amessi 2020/21,99.37888198757764,2,TNIC85200B
+Primaria,Diurno,5,Amessi 2020/21,99.43820224719101,3,TNIC85200B
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC85200B
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC85200B
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC85200B
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC85200B
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC85200B
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC85200B
+Primaria,Diurno,5,Amessi 2021/22,98.89502762430939,5,TNIC85200B
+Primaria,Diurno,5,Amessi 2019/20,98.79518072289156,1,TNIC85200B
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC85200B
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC85200B
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC85200B
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC85200B
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC85200B
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.13664596273291,2,TNIC85200B
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC85200B
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.40425531914893,1,TNIC85200B
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC85200B
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.14814814814815,3,TNIC85200B
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC85200B
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC85200B
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC85200B
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,98.19277108433735,1,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.83333333333334,2,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.8041958041958,3,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.23809523809523,4,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.5,5,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.72131147540983,1,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.83544303797468,2,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.01492537313433,3,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,90.71428571428571,4,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,99.20634920634922,5,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.3421052631579,1,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,2,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,3,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,4,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNIS00200E
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,1,TNIS00200E
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,2,TNIS00200E
+Secondaria di primo grado,Serale,3,Amessi 2020/21,52.63157894736842,3,TNIS00200E
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,1,TNIS00200E
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,2,TNIS00200E
+Secondaria di primo grado,Serale,3,Amessi 2021/22,36.36363636363637,3,TNIS00200E
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,1,TNIS00200E
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,2,TNIS00200E
+Secondaria di primo grado,Serale,3,Amessi 2019/20,41.17647058823529,3,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,1,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,8.695652173913043,2,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,8.0,3,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,7.317073170731707,4,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,52.94117647058824,5,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,1,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,2,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,1.7241379310344827,3,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,12.195121951219512,4,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,55.88235294117647,5,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,1,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,28.205128205128204,2,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,20.481927710843372,3,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,34.11764705882353,4,TNIS00200E
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,100.0,5,TNIS00200E
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,89.75609756097562,1,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,90.0,2,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.13513513513514,3,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.9731543624161,4,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,97.5,5,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,87.38317757009347,1,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,90.20618556701031,2,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,94.70588235294117,3,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,95.50561797752809,4,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.43589743589743,5,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,1,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.99497487437185,2,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,3,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.38271604938271,4,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNIS00700N
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,1,TNIS00700N
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,2,TNIS00700N
+Secondaria di primo grado,Serale,3,Amessi 2020/21,38.46153846153847,3,TNIS00700N
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,1,TNIS00700N
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,2,TNIS00700N
+Secondaria di primo grado,Serale,3,Amessi 2021/22,23.076923076923077,3,TNIS00700N
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,1,TNIS00700N
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,2,TNIS00700N
+Secondaria di primo grado,Serale,3,Amessi 2019/20,100.0,3,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,1,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,2,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,3,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,66.66666666666666,4,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,90.9090909090909,5,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,1,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,2,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,3,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,42.857142857142854,4,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,57.14285714285714,5,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,1,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,2,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,3,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,92.3076923076923,4,TNIS00700N
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,100.0,5,TNIS00700N
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,83.78378378378379,1,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,84.61538461538461,2,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,92.1259842519685,3,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,96.875,4,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,98.83720930232558,5,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,88.57142857142857,1,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,90.50632911392405,2,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,94.54545454545455,3,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,95.32710280373831,4,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,95.23809523809523,5,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.96907216494846,1,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.26470588235294,2,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.23076923076923,3,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.05194805194806,4,TNIS004006
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.42857142857143,5,TNIS004006
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,1,TNIS004006
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,2,TNIS004006
+Secondaria di primo grado,Serale,3,Amessi 2020/21,41.66666666666667,3,TNIS004006
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,1,TNIS004006
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,2,TNIS004006
+Secondaria di primo grado,Serale,3,Amessi 2021/22,33.33333333333333,3,TNIS004006
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,1,TNIS004006
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,2,TNIS004006
+Secondaria di primo grado,Serale,3,Amessi 2019/20,52.17391304347826,3,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,1,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,2,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,3.125,3,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,15.384615384615385,4,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,50.0,5,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,1,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,2,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,3,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,37.5,4,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,50.0,5,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,1,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,2,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,3,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,70.0,4,TNIS004006
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,90.0,5,TNIS004006
+Formazione professionale,Diurno,5,Amessi 2020/21,76.71232876712328,1,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2020/21,68.96551724137932,2,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2020/21,83.69565217391305,3,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2020/21,89.0909090909091,4,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2020/21,0.0,5,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2021/22,74.72527472527473,1,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2021/22,84.61538461538461,2,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2021/22,80.28169014084507,3,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2021/22,83.01886792452831,4,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2021/22,96.15384615384616,5,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2019/20,93.33333333333333,1,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2019/20,98.9247311827957,2,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2019/20,98.78048780487805,3,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2019/20,100.0,4,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2019/20,0.0,5,TNCF011001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,1,TNCF011001
+Formazione professionale,Serale,5,Amessi 2020/21,76.47058823529412,2,TNCF011001
+Formazione professionale,Serale,5,Amessi 2020/21,93.33333333333333,3,TNCF011001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,4,TNCF011001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,5,TNCF011001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,1,TNCF011001
+Formazione professionale,Serale,5,Amessi 2021/22,44.0,2,TNCF011001
+Formazione professionale,Serale,5,Amessi 2021/22,72.72727272727273,3,TNCF011001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,4,TNCF011001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,5,TNCF011001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,1,TNCF011001
+Formazione professionale,Serale,5,Amessi 2019/20,58.333333333333336,2,TNCF011001
+Formazione professionale,Serale,5,Amessi 2019/20,90.0,3,TNCF011001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,4,TNCF011001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,5,TNCF011001
+Formazione professionale,Diurno,5,Amessi 2020/21,53.086419753086425,1,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2020/21,50.0,2,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2020/21,79.06976744186046,3,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2020/21,78.04878048780488,4,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2020/21,0.0,5,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2021/22,60.747663551401864,1,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2021/22,67.12328767123287,2,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2021/22,95.0,3,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2021/22,72.97297297297297,4,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2021/22,86.95652173913044,5,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2019/20,90.29126213592234,1,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2019/20,98.79518072289156,2,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2019/20,91.04477611940298,3,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2019/20,93.02325581395348,4,TNCF010001
+Formazione professionale,Diurno,5,Amessi 2019/20,0.0,5,TNCF010001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,1,TNCF010001
+Formazione professionale,Serale,5,Amessi 2020/21,93.75,2,TNCF010001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,3,TNCF010001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,4,TNCF010001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,5,TNCF010001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,1,TNCF010001
+Formazione professionale,Serale,5,Amessi 2021/22,75.0,2,TNCF010001
+Formazione professionale,Serale,5,Amessi 2021/22,73.33333333333333,3,TNCF010001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,4,TNCF010001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,5,TNCF010001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,1,TNCF010001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,2,TNCF010001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,3,TNCF010001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,4,TNCF010001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,5,TNCF010001
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC810009
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC810009
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC810009
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC810009
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC810009
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC810009
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC810009
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC810009
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC810009
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC810009
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC810009
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC810009
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC810009
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC810009
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC810009
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC810009
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC810009
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC810009
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC810009
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC810009
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC810009
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,98.30508474576271,1,TNIC810009
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC810009
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,98.30508474576271,1,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,98.4126984126984,2,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,94.73684210526315,3,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.93939393939394,4,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,98.07692307692307,5,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,92.15686274509804,1,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,94.54545454545455,2,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,88.52459016393442,3,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.15384615384616,4,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,93.75,5,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,1,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,2,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,3,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,4,TNIC810009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNIC810009
+Primaria,Diurno,5,Amessi 2020/21,98.9010989010989,1,TNIC84900G
+Primaria,Diurno,5,Amessi 2020/21,98.87640449438202,2,TNIC84900G
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC84900G
+Primaria,Diurno,5,Amessi 2020/21,98.9010989010989,4,TNIC84900G
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC84900G
+Primaria,Diurno,5,Amessi 2021/22,98.05825242718447,1,TNIC84900G
+Primaria,Diurno,5,Amessi 2021/22,98.93617021276596,2,TNIC84900G
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC84900G
+Primaria,Diurno,5,Amessi 2021/22,97.89473684210527,4,TNIC84900G
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC84900G
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC84900G
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC84900G
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC84900G
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC84900G
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC84900G
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,96.84210526315789,1,TNIC84900G
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC84900G
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.9381443298969,3,TNIC84900G
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.10714285714286,1,TNIC84900G
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,97.89473684210527,2,TNIC84900G
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC84900G
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC84900G
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC84900G
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC84900G
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,80.0,1,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,80.4054054054054,2,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,91.26984126984127,3,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.50561797752809,4,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,95.1923076923077,5,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,80.8641975308642,1,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,83.46456692913385,2,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,93.69369369369369,3,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,89.07563025210085,4,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.70114942528735,5,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.17073170731707,1,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.27536231884058,2,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,3,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.04761904761905,4,TNIS00800D
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNIS00800D
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,1,TNIS00800D
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,2,TNIS00800D
+Secondaria di primo grado,Serale,3,Amessi 2020/21,52.63157894736842,3,TNIS00800D
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,1,TNIS00800D
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,2,TNIS00800D
+Secondaria di primo grado,Serale,3,Amessi 2021/22,61.53846153846154,3,TNIS00800D
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,1,TNIS00800D
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,2,TNIS00800D
+Secondaria di primo grado,Serale,3,Amessi 2019/20,77.27272727272727,3,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,0.0,1,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,12.5,2,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,29.629629629629626,3,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,47.368421052631575,4,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,94.44444444444444,5,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,0.0,1,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,28.57142857142857,2,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,37.03703703703704,3,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,38.46153846153847,4,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,87.5,5,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,0.0,1,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,21.428571428571427,2,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,39.39393939393939,3,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,43.47826086956522,4,TNIS00800D
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,93.75,5,TNIS00800D
+Formazione professionale,Diurno,5,Amessi 2020/21,83.9506172839506,1,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2020/21,91.93548387096774,2,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2020/21,86.45833333333334,3,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2020/21,98.63013698630137,4,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2020/21,0.0,5,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2021/22,79.12087912087912,1,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2021/22,88.63636363636364,2,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2021/22,88.88888888888889,3,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2021/22,100.0,4,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2021/22,100.0,5,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2019/20,91.66666666666666,1,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2019/20,96.80851063829788,2,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2019/20,88.78504672897196,3,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2019/20,98.57142857142858,4,TNCF012001
+Formazione professionale,Diurno,5,Amessi 2019/20,0.0,5,TNCF012001
+Formazione professionale,Serale,5,Amessi 2020/21,90.47619047619048,1,TNCF012001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,2,TNCF012001
+Formazione professionale,Serale,5,Amessi 2020/21,82.6086956521739,3,TNCF012001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,4,TNCF012001
+Formazione professionale,Serale,5,Amessi 2020/21,0.0,5,TNCF012001
+Formazione professionale,Serale,5,Amessi 2021/22,46.666666666666664,1,TNCF012001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,2,TNCF012001
+Formazione professionale,Serale,5,Amessi 2021/22,56.57894736842105,3,TNCF012001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,4,TNCF012001
+Formazione professionale,Serale,5,Amessi 2021/22,0.0,5,TNCF012001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,1,TNCF012001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,2,TNCF012001
+Formazione professionale,Serale,5,Amessi 2019/20,53.84615384615385,3,TNCF012001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,4,TNCF012001
+Formazione professionale,Serale,5,Amessi 2019/20,0.0,5,TNCF012001
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC82900A
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC82900A
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC82900A
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC82900A
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC82900A
+Primaria,Diurno,5,Amessi 2021/22,98.68421052631578,1,TNIC82900A
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC82900A
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC82900A
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC82900A
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC82900A
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC82900A
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC82900A
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC82900A
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC82900A
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC82900A
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC82900A
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,92.85714285714286,2,TNIC82900A
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,97.22222222222221,3,TNIC82900A
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC82900A
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.02912621359224,2,TNIC82900A
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC82900A
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC82900A
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC82900A
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC82900A
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC85100G
+Primaria,Diurno,5,Amessi 2020/21,99.37888198757764,2,TNIC85100G
+Primaria,Diurno,5,Amessi 2020/21,99.39393939393939,3,TNIC85100G
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC85100G
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC85100G
+Primaria,Diurno,5,Amessi 2021/22,99.33333333333333,1,TNIC85100G
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC85100G
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC85100G
+Primaria,Diurno,5,Amessi 2021/22,99.375,4,TNIC85100G
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC85100G
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC85100G
+Primaria,Diurno,5,Amessi 2019/20,99.41176470588235,2,TNIC85100G
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC85100G
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC85100G
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC85100G
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC85100G
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC85100G
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.74213836477988,3,TNIC85100G
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC85100G
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.83720930232558,2,TNIC85100G
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC85100G
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC85100G
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC85100G
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC85100G
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,83.65384615384616,1,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,86.54970760233918,2,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,86.33879781420765,3,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,88.37209302325581,4,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,96.73913043478261,5,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,88.18181818181819,1,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,79.16666666666666,2,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,94.18604651162791,3,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,91.81286549707602,4,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.05263157894737,5,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,96.02272727272727,1,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,96.73913043478261,2,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,97.76536312849163,3,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.85057471264368,4,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNIS009009
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,1,TNIS009009
+Secondaria di primo grado,Serale,3,Amessi 2020/21,0.0,2,TNIS009009
+Secondaria di primo grado,Serale,3,Amessi 2020/21,70.0,3,TNIS009009
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,1,TNIS009009
+Secondaria di primo grado,Serale,3,Amessi 2021/22,0.0,2,TNIS009009
+Secondaria di primo grado,Serale,3,Amessi 2021/22,69.56521739130434,3,TNIS009009
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,1,TNIS009009
+Secondaria di primo grado,Serale,3,Amessi 2019/20,0.0,2,TNIS009009
+Secondaria di primo grado,Serale,3,Amessi 2019/20,85.24590163934425,3,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,23.52941176470588,1,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,42.857142857142854,2,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,6.25,3,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,36.0,4,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2020/21,67.85714285714286,5,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,42.857142857142854,1,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,27.27272727272727,2,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,3.4482758620689653,3,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,42.5,4,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2021/22,94.44444444444444,5,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,34.61538461538461,1,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,69.23076923076923,2,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,7.894736842105263,3,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,47.05882352941176,4,TNIS009009
+Secondaria di secondo grado,Serale,5,Amessi 2019/20,100.0,5,TNIS009009
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.29896907216495,1,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.98907103825137,2,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,94.11764705882352,3,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.61702127659575,4,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,100.0,5,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,94.20289855072464,1,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,94.02173913043478,2,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,93.82022471910112,3,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.61904761904762,4,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,99.42196531791907,5,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.50248756218906,1,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,2,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,3,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,4,TNPC01000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNPC01000Q
+Primaria,Diurno,5,Amessi 2020/21,99.07407407407408,1,TNIC85500V
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC85500V
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC85500V
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC85500V
+Primaria,Diurno,5,Amessi 2020/21,99.26470588235294,5,TNIC85500V
+Primaria,Diurno,5,Amessi 2021/22,99.1304347826087,1,TNIC85500V
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC85500V
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC85500V
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC85500V
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC85500V
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC85500V
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC85500V
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC85500V
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC85500V
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC85500V
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,99.02912621359224,1,TNIC85500V
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.21428571428571,2,TNIC85500V
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.38709677419355,3,TNIC85500V
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.08256880733946,1,TNIC85500V
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,99.05660377358491,2,TNIC85500V
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,3,TNIC85500V
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,99.10714285714286,1,TNIC85500V
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC85500V
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC85500V
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC83100A
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC83100A
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC83100A
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC83100A
+Primaria,Diurno,5,Amessi 2020/21,98.9010989010989,5,TNIC83100A
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC83100A
+Primaria,Diurno,5,Amessi 2021/22,97.70114942528735,2,TNIC83100A
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC83100A
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC83100A
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC83100A
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC83100A
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC83100A
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC83100A
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC83100A
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC83100A
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,98.82352941176471,1,TNIC83100A
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,96.25,2,TNIC83100A
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,3,TNIC83100A
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.83720930232558,1,TNIC83100A
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.83720930232558,2,TNIC83100A
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.7012987012987,3,TNIC83100A
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC83100A
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC83100A
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC83100A
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,93.93939393939394,1,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,89.7590361445783,2,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,96.15384615384616,3,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,98.6013986013986,4,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2020/21,100.0,5,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,88.94736842105263,1,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,92.71523178807946,2,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,96.52777777777779,3,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,97.48427672955975,4,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2021/22,98.69281045751634,5,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,1,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,98.75,2,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,99.40119760479041,3,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,4,TNPS11000Q
+Secondaria di secondo grado,Diurno,5,Amessi 2019/20,100.0,5,TNPS11000Q
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC841001
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC841001
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC841001
+Primaria,Diurno,5,Amessi 2020/21,100.0,4,TNIC841001
+Primaria,Diurno,5,Amessi 2020/21,99.27536231884058,5,TNIC841001
+Primaria,Diurno,5,Amessi 2021/22,100.0,1,TNIC841001
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC841001
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC841001
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC841001
+Primaria,Diurno,5,Amessi 2021/22,100.0,5,TNIC841001
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC841001
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC841001
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC841001
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC841001
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC841001
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC841001
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,96.42857142857143,2,TNIC841001
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,99.36305732484077,3,TNIC841001
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,95.75757575757575,1,TNIC841001
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC841001
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.18181818181819,3,TNIC841001
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,99.15254237288136,1,TNIC841001
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC841001
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC841001
+Primaria,Diurno,5,Amessi 2020/21,100.0,1,TNIC845008
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC845008
+Primaria,Diurno,5,Amessi 2020/21,100.0,3,TNIC845008
+Primaria,Diurno,5,Amessi 2020/21,99.08256880733946,4,TNIC845008
+Primaria,Diurno,5,Amessi 2020/21,100.0,5,TNIC845008
+Primaria,Diurno,5,Amessi 2021/22,99.04761904761905,1,TNIC845008
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC845008
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC845008
+Primaria,Diurno,5,Amessi 2021/22,100.0,4,TNIC845008
+Primaria,Diurno,5,Amessi 2021/22,99.07407407407408,5,TNIC845008
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC845008
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC845008
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC845008
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC845008
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC845008
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,1,TNIC845008
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,100.0,2,TNIC845008
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,99.06542056074767,3,TNIC845008
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,1,TNIC845008
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,100.0,2,TNIC845008
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.96907216494846,3,TNIC845008
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,1,TNIC845008
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC845008
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC845008
+Primaria,Diurno,5,Amessi 2020/21,99.03846153846155,1,TNIC853007
+Primaria,Diurno,5,Amessi 2020/21,100.0,2,TNIC853007
+Primaria,Diurno,5,Amessi 2020/21,98.85057471264368,3,TNIC853007
+Primaria,Diurno,5,Amessi 2020/21,99.05660377358491,4,TNIC853007
+Primaria,Diurno,5,Amessi 2020/21,98.0392156862745,5,TNIC853007
+Primaria,Diurno,5,Amessi 2021/22,98.83720930232558,1,TNIC853007
+Primaria,Diurno,5,Amessi 2021/22,100.0,2,TNIC853007
+Primaria,Diurno,5,Amessi 2021/22,100.0,3,TNIC853007
+Primaria,Diurno,5,Amessi 2021/22,98.9247311827957,4,TNIC853007
+Primaria,Diurno,5,Amessi 2021/22,99.05660377358491,5,TNIC853007
+Primaria,Diurno,5,Amessi 2019/20,100.0,1,TNIC853007
+Primaria,Diurno,5,Amessi 2019/20,100.0,2,TNIC853007
+Primaria,Diurno,5,Amessi 2019/20,100.0,3,TNIC853007
+Primaria,Diurno,5,Amessi 2019/20,100.0,4,TNIC853007
+Primaria,Diurno,5,Amessi 2019/20,100.0,5,TNIC853007
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,94.5945945945946,1,TNIC853007
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,96.06299212598425,2,TNIC853007
+Secondaria di primo grado,Diurno,3,Amessi 2020/21,94.28571428571428,3,TNIC853007
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.11320754716981,1,TNIC853007
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,96.36363636363636,2,TNIC853007
+Secondaria di primo grado,Diurno,3,Amessi 2021/22,98.46153846153847,3,TNIC853007
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,99.24242424242425,1,TNIC853007
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,2,TNIC853007
+Secondaria di primo grado,Diurno,3,Amessi 2019/20,100.0,3,TNIC853007

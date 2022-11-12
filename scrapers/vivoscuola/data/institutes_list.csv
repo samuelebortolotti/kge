@@ -1,4 +1,4 @@
-coordinatore_pedagogico,presidente_ente_gestore,sorastant,tipo_instituto,dirigente_scolastico,direttore,indirizzo,telefono,fax,email_istituto,email_dirigenza,email_segreteria,sito_web,miur_code,numero_plessi_scuole,nome_istituto
+coordinatore_pedagogico,presidente_ente_gestore,sorastant,tipo_instituto,dirigente_scolastico,direttore,indirizzo,telefono,fax,email_istituto,email_dirigenza,email_segreteria,sito_web,miur_code,numero_plessi_scuole,nome_istituto,id_istituto
 ,,,Istituzione scolastica e formativa,BRUNO GENTILINI,,"Via Don Meggio,
     
 2/A -
@@ -9,7 +9,7 @@ RONCEGNO TERME",+39 0461 764581,+39 0461 771046,ic.centrovalsugana@pec.provincia
                 
 ISTITUTO COMPRENSIVO CENTRO VALSUGANA
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-CENTRO-VALSUGANA212
 ,,,Istituzione scolastica e formativa,MARCO FELICETTI,,"Via Gandhi,
     
 1 -
@@ -20,7 +20,7 @@ CAVALESE",+39 0462 341449,+39 0462 248071,weisserose@pec.provincia.tn.it,dir.iic
                 
 ISTITUTO DI ISTRUZIONE ""La Rosa Bianca"" - CAVALESE
             
-"
+",/Scuole/ISTITUTO-DI-ISTRUZIONE-La-Rosa-Bianca-CAVALESE2
 ,,,Istituzione scolastica e formativa,ENRICA RIGOTTI,,"Via Calzolari - Localita Fontana,
     
 2 -
@@ -31,7 +31,7 @@ BRENTONICO",+39 0464 395189,+39 0464 392710,ic.brentonico@pec.provincia.tn.it,di
                 
 ISTITUTO COMPRENSIVO BRENTONICO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-BRENTONICO
 ,,,Istituzione scolastica e formativa,CARLO MUSIO,,"Via Conci,
     
 86 -
@@ -42,7 +42,7 @@ TRENTO",+39 0461 930658,,associazione@pec.scuolasteiner-trento.it,,segreteria@sc
                 
 ASSOCIAZIONE PEDAGOGICA STEINERIANA - TRENTO
             
-"
+",/Scuole/ASSOCIAZIONE-PEDAGOGICA-STEINERIANA-TRENTO2
 ,LOREDANA FRISINGHELLI,,Scuola dell'infanzia,,,"Via Stazione Mori,
     
 10 -
@@ -53,7 +53,7 @@ ROVERETO",,,,,,,,1,"
                 
 ASSOCIAZIONE RUDOLF STEINER PER LA PEDAGOGIA APS - ROVERETO
             
-"
+",/Scuole/ASSOCIAZIONE-RUDOLF-STEINER-PER-LA-PEDAGOGIA-APS-ROVERETO
 ,,,Istituzione scolastica e formativa,CHRISTIAN BONAZZA,BRUNO DAVES,"Via Monsignor  Endrici,
     
 23 -
@@ -64,7 +64,7 @@ TRENTO",+39 0461 1731200,+39 0461 1731288,collegioarcivescovile@pec.it,collegioa
                 
 COLLEGIO ARCIVESCOVILE C.ENDRICI - TRENTO
             
-"
+",/Scuole/COLLEGIO-ARCIVESCOVILE-C.ENDRICI-TRENTO2
 ,,,Istituzione scolastica e formativa,CHRISTIAN BONAZZA,BRUNO DAVES,"Corso Bettini,
     
 71 -
@@ -75,7 +75,7 @@ ROVERETO",+39 0464 406000,+39 0464 406077,collegioarcivescovile@pec.it,dameingle
                 
 COLLEGIO ARCIVESCOVILE DAME INGLESI - ROVERETO
             
-"
+",/Scuole/COLLEGIO-ARCIVESCOVILE-DAME-INGLESI-ROVERETO2
 ,,,Istituzione scolastica e formativa,MARCELLO SOTTOPIETRA,,"Via Della Saluga,
     
 7 -
@@ -86,7 +86,7 @@ TRENTO",+39 0461 080041,,cooperativasacrafamiglia@pec.it,segreteria@sacrafamigli
                 
 COOPERATIVA SOCIALE SACRA FAMIGLIA ONLUS
             
-"
+",/Scuole/COOPERATIVA-SOCIALE-SACRA-FAMIGLIA-ONLUS2
 ,,,Istituzione scolastica e formativa,,MICHELE FILIPPINI,"Via Grazioli,
     
 2 -
@@ -97,18 +97,18 @@ TRENTO",+39 0461 260454,+39 0461 267864,canossatrento@pec.it,direzione@centromod
                 
 Centro Formazione Professionale ""Centromoda Canossa"" - Trento
             
-"
+",/Scuole/Centro-Formazione-Professionale-Centromoda-Canossa-Trento3
 ,,,Istituzione scolastica e formativa,,DIEGO FREO,"Via Gazzoletti,
     
 8 -
     
 38062    
-ARCO",+39 0464 516465,+39 0464 516497,cfp.arco@pec.it,,cfp.arco@enaip.tn.it,http://www.enaiptrentino.it,,1,"
+ARCO",+39 0464 516465,+39 0464 516497,cfp.arco@pec.it,,cfp.arco@enaip.tn.it,https://arco.enaiptrentino.it,,1,"
 
                 
 Centro Formazione Professionale ENAIP - Arco
             
-"
+",/Scuole/Centro-Formazione-Professionale-ENAIP-Arco2
 GIULIANA BATTISTI,,,Circolo di coordinamento pedagogico,,,"Viale Dante,
     
 5 -
@@ -119,7 +119,7 @@ PERGINE VALSUGANA",+39 0461 493491,+39 0461 493495,circolo.coordinamento01@provi
                 
 Circolo di coordinamento n. 1
             
-"
+",/Scuole/Circolo-di-coordinamento-n.-15
 CATERINA FRUET,,,Circolo di coordinamento pedagogico,,,"Via Temanza,
     
 4 -
@@ -130,7 +130,7 @@ BORGO VALSUGANA",+39 0461 491980,+39 0461 491976,circolo.coordinamento02@provinc
                 
 Circolo di coordinamento n. 2
             
-"
+",/Scuole/Circolo-di-coordinamento-n.-22
 RITA FERENZENA,,,Circolo di coordinamento pedagogico,,,"Via Gilli,
     
 3 -
@@ -141,62 +141,62 @@ TRENTO",+39 0461 496954,+39 0461 496950,circolo.coordinamento04@provincia.tn.it,
                 
 Circolo di coordinamento n. 4
             
-"
+",/Scuole/Circolo-di-coordinamento-n.-44
 ,,,Istituzione scolastica e formativa,,LUCA BRANZ,"Via Mitterer,
     
 10 -
     
 38023    
-CLES",+39 0463 421362,+39 0463 421606,cfp.cles@pec.it,,cfp.cles@enaip.tn.it,http://www.enaiptrentino.it,,1,"
+CLES",+39 0463 421362,+39 0463 421606,cfp.cles@pec.it,,cfp.cles@enaip.tn.it,https://cles.enaiptrentino.it/,,1,"
 
                 
 Centro Formazione Professionale ENAIP - Cles
             
-"
+",/Scuole/Centro-Formazione-Professionale-ENAIP-Cles2
 ,,,Istituzione scolastica e formativa,,DINO MOSER,"Via Caltrezza,
     
 13 -
     
 38038    
-TESERO",+39 0462 813133,+39 0462 813145,cfp.tesero@pec.it,,cfp.tesero@enaip.tn.it,http://www.enaiptrentino.it,,2,"
+TESERO",+39 0462 813133,+39 0462 813145,cfp.tesero@pec.it,,cfp.tesero@enaip.tn.it,https://tesero.enaiptrentino.it/,,2,"
 
                 
 Centro Formazione Professionale ENAIP - Tesero
             
-"
+",/Scuole/Centro-Formazione-Professionale-ENAIP-Tesero2
 ,,,Istituzione scolastica e formativa,,EMILIO SALVATERRA,"Via Durone,
     
 57 -
     
 38079    
-TIONE DI TRENTO",+39 0465 321316,+39 0465 322091,cfp.tione@pec.it,,cfp.tione@enaip.tn.it,http://www.enaiptrentino.it,TNCF001001,2,"
+TIONE DI TRENTO",+39 0465 321316,+39 0465 322091,cfp.tione@pec.it,,cfp.tione@enaip.tn.it,https://tione.enaiptrentino.it/,TNCF001001,2,"
 
                 
 Centro Formazione Professionale ENAIP - Tione di Trento
             
-"
+",/Scuole/Centro-Formazione-Professionale-ENAIP-Tione-di-Trento2
 ,,,Istituzione scolastica e formativa,,MASSIMO MALOSSINI,"Rione Europa,
     
 3 -
     
 38066    
-RIVA DEL GARDA",+39 0464 521300,+39 0464 521553,cfp.rivadelgarda@pec.it,,cfp.rivadelgarda@enaip.tn.it,http://www.enaiptrentino.it,TNCF007001,1,"
+RIVA DEL GARDA",+39 0464 521300,+39 0464 521553,cfp.rivadelgarda@pec.it,,cfp.rivadelgarda@enaip.tn.it,https://rivadelgarda.enaiptrentino.it/,TNCF007001,1,"
 
                 
 Centro Formazione Professionale ENAIP - Varone di Riva del Garda
             
-"
+",/Scuole/Centro-Formazione-Professionale-ENAIP-Varone-di-Riva-del-Garda2
 ,,,Istituzione scolastica e formativa,,PAOLA COCCIA,"Via Asiago,
     
 14 -
     
 38123    
-TRENTO",+39 0461 920386,+39 0461 914935,cfp.villazzano@pec.it,,cfp.villazzano@enaip.tn.it,http://www.enaiptrentino.it,TNCF008001,2,"
+TRENTO",+39 0461 920386,+39 0461 914935,cfp.villazzano@pec.it,,cfp.villazzano@enaip.tn.it,https://villazzano.enaiptrentino.it/,TNCF008001,2,"
 
                 
 Centro Formazione Professionale ENAIP - Villazzano
             
-"
+",/Scuole/Centro-Formazione-Professionale-ENAIP-Villazzano2
 ,,,Istituzione scolastica e formativa,BERNARDO ZANONER,CHIARA BERTOLINI,"Viale Roma,
     
 61 -
@@ -207,7 +207,7 @@ LEVICO TERME",+39 0461 706145,+39 0461 701940,cfplevico@pec.operaarmidabarelli.o
                 
 Centro Formazione Professionale Opera Armida Barelli - Levico
             
-"
+",/Scuole/Centro-Formazione-Professionale-Opera-Armida-Barelli-Levico2
 ,,,Istituzione scolastica e formativa,BERNARDO ZANONER,ANNA PRATI,"Via Setaioli,
     
 5 -
@@ -218,7 +218,7 @@ ROVERETO",+39 0464 433771,+39 0464 431711,cfprovereto@pec.operaarmidabarelli.org
                 
 Centro Formazione Professionale Opera Armida Barelli - Rovereto
             
-"
+",/Scuole/Centro-Formazione-Professionale-Opera-Armida-Barelli-Rovereto2
 ,,,Istituzione scolastica e formativa,ERIK GADOTTI,,"Piazza Di Fiera,
     
 4 -
@@ -229,7 +229,7 @@ TRENTO",+39 0461 270244,+39 0461 270241,,,scuolagrafica@artigianelli.tn.it,http:
                 
 Centro Formazione Professionale Pavoniano Artigianelli - Trento
             
-"
+",/Scuole/Centro-Formazione-Professionale-Pavoniano-Artigianelli-Trento2
 ,,,Istituzione scolastica e formativa,,CLAUDIO NICOLUSSI,"Via Gazzoletti,
     
 10 -
@@ -240,7 +240,7 @@ ARCO",+39 0464 556585,+39 0464 556599,cfp-upt@pec.it,,segreteria.arco@cfp-upt.it
                 
 Centro Formazione Professionale UPT - Arco
             
-"
+",/Scuole/Centro-Formazione-Professionale-UPT-Arco2
 ,,,Istituzione scolastica e formativa,,WALTER IORI,"Via D Agostin,
     
 2 -
@@ -251,7 +251,7 @@ CLES",+39 0463 422820,+39 0463 424409,cfp-upt@pec.it,,segreteria.cles@cfp-upt.it
                 
 Centro Formazione Professionale UPT - Cles
             
-"
+",/Scuole/Centro-Formazione-Professionale-UPT-Cles2
 ,,,Istituzione scolastica e formativa,,WALTER IORI,"Via Pasqui,
     
 10 -
@@ -262,7 +262,7 @@ ROVERETO",+39 0464 630050,,cfp-upt@pec.it,,segreteria.rovereto@cfp-upt.it,,,1,"
                 
 Centro Formazione Professionale UPT - Rovereto
             
-"
+",/Scuole/Centro-Formazione-Professionale-UPT-Rovereto2
 ,,,Istituzione scolastica e formativa,,PAOLO ZANLUCCHI,"Via Roma,
     
 15 -
@@ -273,7 +273,7 @@ TIONE DI TRENTO",+39 0465 321889,+39 0465 324518,cfp-upt@pec.it,,segreteria.tion
                 
 Centro Formazione Professionale UPT - Tione di Trento
             
-"
+",/Scuole/Centro-Formazione-Professionale-UPT-Tione-di-Trento2
 ,,,Istituzione scolastica e formativa,,WALTER IORI,"Via Borsieri,
     
 2 -
@@ -284,18 +284,18 @@ TRENTO",+39 0461 239997,+39 0461 260235,cfp-upt@pec.it,,segreteria.sede@cfp-upt.
                 
 Centro Formazione Professionale UPT - Trento
             
-"
+",/Scuole/Centro-Formazione-Professionale-UPT-Trento2
 ,,,Istituzione scolastica e formativa,,FAUSTO ECCHER,"Via Forno - Transacqua,
     
 12 -
     
 38054    
-PRIMIERO SAN MARTINO DI CASTROZZA",+39 0439 762057,+39 0439 762833,cfp.primiero@pec.it,,cfp.primiero@enaip.tn.it,http://www.enaiptrentino.it,,2,"
+PRIMIERO SAN MARTINO DI CASTROZZA",+39 0439 762057,+39 0439 762833,cfp.primiero@pec.it,,cfp.primiero@enaip.tn.it,https://primiero.enaiptrentino.it/,,2,"
 
                 
 Centro Formazione Professionale ENAIP - Primiero
             
-"
+",/Scuole/Centro-Formazione-Professionale-ENAIP-Primiero2
 SARA DE ZOLT,,,Scuola dell'infanzia,,,"Strada Giuseppe Soraperra - Pozza di Fassa,
     
 4 -
@@ -306,7 +306,7 @@ SAN GIOVANNI DI FASSA - SEN JAN",0462-763194,,vigo.fassa.presidente@fpsm.tn.it,,
                 
 Scuola dell'infanzia di Vigo di Fassa
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Vigo-di-Fassa2
 ELENA RICCI,,,Scuola dell'infanzia,,,"Piazza Guardi,
     
 7 -
@@ -317,7 +317,7 @@ TON",0461-657897,,vigo.ton.segretario@fpsm.tn.it,,vigo.ton.segretario@fpsm.tn.it
                 
 Scuola dell'infanzia di Vigo di Ton
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Vigo-di-Ton2
 CARMEN FATTORI,,,Scuola dell'infanzia,,,"Via dei Carli,
     
 16 -
@@ -328,7 +328,7 @@ TRENTO",0461-209045,,villamontagna.segretario@fpsm.tn.it,,villamontagna.segretar
                 
 Scuola dell'infanzia di Villamontagna
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Villamontagna2
 IVANA LEONARDELLI,,,Scuola dell'infanzia,,,"Via Giordano,
     
 15 -
@@ -339,7 +339,7 @@ TRENTO",0461-920382,,villazzano.segretario@fpsm.tn.it,,villazzano.segretario@fps
                 
 Scuola dell'infanzia di Villazzano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Villazzano2
 SILVANO MEDVES,,,Scuola dell'infanzia,,,"Via S Maria,
     
 13 -
@@ -350,7 +350,7 @@ VOLANO",0464-411516,,volano.segretario@fpsm.tn.it,,volano.segretario@fpsm.tn.it,
                 
 Scuola dell'infanzia di Volano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Volano2
 ,,,Istituzione scolastica e formativa,VALENTINA ZANOLLA,,"Via Perlasca,
     
 4 -
@@ -361,7 +361,7 @@ MEZZOLOMBARDO",+39 0461 601122,+39 0461 601470,martini@pec.provincia.tn.it,dir.m
                 
 ISTITUTO DI ISTRUZIONE ""M. Martini"" - MEZZOLOMBARDO
             
-"
+",/Scuole/ISTITUTO-DI-ISTRUZIONE-M.-Martini-MEZZOLOMBARDO2
 ,,,Istituzione scolastica e formativa,DANIELA SIMONCELLI,,"Via Zambra,
     
 3 -
@@ -372,7 +372,7 @@ TRENTO",+39 0461 824422,+39 0461 824345,vittoria@pec.provincia.tn.it,dir.istitut
                 
 LICEO DELLE ARTI DI TRENTO E ROVERETO ""Vittoria-Bonporti-Depero""
             
-"
+",/Scuole/LICEO-DELLE-ARTI-DI-TRENTO-E-ROVERETO-Vittoria-Bonporti-Depero
 ,,,Istituzione scolastica e formativa,LORENZA MORELLI,,"Piazza S Teresa Verzeri,
     
 4 -
@@ -383,7 +383,7 @@ TRENTO",+39 0461 981465,+39 0461 982734,,,istitutocomprensivo@istitutosacrocuore
                 
 ISTITUTO SACRO CUORE - TRENTO
             
-"
+",/Scuole/ISTITUTO-SACRO-CUORE-TRENTO2
 ,,,Istituzione scolastica e formativa,PAOLO MUNARETTO,,"Via Barbacovi,
     
 22 -
@@ -394,7 +394,7 @@ TRENTO",+39 0461 885555,+39 0461 981972,sdbtrento@pcert.postecert.it,,segreteria
                 
 ISTITUTO SALESIANO MARIA AUSILIATRICE - TRENTO
             
-"
+",/Scuole/ISTITUTO-SALESIANO-MARIA-AUSILIATRICE-TRENTO2
 ,,,Istituzione scolastica e formativa,NICOLA TOFFANELLO,,"Via Molaren,
     
 29 -
@@ -405,7 +405,7 @@ MEZZANO",+39 0439 762019,+39 0439 762664,salesianimezzano@pec.it,,segreteria@sdb
                 
 ISTITUTO SALESIANO S. CROCE - MEZZANO
             
-"
+",/Scuole/ISTITUTO-SALESIANO-S.-CROCE-MEZZANO
 ,,,Istituzione scolastica e formativa,ANDREA BEZZI,,"Via Brigata Acqui,
     
 19 -
@@ -416,7 +416,7 @@ TRENTO",0461239955,0461230175,tambosibattisti@pec.provincia.tn.it,dir.tambositn@
                 
 ISTITUTO TECNICO ECONOMICO ""A. Tambosi"" - TRENTO
             
-"
+",/Scuole/ISTITUTO-TECNICO-ECONOMICO-A.-Tambosi-TRENTO
 ,,,Istituzione scolastica e formativa,ALFREDO ROMANTINI,,"Via IV Novembre,
     
 35 -
@@ -427,7 +427,7 @@ CLES",+39 0463 421695,+39 0463 421477,pilati@pec.provincia.tn.it,dir.itetpilati@
                 
 ISTITUTO TECNICO ECONOMICO E TECNOLOGICO ""C.A. Pilati"" - CLES
             
-"
+",/Scuole/ISTITUTO-TECNICO-ECONOMICO-E-TECNOLOGICO-C.A.-Pilati-CLES2
 ,,,Istituzione scolastica e formativa,GIUSEPPE SANTOLI,,"Via Del Teatro,
     
 4 -
@@ -438,7 +438,7 @@ ROVERETO",+39 0464 436100,+39 0464 434116,fontana@pec.provincia.tn.it,dir.fontan
                 
 ISTITUTO TECNICO ECONOMICO E TECNOLOGICO ""F. e G. Fontana"" - ROVERETO
             
-"
+",/Scuole/ISTITUTO-TECNICO-ECONOMICO-E-TECNOLOGICO-F.-e-G.-Fontana-ROVERETO
 ,,,Istituzione scolastica e formativa,GIUSEPPE RIZZA,,"Via Monti,
     
 1 -
@@ -449,7 +449,7 @@ ROVERETO",+39 0464 411400,+39 0464 419130,marconi@pec.provincia.tn.it,dir.itimar
                 
 ISTITUTO TECNICO TECNOLOGICO ""G. Marconi"" - ROVERETO
             
-"
+",/Scuole/ISTITUTO-TECNICO-TECNOLOGICO-G.-Marconi-ROVERETO2
 ,,,Istituzione scolastica e formativa,LAURA ZOLLER,,"Via Brigata Acqui,
     
 15 -
@@ -460,7 +460,7 @@ TRENTO",+39 0461 216811,+39 0461 984216,buonarroti@pec.provincia.tn.it,dir.buona
                 
 ISTITUTO TECNICO TECNOLOGICO ""M. Buonarroti"" - TRENTO
             
-"
+",/Scuole/ISTITUTO-TECNICO-TECNOLOGICO-M.-Buonarroti-TRENTO
 ,,,Istituzione scolastica e formativa,PAOLO PENDENZA,,"Corso Bettini,
     
 86 -
@@ -471,7 +471,7 @@ ROVERETO",+39 0464 437700,+39 0464 420025,rosmini.rovereto@pec.provincia.tn.it,d
                 
 LICEO ""A. Rosmini"" - ROVERETO
             
-"
+",/Scuole/LICEO-A.-Rosmini-ROVERETO2
 ,,,Istituzione scolastica e formativa,STEFANO KIRCHNER,,"Via Malfatti,
     
 2 -
@@ -482,7 +482,7 @@ TRENTO",+39 0461 914400,+39 0461 914498,rosmini.trento@pec.provincia.tn.it,dir.r
                 
 LICEO ""A. Rosmini"" - TRENTO
             
-"
+",/Scuole/LICEO-A.-Rosmini-TRENTO2
 ,,,Istituzione scolastica e formativa,TERESA PERITI,,"Via IV Novembre,
     
 35 -
@@ -493,7 +493,7 @@ CLES",+39 0463 424049,+39 0463 424577,russell@pec.provincia.tn.it,dir.russell@sc
                 
 LICEO ""B. Russell"" - CLES
             
-"
+",/Scuole/LICEO-B.-Russell-CLES2
 ,,,Istituzione scolastica e formativa,MANUELA BROZ,,"Corso Rosmini,
     
 61 -
@@ -504,7 +504,7 @@ ROVERETO",+39 0464 421223,+39 0464 433003,filzi@pec.provincia.tn.it,dir.isup.fil
                 
 LICEO ""F. Filzi"" - ROVERETO
             
-"
+",/Scuole/LICEO-F.-Filzi-ROVERETO
 ,,,Istituzione scolastica e formativa,PAOLA BARATTER,,"Via S Trinita,
     
 38 -
@@ -515,7 +515,7 @@ TRENTO",+39 0461 980190,+39 0461 980747,prati@pec.provincia.tn.it,dir.liceoprati
                 
 LICEO CLASSICO ""G. Prati"" - TRENTO
             
-"
+",/Scuole/LICEO-CLASSICO-G.-Prati-TRENTO
 ,,,Istituzione scolastica e formativa,ELENA RUGGIERI,,"Viale Bolognini,
     
 88 -
@@ -526,7 +526,7 @@ TRENTO",+39 0461 913479,+39 0461 913367,galilei@pec.provincia.tn.it,dir.liceogal
                 
 LICEO SCIENTIFICO ""G. Galilei"" - TRENTO
             
-"
+",/Scuole/LICEO-SCIENTIFICO-G.-Galilei-TRENTO2
 ,,,Istituzione scolastica e formativa,TIZIANA ROSSI,,"Via Madruzzo,
     
 24 -
@@ -537,7 +537,7 @@ TRENTO",+39 0461 984099,+39 0461 986257,davinci@pec.provincia.tn.it,dir.liceodav
                 
 LICEO SCIENTIFICO ""L. Da Vinci"" - TRENTO
             
-"
+",/Scuole/LICEO-SCIENTIFICO-L.-Da-Vinci-TRENTO2
 ,,FEDERICO CORRADINI,Istituzione scolastica e formativa,FEDERICO CORRADINI,,"Strada Giuseppe Soraperra - Pozza di Fassa,
     
 6 -
@@ -548,7 +548,7 @@ SAN GIOVANNI DI FASSA - SEN JAN",+39 0462 763702,+39 0462 760001,scuolaladinadif
                 
 SCUOLA LADINA DI FASSA - SCOLA LADINA DE FASCIA
             
-"
+",/Scuole/SCUOLA-LADINA-DI-FASSA-SCOLA-LADINA-DE-FASCIA2
 ,,,Istituzione scolastica e formativa,GIOVANNI SCALFI,CLAUDIO MARCH,"Via Murialdo,
     
 30 -
@@ -559,7 +559,7 @@ CIVEZZANO",+39 0461 857003,+39 0461 857284,oxford@pec.cooperazionetrentina.it,,i
                 
 SOCIETA' COOPERATIVA A R.L. ""I. DE CARNERI"" OXFORD CIVEZZANO
             
-"
+",/Scuole/SOCIETA-COOPERATIVA-A-R.L.-I.-DE-CARNERI-OXFORD-CIVEZZANO2
 PAMELA TOMASELLI,,,Scuola dell'infanzia,,,"Via S Antonio,
     
 22 -
@@ -570,7 +570,7 @@ ALBIANO",0461-689486,+39 0461 723325,albiano.presidente@fpsm.tn.it,,albiano.segr
                 
 Scuola dell'infanzia di Albiano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Albiano2
 SANDRA CIAPPI,,,Scuola dell'infanzia,,,"Via XXV Aprile,
     
 5 -
@@ -581,7 +581,7 @@ ALDENO",0461-842597,,aldeno.presidente@fpsm.tn.it,,aldeno.segretario@fpsm.tn.it,
                 
 Scuola dell'infanzia di Aldeno
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Aldeno2
 ELENA RICCI,,,Scuola dell'infanzia,,,"Via Paganella,
     
 5 -
@@ -592,7 +592,7 @@ ANDALO",0461-585898,,andalo.presidente@fpsm.tn.it,,andalo.segretario@fpsm.tn.it,
                 
 Scuola dell'infanzia di Andalo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Andalo2
 GIANNA ANGELI,,,Scuola dell'infanzia,,,"Viale Capitelli,
     
 16 -
@@ -603,7 +603,7 @@ ARCO",0464-516369,,arco.segretario@fpsm.tn.it,,arco.segretario@fpsm.tn.it,,,1,"
                 
 Scuola dell'infanzia di Arco
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Arco2
 FRANCESCA VARESCHI,,,Scuola dell'infanzia,,,"Via Dante,
     
 5 -
@@ -614,7 +614,7 @@ AVIO",0464-684102,,avio.presidente@fpsm.tn.it,,avio.segretario@fpsm.tn.it,,,1,"
                 
 Scuola dell'infanzia di Avio
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Avio2
 MARIANGELA SIMONCINI,,,Scuola dell'infanzia,,,"Via di S Taddeo,
     
 8 -
@@ -625,7 +625,7 @@ LEVICO TERME",0461-707295,,barco.presidente@fpsm.tn.it,,barco.segretario@fpsm.tn
                 
 Scuola dell'infanzia di Barco di Levico
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Barco-di-Levico2
 GIANNA ANGELI,,,Scuola dell'infanzia,,,"Piazza Vittoria,
     
 1 -
@@ -636,7 +636,7 @@ ARCO",0464-516315,,bolognano.presidente@fpsm.tn.it,,bolognano.segretario@fpsm.tn
                 
 Scuola dell'infanzia di Bolognano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Bolognano2
 ALESSANDRA POMILIO,,,Scuola dell'infanzia,,,"Via Giusti,
     
 46 -
@@ -647,7 +647,7 @@ BONDONE",0465-299996,,bondone.presidente@fpsm.tn.it,,bondone.segretario@fpsm.tn.
                 
 Scuola dell'infanzia di Bondone
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Bondone2
 ROBERTA MEDEGHINI,,,Scuola dell'infanzia,,,"Via Fedrigotti,
     
 9 -
@@ -658,7 +658,7 @@ ROVERETO",0464-430541,,borgo.sacco.presidente@fpsm.tn.it,,borgo.sacco.segretario
                 
 Scuola dell'infanzia di Borgo Sacco
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Borgo-Sacco2
 PAOLA SANGIORGI,,,Scuola dell'infanzia,,,"Piazza Romani,
     
 8 -
@@ -669,7 +669,7 @@ BORGO VALSUGANA",0461-754771,,borgo.valsugana.presidente@fpsm.tn.it,,borgo.valsu
                 
 Scuola dell'infanzia di Borgo Valsugana
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Borgo-Valsugana2
 FRANCESCA VARESCHI,,,Scuola dell'infanzia,,,"Via Mantova,
     
 5 -
@@ -680,7 +680,7 @@ BRENTONICO",0464-395628,,brentonico.segretario@fpsm.tn.it,,brentonico.segretario
                 
 Scuola dell'infanzia di Brentonico
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Brentonico2
 MARIANGELA SIMONCINI,,,Scuola dell'infanzia,,,"Via Cavour,
     
 2 -
@@ -691,7 +691,7 @@ CALCERANICA AL LAGO",0461-723325,,calceranica.contabile@fpsm.tn.it,,calceranica.
                 
 Scuola dell'infanzia di Calceranica
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Calceranica2
 MARIANGELA SIMONCINI,,,Scuola dell'infanzia,,,"Via Asilo,
     
 1 -
@@ -702,7 +702,7 @@ CALDONAZZO",0461-724658,,caldonazzo.presidente@fpsm.tn.it,,caldonazzo.segretario
                 
 Scuola dell'infanzia di Caldonazzo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Caldonazzo2
 SARA DE ZOLT,,,Scuola dell'infanzia,,,"Strèda sènc Felip e Giacum,
     
 9 -
@@ -713,7 +713,7 @@ CAMPITELLO DI FASSA - CIAMPEDEL",0462-750470,,campitello.presidente@fpsm.tn.it,,
                 
 Scuola dell'infanzia di Campitello di Fassa
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Campitello-di-Fassa2
 UTE PANCHER,,,Scuola dell'infanzia,,,"Via S Maurizio,
     
 3 -
@@ -724,7 +724,7 @@ CAMPODENNO",0461-655166,,campodenno.presidente@fpsm.tn.it,,campodenno.segretario
                 
 Scuola dell'infanzia di Campodenno
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Campodenno2
 TIZIANA CEOL,,,Scuola dell'infanzia,,,"Via Giovanelli,
     
 40 -
@@ -735,7 +735,7 @@ VILLE DI FIEMME",0462-341759,,carano.presidente@fpsm.tn.it,,carano.segretario@fp
                 
 Scuola dell'infanzia di Carano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Carano2
 PAMELA TOMASELLI,,,Scuola dell'infanzia,,,"Via IV Novembre,
     
 34/A -
@@ -746,7 +746,7 @@ TERRE D'ADIGE",0461-870656,,nave.presidente@fpsm.tn.it,,nave.segretario@fpsm.tn.
                 
 Scuola dell'infanzia di Nave San Rocco
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Nave-San-Rocco2
 ROBERTA MEDEGHINI,,,Scuola dell'infanzia,,,"Via Baroni Del Moll,
     
 2 -
@@ -757,7 +757,7 @@ NOMI",0464-835294,,nomi.segretario@fpsm.tn.it,,nomi.segretario@fpsm.tn.it,,,1,"
                 
 Scuola dell'infanzia di Nomi
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Nomi2
 DANIELA DALCASTAGNE',,,Scuola dell'infanzia,,,"Via XX Settembre,
     
 5 -
@@ -768,7 +768,7 @@ OSPEDALETTO",+39 347 0362437,,ospedaletto.presidente@fpsm.tn.it,,ospedaletto.seg
                 
 Scuola dell'infanzia di Ospedaletto
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Ospedaletto2
 SANDRA CIAPPI,,,Scuola dell'infanzia,,,"Via alle Cime - Padergnone,
     
 14 -
@@ -779,7 +779,7 @@ VALLELAGHI",0461-864358,,padergnone.presidente@fpsm.tn.it,,padergnone.segretario
                 
 Scuola dell'infanzia di Padergnone
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Padergnone2
 SARA DE ZOLT,,,Scuola dell'infanzia,,,"Piazza Chiesa,
     
 6 -
@@ -790,7 +790,7 @@ PANCHIA'",0462-814141,,panchia.presidente@fpsm.tn.it,,panchia.segretario@fpsm.tn
                 
 Scuola dell'infanzia di Panchià
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Panchia2
 ROBERTA MEDEGHINI,,,Scuola dell'infanzia,,,"Via S Antonio,
     
 1 -
@@ -801,7 +801,7 @@ VILLA LAGARINA",0464-412151,,pedersano.presidente@fpsm.tn.it,,pedersano.segretar
                 
 Scuola dell'infanzia di Pedersano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Pedersano2
 GIANNA ANGELI,,,Scuola dell'infanzia,,,"Piazza Mercato,
     
 11 -
@@ -812,7 +812,7 @@ DRO",0464-507142,,pietramurata.presidente@fpsm.tn.it,,pietramurata.segretario@fp
                 
 Scuola dell'infanzia di Pietramurata
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Pietramurata2
 DANIELA DALCASTAGNE',,,Scuola dell'infanzia,,,"Via Fratelli Rizza',
     
 14 -
@@ -823,7 +823,7 @@ PIEVE TESINO",0461-594733,,pieve.tesino.presidente@fpsm.tn.it,,pieve.tesino.segr
                 
 Scuola dell'infanzia di Pieve Tesino
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Pieve-Tesino2
 ALESSANDRA POMILIO,,,Scuola dell'infanzia,,,"Via Fiera - Creto - Pieve di Bono,
     
 9/B -
@@ -834,7 +834,7 @@ PIEVE DI BONO-PREZZO",0465-674083,,pieve.bono.presidente@fpsm.tn.it,,pieve.bono.
                 
 Scuola dell'infanzia di Pieve di Bono
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Pieve-di-Bono2
 FRANCESCA VARESCHI,,,Scuola dell'infanzia,,,"Piazza Vittorio Veneto - Pilcante,
     
 19 -
@@ -845,7 +845,7 @@ ALA",0464-672588,,pilcante.presidente@fpsm.tn.it,,pilcante.segretario@fpsm.tn.it
                 
 Scuola dell'infanzia di Pilcante
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Pilcante2
 ALESSANDRA POMILIO,,,Scuola dell'infanzia,,,"Via Al Sole,
     
 43 -
@@ -856,7 +856,7 @@ PINZOLO",0465-501019,,pinzolo.presidente@fpsm.tn.it,,pinzolo.segretario@fpsm.tn.
                 
 Scuola dell'infanzia di Pinzolo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Pinzolo2
 LORENZO SANTORUM,,,Scuola dell'infanzia,,,"Via S Giovanni Bosco - Ponte Arche - Bleggio Inferiore,
     
 7 -
@@ -867,7 +867,7 @@ COMANO TERME",0465-702422,,ponte.arche.presidente@fpsm.tn.it,,ponte.arche.segret
                 
 Scuola dell'infanzia di Ponte Arche
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Ponte-Arche2
 IVANA LEONARDELLI,,,Scuola dell'infanzia,,,"Via Pante',
     
 1 -
@@ -878,7 +878,7 @@ TRENTO",0461-810049,,povo.presidente@fpsm.tn.it,,povo.segretario@fpsm.tn.it,,,1,
                 
 Scuola dell'infanzia di Povo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Povo2
 ROBERTA MEDEGHINI,,,Scuola dell'infanzia,,,"Frazione Vanza,
     
 50 -
@@ -889,7 +889,7 @@ TRAMBILENO",0464-868074,,trambileno.presidente@fpsm.tn.it,,trambileno.segretario
                 
 Scuola dell'infanzia di Pozza di Trambileno
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Pozza-di-Trambileno2
 PAMELA TOMASELLI,,,Scuola dell'infanzia,,,"Via Pilati,
     
 16 -
@@ -900,7 +900,7 @@ LAVIS",0461-240394,,pressano.presidente@fpsm.tn.it,,pressano.segretario@fpsm.tn.
                 
 Scuola dell'infanzia di Pressano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Pressano2
 LORENZO SANTORUM,,,Scuola dell'infanzia,,,"Frazione Larido,
     
 10 -
@@ -911,7 +911,7 @@ BLEGGIO SUPERIORE",0465-779575,,quadra.cavrasto.presidente@fpsm.tn.it,,quadra.ca
                 
 Scuola dell'infanzia di Quadra - Cavrasto
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Quadra-Cavrasto2
 LUISA FONTANARI,,,Scuola dell'infanzia,,,"Largo Caduti delle Foibe,
     
 2 -
@@ -922,7 +922,7 @@ RIVA DEL GARDA",0464-553578,,riva.rione.presidente@fpsm.tn.it,,riva.rione.segret
                 
 Scuola dell'infanzia di Riva ""Degasperi""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Riva-Degasperi2
 LUISA FONTANARI,,,Scuola dell'infanzia,,,"Via S Alessandro,
     
 10 -
@@ -933,7 +933,7 @@ RIVA DEL GARDA",0464-554051,,s.alessandro.presidente@fpsm.tn.it,,s.alessandro.se
                 
 Scuola dell'infanzia di Riva del Garda  ""S. Alessandro""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Riva-del-Garda-S.-Alessandro2
 PAOLA SANGIORGI,,,Scuola dell'infanzia,,,"Via Baldessari,
     
 15 -
@@ -944,7 +944,7 @@ RONCEGNO TERME",0461-764199,,roncegno.presidente@fpsm.tn.it,,roncegno.segretario
                 
 Scuola dell'infanzia di Roncegno
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Roncegno2
 PAOLA SANGIORGI,,,Scuola dell'infanzia,,,"Via Marchi,
     
 14 -
@@ -955,7 +955,7 @@ RONCHI VALSUGANA",0461-773197,,ronchi.valsugana.presidente@fpsm.tn.it,,ronchi.va
                 
 Scuola dell'infanzia di Ronchi Valsugana
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Ronchi-Valsugana2
 UTE PANCHER,,,Scuola dell'infanzia,,,"Via Edison - Taio,
     
 3 -
@@ -966,7 +966,7 @@ PREDAIA",0463-468269,,taio.presidente@fpsm.tn.it,,taio.segretario@fpsm.tn.it,,,1
                 
 Scuola dell'infanzia di Taio
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Taio2
 PAOLA SANGIORGI,,,Scuola dell'infanzia,,,"Via Paradiso,
     
 1 -
@@ -977,7 +977,7 @@ TELVE",0461-766315,,telve.presidente@fpsm.tn.it,,telve.segretario@fpsm.tn.it,,,1
                 
 Scuola dell'infanzia di Telve
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Telve2
 LUISA FONTANARI,,,Scuola dell'infanzia,,,"Via Brocchetti,
     
 53 -
@@ -988,7 +988,7 @@ TENNO",0464-503034,,tenno.presidente@fpsm.tn.it,,tenno.segretario@fpsm.tn.it,,,1
                 
 Scuola dell'infanzia di Tenno
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Tenno2
 DANIELA DALCASTAGNE',,,Scuola dell'infanzia,,,"Via Marconi,
     
 8/A -
@@ -999,7 +999,7 @@ GRIGNO",0461-769192,,tezze.presidente@fpsm.tn.it,,tezze.segretario@fpsm.tn.it,,,
                 
 Scuola dell'infanzia di Tezze Valsugana
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Tezze-Valsugana2
 DANIELA DALCASTAGNE',,,Scuola dell'infanzia,,,"Via Fuganti - Tonadico,
     
 8 -
@@ -1010,7 +1010,7 @@ PRIMIERO SAN MARTINO DI CASTROZZA",0439-762062,,tonadico.segretario@fpsm.tn.it,,
                 
 Scuola dell'infanzia di Tonadico
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Tonadico2
 LUISA FONTANARI,,,Scuola dell'infanzia,,,"Via Don Davide Gioppi,
     
 72 -
@@ -1021,7 +1021,7 @@ NAGO-TORBOLE",0464-505159,,torbole.presidente@fpsm.tn.it,,torbole.segretario@fps
                 
 Scuola dell'infanzia di Torbole
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Torbole2
 PAOLA SANGIORGI,,,Scuola dell'infanzia,,,"Via Della Fontana,
     
 15 -
@@ -1032,7 +1032,7 @@ TORCEGNO",0461-760796,,torcegno.presidente@fpsm.tn.it,,torcegno.segretario@fpsm.
                 
 Scuola dell'infanzia di Torcegno
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Torcegno2
 DANIELA DALCASTAGNE',,,Scuola dell'infanzia,,,"Piazza Municipio - Transacqua,
     
 11 -
@@ -1043,7 +1043,7 @@ PRIMIERO SAN MARTINO DI CASTROZZA",0439-62313,,transacqua.presidente@fpsm.tn.it,
                 
 Scuola dell'infanzia di Transacqua
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Transacqua2
 SANDRA CIAPPI,,,Scuola dell'infanzia,,,"Via Asilo Pedrotti,
     
 2 -
@@ -1054,7 +1054,7 @@ TRENTO",0461-914039,,trento.pedrotti.presidente@fpsm.tn.it,,trento.pedrotti.segr
                 
 Scuola dell'infanzia di Trento  ""Pedrotti""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Trento-Pedrotti2
 IVANA LEONARDELLI,,,Scuola dell'infanzia,,,"Via Dei Paradisi,
     
 4 -
@@ -1065,7 +1065,7 @@ TRENTO",0461-1482248,,trento.canossiane.segretario@fpsm.tn.it,,trento.canossiane
                 
 Scuola dell'infanzia di Trento  Canossiane
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Trento-Canossiane2
 SANDRA CIAPPI,,,Scuola dell'infanzia,,,"Viale Dei Tigli,
     
 9/1 -
@@ -1076,7 +1076,7 @@ TRENTO",0461-924555,,trento.s.bartolomeo.segretario@fpsm.tn.it,,trento.s.bartolo
                 
 Scuola dell'infanzia di Trento  S. Bartolomeo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Trento-S.-Bartolomeo2
 IVANA LEONARDELLI,ANDREA VALERIO,,Scuola dell'infanzia,,,"Via Kofler,
     
 10 -
@@ -1087,7 +1087,7 @@ TRENTO",+39 0461 235069,+39 0461 983903,cognola.segretario@fpsm.tn.it,,cognola.s
                 
 Scuola dell'infanzia di Trento Cognola  ""B. Kofler""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Trento-Cognola-B.-Kofler2
 SANDRA CIAPPI,,,Scuola dell'infanzia,,,"Via Einaudi,
     
 66 -
@@ -1098,7 +1098,7 @@ TRENTO",0461-923464,,trento.clarina.presidente@fpsm.tn.it,,trento.clarina.segret
                 
 Scuola dell'infanzia di Trento La Clarina
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Trento-La-Clarina2
 IVANA LEONARDELLI,ANDREA VALERIO,,Scuola dell'infanzia,,,"Via per Cognola,
     
 43 -
@@ -1109,7 +1109,7 @@ TRENTO",+39 0461 260977,+39 0461 983903,cognola.segretario@fpsm.tn.it,,trento.sa
                 
 Scuola dell'infanzia di Trento San Donà ""B. Kofler""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Trento-San-Dona-B.-Kofler2
 UTE PANCHER,,,Scuola dell'infanzia,,,"Via Marconi - Tuenno,
     
 2 -
@@ -1120,7 +1120,7 @@ VILLE D'ANAUNIA",0463-451238,,tuenno.presidente@fpsm.tn.it,,tuenno.segretario@fp
                 
 Scuola dell'infanzia di Tuenno
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Tuenno2
 LUISA FONTANARI,,,Scuola dell'infanzia,,,"Via Sega,
     
 5 -
@@ -1131,7 +1131,7 @@ RIVA DEL GARDA",0464-521350,,varone.presidente@fpsm.tn.it,,varone.segretario@fps
                 
 Scuola dell'infanzia di Varone
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Varone2
 ROBERTA BERTOLAS,,,Scuola dell'infanzia,,,"Via di S Pietro,
     
 26 -
@@ -1142,7 +1142,7 @@ VERMIGLIO",0463-758141,,vermiglio.presidente@fpsm.tn.it,,vermiglio.segretario@fp
                 
 Scuola dell'infanzia di Vermiglio
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Vermiglio2
 SANDRA CIAPPI,,,Scuola dell'infanzia,,,"Via Dante - Vezzano,
     
 24 -
@@ -1153,7 +1153,7 @@ VALLELAGHI",0461-864918,,vezzano.presidente@fpsm.tn.it,,vezzano.segretario@fpsm.
                 
 Scuola dell'infanzia di Vezzano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Vezzano2
 GIANNA ANGELI,,,Scuola dell'infanzia,,,"Via Scuola Materna,
     
 1 -
@@ -1164,7 +1164,7 @@ CAVEDINE",0461-566061,,vigo.cavedine.presidente@fpsm.tn.it,,vigo.cavedine.segret
                 
 Scuola dell'infanzia di Vigo Cavedine
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Vigo-Cavedine2
 CARMEN FATTORI,,,Scuola dell'infanzia,,,"Via Madonna Dei Prati,
     
 3 -
@@ -1175,7 +1175,7 @@ TRENTO",0461-448252,,vigo.meano.contabile@fpsm.tn.it,,vigo.meano.segretario@fpsm
                 
 Scuola dell'infanzia di Vigo Cortesano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Vigo-Cortesano2
 LORENZO SANTORUM,,,Scuola dell'infanzia,,,"Frazione Vigo Lomaso - Lomaso,
     
 1 -
@@ -1186,7 +1186,7 @@ COMANO TERME",0465-701249,,vigo.lomaso.presidente@fpsm.tn.it,,vigo.lomaso.segret
                 
 Scuola dell'infanzia di Vigo Lomaso
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Vigo-Lomaso2
 CARMEN FATTORI,,,Scuola dell'infanzia,,,"Via del Loghét,
     
 69 -
@@ -1197,7 +1197,7 @@ TRENTO",0461-990050,,ghiaie.segretario@fpsm.tn.it,,ghiaie.segretario@fpsm.tn.it,
                 
 Scuola dell'infanzia di Ghiaie di Gardolo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Ghiaie-di-Gardolo2
 DANIELA DALCASTAGNE',,,Scuola dell'infanzia,,,"Via Nazario Sauro,
     
 25 -
@@ -1208,7 +1208,7 @@ GRIGNO",0461-765333,,grigno.presidente@fpsm.tn.it,,grigno.segretario@fpsm.tn.it,
                 
 Scuola dell'infanzia di Grigno
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Grigno2
 MARIANGELA SIMONCINI,,,Scuola dell'infanzia,,,"Piazza delle Nogare,
     
 2 -
@@ -1219,7 +1219,7 @@ PERGINE VALSUGANA",0461-532285,,ischia.presidente@fpsm.tn.it,,ischia.segretario@
                 
 Scuola dell'infanzia di Ischia di Pergine
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Ischia-di-Pergine2
 PAMELA TOMASELLI,,,Scuola dell'infanzia,,,"Via S Rocco,
     
 14 -
@@ -1230,7 +1230,7 @@ LONA-LASES",0461-697101,,lona.presidente@fpsm.tn.it,,lona.segretario@fpsm.tn.it,
                 
 Scuola dell'infanzia di Lona
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Lona2
 ALESSANDRA POMILIO,GIORGIO FERRARI,,Scuola dell'infanzia,,,"Via Serafini - Madonna di Campiglio,
     
 13 -
@@ -1241,7 +1241,7 @@ TRE VILLE",0465-442779,+39 0465 442779,madonna.campiglio.segretario@fpsm.tn.it,,
                 
 Scuola dell'infanzia di Madonna di Campiglio
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Madonna-di-Campiglio2
 MARIANGELA SIMONCINI,,,Scuola dell'infanzia,,,"Via D Oltrefersina,
     
 54 -
@@ -1252,7 +1252,7 @@ PERGINE VALSUGANA",0461-552109,,madrano.segretario@fpsm.tn.it,,madrano.segretari
                 
 Scuola dell'infanzia di Madrano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Madrano2
 ROBERTA BERTOLAS,,,Scuola dell'infanzia,,,"Via Don Rauzi,
     
 6 -
@@ -1263,7 +1263,7 @@ MALE'",0463-901925,,male.presidente@fpsm.tn.it,,male.segretario@fpsm.tn.it,,,1,"
                 
 Scuola dell'infanzia di Malè
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Male2
 PAOLA SANGIORGI,,,Scuola dell'infanzia,,,"Piazza S Margherita,
     
 2 -
@@ -1274,7 +1274,7 @@ RONCEGNO TERME",0461-764505,,marter.segretario@fpsm.tn.it,,marter.segretario@fps
                 
 Scuola dell'infanzia di Marter
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Marter2
 CARMEN FATTORI,,,Scuola dell'infanzia,,,"Via Sabbionare,
     
 3 -
@@ -1285,7 +1285,7 @@ TRENTO",0461-820233,,martignano.segretario@fpsm.tn.it,,martignano.segretario@fps
                 
 Scuola dell'infanzia di Martignano ""D. Leone Serafini""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Martignano-D.-Leone-Serafini2
 GIANNA ANGELI,,,Scuola dell'infanzia,,,"Via Maffei - San Martino,
     
 2 -
@@ -1296,7 +1296,7 @@ ARCO",0464-517719,,massone.presidente@fpsm.tn.it,,massone.segretario@fpsm.tn.it,
                 
 Scuola dell'infanzia di Massone
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Massone2
 ILARIA MANCINI,,,Scuola dell'infanzia,,,"Via Don Luigi Borghesi,
     
 35 -
@@ -1307,7 +1307,7 @@ CLES",0463-421247,,mechel.presidente@fpsm.tn.it,,mechel.segretario@fpsm.tn.it,,,
                 
 Scuola dell'infanzia di Mechel
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Mechel2
 DANIELA DALCASTAGNE',,,Scuola dell'infanzia,,,"Via IV Novembre,
     
 16 -
@@ -1318,7 +1318,7 @@ MEZZANO",0439-67027,,mezzano.contabile@fpsm.tn.it,,mezzano.segretario@fpsm.tn.it
                 
 Scuola dell'infanzia di Mezzano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Mezzano2
 ELENA RICCI,,,Scuola dell'infanzia,,,"Via S Giovanni Bosco,
     
 4 -
@@ -1329,7 +1329,7 @@ MEZZOCORONA",0461-603933,,mezzocorona.presidente@fpsm.tn.it,,mezzocorona.segreta
                 
 Scuola dell'infanzia di Mezzocorona
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Mezzocorona2
 ELENA RICCI,,,Scuola dell'infanzia,,,"Corso del Popolo,
     
 34/B -
@@ -1340,7 +1340,7 @@ MEZZOLOMBARDO",0461-601324,,mezzolombardo.presidente@fpsm.tn.it,,mezzolombardo.s
                 
 Scuola dell'infanzia di Mezzolombardo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Mezzolombardo2
 SARA DE ZOLT,,,Scuola dell'infanzia,,,"Strada don Giovanni Jori,
     
 10 -
@@ -1351,7 +1351,7 @@ MOENA - MOENA",0462-573277,,moena.presidente@fpsm.tn.it,,moena.segretario@fpsm.t
                 
 Scuola dell'infanzia di Moena
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Moena2
 LUISA FONTANARI,,,Scuola dell'infanzia,,,"Via Sartori - Molina di Ledro,
     
 25 -
@@ -1362,7 +1362,7 @@ LEDRO",0464-508477,,molina.ledro.presidente@fpsm.tn.it,,molina.ledro.segretario@
                 
 Scuola dell'infanzia di Molina di Ledro
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Molina-di-Ledro2
 UTE PANCHER,,,Scuola dell'infanzia,,,"Via Della Pausa - Mollaro,
     
 1 -
@@ -1373,7 +1373,7 @@ PREDAIA",0463-469224,,mollaro.contabile@fpsm.tn.it,,mollaro.segretario@fpsm.tn.i
                 
 Scuola dell'infanzia di Mollaro
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Mollaro2
 ELENA RICCI,,,Scuola dell'infanzia,,,"Piazza S Carlo,
     
 20 -
@@ -1384,7 +1384,7 @@ MOLVENO",0461-586969,,molveno.presidente@fpsm.tn.it,,molveno.segretario@fpsm.tn.
                 
 Scuola dell'infanzia di Molveno
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Molveno2
 PAMELA TOMASELLI,,,Scuola dell'infanzia,,,"Via Capitano Santuari,
     
 1 -
@@ -1395,7 +1395,7 @@ SOVER",0461-698351,,sover.presidente@fpsm.tn.it,,sover.segretario@fpsm.tn.it,,,1
                 
 Scuola dell'infanzia di Montesover
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Montesover2
 SILVANO MEDVES,,,Scuola dell'infanzia,,,"Via Scuole,
     
 3 -
@@ -1406,7 +1406,7 @@ MORI",0464-918156,,mori.segretario@fpsm.tn.it,,mori.segretario@fpsm.tn.it,,,1,"
                 
 Scuola dell'infanzia di Mori
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Mori2
 LUISA FONTANARI,MORENO MURANO,,Scuola dell'infanzia,,,"Localita Tezze - Nago,
      -
     
@@ -1416,7 +1416,7 @@ NAGO-TORBOLE",0464-506097,,nago.segretario@fpsm.tn.it,,nago.segretario@fpsm.tn.i
                 
 Scuola dell'infanzia di Nago
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Nago2
 SILVANO MEDVES,,,Scuola dell'infanzia,,,"Via Del Car,
     
 40 -
@@ -1427,7 +1427,7 @@ RONZO-CHIENIS",0464-802944,,ronzo.chienis.presidente@fpsm.tn.it,,ronzo.chienis.s
                 
 Scuola dell'infanzia di Ronzo-Chienis
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Ronzo-Chienis2
 ,GIORGIO RELLA,,Scuola dell'infanzia,,,"Via S Maria,
     
 58 -
@@ -1438,7 +1438,7 @@ ROVERETO",0464-420061,,asilovannetti@pec.it,,asilovannetti@gmail.com,,,1,"
                 
 Scuola dell'infanzia di Rovereto  ""Clementino Vannetti""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Rovereto-Clementino-Vannetti2
 ROBERTA MEDEGHINI,,,Scuola dell'infanzia,,,"Corso Rosmini,
     
 3 -
@@ -1449,7 +1449,7 @@ ROVERETO",0464-421541,,rovereto.rosmini.presidente@fpsm.tn.it,,rovereto.rosmini.
                 
 Scuola dell'infanzia di Rovereto ""Rosmini""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Rovereto-Rosmini2
 LORENZO SANTORUM,,,Scuola dell'infanzia,,,"Frazione Santa Croce di Bleggio Inferiore,
     
 7 -
@@ -1460,7 +1460,7 @@ COMANO TERME",0465-779900,,s.croce.presidente@fpsm.tn.it,,s.croce.segretario@fps
                 
 Scuola dell'infanzia di S. Croce Bleggio
             
-"
+",/Scuole/Scuola-dell-infanzia-di-S.-Croce-Bleggio2
 LORENZO SANTORUM,,,Scuola dell'infanzia,,,"Strada del Toat - San Lorenzo,
     
 4 -
@@ -1471,7 +1471,7 @@ SAN LORENZO DORSINO",0465-734005,,san.lorenzo.banale.segretario@fpsm.tn.it,,san.
                 
 Scuola dell'infanzia di S. Lorenzo in Banale
             
-"
+",/Scuole/Scuola-dell-infanzia-di-S.-Lorenzo-in-Banale2
 FRANCESCA VARESCHI,,,Scuola dell'infanzia,,,"Via Gazzoletti - Santa Margherita,
     
 35 -
@@ -1482,7 +1482,7 @@ ALA",0464-696494,,s.margherita.presidente@fpsm.tn.it,,s.margherita.segretario@fp
                 
 Scuola dell'infanzia di S. Margherita di Ala
             
-"
+",/Scuole/Scuola-dell-infanzia-di-S.-Margherita-di-Ala2
 FRANCESCA VARESCHI,,,Scuola dell'infanzia,,,"Piazza Conciliazione,
     
 3/B -
@@ -1493,7 +1493,7 @@ AVIO",0464-683225,,sabbionara.presidente@fpsm.tn.it,,sabbionara.segretario@fpsm.
                 
 Scuola dell'infanzia di Sabbionara
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Sabbionara2
 DANIELA DALCASTAGNE',,,Scuola dell'infanzia,,,"Via Laghetto - San Martino Di Castrozza,
     
 30 -
@@ -1504,7 +1504,7 @@ PRIMIERO SAN MARTINO DI CASTROZZA",0439-768666,,s.martino.castrozza.presidente@f
                 
 Scuola dell'infanzia di San Martino di C.
             
-"
+",/Scuole/Scuola-dell-infanzia-di-San-Martino-di-C2
 GIANNA ANGELI,,,Scuola dell'infanzia,,,"Via Caffaro - Sarche - Calavino,
     
 6 -
@@ -1515,7 +1515,7 @@ MADRUZZO",0461-564028,,sarche.presidente@fpsm.tn.it,,sarche.segretario@fpsm.tn.i
                 
 Scuola dell'infanzia di Sarche
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Sarche2
 PAOLA SANGIORGI,,,Scuola dell'infanzia,,,"Via Visintainer,
     
 15 -
@@ -1526,7 +1526,7 @@ SCURELLE",0461-762268,,scurelle.presidente@fpsm.tn.it,,scurelle.segretario@fpsm.
                 
 Scuola dell'infanzia di Scurelle
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Scurelle2
 UTE PANCHER,,,Scuola dell'infanzia,,,"Via Sonora - Segno - Taio,
     
 18 -
@@ -1537,7 +1537,7 @@ PREDAIA",0463-468064,,segno.presidente@fpsm.tn.it,,segno.segretario@fpsm.tn.it,,
                 
 Scuola dell'infanzia di Segno
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Segno2
 PAMELA TOMASELLI,,,Scuola dell'infanzia,,,"Frazione Stedro,
     
 80 -
@@ -1548,7 +1548,7 @@ SEGONZANO",327-3311981,,segonzano.presidente@fpsm.tn.it,,segonzano.segretario@fp
                 
 Scuola dell'infanzia di Segonzano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Segonzano2
 FRANCESCA VARESCHI,,,Scuola dell'infanzia,,,"Via Ingenger Tomasi - Serravalle,
     
 5 -
@@ -1559,7 +1559,7 @@ ALA",0464-696304,,serravalle.presidente@fpsm.tn.it,,serravalle.segretario@fpsm.t
                 
 Scuola dell'infanzia di Serravalle
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Serravalle2
 DANIELA DALCASTAGNE',,,Scuola dell'infanzia,,,"Via Asilo - Siror,
     
 1 -
@@ -1570,7 +1570,7 @@ PRIMIERO SAN MARTINO DI CASTROZZA",0439-62790,,siror.presidente@fpsm.tn.it,,siro
                 
 Scuola dell'infanzia di Siror
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Siror2
 ILARIA MANCINI,,,Scuola dell'infanzia,,,"Via Torre - Smarano,
     
 6 -
@@ -1581,7 +1581,7 @@ PREDAIA",0463-536702,,smarano.presidente@fpsm.tn.it,,smarano.segretario@fpsm.tn.
                 
 Scuola dell'infanzia di Smarano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Smarano2
 CARMEN FATTORI,,,Scuola dell'infanzia,,,"Via Canelli - Sopramonte,
     
 5 -
@@ -1592,7 +1592,7 @@ TRENTO",0461-867021,,sopramonte.presidente@fpsm.tn.it,,sopramonte.segretario@fps
                 
 Scuola dell'infanzia di Sopramonte
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Sopramonte2
 ALESSANDRA POMILIO,,,Scuola dell'infanzia,,,"Via S Vigilio,
     
 5 -
@@ -1603,7 +1603,7 @@ SPIAZZO",0465-801326,,spiazzo.rendena.contabile@fpsm.tn.it,,spiazzo.rendena.segr
                 
 Scuola dell'infanzia di Spiazzo Rendena
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Spiazzo-Rendena2
 UTE PANCHER,,,Scuola dell'infanzia,,,"Via dell Asilo,
     
 2 -
@@ -1614,7 +1614,7 @@ SPORMAGGIORE",0461-653390,,spormaggiore.contabile@fpsm.tn.it,,spormaggiore.segre
                 
 Scuola dell'infanzia di Spormaggiore
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Spormaggiore2
 LORENZO SANTORUM,,,Scuola dell'infanzia,,,"Piazza Dante,
     
 15 -
@@ -1625,7 +1625,7 @@ STENICO",0465-771019,,stenico.presidente@fpsm.tn.it,,stenico.segretario@fpsm.tn.
                 
 Scuola dell'infanzia di Stenico
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Stenico2
 ALESSANDRA POMILIO,,,Scuola dell'infanzia,,,"Via S Floriano,
     
 22 -
@@ -1636,7 +1636,7 @@ STORO",0465-296084,,storo.presidente@fpsm.tn.it,,storo.segretario@fpsm.tn.it,,,1
                 
 Scuola dell'infanzia di Storo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Storo2
 DANIELA DALCASTAGNE',,,Scuola dell'infanzia,,,"Piazza IV Novembre - Strigno,
     
 11 -
@@ -1647,7 +1647,7 @@ CASTEL IVANO",0461-762327,,strigno.presidente@fpsm.tn.it,,strigno.segretario@fps
                 
 Scuola dell'infanzia di Strigno
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Strigno2
 MARIANGELA SIMONCINI,,,Scuola dell'infanzia,,,"Via Dell Asilo,
     
 5 -
@@ -1658,11 +1658,18 @@ PERGINE VALSUGANA",0461-538471,,susa.presidente@fpsm.tn.it,,susa.segretario@fpsm
                 
 Scuola dell'infanzia di Susà
             
-"
-ALESSANDRA POMILIO,,,Scuola dell'infanzia,,,"Viale Trento,    
-4 -  
+",/Scuole/Scuola-dell-infanzia-di-Susa2
+ALESSANDRA POMILIO,,,Scuola dell'infanzia,,,"Viale Trento,
+    
+4 -
+    
 38080    
-CARISOLO",0465-501433,,carisolo.presidente@fpsm.tn.it,,carisolo.segretario@fpsm.tn.it,,,1,"Scuola dell'infanzia di Carisolo"
+CARISOLO",0465-501433,,carisolo.presidente@fpsm.tn.it,,carisolo.segretario@fpsm.tn.it,,,1,"
+
+                
+Scuola dell'infanzia di Carisolo
+            
+",/Scuole/Scuola-dell-infanzia-di-Carisolo2
 ILARIA MANCINI,,,Scuola dell'infanzia,,,"Via della Pontara - Casez,
     
 10 -
@@ -1673,7 +1680,7 @@ SANZENO",0463-434219,,casez.presidente@fpsm.tn.it,,casez.segretario@fpsm.tn.it,,
                 
 Scuola dell'infanzia di Casez
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Casez2
 ROBERTA MEDEGHINI,,,Scuola dell'infanzia,,,"Via Caduti,
     
 1 -
@@ -1684,7 +1691,7 @@ VILLA LAGARINA",0464-801242,,castellano.presidente@fpsm.tn.it,,castellano.segret
                 
 Scuola dell'infanzia di Castellano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Castellano2
 TIZIANA CEOL,,,Scuola dell'infanzia,,,"Via Latemar,
     
 2 -
@@ -1695,7 +1702,7 @@ CASTELLO-MOLINA DI FIEMME",0462-341153,,castello.fiemme.segretario@fpsm.tn.it,,c
                 
 Scuola dell'infanzia di Castello Di Fiemme
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Castello-Di-Fiemme2
 GIANNA ANGELI,,,Scuola dell'infanzia,,,"Via IV Novembre,
     
 19 -
@@ -1706,7 +1713,7 @@ CAVEDINE",0461-568548,,cavedine.presidente@fpsm.tn.it,,cavedine.segretario@fpsm.
                 
 Scuola dell'infanzia di Cavedine
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Cavedine2
 PAMELA TOMASELLI,,,Scuola dell'infanzia,,,"Piazza Zanotelli - Cembra,
     
 1 -
@@ -1717,7 +1724,7 @@ CEMBRA LISIGNAGO",0461-680173,,cembra.presidente@fpsm.tn.it,,cembra.segretario@f
                 
 Scuola dell'infanzia di Cembra
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Cembra2
 FRANCESCA VARESCHI,,,Scuola dell'infanzia,,,"Via Canestrini - Chizzola,
     
 1 -
@@ -1728,7 +1735,7 @@ ALA",0464-696397,,chizzola.presidente@fpsm.tn.it,,chizzola.segretario@fpsm.tn.it
                 
 Scuola dell'infanzia di Chizzola
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Chizzola2
 ILARIA MANCINI,,,Scuola dell'infanzia,,,"Via Mattioli,
     
 13 -
@@ -1739,7 +1746,7 @@ CLES",0463-625164,,cles.presidente@fpsm.tn.it,,cles.segretario@fpsm.tn.it,,,1,"
                 
 Scuola dell'infanzia di Cles
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Cles2
 ILARIA MANCINI,,,Scuola dell'infanzia,,,"Via di S Stefano,
     
 2/A -
@@ -1750,7 +1757,7 @@ NOVELLA",0463-1980632,,cloz.brez.presidente@fpsm.tn.it,,cloz.brez.segretario@fps
                 
 Scuola dell'infanzia di Cloz e Brez
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Cloz-e-Brez2
 ALESSANDRA POMILIO,,,Scuola dell'infanzia,,,"Via Roma - Condino,
     
 37 -
@@ -1761,7 +1768,7 @@ BORGO CHIESE",0465-621009,,condino.presidente@fpsm.tn.it,,condino.segretario@fps
                 
 Scuola dell'infanzia di Condino
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Condino2
 ILARIA MANCINI,,,Scuola dell'infanzia,,,"Via delle antiche fontane - Coredo,
     
 20 -
@@ -1772,7 +1779,7 @@ PREDAIA",0463-536416,,coredo.segretario@fpsm.tn.it,,coredo.segretario@fpsm.tn.it
                 
 Scuola dell'infanzia di Coredo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Coredo2
 CARMEN FATTORI,,,Scuola dell'infanzia,,,"Via Bresadola,
     
 6 -
@@ -1783,7 +1790,7 @@ TRENTO",0461-823359,,trento.cristore.segretario@fpsm.tn.it,,trento.cristore.segr
                 
 Scuola dell'infanzia di Cristo Re -Trento
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Cristo-Re-Trento2
 SILVANO MEDVES,,,Scuola dell'infanzia,,,"Via S Biagio,
     
 30 -
@@ -1794,7 +1801,7 @@ BRENTONICO",0464-395693,,crosano.segretario@fpsm.tn.it,,crosano.segretario@fpsm.
                 
 Scuola dell'infanzia di Crosano
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Crosano2
 ILARIA MANCINI,,,Scuola dell'infanzia,,,"Via Garibaldi,
     
 33 -
@@ -1805,7 +1812,7 @@ DAMBEL",0463-437181,,dambel.presidente@fpsm.tn.it,,dambel.segretario@fpsm.tn.it,
                 
 Scuola dell'infanzia di Dambel
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Dambel2
 ROBERTA BERTOLAS,,,Scuola dell'infanzia,,,"Via Alla Chiesa - Dimaro,
     
 26 -
@@ -1816,7 +1823,7 @@ DIMARO FOLGARIDA",0463-974301,,dimaro.contabile@fpsm.tn.it,,dimaro.segretario@fp
                 
 Scuola dell'infanzia di Dimaro
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Dimaro2
 PAMELA TOMASELLI,,,Scuola dell'infanzia,,,"Via Perlaia - Faver,
     
 17 -
@@ -1827,7 +1834,7 @@ ALTAVALLE",+39 328 7310914,,faver.presidente@fpsm.tn.it,,faver.segretario@fpsm.t
                 
 Scuola dell'infanzia di Faver
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Faver2
 LORENZO SANTORUM,,,Scuola dell'infanzia,,,"Piazza S Sebastiano,
     
 24 -
@@ -1838,7 +1845,7 @@ FIAVE'",0465-735129,,fiave.contabile@fpsm.tn.it,,fiave.segretario@fpsm.tn.it,,,1
                 
 Scuola dell'infanzia di Fiavè
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Fiave2
 DANIELA DALCASTAGNE',,,Scuola dell'infanzia,,,"Viale Marconi - Pieve,
     
 1 -
@@ -1849,7 +1856,7 @@ PRIMIERO SAN MARTINO DI CASTROZZA",0439-762196,0439764911,fiera.presidente@fpsm.
                 
 Scuola dell'infanzia di Fiera di Primiero
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Fiera-di-Primiero2
 ILARIA MANCINI,,,Scuola dell'infanzia,,,"Piazza Don Stefenelli - Fondo,
     
 5 -
@@ -1860,7 +1867,7 @@ BORGO D'ANAUNIA",0463-831254,,fondo.contabile@fpsm.tn.it,,fondo.segretario@fpsm.
                 
 Scuola dell'infanzia di Fondo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Fondo2
 MARIANGELA SIMONCINI,,,Scuola dell'infanzia,,,"Via Del Borgolet,
     
 16 -
@@ -1871,7 +1878,7 @@ FORNACE",0461-849351,,fornace.presidente@fpsm.tn.it,,fornace.segretario@fpsm.tn.
                 
 Scuola dell'infanzia di Fornace
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Fornace2
 CARMEN FATTORI,,,Scuola dell'infanzia,,,"Via S Anna,
     
 9 -
@@ -1882,7 +1889,7 @@ TRENTO",0461-990296,,gardolo.segretario@fpsm.tn.it,,gardolo.segretario@fpsm.tn.i
                 
 Scuola dell'infanzia di Gardolo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Gardolo2
 ,,,Istituzione scolastica e formativa,CHIARA GHETTA,,"Corso Buonarroti,
     
 50 -
@@ -1893,7 +1900,7 @@ TRENTO",+39 0461 236214,+39 0461 230583,ic.trento6@pec.provincia.tn.it,dir.ic.tn
                 
 ISTITUTO COMPRENSIVO TRENTO 6
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-TRENTO-62
 ,,,Istituzione scolastica e formativa,GIUSEPPE PRIGIOTTI,,"Viale Della Pace,
     
 10 -
@@ -1904,7 +1911,7 @@ PINZOLO",+39 0465 501139,+39 0465 512119,ic.valrendena@pec.provincia.tn.it,dir.i
                 
 ISTITUTO COMPRENSIVO VAL RENDENA
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-VAL-RENDENA2
 ,,,Istituzione scolastica e formativa,SARA TURRINI,,"Via Roma - Vezzano,
     
 3 -
@@ -1915,7 +1922,7 @@ VALLELAGHI",+39 0461 864026,+39 0461 340648,ic.valledeilaghi@pec.provincia.tn.it
                 
 ISTITUTO COMPRENSIVO VALLE DEI LAGHI - DRO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-VALLE-DEI-LAGHI-DRO2
 ,,,Istituzione scolastica e formativa,PAOLA MARONI,,"Via Falcone e Borsellino - Bezzecca,
     
 2 -
@@ -1926,7 +1933,7 @@ LEDRO",+39 0464 592800,+39 0464 592819,ic.vallediledro@pec.provincia.tn.it,dir.i
                 
 ISTITUTO COMPRENSIVO VALLE DI LEDRO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-VALLE-DI-LEDRO2
 ,,,Istituzione scolastica e formativa,GABRIELLA VITALE,,"Via Garibaldi - Vigolo Vattaro,
     
 8 -
@@ -1937,7 +1944,7 @@ ALTOPIANO DELLA VIGOLANA",+39 0461 848878,+39 0461 845217,ic.vigolovattaro@pec.p
                 
 ISTITUTO COMPRENSIVO VIGOLO VATTARO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-VIGOLO-VATTARO2
 ,,,Istituzione scolastica e formativa,TIZIANA CHEMOTTI,,"Via Stockstadt Am Rhein,
     
 3 -
@@ -1948,7 +1955,7 @@ VILLA LAGARINA",+39 0464 411312,+39 0464 411705,ic.villalagarina@pec.provincia.t
                 
 ISTITUTO COMPRENSIVO VILLA LAGARINA
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-VILLA-LAGARINA2
 ,,,Istituzione scolastica e formativa,VENERA MUNAFO',,"Via Murialdo,
     
 27 -
@@ -1959,7 +1966,7 @@ CIVEZZANO",+39 0461 858485,+39 0461 858901,ic.civezzano@pec.provincia.tn.it,dir.
                 
 ISTITUTO COMPRENSIVO CIVEZZANO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-CIVEZZANO2
 ,,,Istituzione scolastica e formativa,ROMEO COLLINI,,"Via Papaleoni,
     
 5 -
@@ -1970,7 +1977,7 @@ STORO",+39 0465 686039,+39 0465 687076,ic.chiese-storo@pec.provincia.tn.it,dir.i
                 
 ISTITUTO COMPRENSIVO DEL CHIESE ""Don L. Milani""
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-DEL-CHIESE-Don-L.-Milani2
 ,,,Istituzione scolastica e formativa,ROBERTA BISOFFI,,"Via Battisti,
     
 24 -
@@ -1981,7 +1988,7 @@ FOLGARIA",+39 0464 721283,+39 0464 723563,ic.folgaria-lavarone@pec.provincia.tn.
                 
 ISTITUTO COMPRENSIVO FOLGARIA - LAVARONE - LUSERNA
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-FOLGARIA-LAVARONE-LUSERNA2
 ,,,Istituzione scolastica e formativa,ROBERTA GAMBARO,,"Via Laviosa Zambotti - Fondo,
     
 24 -
@@ -1992,7 +1999,7 @@ BORGO D'ANAUNIA",+39 0463 831134,+39 0463 831746,ic.fondo@pec.provincia.tn.it,di
                 
 ISTITUTO COMPRENSIVO FONDO - REVO'
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-FONDO-REVO2
 MILENA ENDRIZZI,,,Circolo di coordinamento pedagogico,,,"Viale Trento,
     
 37/E -
@@ -2003,7 +2010,7 @@ ROVERETO",+39 0464 493116,+39 0464 493117,circolo.coordinamento09@provincia.tn.i
                 
 Circolo di coordinamento n. 9
             
-"
+",/Scuole/Circolo-di-coordinamento-n.-94
 TATIANA SORAPERRA,,FEDERICO CORRADINI,Circolo di coordinamento pedagogico,,,"Strada Giuseppe Soraperra - Pozza di Fassa,
     
 6 -
@@ -2014,7 +2021,7 @@ SAN GIOVANNI DI FASSA - SEN JAN",+39 0462 760340,+39 0462 760001,coordinamento.s
                 
 Coordinamento pedagogico scuole provinciali dell'infanzia ladine
             
-"
+",/Scuole/Coordinamento-pedagogico-scuole-provinciali-dell-infanzia-ladine2
 ,,,Istituzione scolastica e formativa,ALESSANDRO MIORELLI,,"Via XXIV Maggio,
     
 1 -
@@ -2025,7 +2032,7 @@ ARCO",+39 0464 519546,+39 0464 519959,gardascuola@pec.cooperazionetrentina.it,,s
                 
 GARDASCUOLA SOCIETA' COOPERATIVA SOCIALE - ARCO
             
-"
+",/Scuole/GARDASCUOLA-SOCIETA-COOPERATIVA-SOCIALE-ARCO2
 ,,,Istituzione scolastica e formativa,,LAURA SCALFI,"Piazzale Orsi,
     
 1 -
@@ -2036,7 +2043,7 @@ ROVERETO",+39 0464 433484,+39 0464 436873,iscrizioni.veronesi@pec.it,,segreteria
                 
 Giuseppe Veronesi - Centro di istruzione scolastica e di formazione professionale
             
-"
+",/Scuole/Giuseppe-Veronesi-Centro-di-istruzione-scolastica-e-di-formazione-professionale
 ,,,Istituzione scolastica e formativa,MAURA MAINO,,"Via Don Anzelini,
     
 2 -
@@ -2047,7 +2054,7 @@ ALA",+39 0464 671119,+39 0464 674138,ic.ala@pec.provincia.tn.it,dir.ic.ala@scuol
                 
 ISTITUTO COMPRENSIVO ALA ""Antonio Bresciani""
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-ALA-Antonio-Bresciani2
 ,,,Istituzione scolastica e formativa,TIZIANA CHIARA PASQUINI,,"Via Della Torre Franca,
     
 1 -
@@ -2058,7 +2065,7 @@ TRENTO",+39 0461 945237,+39 0464 946007,ic.aldeno-mattarello@pec.provincia.tn.it
                 
 ISTITUTO COMPRENSIVO ALDENO MATTARELLO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-ALDENO-MATTARELLO2
 ,,,Istituzione scolastica e formativa,FRANCO VANIN,,"Via S Michele,
     
 11 -
@@ -2069,7 +2076,7 @@ OSSANA",+39 0463 751129,+39 0463 750043,ic.altavaldisole@pec.provincia.tn.it,dir
                 
 ISTITUTO COMPRENSIVO ALTA VAL DI SOLE
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-ALTA-VAL-DI-SOLE2
 ,,,Istituzione scolastica e formativa,PIERA PEGORETTI,,"Via Stazione,
     
 30 -
@@ -2080,7 +2087,7 @@ VOLANO",+39 0464 410475,+39 0461 490699,ic.altavallagarina@pec.provincia.tn.it,d
                 
 ISTITUTO COMPRENSIVO ALTA VALLAGARINA
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-ALTA-VALLAGARINA2
 ,,,Istituzione scolastica e formativa,NORMA BORGOGNO,,"Via del XXVI Maggio - Baselga,
     
 6 -
@@ -2091,7 +2098,7 @@ BASELGA DI PINE'",+39 0461 557138,+39 0461 558163,ic.pine@pec.provincia.tn.it,di
                 
 ISTITUTO COMPRENSIVO ALTOPIANO DI PINE'
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-ALTOPIANO-DI-PINE2
 ,,,Istituzione scolastica e formativa,CLAUDIA TERRANOVA,,"Localita Prabi,
      -
     
@@ -2101,7 +2108,7 @@ ARCO",+39 0464 516429,+39 0464 517064,ic.arco@pec.provincia.tn.it,dir.ic.arco@sc
                 
 ISTITUTO COMPRENSIVO ARCO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-ARCO2
 ,,,Istituzione scolastica e formativa,DANIELA FRUET,,"Via Monte Cristallo,
     
 2 -
@@ -2112,7 +2119,7 @@ PERGINE VALSUGANA",+39 0461 532261,+39 0461 533167,ic.pergine1@pec.provincia.tn.
                 
 ISTITUTO COMPRENSIVO PERGINE 1
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-PERGINE-12
 ,,,Istituzione scolastica e formativa,STEFANO MORELATO,,"Via Amstetten,
     
 4 -
@@ -2123,7 +2130,7 @@ PERGINE VALSUGANA",+39 0461 512312,+39 0461 530043,ic.pergine2@pec.provincia.tn.
                 
 ISTITUTO COMPRENSIVO PERGINE 2 ""C. Freinet""
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-PERGINE-2-C.-Freinet2
 ,,,Istituzione scolastica e formativa,ELISABETTA PIZIO,,"Corso Degasperi,
     
 8 -
@@ -2134,7 +2141,7 @@ PREDAZZO",+39 0462 501131,+39 0462 500023,ic.predazzo@pec.provincia.tn.it,dir.ic
                 
 ISTITUTO COMPRENSIVO PREDAZZO TESERO PANCHIA' ZIANO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-PREDAZZO-TESERO-PANCHIA-ZIANO2
 ,,,Istituzione scolastica e formativa,MAURIZIO CAPRONI,,"Piazza Contini,
     
 8 -
@@ -2145,7 +2152,7 @@ RIVA DEL GARDA",+39 0464 552170,+39 0464 520789,ic.riva2@pec.provincia.tn.it,dir
                 
 ISTITUTO COMPRENSIVO RIVA 2 ""L. Pizzini""
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-RIVA-2-L.-Pizzini2
 ,,,Istituzione scolastica e formativa,DANIELA DEPENTORI,,"Corso Bettini,
     
 67 -
@@ -2156,7 +2163,7 @@ ROVERETO",+39 0464 420759,+39 0464 480415,ic.roveretonord@pec.provincia.tn.it,di
                 
 ISTITUTO COMPRENSIVO ROVERETO NORD
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-ROVERETO-NORD2
 ,,,Istituzione scolastica e formativa,GIULIANA SIGHEL,,"Via Roma - Strigno,
     
 14 -
@@ -2167,7 +2174,7 @@ CASTEL IVANO",+39 0461 762046,+39 0461 763409,ic.strignotesino@pec.provincia.tn.
                 
 ISTITUTO COMPRENSIVO STRIGNO E TESINO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-STRIGNO-E-TESINO2
 ,,,Istituzione scolastica e formativa,RENATO PAOLI,,"Via S Giovanni Bosco - Ponte Arche - Bleggio Inferiore,
     
 14 -
@@ -2178,7 +2185,7 @@ COMANO TERME",+39 0465 701472,+39 0465 702452,ic.giudicarieesteriori@pec.provinc
                 
 ISTITUTO COMPRENSIVO GIUDICARIE ESTERIORI
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-GIUDICARIE-ESTERIORI2
 ,,,Istituzione scolastica e formativa,FRANCESCA LASARACINA,,"Via Sette,
     
 13 -
@@ -2189,7 +2196,7 @@ LAVIS",+39 0461 246535,+39 0461 242955,ic.lavis@pec.provincia.tn.it,dir.ic.lavis
                 
 ISTITUTO COMPRENSIVO LAVIS
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-LAVIS2
 ,,,Istituzione scolastica e formativa,EZIO MONTIBELLER,,"Via della Pace,
     
 5 -
@@ -2200,7 +2207,7 @@ LEVICO TERME",+39 0461 706146,+39 0461 706099,ic.levicoterme@pec.provincia.tn.it
                 
 ISTITUTO COMPRENSIVO LEVICO TERME
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-LEVICO-TERME2
 ,,,Istituzione scolastica e formativa,PAOLA SIGMUND,,"Via Fornai,
     
 1 -
@@ -2211,7 +2218,7 @@ MEZZOCORONA",+39 0461 605409,+39 0461 605142,ic.mezzocorona@pec.provincia.tn.it,
                 
 ISTITUTO COMPRENSIVO MEZZOCORONA
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-MEZZOCORONA2
 ,,,Istituzione scolastica e formativa,CINZIA CASNA,,"Via Degli Alpini,
     
 17 -
@@ -2222,7 +2229,7 @@ MEZZOLOMBARDO",+39 0461 601125,+39 0461 601125,ic.mezzolombardo@pec.provincia.tn
                 
 ISTITUTO COMPRENSIVO MEZZOLOMBARDO - PAGANELLA
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-MEZZOLOMBARDO-PAGANELLA2
 ,,,Istituzione scolastica e formativa,VITO ROVIGO,,"Viale Degasperi,
     
 69 -
@@ -2233,7 +2240,7 @@ AVIO",+39 0464 684029,+39 0464 687570,ic.avio@pec.provincia.tn.it,dir.ic.avio@sc
                 
 ISTITUTO COMPRENSIVO AVIO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-AVIO2
 ,,,Istituzione scolastica e formativa,PASQUA CINZIA SALOMONE,,"Via Taddei De Mauris,
     
 4 -
@@ -2244,7 +2251,7 @@ MALE'",+39 0463 901237,+39 0463 902866,ic.bassavaldisole@pec.provincia.tn.it,dir
                 
 ISTITUTO COMPRENSIVO BASSA VAL DI SOLE ""G. Ciccolini""
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-BASSA-VAL-DI-SOLE-G.-Ciccolini2
 ,,,Istituzione scolastica e formativa,LUIGI VITULLO,,"Via Spagolla,
     
 1 -
@@ -2255,7 +2262,7 @@ BORGO VALSUGANA",+39 0461 753179,+39 0461 754131,ic.borgovalsugana@pec.provincia
                 
 ISTITUTO COMPRENSIVO BORGO VALSUGANA
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-BORGO-VALSUGANA2
 ,,,Istituzione scolastica e formativa,ROBERTO TROLLI,,"Piazza Verdi,
     
 6 -
@@ -2266,7 +2273,7 @@ CAVALESE",+39 0462 340314,+39 0462 342294,ic.cavalese@pec.provincia.tn.it,dir.ca
                 
 ISTITUTO COMPRENSIVO CAVALESE
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-CAVALESE2
 ,,,Istituzione scolastica e formativa,STEFANO CHESINI,,"Via Negritelle - Cembra,
     
 1 -
@@ -2277,7 +2284,7 @@ CEMBRA LISIGNAGO",+39 0461 683006,+39 0461 682166,ic.cembra@pec.provincia.tn.it,
                 
 ISTITUTO COMPRENSIVO CEMBRA
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-CEMBRA2
 ,,,Istituzione scolastica e formativa,MAURA ZINI,,"Via Degli Alpini - Taio,
     
 17 -
@@ -2288,7 +2295,7 @@ PREDAIA",+39 0463 468193,+39 0463 467616,ic.taio@pec.provincia.tn.it,dir.ictaio@
                 
 ISTITUTO COMPRENSIVO TAIO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-TAIO2
 ,,,Istituzione scolastica e formativa,ALBERTO PARIS,,"Via Circonvallazione,
     
 44 -
@@ -2299,7 +2306,7 @@ TIONE DI TRENTO",+39 0465 321053,+39 0465 324039,ic.tione@pec.provincia.tn.it,di
                 
 ISTITUTO COMPRENSIVO TIONE
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-TIONE2
 ,,,Istituzione scolastica e formativa,LAURA DE DONNO,,"Via Znojmo,
     
 24 -
@@ -2310,7 +2317,7 @@ TRENTO",+39 0461 912740,+39 0461 912065,ic.trento1@pec.provincia.tn.it,dir.ic.tn
                 
 ISTITUTO COMPRENSIVO TRENTO 1
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-TRENTO-12
 ,,,Istituzione scolastica e formativa,CARLO ZANETTI,,"Via Ponte Alto,
     
 2/1 -
@@ -2321,7 +2328,7 @@ TRENTO",+39 0461 982113,+39 0461 237554,ic.comenius@pec.provincia.tn.it,dir.ictn
                 
 ISTITUTO COMPRENSIVO TRENTO 2 ""J. A. Comenius""
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-TRENTO-2-J.-A.-Comenius2
 ,,,Istituzione scolastica e formativa,LINA BROCH,,"Via Vittorio Veneto,
     
 61 -
@@ -2332,7 +2339,7 @@ TRENTO",+39 0461 934977,+39 0461 920605,ic.trento3@pec.provincia.tn.it,dir.ic.tn
                 
 ISTITUTO COMPRENSIVO TRENTO 3
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-TRENTO-32
 ,,,Istituzione scolastica e formativa,PATRIZIA VISCONTI,,"Piazzale Europa,
     
 4 -
@@ -2343,7 +2350,7 @@ TRENTO",+39 0461 920316,+39 0461 922030,ic.trento4@pec.provincia.tn.it,dir.ictn4
                 
 ISTITUTO COMPRENSIVO TRENTO 4
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-TRENTO-42
 ,,,Istituzione scolastica e formativa,PAOLA PASQUALIN,,"Via S Giovanni Bosco,
     
 8 -
@@ -2354,7 +2361,7 @@ TRENTO",+39 0461 263331,+39 0461 984463,ic.tn5@pec.provincia.tn.it,dir.ic.tn5@sc
                 
 ISTITUTO COMPRENSIVO TRENTO 5
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-TRENTO-584
 ,,,Istituzione scolastica e formativa,GIULIO BERTOLDI,,"Via XXIV Maggio,
     
 7 -
@@ -2365,7 +2372,7 @@ BORGO VALSUGANA",+39 0461 753647,+39 0461 753364,degasperi@pec.provincia.tn.it,d
                 
 ISTITUTO DI ISTRUZIONE ""A. Degasperi"" - BORGO VALSUGANA
             
-"
+",/Scuole/ISTITUTO-DI-ISTRUZIONE-A.-Degasperi-BORGO-VALSUGANA2
 ,,,Istituzione scolastica e formativa,ALESSANDRO FABRIS,,"Via Durone,
     
 53 -
@@ -2376,7 +2383,7 @@ TIONE DI TRENTO",+39 0465 321735,+39 0465 322811,guetti@pec.provincia.tn.it,dir.
                 
 ISTITUTO DI ISTRUZIONE ""L. Guetti"" - TIONE DI TRENTO
             
-"
+",/Scuole/ISTITUTO-DI-ISTRUZIONE-L.-Guetti-TIONE-DI-TRENTO2
 ,,,Istituzione scolastica e formativa,TIZIANA GULLI,,"Via S Pietro,
     
 4 -
@@ -2387,7 +2394,7 @@ PERGINE VALSUGANA",+39 0461 511397,+39 0461 531743,curie@pec.provincia.tn.it,dir
                 
 ISTITUTO DI ISTRUZIONE ""M. Curie"" - PERGINE VALSUGANA
             
-"
+",/Scuole/ISTITUTO-DI-ISTRUZIONE-M.-Curie-PERGINE-VALSUGANA2
 KATIA PEGORETTI,,,Circolo di coordinamento pedagogico,,,"Via Gilli,
     
 3 -
@@ -2398,7 +2405,7 @@ TRENTO",+39 0461 496956,+39 0461 499283,circolo.coordinamento06@provincia.tn.it,
                 
 Circolo di coordinamento n. 6
             
-"
+",/Scuole/Circolo-di-coordinamento-n.-64
 LAURA BERTOLDI,,,Circolo di coordinamento pedagogico,,,"Via Filos,
     
 2 -
@@ -2409,7 +2416,7 @@ MEZZOLOMBARDO",+39 0461 494331,+39 0461 494334,circolo.coordinamento07@provincia
                 
 Circolo di coordinamento n. 7
             
-"
+",/Scuole/Circolo-di-coordinamento-n.-74
 ,,,Istituzione scolastica e formativa,VALENTINA DANTE,,"Via Saibanti,
     
 6 -
@@ -2420,7 +2427,7 @@ ROVERETO",+39 0464 434047,,segreteria@lavela.famigliamaterna.it,direzione@lavela
                 
 SCUOLA PARITARIA LA VELA - FONDAZIONE FAMIGLIA MATERNA - ROVERETO
             
-"
+",/Scuole/SCUOLA-PARITARIA-LA-VELA-FONDAZIONE-FAMIGLIA-MATERNA-ROVERETO
 ,,,Istituzione scolastica e formativa,ANDREA SCHELFI,CAZZANI DANIELA,"Viale Dei Colli,
     
 17 -
@@ -2431,7 +2438,7 @@ ROVERETO",+39 0464 439164,+39 0464 435851,ifpa.rovereto@pec.provincia.tn.it,dir.
                 
 Istituto Formazione Professionale Alberghiero - Rovereto
             
-"
+",/Scuole/Istituto-Formazione-Professionale-Alberghiero-Rovereto2
 ,,,Istituzione scolastica e formativa,,WALTER IORI,"Via Giovanni Prati,
     
 22 -
@@ -2442,7 +2449,7 @@ TRENTO",+39 0461 987180,+39 0461 233877,cfp-upt@pec.it,,segreteria.sede@cfp-upt.
                 
 Centro Formazione Professionale UPT - Borgo Valsugana
             
-"
+",/Scuole/Centro-Formazione-Professionale-UPT-Borgo-Valsugana2
 ,,,Istituzione scolastica e formativa,FEDERICO SAMADEN,TARGA WALTER,"Via Ziehl,
     
 5 -
@@ -2453,7 +2460,7 @@ LEVICO TERME",+39 0461 706294,+39 0461 702025,ifpa.levicoterme@pec.provincia.tn.
                 
 Istituto Formazione Professionale Alberghiero - Levico
             
-"
+",/Scuole/Istituto-Formazione-Professionale-Alberghiero-Levico2
 ,,,Istituzione scolastica e formativa,MARIA PRODI,,"Via Delle Fonti - Transacqua,
     
 10 -
@@ -2464,7 +2471,7 @@ PRIMIERO SAN MARTINO DI CASTROZZA",+39 0439 62435,+39 0439 762466,ic.primiero@pe
                 
 ISTITUTO COMPRENSIVO DI SCUOLA PRIMARIA E SECONDARIA DI PRIMIERO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-DI-SCUOLA-PRIMARIA-E-SECONDARIA-DI-PRIMIERO2
 ,,,Istituzione scolastica e formativa,MASSIMILIANO LATINO,,"Via Giovanni XXIII,
     
 64 -
@@ -2475,7 +2482,7 @@ MORI",+39 0464 918669,,ic.mori@pec.provincia.tn.it,dir.ic.mori@scuole.provincia.
                 
 ISTITUTO COMPRENSIVO MORI
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-MORI
 ,,,Istituzione scolastica e formativa,PAOLO CHINCARINI,,"Viale Dei Tigli,
     
 43 -
@@ -2486,7 +2493,7 @@ RIVA DEL GARDA",+39 0464 578511,+39 0464 578555,floriani@pec.provincia.tn.it,dir
                 
 ISTITUTO TECNICO ECONOMICO E TECNOLOGICO ""G. Floriani"" - RIVA DEL GARDA
             
-"
+",/Scuole/ISTITUTO-TECNICO-ECONOMICO-E-TECNOLOGICO-G.-Floriani-RIVA-DEL-GARDA2
 ,,,Istituzione scolastica e formativa,MARIA RITA MAGISTRO,DELUCA ENZO,"Viale Verona,
     
 141 -
@@ -2497,7 +2504,7 @@ TRENTO",+39 0461 933147,+39 0461 931682,ifp.trento@pec.provincia.tn.it,ifp.trent
                 
 Istituto Formazione Professionale Servizi alla Persona e Legno ""S. Pertini"" - Trento
             
-"
+",/Scuole/Istituto-Formazione-Professionale-Servizi-alla-Persona-e-Legno-S.-Pertini-Trento
 ,,,Istituzione scolastica e formativa,LICIA CAMPI,,"Via Colle Verde,
     
 3 -
@@ -2508,7 +2515,7 @@ DENNO",+39 0461 655783,+39 0461 655783,ic.bassaanaunia@pec.provincia.tn.it,dir.i
                 
 ISTITUTO COMPRENSIVO BASSA ANAUNIA - TUENNO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-BASSA-ANAUNIA-TUENNO212
 ,,,Istituzione scolastica e formativa,NICOLA PARZIAN,,"Via IV Novembre,
     
 35/1 -
@@ -2519,7 +2526,7 @@ TRENTO",+39 0461 990287,+39 0461 994418,ic.trento7@pec.provincia.tn.it,dir.ic.tn
                 
 ISTITUTO COMPRENSIVO TRENTO 7 ""Rita Levi Montalcini""
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-TRENTO-7-Rita-Levi-Montalcini
 ,,,Istituzione scolastica e formativa,MARIA TERESA DOSSO,,"Via Balista,
     
 6 -
@@ -2530,7 +2537,7 @@ ROVERETO",+39 0464 485511,+39 0464 485550,donmilani@pec.provincia.tn.it,dir.donm
                 
 ISTITUTO DI ISTRUZIONE ""don L.Milani"" - ROVERETO
             
-"
+",/Scuole/ISTITUTO-DI-ISTRUZIONE-don-L.Milani-ROVERETO2
 ,,,Istituzione scolastica e formativa,PAOLO ANDREA BUZZELLI,,"Via Alberti Lutti,
     
 7 -
@@ -2541,7 +2548,7 @@ RIVA DEL GARDA",+39 0464 552316,+39 0464 552316,maffei@pec.provincia.tn.it,dir.l
                 
 LICEO ""A. Maffei"" - RIVA DEL GARDA
             
-"
+",/Scuole/LICEO-A.-Maffei-RIVA-DEL-GARDA2
 ,,,Istituzione scolastica e formativa,GIUSEPPE GAMMINO,,"Via Benacense,
     
 32 -
@@ -2552,7 +2559,7 @@ ROVERETO",+39 0464 420532,+39 0464 432707,ic.roveretosud@pec.provincia.tn.it,dir
                 
 ISTITUTO COMPRENSIVO ROVERETO SUD
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-ROVERETO-SUD2
 ,,,Istituzione scolastica e formativa,MASSIMO GABURRO,,"Via Chini,
     
 31 -
@@ -2563,7 +2570,7 @@ CLES",+39 0463 421457,+39 0463 424830,ic.cles@pec.provincia.tn.it,dir.ic.cles@sc
                 
 ISTITUTO COMPRENSIVO CLES ""B. Clesio""
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-CLES-B.-Clesio2
 ,,,Istituzione scolastica e formativa,CHIARA MOTTER,,"Via Mattioli,
     
 8 -
@@ -2574,7 +2581,7 @@ TRENTO",0461914499,0461915472,linguisticotrento@pec.provincia.tn.it,dir.linguist
                 
 LICEO LINGUISTICO ""S. M. Scholl"" - TRENTO
             
-"
+",/Scuole/LICEO-LINGUISTICO-S.-M.-Scholl-TRENTO2
 ,,,Istituzione scolastica e formativa,PAOLA BORTOLOTTI,,"Viale Damiano Chiesa,
     
 10 -
@@ -2585,7 +2592,7 @@ RIVA DEL GARDA",+39 0464 553088,+39 0464 553088,riva1@pec.provincia.tn.it,dir.ri
                 
 ISTITUTO COMPRENSIVO RIVA 1
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-RIVA-12
 ,,,Istituzione scolastica e formativa,FRANCESCA BORROI,,"Viale Della Vittoria,
     
 43 -
@@ -2596,7 +2603,7 @@ ROVERETO",+39 0464 431515,+39 0464 489616,ic.isera-rovereto@pec.provincia.tn.it,
                 
 ISTITUTO COMPRENSIVO ISERA - ROVERETO
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-ISERA-ROVERETO2
 ,,,Istituzione scolastica e formativa,MICHELE ROSA,,"Corso Rosmini,
     
 86 -
@@ -2607,7 +2614,7 @@ ROVERETO",+39 0464 433709,+39 0464 450456,ic.roveretoest@pec.provincia.tn.it,dir
                 
 ISTITUTO COMPRENSIVO ROVERETO EST
             
-"
+",/Scuole/ISTITUTO-COMPRENSIVO-ROVERETO-EST2
 SARA TONAZZOLI,suor Erminia Morelli,,Scuola dell'infanzia,,,"Piazza S Teresa Verzeri,
     
 4 -
@@ -2618,7 +2625,7 @@ TRENTO",0461-981465,,materna@istitutosacrocuore.it,,,,,1,"
                 
 Scuola dell'infanzia di Trento  ""Sacro Cuore""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Trento-Sacro-Cuore3
 ANNARITA CAPPELLETTI,,,Circolo di coordinamento pedagogico,,,"Via Circonvallazione,
     
 65 -
@@ -2629,7 +2636,7 @@ TIONE DI TRENTO",+39 0461 493385,+39 0461 493389,circolo.coordinamento08@provinc
                 
 Circolo di coordinamento n. 8
             
-"
+",/Scuole/Circolo-di-coordinamento-n.-82
 MARTINA BASSETI,,,Circolo di coordinamento pedagogico,,,"Via Gilli,
     
 3 -
@@ -2640,7 +2647,7 @@ TRENTO",+39 0461 496955,+39 0461 497257,circolo.coordinamento05@provincia.tn.it,
                 
 Circolo di coordinamento n. 5
             
-"
+",/Scuole/Circolo-di-coordinamento-n.-54
 SIMONETTA ERRIGO,,,Circolo di coordinamento pedagogico,,,"Via della Gana,
     
 10 -
@@ -2651,7 +2658,7 @@ MALE'",+39 0461 491939,+39 0461 491940,circolo.coordinamento11@provincia.tn.it,,
                 
 Circolo di coordinamento n. 11
             
-"
+",/Scuole/Circolo-di-coordinamento-n.-112
 CHIARA NADALON,,,Circolo di coordinamento pedagogico,,,"Via Gilli,
     
 3 -
@@ -2662,7 +2669,7 @@ TRENTO",+39 0461 496952,+39 0461 497257,circolo.coordinamento03@provincia.tn.it,
                 
 Circolo di coordinamento n. 3
             
-"
+",/Scuole/Circolo-di-coordinamento-n.-3
 GINEVRA RELLA,,,Circolo di coordinamento pedagogico,,,"Viale Trento,
     
 37/E -
@@ -2673,7 +2680,7 @@ ROVERETO",+39 0464 493114,+39 0464 493115,circolo.coordinamento10@provincia.tn.i
                 
 Circolo di coordinamento n. 10
             
-"
+",/Scuole/Circolo-di-coordinamento-n.-102
 FRANCESCA VARESCHI,,,Scuola dell'infanzia,,,"Via De Ferrari,
     
 1 -
@@ -2684,7 +2691,7 @@ ALA",0464-674717,+39 0464 674717,ala.presidente@fpsm.tn.it,,ala.segretario@fpsm.
                 
 Scuola dell'infanzia di Ala
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Ala2
 ,ALBERTO GALLI,,Scuola dell'infanzia,,,"Corso Verona,
     
 109 -
@@ -2695,7 +2702,7 @@ ROVERETO",0464-432307,0464-400420,lizzanella.materna@associazionecoesi.com,,,,,1
                 
 Scuola dell'infanzia di Lizzanella
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Lizzanella2
 ,,,Scuola dell'infanzia,,FRANCESCA PAROLARI,"Piazza Garbari,
     
 5 -
@@ -2706,7 +2713,7 @@ PERGINE VALSUGANA",0461-502351,,info@asifchimelli.it,,,,,1,"
                 
 Scuola dell'infanzia di Pergine  ""G.B. Chimelli""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Pergine-G.B.-Chimelli2
 ,FRANCO ANTONINI,,Scuola dell'infanzia,,,"Viale Roma,
     
 32 -
@@ -2717,7 +2724,7 @@ RIVA DEL GARDA",0464-552360,0464-560456,rivagiardino.materna@associazionecoesi.c
                 
 Scuola dell'infanzia di Riva ""Giardino""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Riva-Giardino2
 ,STEFANO TALASSI,,Scuola dell'infanzia,,,"Via Dei Colli,
     
 4 -
@@ -2728,7 +2735,7 @@ LAVIS",0461-240366,0461-249078,lavis.materna@associazionecoesi.com,,,,,1,"
                 
 Scuola dell'infanzia di Lavis  ""Madre Maddalena di Canossa""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Lavis-Madre-Maddalena-di-Canossa2
 ,CHIARA ZONTINI,,Scuola dell'infanzia,,,"Salita Alla Bastia,
     
 2 -
@@ -2739,7 +2746,7 @@ STORO",0465-685131,0465685131,lodrone.materna@associazionecoesi.com,,,,,1,"
                 
 Scuola dell'infanzia di Lodrone
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Lodrone2
 ,PIER LUIGI SACCANI,,Scuola dell'infanzia,,,"Via Adamello,
     
 2 -
@@ -2750,7 +2757,7 @@ TRENTO",0461-911027,0461-394133,s.antonio.materna@associazionecoesi.com,,,,,1,"
                 
 Scuola dell'infanzia di Trento ""S. Antonio""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Trento-S.-Antonio2
 ,,,Scuola dell'infanzia,,FRANCESCA PAROLARI,"Piazza di S Anna,
     
 3 -
@@ -2761,7 +2768,7 @@ PERGINE VALSUGANA",+39 0461 502351,,info@asifchimelli.it,,,,,1,"
                 
 Scuola dell'infanzia di Roncogno di Pergine
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Roncogno-di-Pergine2
 PAOLA SANGIORGI,,,Scuola dell'infanzia,,,"Piazza Municipio,
     
 2 -
@@ -2772,7 +2779,7 @@ CASTELNUOVO",0461-753637,,castelnuovo.presidente@fpsm.tn.it,,castelnuovo.segreta
                 
 Scuola dell'infanzia di Castelnuovo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Castelnuovo2
 ,MARCO MANICA,,Scuola dell'infanzia,,,"Via Alla Stazione,
     
 2 -
@@ -2783,7 +2790,7 @@ ROVERETO",0464-943313,0464-943313,marco.materna@associazionecoesi.com,,,,,1,"
                 
 Scuola dell'infanzia di Marco Rovereto   ""G.e A. Rosmini Serbati""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Marco-Rovereto-G.e-A.-Rosmini-Serbati2
 ,ANNA DALDOSS,,Scuola dell'infanzia,,,"Via al Castel Romano - Ranzo - Vezzano,
     
 29 -
@@ -2794,7 +2801,7 @@ VALLELAGHI",0461-844137,,ranzo.materna@associazionecoesi.com,,,,,1,"
                 
 Scuola dell'infanzia di Ranzo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Ranzo2
 ,MARCO SALVATERRA,,Scuola dell'infanzia,,,"Piazza Battisti,
     
 4 -
@@ -2805,7 +2812,7 @@ TIONE DI TRENTO",+39 0465 321314,+39 0465 329714,tione.materna@associazionecoesi
                 
 Scuola dell'infanzia di Tione di Trento ""Don Giovanni Failoni""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Tione-di-Trento-Don-Giovanni-Failoni2
 ,ANTONIO GIRARDI,,Scuola dell'infanzia,,,"Via Francesco Ferruccio,
     
 4 -
@@ -2816,7 +2823,7 @@ TRENTO",0461-237392,0461-237392,tambosi.materna@associazionecoesi.com,,,,,1,"
                 
 Scuola dell'infanzia di Trento  ""A. Tambosi""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Trento-A.-Tambosi
 SARA DE ZOLT,,,Scuola dell'infanzia,,,"Via Gabrielli,
     
 1 -
@@ -2827,7 +2834,7 @@ PREDAZZO",0462-501312,,predazzo.presidente@fpsm.tn.it,,predazzo.segretario@fpsm.
                 
 Scuola dell'infanzia di Predazzo
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Predazzo2
 ,TULLIO MUSSI,,Scuola dell'infanzia,,,"Via Lucchi - Roncone,
     
 1 -
@@ -2838,7 +2845,7 @@ SELLA GIUDICARIE",0465-901285,0465-901285,roncone.materna@associazionecoesi.com,
                 
 Scuola dell'infanzia di Roncone  ""Mario Amistadi Sciavina""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Roncone-Mario-Amistadi-Sciavina2
 ALESSANDRA BIANCHI,PIERLUIGI PIFFER,,Scuola dell'infanzia,,,"Via Gar,
     
 1 -
@@ -2849,7 +2856,7 @@ TRENTO",0461-233744,0461-233744,segreteria@gbzanella.it,,,,,1,"
                 
 Scuola dell'infanzia di Trento ""G. B. Zanella ODV""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Trento-G.-B.-Zanella-ODV
 TIZIANA CEOL,ALESSANDRO LARENTIS,,Scuola dell'infanzia,,,"Via Regolani,
     
 4 -
@@ -2860,7 +2867,7 @@ CAVALESE",0462-341673,,cavalese.segretario@fpsm.tn.it,,cavalese.presidente@fpsm.
                 
 Scuola dell'infanzia di Cavalese
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Cavalese3
 DORIS LOSA,LUANA CLINAZ,,Scuola dell'infanzia,,,"Via Re di Castello - Daone,
     
 57 -
@@ -2871,7 +2878,7 @@ VALDAONE",0465-674060,,daone.materna@associazionecoesi.com,,,,,1,"
                 
 Scuola dell'infanzia di Daone
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Daone2
 ,DIEGO MARIA BONAZZA,,Scuola dell'infanzia,,,"Via Marconi - Breguzzo,
     
 5 -
@@ -2882,7 +2889,7 @@ SELLA GIUDICARIE",0465-901550,,breguzzo.bondo.materna@associazionecoesi.com,,,,,
                 
 Scuola dell'infanzia di Breguzzo - Bondo  ""Giuseppina Bonazza""
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Breguzzo-Bondo-Giuseppina-Bonazza2
 ,STEFANO ZENDRI,,Scuola dell'infanzia,,,"Via Brigata Mantova,
     
 1 -
@@ -2893,7 +2900,7 @@ ROVERETO",0464-433395,,lizzana.materna@associazionecoesi.com,,,,,1,"
                 
 Scuola dell'infanzia di Lizzana
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Lizzana2
 TIZIANA CEOL,ALESSANDRO LARENTIS,,Scuola dell'infanzia,,,"Via Damiano Chiesa,
     
 79 -
@@ -2904,7 +2911,7 @@ CAVALESE",0462-340557,,cavalese.segretario@fpsm.tn.it,,cavalese.presidente@fpsm.
                 
 Scuola dell'infanzia di Masi di Cavalese
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Masi-di-Cavalese3
 SARA DE ZOLT,,,Scuola dell'infanzia,,,"Piazza Italia,
     
 8 -
@@ -2915,7 +2922,7 @@ ZIANO DI FIEMME",3703621992,,ziano.presidente@fpsm.tn.it,,ziano.segretario@fpsm.
                 
 Scuola dell'infanzia di Ziano di Fiemme
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Ziano-di-Fiemme2
 ,,,Istituzione scolastica e formativa,MANUEL PENASA,CLAUDIA BISOGNIN,"Via Mach,
     
 1 -
@@ -2926,7 +2933,7 @@ SAN MICHELE ALL'ADIGE",+39 0461 615213,+39 0461 615273,amministrazione.cif@pec.i
                 
 FONDAZIONE EDMUND MACH - ISTITUTO AGRARIO SAN MICHELE ALL'ADIGE
             
-"
+",/Scuole/FONDAZIONE-EDMUND-MACH-ISTITUTO-AGRARIO-SAN-MICHELE-ALL-ADIGE2
 UTE PANCHER,,,Scuola dell'infanzia,,,"Via Ossanna,
     
 3 -
@@ -2937,29 +2944,29 @@ DENNO",0461-655960,,denno.segretario@fpsm.tn.it,,denno.segretario@fpsm.tn.it,,,1
                 
 Scuola dell'infanzia di Denno
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Denno2
 ,,,Istituzione scolastica e formativa,,LUCA BRANZ,"Via Di S Antonio,
     
 1 -
     
 38026    
-OSSANA",+39 0463 751102,+39 0463 751987,cfp.ossana@pec.it,,cfp.ossana@enaip.tn.it,http://www.enaiptrentino.it,,1,"
+OSSANA",+39 0463 751102,+39 0463 751987,cfp.ossana@pec.it,,cfp.ossana@enaip.tn.it,https://ossana.enaiptrentino.it/,,1,"
 
                 
 Centro Formazione Professionale ENAIP - Ossana
             
-"
+",/Scuole/Centro-Formazione-Professionale-ENAIP-Ossana2
 ,,,Istituzione scolastica e formativa,,FRANCESCO MICHELETTI,"Via Giamaolle,
     
 15 -
     
 38051    
-BORGO VALSUGANA",+39 0461 753037,+39 0461 752070,cfp.borgo@pec.it,,cfp.borgo@enaip.tn.it,http://www.enaiptrentino.it,,1,"
+BORGO VALSUGANA",+39 0461 753037,+39 0461 752070,cfp.borgo@pec.it,,cfp.borgo@enaip.tn.it,https://borgo.enaiptrentino.it/,,1,"
 
                 
 Centro Formazione Professionale ENAIP - Borgo Valsugana
             
-"
+",/Scuole/Centro-Formazione-Professionale-ENAIP-Borgo-Valsugana2
 TIZIANA CEOL,,,Scuola dell'infanzia,,,"Via Fia,
     
 20 -
@@ -2970,7 +2977,7 @@ TESERO",0462-813045,,tesero.presidente@fpsm.tn.it,,tesero.segretario@fpsm.tn.it,
                 
 Scuola dell'infanzia di Tesero
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Tesero2
 ROBERTA MEDEGHINI,,,Scuola dell'infanzia,,,"Via Monsignor Gosetti,
     
 3 -
@@ -2981,4 +2988,4 @@ VILLA LAGARINA",0464-411101,,villalagarina.presidente@fpsm.tn.it,,villalagarina.
                 
 Scuola dell'infanzia di Villa Lagarina
             
-"
+",/Scuole/Scuola-dell-infanzia-di-Villa-Lagarina2
