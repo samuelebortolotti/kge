@@ -1,0 +1,1541 @@
+,id,name,surname,role,phone_number,cun,ssd
+0,9c0c137493b2ec94df0ad18f8c79fd40,Bruno,Callegher,Teaching fellow,,,
+1,3f561286a93650282713dc900e080f98,Moreno,Ferrarese,Teaching assistant,,,
+2,b69872e46afd8f1173b79b8f6b6765df,Paolo,Barbieri,Full professor,0461 281326,Scienze politiche e sociali (14),SOCIOLOGIA DEI PROCESSI ECONOMICI E DEL LAVORO (SPS/09)
+3,42ab203bc6bbbc98041a93af9d5b9007,Serena,Manara,Research collaborator,,,
+4,d37dbdbf4b8995917db8381ae02a9b13,Irene,Villa,Teaching assistant,,,
+5,b55d6942cd980bf60bf285577f02e898,Marina,Amadori,Teaching assistant,,,
+6,1aacd7edbd1c4ed0cc1d8e0cb81807dd,Francesco,Brunori,Teaching fellow,,,
+7,95d7a5421026dd099278b720aa36e7bb,Marco Valerio,Rossi Stacconi,Teaching assistant,,,
+8,5ece3a07953a24c06d7b0541753dd684,Massimiliano,Rinaldi,Associate professor,0461 281577,Scienze fisiche (02),"FISICA TEORICA, MODELLI E METODI MATEMATICI (FIS/02)"
+9,c92c2405d58fd998e07a7058358c1bc2,Laura,Cavazzini,Full professor,0461 282734,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",STORIA DELL'ARTE MEDIEVALE (L-ART/01)
+10,ac49852669b0aa3794cbbea7d3bceee2,Guido,Alessandri,Teaching fellow,,,
+11,e7c35f353479d09c6b16870350fe0054,Marina,Garbellotti,Teaching fellow,,,
+12,d5b0ed18cccfc01359bfdb6272ad49ea,Luca,Raineri,Teaching fellow,,,
+13,f901d6a634170ec60d7d6b525a57b881,Chiara,Seghieri,Teaching fellow,,,
+14,3bdf9d85afa26b71ecb328979e19e35a,Marco,Zordan,Research collaborator,,,
+15,9bcca3cb2a35f4689eaf74578fa2c3c7,Elena,Bortolotti,Research collaborator,,,
+16,76eb2aa599a73db9ff15143c3613e406,Paolo,Trianni,Teaching fellow,,,
+17,c3c09fc8c10f22792041f1665a5a4272,Paola,Monti,Visiting professor,,,
+18,4cb565fb0660b2b3feecdcfcbb5def88,Manuela,Basso,Associate professor,0461 285219,Scienze biologiche (05),BIOLOGIA APPLICATA (BIO/13)
+19,b35521b474344ac1a599f138e3fd329f,Paolo,Turrini,Associate professor,0461 283512,Scienze giuridiche (12),DIRITTO INTERNAZIONALE (IUS/13)
+20,d9f8849c53be80699dc30f597ac13c08,Katrin,Zulauf,Teaching fellow,,,
+21,5d9602c73716a2d120272adf6d649fc9,Anna,Prati,Teaching assistant,,,
+22,572a5832f770b1ca8350afd5887a0c9b,Roberto,Zamparelli,Associate professor,0464 808613,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",GLOTTOLOGIA E LINGUISTICA (L-LIN/01)
+23,77f48e7781b98f11a578a7d962df29be,Luisa,Mich,Associate professor,0461 282150,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+24,9ac7379dd1b7b046e25c7d4de699db55,Michela,Vignoli,Associate professor,0464 808652,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI (M-PSI/06)
+25,cf003d1c649b6d538d89742b944d10b2,Alessandro,Carlotto,Full professor,0461 281612,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+26,4b192dc3fc74a20fcabda43535140d24,Ilaria,Brentari,Teaching assistant,,,
+27,0317f540e225e78fb22d1ea3e53ccb41,Teresa,Pasquino,Full professor,0461 283887,Scienze giuridiche (12),DIRITTO PRIVATO (IUS/01)
+28,fbea2f9f707ff27162fb6cb1da9d01c3,Oksana,Tokarchuk,Assistant professor,0461 282105,Scienze economiche e statistiche (13),ECONOMIA E GESTIONE DELLE IMPRESE (SECS-P/08)
+29,45f6c3f9fc57e99926e63cc0e1b8372e,Valeria,Manara,Teaching assistant,,,
+30,8cff88510b80971bdd44a7dedeaf2671,Andrea,Brunello,Teaching fellow,,,
+31,1ccd1a0324405886b58e5e531ee088d0,Simonetta,Filippini,Teaching fellow,,,
+32,f416694aaad0c9747aaca74a915915a3,Silvia,D'Ortenzio,Teaching fellow,,,
+33,c1158aceecd42f533315befc2eae34e3,Giovanni,Provenzano,Assistant professor,0461 283665,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+34,1b687d24fae74a4313f8f25b43c7ddd4,Alessandro,Grecucci,Associate professor,0464 808645,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+35,10d7b6fe27e6d1f0ad7c4a631d75ab1d,Daniele,Giglioli,Full professor,0461 281742,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",CRITICA LETTERARIA E LETTERATURE COMPARATE (L-FIL-LET/14)
+36,83bd2e7ce1808744f6074f463a7ce93d,Michele,Segata,Assistant professor,0461 285282,Ingegneria industriale e dell'informazione (09),TELECOMUNICAZIONI (ING-INF/03)
+37,313c2a10739c81ab7ab30d78c7108af1,Carla Maria,Reale,Teaching assistant,,,
+38,534d561b2c51d8e2f4d105edde385913,Monica,Basile,Teaching fellow,,,
+39,aeab577905e2a3593cb33db2f316f83b,Dener Luiz,Da Silva,Visiting professor,,,
+40,2112f1632a7af2d096606d31d1733efd,Salvatore,Manfredi,Teaching assistant,,,
+41,950d675866759a7d805ca67ee0014588,Alberto,Pirni,Teaching fellow,,,
+42,72745a8060a1edc21c150d4444b3d0a2,Sergio,Martinelli,Teaching assistant,,,
+43,39502f1ed0c6867f4c975c5c31cd551e,Maura,De Bon,Teaching fellow,,,
+44,c44fc9ba46014154c4c2c12e67078cfe,Dario,Fortin,Assistant professor,0464 808147,Scienze mediche (06),SCIENZE INFERMIERISTICHE E TECNICHE NEURO-PSICHIATRICHE E RIABILITATIVE (MED/48)
+45,53346be1e7e93c9031e53472bf84986d,Fernando,Orlandi,Teaching fellow,,,
+46,07176e1dec74a2409c3562aa306e4649,Alessandra,Bisio,Assistant professor,0461 283180,Scienze biologiche (05),GENETICA (BIO/18)
+47,6378cd27d37288dafde9c8d1a2f0d3fe,Marco,Robol,Teaching assistant,,,
+48,fcd939c767bf5c014203fffc4e09e2b4,Melissa Ann,Powers,Teaching fellow,,,
+49,924e25ead1f85624aba975c0090f66f9,Silvia,Holler,Teaching assistant,,,
+50,0e4566c99055c87327f8250dab11a675,Nikolina,Ban,Teaching fellow,,,
+51,642abca07cffe5cc47583d79d08d2d79,Alexander,Jarosch,Teaching fellow,,,
+52,73758b3e636de83a9748c8c64728860c,Francesco,Menegale,Teaching assistant,,,
+53,0c48e6fc84a072df5402aeacd3bb8793,Monica,Molino,Teaching fellow,,,
+54,051c52166d7bb502569c32fb32fef815,Valentina,Marcheselli,Teaching assistant,,,
+55,4b09467d2904fadf4c4924bcb8d6ebd8,Fabia,Franco,Research collaborator,,,
+56,a3873de2aebd4033913e7fe6aca4b03d,Enzo,Moser,Research collaborator,,,
+57,c40f15f3ca2cd99141d9e2a63402f6f8,Ernesto,Gonzalez Castanon,Teaching fellow,,,
+58,469f4a019964a2dba2aa5b6901cce359,Peter,Jackson,Teaching fellow,,,
+59,12191851a32ffeade502bf8329faecf8,Eamonn,Butler Mcintosh,Teaching fellow,,,
+60,583d1cf487cd392e1ab9886da4c3b8a5,Robert,Nürnberg,Associate professor,0461 281619,Scienze matematiche e informatiche (01),ANALISI NUMERICA (MAT/08)
+61,7561a258bfd60e354c033c9bfa25eb72,Ian,Paterson,Teaching fellow,,,
+62,3d9ac41d878ec866921a32098a9393f5,Ketan,Lohani,Teaching assistant,,,
+63,6fe35ccab18611979e961a0edadb68c0,Gabriele,Morselli,Teaching assistant,,,
+64,8ffa680e918b1b5f408db3fde0cdb501,Sabrina,Di Maria,Associate professor,0461 281807,Scienze giuridiche (12),DIRITTO ROMANO E DIRITTI DELL'ANTICHITÀ (IUS/18)
+65,3eb2d22ce46176d96042c9030fa61e34,Veronica,Mazza,Associate professor,0464 808664,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+66,be76555f69cf93a832584283c0c41eaa,Tiziana,Faitini,Assistant professor,0461 282798,Scienze politiche e sociali (14),FILOSOFIA POLITICA (SPS/01)
+67,6b5fcf96b1aacf2cc8d1bcb987c623ea,Andrea,Dorigato,Associate professor,0461 283724,Ingegneria industriale e dell'informazione (09),SCIENZA E TECNOLOGIA DEI MATERIALI (ING-IND/22)
+68,ddbcd4dbca1308df9398aa2a93df80e5,Laurent Charles Henry,Manderieux,Teaching fellow,,,
+69,854e0bb7529bcb9ed433bbb869a4af11,Martina,Battisti,Teaching fellow,,,
+70,9e99c0b253862fa94aecac0474c45240,Cristian,Roner,Teaching assistant,,,
+71,7411aa3fd98c3f0d7ff1d738bee65937,Antonio,Missiroli,Teaching fellow,,,
+72,a50f9fbee0d491676faa649b6a27652c,Angela,Tiano,Teaching assistant,,,
+73,43684bdf1f40512c026096dcbd9dc2c4,Marco,Degasperi,Teaching assistant,,,
+74,a4374c7c4b074cc107abbd106697bd3b,Michele,Brunetta,Teaching fellow,,,
+75,4116a2c33148d6778eb7c34f75392240,Thomas,Dusatti,Teaching assistant,,,
+76,d268e2f2c9d61c15d143b3659d73ef30,Simona,Tarozzi,Associate professor,0461 283834,Scienze giuridiche (12),DIRITTO ROMANO E DIRITTI DELL'ANTICHITÀ (IUS/18)
+77,455ac4fb8bc8555bd508065881b46792,Nicolò,Drago,Assistant professor,0461 281589,Scienze matematiche e informatiche (01),FISICA MATEMATICA (MAT/07)
+78,881c9b78114c7a9c2deda767138847ac,Giovanni,Guarini,Teaching fellow,,,
+79,de590d1ddc34a42c7bebca0a61674c28,Umair,Khan,Teaching assistant,,,
+80,1cd8820493925827828cf70b0a3fde3e,Teresa Francesca,Bertotti,Associate professor,0461 281465,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+81,0c7e74e58f6bd6d46349a68194710b2e,Paola,Sgadò,Assistant professor,0464 808691,,
+82,2f5f47619d0951c13c850a0896b7f6ea,Giorgio,Lorenzi,Teaching fellow,,,
+83,9655029f59e1ab08a3ca6fa2796c0c62,Diana,Muraro,Teaching fellow,,,
+84,031958b555cd2d2477171103b72c7a0d,Guido,Grandi,Full professor,0461 283495,Scienze mediche (06),MICROBIOLOGIA E MICROBIOLOGIA CLINICA (MED/07)
+85,c792ce15e61a94dd34f35d9a223f7c28,Costanza,Papagno,Full professor,0464 808165,Scienze mediche (06),NEUROLOGIA (MED/26)
+86,f8d2870dddc3d1f7ac2f53ec0bc884e3,Francesco,Strazzari,Teaching fellow,,,
+87,9ce4d5078c628ca8f912e0dd0a404e33,Quintino Francesco,Lotito,Teaching assistant,,,
+88,94798d32834ad9611bd180b6fe66e975,Lorenzo,Barban,Teaching assistant,,,
+89,c99b7d5aeb2069e0eb8acd772ccb9671,Francesca,Destefanis,Teaching assistant,,,
+90,645c18e7baf8eac1c448b6a7326cefd7,Marco,Calderini,Assistant professor,,Scienze matematiche e informatiche (01),ALGEBRA (MAT/02)
+91,b1004e3711f5db2577808f451b1ca613,Stefano,Biasi,Assistant professor,0461 283906,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+92,9a353c2eca6a45b1c248d57837c5ce3a,Samuele,Moser,Research collaborator,,,
+93,db8ae99347324cabd75209c938818715,Alessandra,Quendolo,Associate professor,0461 282665,Ingegneria civile e Architettura (08),RESTAURO (ICAR/19)
+94,42d2d2fd1efc406452e82af81af05052,Carlo,Brentari,Assistant professor,0461 282982,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",FILOSOFIA MORALE (M-FIL/03)
+95,59c9978d296016df3db9622ea3adcff8,Michele,Carpagnano,Teaching fellow,,,
+96,2a4c77bc405d2b7101842923642eb11e,Alessia,Marcolini,Teaching assistant,,,
+97,3fbbe2a6a875835ce763674a9d0f3e4f,Sandra,Pietrini,Full professor,0461 282993,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",DISCIPLINE DELLO SPETTACOLO (L-ART/05)
+98,fada1c3a4c5cf98e4cbb6fc0a85987f0,Ioannis,Mylopoulos,Emeritus professor,0461 283903,,
+99,3afdf24ae6e3c99da0271e19ef82b125,Roberto,Cubelli,Full professor,0464 808609,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA GENERALE (M-PSI/01)
+100,98797ae32898aee64e7f7adda294fd06,Giorgia,Gentilini,Teaching assistant,,,
+101,7cc92da07568a577d6b2682d602350e5,Yannis,Velegrakis,Associate professor,0461 283986,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+102,808a6cdcbb52f5a3482125969ffb8bc4,Andrea,Cossu,Associate professor,0461 281332,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+103,07f78638893cf133f3596fae2c3e923a,Jakub Krzysztof,Szymanik,Associate professor,0464 808665,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+104,6cecefd3eec8e7eb1ad6bf7dadabff40,Binayak,Mukherjee,Teaching fellow,,,
+105,1e9d901b3bbc445fa69f5a723c4fb062,Amelie,Cabirol,Research collaborator,,,
+106,92cc5afad5ee8ad987fd1fa01ba86573,Thomas,Karl,Teaching fellow,,,
+107,44d24eff9d2077a057045ff48b5bed5f,Stefano,Baratti,Teaching fellow,,,
+108,d3a40e65e5489a09147a103e2ee85a90,Matteo,Ferrari,Associate professor,0461 283506,Scienze giuridiche (12),DIRITTO AGRARIO (IUS/03)
+109,02df34b592933e0f379e0a3c6e6fb6c9,Alessandro,Torrisi,Teaching assistant,,,
+110,67b1528c9d1fa0ed251ddfb5b262a76b,Francesco,Zambon,Emeritus professor,0461 281766,,
+111,a46487aca370777347c54327e5037ce4,Roberto,Pignatelli,Associate professor,0461 282009,Scienze matematiche e informatiche (01),GEOMETRIA (MAT/03)
+112,496f01fe4792f62326244ed10ff7ea97,Marco,Zamarian,Associate professor,0461 282154,Scienze economiche e statistiche (13),ORGANIZZAZIONE AZIENDALE (SECS-P/10)
+113,fccdc7396fdfe4dbe1d622146c35b48f,Attilio,Marchi,Teaching assistant,,,
+114,eaa52198760ce49ae932cb1a9c4e9452,Erica,Bruno,Teaching assistant,,,
+115,cdcdb78875b037fb0be0a192ffea24f4,Vincenzo,Casulli,Teaching fellow,0461 282676,,
+116,0edb827023651671d8194b7af32def07,Stefano,Vitale,Senior Professor,,,
+117,9cf030e946b9142eaf4b3fe65d63f617,Marco,Andreatta,Full professor,0461 281671,Scienze matematiche e informatiche (01),GEOMETRIA (MAT/03)
+118,54a8c8f3769f93d147fb7140953a1b3a,Roberto,Toniatti,Senior Professor,0461 283875,,
+119,11d6483b0bcb1c938dd902359612a067,Silvano,Zucal,Full professor,0461 281744,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",FILOSOFIA TEORETICA (M-FIL/01)
+120,77fc5cf160ef4e380795d40b7256487a,Paolo,Tosi,Associate professor,0461 281557,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+121,b5db25d947e0d5e4c7ce9b1772376f38,Francesca,Mussi,Assistant professor,,Scienze giuridiche (12),DIRITTO INTERNAZIONALE (IUS/13)
+122,ca82368ae2cec954d55bc94ec1a253e4,Sondra,Faccio,Assistant professor,0461 283121,Scienze giuridiche (12),DIRITTO INTERNAZIONALE (IUS/13)
+123,31bed97d40247ca8d6c600478f440bc5,Andrea,Caranti,Senior Professor,0461 281618,,
+124,40ab5136373da706d1e179a74c47d98c,Flavio,Rossi,Teaching assistant,0461 282002,,
+125,03271160ece7dec5feb0488a0f1f3fa0,Maja,Danovska,Teaching assistant,,,
+126,403b3239ddfce4de7bce60daad8e8309,Placido,Falqueto,Teaching assistant,,,
+127,dd835cd0d54a5b0c036606a18accc721,Filippo,Incontro,Teaching assistant,,,
+128,ad5c4fd543298988771c3a4dde142cce,Luca,Zaccarian,Full professor,0461 282514,Ingegneria industriale e dell'informazione (09),AUTOMATICA (ING-INF/04)
+129,77bb434dbc648ff2a25022500539f235,Andrea,Giovanardi,Full professor,0461 282263,Scienze giuridiche (12),DIRITTO TRIBUTARIO (IUS/12)
+130,1f47a1edf4b4728fe99d5686fb6588ab,Roberto,Wenin,Research collaborator,,,
+131,6485cd3a376721c97df0a996daa265bd,Cristiana,Volpi,Associate professor,0461 282638,Ingegneria civile e Architettura (08),STORIA DELL'ARCHITETTURA (ICAR/18)
+132,8c52a00865d7ad57ed3e43c1ef0f7058,Renato,Troncon,Senior Professor,0461 281773,,
+133,1bf5b6ea369b9345c3f677508cb66cdf,Ermenegildo,Bidese,Associate professor,0461 282985,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E TRADUZIONE - LINGUA TEDESCA (L-LIN/14)
+134,62343525a5cbc33e7e7a86be301f1828,Vincenzo,Trovato,Assistant professor,,Ingegneria industriale e dell'informazione (09),SISTEMI ELETTRICI PER L'ENERGIA (ING-IND/33)
+135,821bed81d46837e3afaa4094c30e168c,Bruno,Majone,Associate professor,0461 282637,Ingegneria civile e Architettura (08),COSTRUZIONI IDRAULICHE E MARITTIME E IDROLOGIA (ICAR/02)
+136,6f6ebef31e36a4e7c1f356e38ff74a7a,Letizia,Caporusso,Teaching assistant,0461 281362,,
+137,0e8d0c70794ac38b2362a24247375641,Walter,Bertoldi,Associate professor,0461 282440,Scienze della terra (04),GEOGRAFIA FISICA E GEOMORFOLOGIA (GEO/04)
+138,109b38cda2c8c022849973d0153d07db,Nicola,Tondini,Associate professor,0461 282536,Ingegneria civile e Architettura (08),TECNICA DELLE COSTRUZIONI (ICAR/09)
+139,88b6e72df6be2ec0de40c6832b826ad6,Uri,Hasson,Associate professor,0461 282777,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+140,5e00848d438612abc8d75ca24ae4ec4d,Anna,Nicolussi Principe,Teaching fellow,,,
+141,d72af9b0f0e82d60b7fdfb60e83f7ef1,Mario Alessandro,Bazzani,Teaching fellow,0461 283504,,
+142,b8f8bd338dd7b870f012f1d471082ba1,Andrea,Comboni,Associate professor,0461 283862,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",FILOLOGIA DELLA LETTERATURA ITALIANA (L-FIL-LET/13)
+143,3e21e21ecbff06e09c44ad54e1aabdfe,Massimo,Pellizzari,Associate professor,0461 282449,Ingegneria industriale e dell'informazione (09),METALLURGIA (ING-IND/21)
+144,b2102e5639efd242a26f86cf6bf3edd9,Sara,Dellantonio,Associate professor,0464 808627,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",LOGICA E FILOSOFIA DELLA SCIENZA (M-FIL/02)
+145,ed30f5ff29669b18537260086ab5fa38,Ernesto,D'Avanzo,Associate professor,0461 283197,Scienze economiche e statistiche (13),ECONOMIA E GESTIONE DELLE IMPRESE (SECS-P/08)
+146,8dee1b2872424f736a1ed3de68c31ee0,Alessandro,Marchetto,Assistant professor,0461 283169,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+147,83de871a711ed74c3e9b3848686bd1b0,Stefano,Daprà,Teaching assistant,,,
+148,ec9220946197a251e5c65f84650439bf,Silvia,Sacchetti,Associate professor,0461 281425,Scienze economiche e statistiche (13),POLITICA ECONOMICA (SECS-P/02)
+149,37244aea0a57cf8d3774f8b4e3b71392,Luca,Mandrioli,Teaching fellow,,,
+150,70944fb27be41eeebf15653a1d01521b,Francesco,Pisanu,Teaching fellow,,,
+151,91617cbec60a54846319d0bc8f8d81c1,Gerardo,De Luzenberger Milnernsheim,Teaching fellow,,,
+152,f4d1d476f91ca11c62fbee5a668471de,Davide,Bressan,Teaching assistant,,,
+153,b8744e15abe20aada36b844856bd543b,Fabrizio,Meroi,Associate professor,0461 282987,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA DELLA FILOSOFIA (M-FIL/06)
+154,c0904ca527f6b7d3e290328cd8e8dbd4,Giorgina,Scarduelli,Teaching fellow,0461 281653,,
+155,01b89277e6bd5d0c8e3428c44a5a2f33,Marco,Grotto,Teaching fellow,0461 283523,,
+156,75b33d59a870ae09dbd350a3e3168b57,Sandro,Trento,Full professor,0461 283158,Scienze economiche e statistiche (13),ECONOMIA E GESTIONE DELLE IMPRESE (SECS-P/08)
+157,0bdcfc463816ea8491a20c774f150789,Alessandro,Tomasi,Teaching assistant,0461 282079,,
+158,60ead1f55ca027df61a81492579aa2f8,Adalgisa,Mingati,Associate professor,0461 283768,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",SLAVISTICA (L-LIN/21)
+159,26ce32277c64808b94f4d49800497720,Beatrice,Dalpedri,Teaching assistant,,,
+160,4fa11bee46fcea7e840ce7580e83cdd6,Fabio,Saggioro,Teaching fellow,,,
+161,a69d1efeffd46bfd3de660adda69fd2c,Giuseppe,Albertoni,Full professor,0461 282719,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA MEDIEVALE (M-STO/01)
+162,c40f6e9b0eda2f0f3f9ae28b2284831f,Eugenio,Aprea,Associate professor,0461615750,Scienze chimiche (03),CHIMICA DEGLI ALIMENTI (CHIM/10)
+163,7b3557e2158e6b63ac7c8f516a41f660,Fabio,Pieri,Associate professor,0461 282393,Scienze economiche e statistiche (13),ECONOMIA APPLICATA (SECS-P/06)
+164,0a22533aa5dc1f120c4d2edb866e1732,Andrea,Piccolroaz,Associate professor,0461 282583,Ingegneria civile e Architettura (08),SCIENZA DELLE COSTRUZIONI (ICAR/08)
+165,51c5266cbdb2ab95ecdb9aad8f538209,Alessio,Zamboni,Research collaborator,,,
+166,9050b034b928bd8c07223ff23d8f72ea,Marco,Sabatini,Full professor,0461 281670,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+167,4f21da5af45eec6b1af86aeb2dde3e9c,Massimiliano,Sala,Full professor,0461 282055,Scienze matematiche e informatiche (01),ALGEBRA (MAT/02)
+168,c696a91789a31b286079dfbb60887823,Simona,De Falco,Associate professor,0464 808145,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA DINAMICA (M-PSI/07)
+169,04f9b1cefcb65f11783247ec5b948ac5,Dina Lucia,Todaro,Teaching assistant,,,
+170,e8bf02f0c6c2a7f07213192cdb524787,Ines,Mancini,Associate professor,0461 281548,Scienze chimiche (03),CHIMICA ORGANICA (CHIM/06)
+171,f429547f89aa9d5cdce233c85bf2044c,Jorge Ezequiel,Malarino,Teaching fellow,,,
+172,ca0fdd83bd9ac00e6e8f2048186805fe,Nicola,Chistè,Teaching assistant,0461 283462,,
+173,6858f51a44e182b341604e90ba917071,Loris,Tasso,Teaching fellow,,,
+174,8314ff022d3061abb8587451ccbb0a99,Domenica,Primerano,Teaching fellow,,,
+175,2e689f60ab13f1925edac7121cb90aff,Emilio,De Capitani,Teaching fellow,,,
+176,b3a52ab4d96a09e37927fe4eec50e96e,Devid,Maniglio,Associate professor,0461 282751,Ingegneria industriale e dell'informazione (09),BIOINGEGNERIA INDUSTRIALE (ING-IND/34)
+177,c0ac2f2689ac612f1dd0c6c261756b3c,Khakim,Akhunov,Teaching assistant,,,
+178,c8539681cfd9d9a0233b0a46459c4994,Luigi,Bonatti,Full professor,0461 282232,Scienze economiche e statistiche (13),POLITICA ECONOMICA (SECS-P/02)
+179,bceb4d09a4d726a4a9d6a2ebc5ce1196,Sara,Avesani,Teaching assistant,,,
+180,bf2012e64123f11c3c5a770d4a26ec80,Dominique,Cappelletti,Teaching assistant,0461 282312,,
+181,00a2d7dffc0fefbca2bbdedc0737f0c4,Francesco,Dal Corso,Associate professor,0461 282522,Ingegneria civile e Architettura (08),SCIENZA DELLE COSTRUZIONI (ICAR/08)
+182,ba415e72fa1db5646592a44853fb1a8e,Mario Claudio,Dejaco,Associate professor,0461 282615,Ingegneria civile e Architettura (08),PRODUZIONE EDILIZIA (ICAR/11)
+183,6c75f0ac93a36a7bb7d105f7fee317b6,Elisa,Ravazzolo,Associate professor,0461 281789,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E TRADUZIONE - LINGUA FRANCESE (L-LIN/04)
+184,72dee867346ee8dd2849061698bae325,Daniele,Moschella,Teaching fellow,,,
+185,42b243cc88c68add8dad10614ddeb334,Giorgio,Daidola,Teaching fellow,0461 282133,,
+186,5f787536e3332c04812127f58e03472e,Andrea,Brighenti,Associate professor,0461 281367,Scienze politiche e sociali (14),SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI (SPS/08)
+187,03d6d89f7f1afb8f19f95244c2a5c7e3,Michele,Andreaus,Full professor,0461 282140,Scienze economiche e statistiche (13),ECONOMIA AZIENDALE (SECS-P/07)
+188,4390bbc89de31d28018a11037d42e5e1,Eugenio,Tufino,Teaching assistant,,,
+189,8b5304d9046e71ebf7b67d04f55ba5e7,Stefania,Rossi,Teaching fellow,,,
+190,f45eb15b177a04017f01cef3941215bd,Viviana,Spinella,Research collaborator,,,
+191,e55d4618af3fa8e2b04ed4e253e5838e,Luca,Fava,Associate professor,0461 285215,Scienze biologiche (05),BIOLOGIA APPLICATA (BIO/13)
+192,dc6502ff8d091119c6ab8bade48248ca,Clementina,Crocè,Teaching assistant,,,
+193,1d74bfa5102e2341373a39a6193351f8,Gabriele,Zanon,Teaching assistant,0461 282568,,
+194,3090295ebb30bd12eb4cfd7ed4bb4986,Ugo Danilo Abelardo,De Ambrogio,Teaching fellow,,,
+195,9d20388c646dcde4d2912d40b5b2e2be,Radoslaw,Niewiadomski,Assistant professor,0464 808108,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+196,8ea424aba5cc869a9c92b2acd12420b7,Roberto,Zunino,Associate professor,0461 283970,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+197,4e634309f92c02aed4a5bfa43f47852a,Nadia Laura,Von Jacobi,Assistant professor,0461 282245,Scienze economiche e statistiche (13),POLITICA ECONOMICA (SECS-P/02)
+198,a09cee2e9f495be4550a3b8a91178fd4,Angelo,Valente,Teaching assistant,,,
+199,e25c94e94f6531dd55f2bced1319d806,Marco,Calautti,Teaching fellow,0461 283195,,
+200,660a1e3c660b8af5a19cb36051f9fa85,Riccardo,Tronconi,Teaching assistant,,,
+201,0f0c747a87605dad8a2db08eb897ac51,Giulia,Sciorati,Teaching fellow,,,
+202,42e98ad405ca64edcf8c34ed73a1379d,Gabor,Bella,Assistant professor,,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+203,d0fbf4703233d752a298b7f55185eada,Emiliano,Biasini,Associate professor,0461 282740,Scienze biologiche (05),BIOCHIMICA (BIO/10)
+204,22b7d51df4cca996546fd0eb672d7fd6,Leonardo Lucio,Custode,Teaching assistant,,,
+205,5563f0d636b937d0a2b912284b3f5b1d,Jennifer,Wagner,Teaching assistant,,,
+206,4d0857cdcdb8a76b44b9a300263ff283,Olindo,Zanotti,Assistant professor,0461 282646,Scienze matematiche e informatiche (01),ANALISI NUMERICA (MAT/08)
+207,732d5039ca6c0889dab79ef5b3e5ea8e,Albina,Abdurakhmanova,Teaching assistant,,,
+208,ee335dbfc60011b9bd848654ffa9dce9,Clara,Rigoni,Teaching fellow,,,
+209,e0677f101056b9b554c7a520dd0e765b,Eduardo Luis,Sola Conde,Associate professor,0461 283295,Scienze matematiche e informatiche (01),GEOMETRIA (MAT/03)
+210,d81d4dee51a5157d6ad691a47d709a30,Ludovica Maria,Beati,Teaching assistant,,,
+211,c889818c8eda11c9ca4e3628428654bf,Riccardo,Bonanomi,Teaching assistant,,,
+212,637c5ac6ce2b06c8b3dbab7c95741c33,Andrea,Bisignano,Teaching fellow,,,
+213,ff2ac242bfec28eb35d5b242e7280270,Anna,Nicolis,Teaching assistant,,,
+214,6ea008a87994418b8eef14af51893b12,Stefano,Bonora,Teaching fellow,,,
+215,05b6fc16d7266724ede49585b3158b76,Elisabetta,Tedeschi,Full professor,0461 282561,Ingegneria industriale e dell'informazione (09),"CONVERTITORI, MACCHINE E AZIONAMENTI ELETTRICI (ING-IND/32)"
+216,ceb238a7b290c524a28905dac15497d9,Lawrence Araa,Odong,Teaching assistant,,,
+217,01273e423b3bd4335146f29979f06e8f,Josephus Henricus,Van Erp,Teaching fellow,,,
+218,43ea3c8157789616205560bd16ae4cce,Elisa,Ferracci,Teaching assistant,,,
+219,c446d3ae903fa2c5fdca9e06c767d3e6,Virginia,Agostiniani,Associate professor,0461 281520,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+220,dfce3c2b2434299aeb4da8212261c206,Davide,Perin,Teaching assistant,,,
+221,c39bef010e0642be9a7695cb3e5cbfe1,Milena,Mottola,Teaching assistant,,,
+222,479f79656f423778e389292a02a18f9b,Zeno,Sambugaro,Teaching assistant,,,
+223,217d0b9f2750225f15ac8c10656084f7,Nicola,Pugno,Full professor,0461 282525,Ingegneria civile e Architettura (08),SCIENZA DELLE COSTRUZIONI (ICAR/08)
+224,7e0076bc3ed034b8647d705df02f6f12,Luca Prakash,Argani,Assistant professor,0461 282594,Ingegneria civile e Architettura (08),GEOTECNICA (ICAR/07)
+225,04a2df7dfa27aae4142d11ba1d866684,Tomas,Roman,Teaching fellow,,,
+226,f121739f745f6b041df98dbd910d21bd,Stefania,Bracci,Assistant professor,0464 808718,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+227,c8ff640a23e7fecb0ce570027b0afbd0,Emanuele,De Bona,Teaching assistant,,,
+228,74127b2ea96c5e00cf54446e6c5ac007,Giacomo,Baldi,Associate professor,0461 282797,Scienze fisiche (02),FISICA DELLA MATERIA (FIS/03)
+229,c8f64b1f2206f884ed0681effe39d20a,Andrea Mario Cuore,Piccaluga,Teaching fellow,,,
+230,068b36c41114586b306dfbd9ed97033c,Louisa Rosemary,Parks,Associate professor,0461 283838,Scienze politiche e sociali (14),SOCIOLOGIA DEI FENOMENI POLITICI (SPS/11)
+231,caf28060486f3071263d7e36e54b0a78,Alessandro,Arcangeli,Teaching fellow,,,
+232,bc54ef9ae16e56dd7bac9a286b286c2f,Andrea,Bizzego,Assistant professor,0464 808637,Ingegneria industriale e dell'informazione (09),BIOINGEGNERIA ELETTRONICA E INFORMATICA (ING-INF/06)
+233,9bb7b54e62f03d73b28aba84045d6e46,Matteo,Luppi,Teaching fellow,,,
+234,642b0b5cc6fa0396de4b646472a0fc42,Mauro,Dragoni,Teaching assistant,,,
+235,dfc566cea7ecc737fcc580afe4e2ba5e,Adrianus Rudolphus,Luijkx,Teaching fellow,,,
+236,6a684b36defaeadee629c414da35932e,Giovanni,Sommacal,Teaching assistant,,,
+237,d171bd76eb6e23fafc9b31c42e5bd2de,Tiziano,Salvaterra,Teaching fellow,,,
+238,224d0743f164a847db3d7c0f13da16b2,Paolo,Scardi,Full professor,0461 282417,Ingegneria industriale e dell'informazione (09),SCIENZA E TECNOLOGIA DEI MATERIALI (ING-IND/22)
+239,2ec720317bbb232c0cb3abc239b3e404,Massimo,Santaroni,Teaching fellow,0461 283879,,
+240,3635c43417d5a489d2063d5173df9abb,Romina,Belli,Teaching fellow,0461 281688,,
+241,8ec816ff5f6ebe29519d5552aab2fd20,Mario,Scotoni,Assistant professor,0461 281558,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+242,873e7aebbae2058540d2364adefe255d,Raul Paolo,Serapioni,Senior Professor,0461 283825,,
+243,b38bac6a7531a672637bf61f83f7fbeb,Sandra,Notaro,Associate professor,0461 282158,Scienze agrarie e veterinarie (07),ECONOMIA ED ESTIMO RURALE (AGR/01)
+244,73867fd3b8b5f585953b902aa5467387,Gian Domenico,Sorarù,Full professor,0461 282454,Ingegneria industriale e dell'informazione (09),SCIENZA E TECNOLOGIA DEI MATERIALI (ING-IND/22)
+245,0e9bb439c7740161b657d5c01f143838,Sandro,Stringari,Emeritus professor,0461 281529,,
+246,c7abcc41a8e7c6c1736da4ba03e2cc94,Nicola,Conci,Associate professor,0461 283919,Ingegneria industriale e dell'informazione (09),TELECOMUNICAZIONI (ING-INF/03)
+247,e90a23b6bc7a47704f5ecb4a68c47f41,Roberto,Sebastiani,Full professor,0461 281514,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+248,39eb411336022427a0f4efe196a6a78d,Emanuele,Taufer,Full professor,0461 282368,Scienze economiche e statistiche (13),STATISTICA (SECS-S/01)
+249,ef441cae1e601ab5586bc730e61dca33,Fabio,Massacci,Full professor,0461 282086,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+250,3f37cea08bcfa94dec1ff5645102b0ed,Marco,Faillo,Associate professor,0461 282280,Scienze economiche e statistiche (13),POLITICA ECONOMICA (SECS-P/02)
+251,9df38a38b5694bd1fcddc6703066d2f5,Oscar,Morales Garcia,Teaching fellow,,,
+252,9e780d991d80d77ef71f8baae2d51d9c,Stefano,Gattei,Assistant professor,0461 281429,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA DELLA SCIENZA E DELLE TECNICHE (M-STO/05)
+253,fb0840f8c7643a28e6c5b77b1f65576c,Mario,Lauria,Associate professor,0461 283839,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+254,b024cfcdbcc8caf9e073e346b94a9203,Caterina,Papandrea,Research collaborator,,,
+255,868e69177f28adeac133527ac8708bf1,Adolfo,Villafiorita Monteleone,Teaching assistant,,,
+256,a0c6036fab98571a78e588b7b0b8e554,Luca,Fiori,Associate professor,0461 282692,Ingegneria industriale e dell'informazione (09),PRINCIPI DI INGEGNERIA CHIMICA (ING-IND/24)
+257,40b91228f8a6a705d99f1c86def49368,Enrico,Pagani,Associate professor,0461 281659,Scienze matematiche e informatiche (01),FISICA MATEMATICA (MAT/07)
+258,a8e5e6eb1dfcf404e2f81cb34c914b42,Marco,Matassoni,Teaching fellow,,,
+259,c7ae86dfb0426c1305cad852aa1eefcc,Eleonora,Broccardo,Associate professor,0461 282104,Scienze economiche e statistiche (13),ECONOMIA DEGLI INTERMEDIARI FINANZIARI (SECS-P/11)
+260,939eec8b462e6f9a41afa7012add8667,Sebastiano,Mariazzi,Assistant professor,0461 281604,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+261,eedb445a7547d1791425fadee557b4c8,Daniel,Tonelli,Teaching assistant,,,
+262,292b985356e90c7252ed753c213fb220,Katia,Pilati,Associate professor,0461 281416,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+263,9e18ec7aebeb9b0c18e3a91260c0e7a5,Marco,Ciolli,Associate professor,0461 282625,Scienze agrarie e veterinarie (07),ASSESTAMENTO FORESTALE E SELVICOLTURA (AGR/05)
+264,e523da4fa688e52e4dc16e479e8e501e,Davide,Vignotto,Teaching assistant,,,
+265,71f9f1f723250ae140694f28c5bba2ef,Piero,Ronzani,Teaching fellow,,,
+266,22798cd27d176f3ddcee32ac26e7b23e,Denis,Nardon,Research collaborator,,,
+267,20fb87c9fd0ef50825d62ab9e0d06745,Giulio,Galdi,Teaching assistant,,,
+268,e211508a2c681d91638107d4759de7e4,Francesca,Di Stradis,Teaching assistant,,,
+269,314f3bcb868e42be18077f0000a7ce32,Lindsey,Nicholson,Teaching fellow,,,
+270,e0fd8f30515222c85a7e67a0020fd5a1,Rudi,Mair,Teaching fellow,,,
+271,238a46f112f41525af1af49c022ef49a,Giuseppe Daniele,Falavigna,Teaching fellow,,,
+272,d083e39863491c3ab7a53b8f504c6b83,Sandro Luigi,Fiore,Associate professor,0461 283594,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+273,0fdb1595074507149fdd9db0389fa121,Rosario,Marrocco,Teaching fellow,,,
+274,28e7afaf29bf6d308163e01a503b8f28,Maya,De Leo,Teaching fellow,,,
+275,c33c6fe02aabc2f16606da21643d428e,Luca,Vassallo,Research collaborator,,,
+276,18faa2042fecdac9ad0d4eb43964da5d,Benedetta,Valtorta,Assistant professor,0461 281712,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA LATINA MEDIEVALE E UMANISTICA (L-FIL-LET/08)
+277,2012b786f1cbcacccd228d0469773700,Alessio,Marinelli,Teaching assistant,,,
+278,d76a3190c262b4f5ae0716b8a293c4b6,Mariagrazia,Alabrese,Teaching fellow,,,
+279,eb72809f574673afff16822ea81893dc,Dipak,Raj Pant,Research collaborator,,,
+280,20e32c1f0023f65cca023d7b3970b839,Andrea,Albanese,Teaching assistant,,,
+281,b894924cee5d6c863a314d76d6983fd9,Massimo,Calovi,Assistant professor,0461 283414,Ingegneria industriale e dell'informazione (09),SCIENZA E TECNOLOGIA DEI MATERIALI (ING-IND/22)
+282,af4ae71b6d08707c16950ab57717efc4,Mauro,Paolini,Teaching assistant,,,
+283,0a26d06840930d8903a4ba533040f923,Michele,Tizzoni,Assistant professor,0461 281455,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+284,823b61c1af1f7d297f8e55c95a1a4c84,Philippe,Velha,Assistant professor,0461 285238,Ingegneria industriale e dell'informazione (09),ELETTRONICA (ING-INF/01)
+285,ba7c3e99dafca3fd6eee3c6b6dc4eb8f,Valentina,Zuech,Teaching assistant,,,
+286,d37bf08ced263ca86ade38ede2f876eb,Gabriele,Greco,Research collaborator,,,
+287,fca69bd822870c20ea1a831ab733e7b4,Simone,Murchio,Teaching assistant,,,
+288,ae0cb86e7e4c0744c043922336cbddfe,Ilaria,Gasperi,Teaching assistant,,,
+289,d6bab699f81f9e749c9822b605b69313,Giulia,Fredi,Assistant professor,0461 282770,Ingegneria industriale e dell'informazione (09),SCIENZA E TECNOLOGIA DEI MATERIALI (ING-IND/22)
+290,4e65363c28304b8d8ff61e921e711a33,Gian Luca,Greggio,Teaching fellow,,,
+291,c8a8df3fa39a3f03101c81c6865b6e3f,Laura,Franchin,Associate professor,0464 808633,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA DELLO SVILUPPO E PSICOLOGIA DELL'EDUCAZIONE (M-PSI/04)
+292,6f7d60b567869cb30d24c3ad986eea8c,Daniela,Ruzzante,Teaching fellow,0464 808646,,
+293,f6e8fd08026096cc4b57d21ceef00b82,Paola,Gasperini,Research collaborator,,,
+294,8b83c2fe8b03d8bb8f3500ac514d4cff,Barbara,Henry,Teaching fellow,,,
+295,d227d8791834c86b159f1830582aaff5,Simone,Bocca,Teaching assistant,,,
+296,d6638320b199f4db899b219e849a745f,Alessandro,Valer,Teaching assistant,,,
+297,5133060d5d48a38965a4a563f7c4f2a4,Arlo,Poletti,Associate professor,0461 281368,Scienze politiche e sociali (14),SCIENZA POLITICA (SPS/04)
+298,868613aabd0526f22d45b1b843541465,Enrico,Koenig,Visiting professor,,,
+299,1b0f8968a29f0727bceccbb77801a9d4,Peter Arthur Irene,De Wulf,Associate professor,0461 285359,Scienze biologiche (05),BIOLOGIA MOLECOLARE (BIO/11)
+300,3b3cb360b71b59cc75b67e1c918906b6,Paolo,Caroli,Research collaborator,,,
+301,345f24b69e8b7087d075ae5ae4eed966,Corrado,Mora,Teaching fellow,,,
+302,df479b1decc2a31fdd1df390da2c0b15,Ivan,Daldoss,Teaching assistant,,,
+303,26d5af649fba5a40eb007cc1c0d1f13c,Francesca,Fiore,Teaching assistant,,,
+304,6bb2bedee6c478f8f07d7fe70500819f,Caterina,Zanella,Associate professor,0461 282589,Ingegneria industriale e dell'informazione (09),METALLURGIA (ING-IND/21)
+305,bb882966ba33402c4dfafd4676fd35a2,Giovanni,Piccoli,Associate professor,,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+306,8cdcb023e05a1e2f1b14daa94de21efa,Eugenio,Parise,Assistant professor,0464 808660,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA DELLO SVILUPPO E PSICOLOGIA DELL'EDUCAZIONE (M-PSI/04)
+307,4bc183dda223377ec161ad3984c49b50,Valerio,Ferroni,Teaching assistant,0461 282931,,
+308,38ac0d5d7fc9ff0e2e30f33ab5c23020,Marco,Zanatta,Associate professor,0461 281522,Scienze fisiche (02),FISICA DELLA MATERIA (FIS/03)
+309,be8ddcf2fe9d45a5e66e1d6337c5d839,Fabio,Zona,Full professor,0461 282208,Scienze economiche e statistiche (13),ECONOMIA AZIENDALE (SECS-P/07)
+310,e82f59d14ef93f90023dc86c33eb9f75,Paola,Widmann,Assistant professor,0461 283892,Scienze giuridiche (12),DIRITTO PROCESSUALE CIVILE (IUS/15)
+311,b6292ffe77167b31e856d2984544e45b,Giovanni Andrea,Prodi,Full professor,0461 281521,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+312,d646c86be2207080d512f825a4947d93,Davide,Bigoni,Full professor,0461 282507,Ingegneria civile e Architettura (08),SCIENZA DELLE COSTRUZIONI (ICAR/08)
+313,92efe290f9f4a4d0c86f9af0c7fca3d9,Renzo,Campostrini,Associate professor,0461 282478,Scienze chimiche (03),FONDAMENTI CHIMICI DELLE TECNOLOGIE (CHIM/07)
+314,85a6b06f30acfbe6a73d2fc301f83013,Giorgio,Cacciaguerra,Teaching fellow,0461 282661,,
+315,f2110f9ca33d32002f1973d21303a019,Carlo,Ruzza,Senior Professor,0461 281340,,
+316,5e45ae61cdf3affd4ce24b0a226fce38,Erminia,Camassa,Full professor,0461 283884,Scienze giuridiche (12),DIRITTO CANONICO E DIRITTO ECCLESIASTICO (IUS/11)
+317,2ab81425188f1a65951e87a5844ccada,Marco,Ischia,Teaching assistant,0461 285390,,
+318,4ebce8bd72ad01aa8cadadd7c1c98653,Andrea,Pugliese,Full professor,0461 281519,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+319,136c07dc6f99f2c47fdcccd9488bddeb,Simona,Piattoni,Full professor,0461 281359,Scienze politiche e sociali (14),SCIENZA POLITICA (SPS/04)
+320,0fbd4b5c848600d9b70dad9a729d0c57,Mauro,Rottoli,Teaching fellow,,,
+321,b56858d5869fc6b9ea9c7236e3ec8769,Lorenzo,Pavesi,Full professor,0461 281605,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+322,7805cd196d043ba4b48158de6fb6edb3,Mariolina,Eliantonio,Teaching fellow,,,
+323,c8bc875ee3c7aec02695e6efbb692734,Kyriaki P,Noussia,Visiting professor,,,
+324,6f8032048fb59127535ab175f6b5b403,Anna Rita,Irimias,Teaching fellow,0461 282114,,
+325,74d0d48ae01292e5f371a2c24d13c674,Eliana,Fattorini,Research collaborator,,,
+326,42ffa413eabcf4b010f3d4f68c336f40,Lara,Stefani,Research collaborator,,,
+327,6fa9cb48e0768d8ba3351eb2ecbe6925,Nadia,Baldassino,Associate professor,0461 282533,Ingegneria civile e Architettura (08),TECNICA DELLE COSTRUZIONI (ICAR/09)
+328,db12b0c471f432abcdc37a3dd415019a,Stefano,Bussolon,Teaching fellow,,,
+329,093f4f17dbe99779a4bc91a09d00ccd9,Stefano,Gasperetti,Teaching assistant,,,
+330,b983101d987593d016878bf73dd0c63f,Massimo,Zortea,Teaching fellow,,,
+331,f1b16e000341ce74f1fcf731cbe0a3dd,Mauro,Brunato,Assistant professor,0461 282060,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+332,9f888a78a81d92230c92db183dd3a2a6,Annalisa,Pasini,Teaching fellow,,,
+333,d2c319e6a813bcbe0ba793af3ad32949,Marcello,Condini,Teaching fellow,,,
+334,b5e06b58f34d5987c0c5cae15807b046,Alex,Casarotti,Teaching assistant,,,
+335,5e102169588c630da86514150ba61928,Alessia,Donà,Associate professor,0461 281482,Scienze politiche e sociali (14),SCIENZA POLITICA (SPS/04)
+336,9ba05e9e3263ee19c09a1274a7306ac6,Enrico Attila,Bruni,Associate professor,0461 283701,Scienze politiche e sociali (14),SOCIOLOGIA DEI PROCESSI ECONOMICI E DEL LAVORO (SPS/09)
+337,257d367dc352f87b789bff36c588cf1d,Matteo,Benedetti,Associate professor,0461 282457,Ingegneria industriale e dell'informazione (09),PROGETTAZIONE MECCANICA E COSTRUZIONE DI MACCHINE (ING-IND/14)
+338,1f3f8197557c8152539e15189b7437c4,Mariolino,De Cecco,Associate professor,0461 282512,Ingegneria industriale e dell'informazione (09),MISURE MECCANICHE E TERMICHE (ING-IND/12)
+339,e4e3517c9dbc727a2aff44c720eff776,Flavia,Gasperi,Associate professor,0461615186,Scienze agrarie e veterinarie (07),SCIENZE E TECNOLOGIE ALIMENTARI (AGR/15)
+340,464c131cf5ba4ae41331f27650dacb9c,Gianvito Leonardo,Putignano,Teaching assistant,,,
+341,abb6a18c3254304c99c776dfc59d533d,Tommaso,Rosi,Assistant professor,,Scienze fisiche (02),DIDATTICA E STORIA DELLA FISICA (FIS/08)
+342,3887db670d203ed38152d40495e68f06,Enrico,Domenici,Full professor,0461 282769,Scienze biologiche (05),FARMACOLOGIA (BIO/14)
+343,58e99ac7c23f14682d924691513f4007,Francesco,Zimei,Full professor,0461 281735,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",MUSICOLOGIA E STORIA DELLA MUSICA (L-ART/07)
+344,68bf7a3834d07b1b8cf1308a0f9d0157,Roberto,Ceccon,Teaching fellow,,,
+345,2ba47698f84a3c8b3ba0a085e908f853,Remo,Job,Teaching fellow,0464 808677,,
+346,f9dbbce8f4985d7d2649e0cf2bc7f4c3,Diletta,Trevisan,Teaching assistant,,,
+347,f6dc133e4bc1223d5540bc31b80dbd34,Giovanni,Pegoretti,Teaching fellow,0461 282212,,
+348,e00d09865a14bd25f843dc98365716c5,Lorenzo,Beltrame,Associate professor,0461 281498,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+349,38503e2b2c1088d818e25df8e98ee9a9,Stefano,Rossi,Associate professor,0461 282442,Ingegneria industriale e dell'informazione (09),SCIENZA E TECNOLOGIA DEI MATERIALI (ING-IND/22)
+350,3fb24766dc4ba845a2416fc7283d2bde,Oscar,Cainelli,Research collaborator,,,
+351,a355cffa6ad73588170ca3a0930a5f98,Stefania,Brun,Associate professor,0461 283872,Scienze giuridiche (12),DIRITTO DEL LAVORO (IUS/07)
+352,bbd995f63cc2b6b0dbb56426c504fc06,Davide,Galesi,Associate professor,0461 281441,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+353,b50ebcae12dfdd6303adcfc851e78d4c,Pietro,Faccioli,Associate professor,0461 281698,Scienze fisiche (02),"FISICA TEORICA, MODELLI E METODI MATEMATICI (FIS/02)"
+354,8732d86c4448d3ccaad4563ca2f22e2e,Elena,Dai Prà,Associate professor,0461 281141,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",GEOGRAFIA (M-GGR/01)
+355,5df78b3b0f965ce373d6be7a99b7093b,Marco,Brunazzo,Full professor,0461 283795,Scienze politiche e sociali (14),SCIENZA POLITICA (SPS/04)
+356,403a01206db5201e16943260bad08182,Michela,Dalprà,Associate professor,0461 282666,Ingegneria civile e Architettura (08),ARCHITETTURA TECNICA (ICAR/10)
+357,16ffcf7c69c2c744e47f803ee9d79933,Annamaria,Perino,Associate professor,0461 283710,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+358,edb9b55959fb0277cdba087d2125435a,David,Macii,Associate professor,0461 281571,Ingegneria industriale e dell'informazione (09),MISURE ELETTRICHE E ELETTRONICHE (ING-INF/07)
+359,7f9161e198bfd2eeb0724d73a7eb6699,Marco,Dani,Associate professor,0461 281851,Scienze giuridiche (12),DIRITTO PUBBLICO COMPARATO (IUS/21)
+360,5dbe72a071ac404cb587e285bb3b8a60,Antonino,Alì,Associate professor,0461 283148,Scienze giuridiche (12),DIRITTO INTERNAZIONALE (IUS/13)
+361,95e560fc147f0ca3ec4d78afb762053e,Marco,Chiusole,Teaching fellow,,,
+362,2f7064259f8629cf12b94662b5231e14,Igor,Santos Salazar,Assistant professor,0461 282812,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA MEDIEVALE (M-STO/01)
+363,ee8eb68e8715ba962a0ddff948dd9f48,Carla,Gubert,Assistant professor,0461 281110,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA ITALIANA CONTEMPORANEA (L-FIL-LET/11)
+364,4e57e39a843b088de842c1200e0ffbd4,Claudia,Battaino,Associate professor,0461 281949,Ingegneria civile e Architettura (08),COMPOSIZIONE ARCHITETTONICA E URBANA (ICAR/14)
+365,e86db02e663df8b87a424dfdca3bfa3a,Francesca,Odella,Assistant professor,0461 281313,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+366,a6e5c1844f19d65851711ea79658de8d,Silvia Nicoletta,Fargion,Full professor,0464 808628,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+367,035d54a6410f26c18e9d35cb9a823310,Alessandro,Fodella,Associate professor,0461 283149,Scienze giuridiche (12),DIRITTO INTERNAZIONALE (IUS/13)
+368,b536fa52c4eca221653a7f61b54b7e89,Stefano Augusto Maria,Biressi,Associate professor,0461 285290,Scienze biologiche (05),BIOLOGIA MOLECOLARE (BIO/11)
+369,c05aff9d31a81c94e9d5dc603546cb0d,Andrea,Lunardi,Associate professor,0461 285288,Scienze biologiche (05),BIOLOGIA MOLECOLARE (BIO/11)
+370,7bf6be1db4704348480a06cc2260f7ac,Marta,Biagioli,Associate professor,0461 285289,Scienze biologiche (05),GENETICA (BIO/18)
+371,77d8d4addc9fc191d33908d9ba678a40,Marco,Bee,Full professor,0461 282296,Scienze economiche e statistiche (13),STATISTICA ECONOMICA (SECS-S/03)
+372,fcda4f83816c274dc5d72f1b339700b0,Silvia,Bortot,Associate professor,0461 282311,Scienze economiche e statistiche (13),METODI MATEMATICI DELL'ECONOMIA E DELLE SCIENZE ATTUARIALI E FINANZIARIE (SECS-S/06)
+373,27c1a459275570e38af69addab5785a8,Massimiliano,De Villa,Associate professor,0461 281231,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA TEDESCA (L-LIN/13)
+374,6998ba3ddadba0d0e8577b38e22c755b,Martin Michael,Hanczyc,Associate professor,0461 285343,Scienze biologiche (05),BIOCHIMICA (BIO/10)
+375,ceae149557c4dbc03a926ac903e71c31,Micol Alexandria,Chiesa,Teaching fellow,,,
+376,04ad3d6d7dd40856b4f30fc34d3beb07,Majida,El Aafyouny,Teaching assistant,,,
+377,53917d1fe837dbefd57830e1c490251c,Beatrice,Vignoli,Assistant professor,0461 285311,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+378,62f47a3b05435e2dfdec16ea9a3acb91,Ilaria,Lievore,Teaching assistant,,,
+379,ee8504bb4ae08c43ef619e3166e138a4,Ersilia,Vallefuoco,Teaching fellow,0464 808669,,
+380,3c7fc78e7e48d22f93f0ec0cf56ed3b5,Antonio,Perreca,Associate professor,0461 281549,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+381,ca7268170f4af0e3428476d16d6b7328,Daniele,Agostini,Assistant professor,0464 808697,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PEDAGOGIA SPERIMENTALE (M-PED/04)
+382,a6ad85561d4c4c95733298aecb063b3b,Carlo,Pasquini,Teaching fellow,,,
+383,4df53a7b9e330642c2881af33aa90fae,Sara,Depedri,Teaching fellow,0461 283748,,
+384,d8d65c6b9987aa9326b781fd89acc931,Serenesse,Schifano,Research collaborator,,,
+385,bfc780c03f3da258e876d91fde3a2e74,Cigdem,Beyan,Assistant professor,,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+386,3f81d763bafa0b1deaea11809624909f,Enrico,Manuzzato,Teaching assistant,,,
+387,d2df31cf9b6fc839141cfd64b2ea7e93,Marta,Fasan,Teaching assistant,,,
+388,b1057055cedc261595a790a9f5beac03,Raffaella,Bernardi,Associate professor,0461 283969,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+389,cee3b730c583f4739b4a9ebe6353e171,Alessandra,Bernardi,Associate professor,0461 281613,Scienze matematiche e informatiche (01),ALGEBRA (MAT/02)
+390,fac3aef00da8f2030128a46d59139ed0,Sara,Zucal,Teaching assistant,,,
+391,0437953f76cf5c88990e1b3a6fe86e89,Daniel,Baldauf,Associate professor,0461 283040,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+392,a7be2f99e91e477bccecfd690f93f278,Francesca,Broso,Research collaborator,,,
+393,bc1f48d4bf48ac5ac029f597682ac958,Claudio,Sacchi,Associate professor,0461 283907,Ingegneria industriale e dell'informazione (09),TELECOMUNICAZIONI (ING-INF/03)
+394,d1e290c9aaa764a7295c16d554bb105b,Francesco,Pederiva,Full professor,0461 282089,Scienze fisiche (02),FISICA NUCLEARE E SUBNUCLEARE (FIS/04)
+395,ef58d28e912428868d1d1dbdbd413366,Mario,Malacarne,Teaching fellow,,,
+396,123c447b79e31b7c23d9178cce73297e,Nicola,Lugaresi,Associate professor,0461 283863,Scienze giuridiche (12),DIRITTO AMMINISTRATIVO (IUS/10)
+397,802c92f0ef76a6d7a2bf9e9810619221,Francesca,Di Blasio,Associate professor,0461 282076,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA INGLESE (L-LIN/10)
+398,d78c66b3f5bfdfb09799fc803a967bfb,Nicolao,Bonini,Full professor,0461 282149,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA GENERALE (M-PSI/01)
+399,b37c1e53e99a13a39628462e42ba3281,Giuseppe,Toccoli,Teaching fellow,,,
+400,16d54897dfadbab2f8fdb3fa1d8b59e3,Alice,Migazzi,Teaching assistant,,,
+401,2cbc7fdf3e6e19fe769cf4abdecf2af5,Andrea,Valerio,Teaching fellow,,,
+402,3cae1752558eda6dc66ba4ead297e596,Mirco,Rodeghiero,Associate professor,0461615691,Scienze biologiche (05),ECOLOGIA (BIO/07)
+403,d053f882a6ef3eb947596f0b16484cf6,Valentina,Clamer,Teaching assistant,,,
+404,59073b93a62b3733907fcc3733475d14,Giuseppe,Riccardi,Full professor,0461 282087,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+405,42c8f9aa00d3f79e634aa8698cf97fe1,Andrea,Pradi,Assistant professor,0461 283893,Scienze giuridiche (12),DIRITTO PRIVATO (IUS/01)
+406,86b5cf8c273578957c38d5102818bd85,Zahra,Bisadi,Research collaborator,0461 285314,,
+407,4930d00523e57c83d986c23d5ce9375f,Gabriella,Di Paolo,Full professor,0461 283852,Scienze giuridiche (12),DIRITTO PROCESSUALE PENALE (IUS/16)
+408,74b4e09dbb17581135d908e89d60252a,Vincenzo,Ciliberti,Teaching assistant,,,
+409,4d82871e5383a287dc5cb727ba3af3c7,Stefano,Grimaldi,Associate professor,0461 282739,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",PREISTORIA E PROTOSTORIA (L-ANT/01)
+410,f1611e0f4d97ea28db108736d0b098c5,Umberto,Tulli,Assistant professor,0461 283132,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA CONTEMPORANEA (M-STO/04)
+411,52d2be265e2bebff649ed824a2676050,Monia,Anzivino,Assistant professor,0461 283713,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+412,fe821bced70c0b7ae43addcc44274863,Narges,Ataollahi,Assistant professor,,Ingegneria industriale e dell'informazione (09),SCIENZA E TECNOLOGIA DEI MATERIALI (ING-IND/22)
+413,e92f18203d9778e811e3be83b95cda8a,Serena,Petrini,Teaching assistant,0461 282635,,
+414,fe46e311b15264179a5eb4e717617a9b,Ecaterina,Parfentiev,Research collaborator,,,
+415,9db64c48086ae882a2e5e85b4a5bfc8c,Chiara,Trevisin,Teaching fellow,,,
+416,058a907ababeceb8251a4c465d29c690,Massimiliano,Datres,Teaching assistant,,,
+417,68033e67ff62ac61e8d0f788c9aa4974,Davide,Brunelli,Associate professor,0461 285221,Ingegneria industriale e dell'informazione (09),ELETTRONICA (ING-INF/01)
+418,da130e1fa2cc94d88228be5ab38c3c3c,Anna,Bertani,Teaching assistant,0461 281365,,
+419,bbd9ee6f7d52d5f09e045d77a3fa7c1e,Francesco,Parrino,Associate professor,0461 285295,Scienze chimiche (03),FONDAMENTI CHIMICI DELLE TECNOLOGIE (CHIM/07)
+420,c28d569a609c9bdb1413bcfe27b0de75,Stefano,Azzini,Associate professor,0461 283867,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+421,969bb6b4e552524d566a74e072870919,Maira,Aguiar Freire Dos Santos,Research collaborator,,,
+422,9fe0499c2fba78c7fd749d45ecaabad5,Massimiliano,Vatiero,Associate professor,0461 282219,Scienze economiche e statistiche (13),ECONOMIA POLITICA (SECS-P/01)
+423,a705f375669b85785d578c1edcde6865,Massimo,Sideri,Teaching fellow,,,
+424,192141c524ea736db765ee2a04d08aed,Fulvio,Chiacchiera,Associate professor,0461 283934,Scienze biologiche (05),BIOLOGIA APPLICATA (BIO/13)
+425,e72e7104c650c87e65dac857d1fceb87,Luca,Turchet,Associate professor,0461 283792,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+426,a05d22a56b1ed18d525722f0473c73f1,Francesco,Pilati,Associate professor,0461 282425,Ingegneria industriale e dell'informazione (09),IMPIANTI INDUSTRIALI MECCANICI (ING-IND/17)
+427,1dbd6aec4e26b8c357e9aab4657577a3,Georgios,Glouftsios,Assistant professor,0461 282919,Scienze politiche e sociali (14),SOCIOLOGIA DEI FENOMENI POLITICI (SPS/11)
+428,02c936b52562e476971aed6341dfff6f,Gianni,Schiro,Teaching assistant,0461 282527,,
+429,39441ca548c236fe28712555c65cab96,Alessio,Claroni,Associate professor,0461 283830,Scienze giuridiche (12),DIRITTO DELLA NAVIGAZIONE (IUS/06)
+430,4dbbc3c569addb411b51594bdf7f0322,Jarumi,Kato Huerta,Teaching assistant,,,
+431,0647abc8e535b33e149742f10cb7d322,Roberto,Compostella,Teaching fellow,,,
+432,c9fd0b59356b773f4e9b6efea94f8d32,Davide,Longato,Teaching fellow,,,
+433,3c6d619dfdb62f17182a4c547631bd9e,Erika,Martini,Teaching assistant,,,
+434,aa55b71455b385136d7167190b84806f,Monica,Sarchielli,Research collaborator,,,
+435,37ddee372b8a24e6b695ffdb167499e1,Barbara,Cisterna,Teaching fellow,,,
+436,73cf230b93a837b215f8826aa6664b5b,Sabrina,Vettorato,Research collaborator,,,
+437,bce3b17b2be3dcfb313bf02d9b0566f3,Andreas Maria Taddaus,De Guttry,Teaching fellow,,,
+438,d319cc51c048d30573bbf23e5f3f10b6,Roberta,D'Agostino,Teaching fellow,,,
+439,009326921452543733cbf322326ac3d1,Riccardo,Boiocchi,Assistant professor,,Ingegneria civile e Architettura (08),INGEGNERIA SANITARIA-AMBIENTALE (ICAR/03)
+440,204b7caf80643172a5b76450bb723b87,Anna,Maragno,Teaching assistant,,,
+441,a3bb0f44d102b897ddb8800e266c05b3,Anna,Casari,Teaching assistant,,,
+442,f3ca28e4b6b26a3f95a8ad6b6c1d9511,Tommaso,Bianchi,Teaching assistant,,,
+443,552fee7195c4735f6b8b9bfb5416dfb2,Alessandro,Sicora,Associate professor,0461 281440,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+444,ae1362b153f13f895f0964a7df0f1b75,Flaviano,Zandonai,Teaching fellow,,,
+445,ffaf53cdb572a149f579780d930aa30d,Kasim Sinan,Yildirim,Associate professor,0461 283590,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+446,d168a3090d081e83071e49e0e97faf8d,Silvio,Ranise,Full professor,0461 281686,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+447,f6795cc40ba63a2b5fc959deb3851cff,Nicola,Recla,Teaching assistant,,,
+448,c6c8092280062a9e468fc92da83a0fca,Jasmin,Morandell,Teaching assistant,,,
+449,8551c6a05295a075af4472ad1990c160,Luigina,Mortari,Teaching fellow,,,
+450,c36ae8a6df4e438d037d2a57cf461cbb,Margherita,Graglia,Teaching fellow,,,
+451,441e49cf34b8ed3b1c028d66e3bf68dd,Irene,Domenici,Teaching fellow,,,
+452,50ccf8a3553af6b50b829c8821cfaac5,Milena,Vainieri,Teaching fellow,,,
+453,e7117065dfe23463625c3bd1394a91fc,Laura,Sciorati,Research collaborator,,,
+454,422fc3ef947812d7ee39c32b42dcc486,Luca,Marchetti,Assistant professor,0464 808833,Scienze biologiche (05),BIOLOGIA MOLECOLARE (BIO/11)
+455,2194ea65f1bd8168c192f76c92a170fa,Pierre Emmanuel,Moyse,Teaching fellow,,,
+456,ca27b691cf938e8a0e69dfe7badfcfbe,Marco,Schiavon,Research collaborator,,,
+457,e1916910932c5c689f4d94e461facd7b,Irene,Sperandio,Assistant professor,0464 808181,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+458,cb078fd3dfad0797866e30cc838958b1,Giorgio,Cutuli,Assistant professor,0461 281302,Scienze politiche e sociali (14),SOCIOLOGIA DEI PROCESSI ECONOMICI E DEL LAVORO (SPS/09)
+459,a11b1f1e27d4397823c8362ebc3a4b38,Giulia,Dore,Teaching fellow,0461 281842,,
+460,f986aef8c4d24d57c4ae139b13509dca,Tommaso,Beggio,Associate professor,0461 283870,Scienze giuridiche (12),DIRITTO ROMANO E DIRITTI DELL'ANTICHITÀ (IUS/18)
+461,e886302790b8a293f7793d88fc1c9282,Rosa,Kim,Teaching fellow,,,
+462,1e3f3d58f8154b0a0ae2df8435d0e6f4,David,Natali,Teaching fellow,,,
+463,6d8e96940f303970f476bf45bac9af94,Matteo,Martini,Research collaborator,,,
+464,4fbb2b68841a928a907d75637405a7d3,Alessandro,Cutarelli,Teaching assistant,0461 283250,,
+465,84c141eee64ab2622410b2fd85244838,Michele,Scaltritti,Assistant professor,0464 808668,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA GENERALE (M-PSI/01)
+466,a45865cc48724fde542019a752844bfd,Francesco Giuseppe,Cordoni,Assistant professor,,Scienze matematiche e informatiche (01),PROBABILITÀ E STATISTICA MATEMATICA (MAT/06)
+467,fc1b8985b0f3cfbb69dd0598ec7639d0,Maddalena,Sommadossi,Research collaborator,,,
+468,c065b2780111dbffb2c1870e25c2f040,Nicola,De Pisapia,Associate professor,0464 808787,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+469,45bd5e7e1bacadf281f689022e19c959,Lorenzo,Sala,Teaching assistant,,,
+470,707e37096deb0d4cdd65c660c9c45833,Michele,Cuccaro,Teaching fellow,,,
+471,3cb791275b5fcff28935e3209138beed,Ilaria,Pietropoli,Teaching assistant,0461 283598,,
+472,77663af903f1a7131601e1b366503f1e,Andrea,Caputo,Associate professor,0461 282244,Scienze economiche e statistiche (13),ECONOMIA E GESTIONE DELLE IMPRESE (SECS-P/08)
+473,8e50e359a512adc5d12f05b29ba4476c,Anna,Fochesato,Teaching assistant,,,
+474,40c1cfd3ea7348494b7d1e07619e5b4e,Clelia,Calabrò,Teaching fellow,,,
+475,ee79f6bf354268d178b22af9cfa9a10f,Simone,Ugolini,Teaching assistant,,,
+476,5e9d1a4bfe905bd5b0bab9cc4d43f477,Anna,Pedrinolla,Assistant professor,,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",METODI E DIDATTICHE DELLE ATTIVITÀ MOTORIE (M-EDF/01)
+477,65cc429946e8d965a629309494868d8e,Antoine Alexandre Philippe,Houlou,Teaching fellow,,,
+478,0d55d275109832c7b4c37edc9c816874,Elie Cesare Roch,Murard,Assistant professor,,Scienze economiche e statistiche (13),ECONOMETRIA (SECS-P/05)
+479,1feae6c408a15f43760c41157cdfb771,Paolo,Candio,Assistant professor,,Scienze economiche e statistiche (13),ECONOMIA AZIENDALE (SECS-P/07)
+480,7ab8158b93746af7b0b32f37ca5cfc6d,Irene,Landini,Teaching fellow,,,
+481,b802cd1495c11f97476b8062f7100a9a,Cesare,Montesano,Teaching assistant,,,
+482,9a5e3e05e79e644a44fab0107da84681,Luca,Turella,Associate professor,0461 283098,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+483,e52f46fc3d2a395dd3224487f01de781,Roberto,Barontini,Teaching fellow,,,
+484,c95a563fb930190f7b43c6c92873a2d1,Daniele,Vetrugno,Assistant professor,0461 285313,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+485,6906ec6aa9f8db99be031996edfde5e4,Luca,Santoro,Teaching assistant,,,
+486,c35e57b0ec6d5f47099f44c91dba8ec2,Greta,Perletti,Associate professor,0461 281839,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA INGLESE (L-LIN/10)
+487,6fa362c4eb7bce2e005b87109ede5ef4,Stefano,Bezzi,Teaching assistant,,,
+488,3f00961bd65c8552945df08aba4cc904,Roberta,Ferrentino,Assistant professor,,Ingegneria civile e Architettura (08),INGEGNERIA SANITARIA-AMBIENTALE (ICAR/03)
+489,3eddc0cb9554ad4907073e13c3342433,Sunny,Vagnozzi,Assistant professor,,Scienze fisiche (02),"FISICA TEORICA, MODELLI E METODI MATEMATICI (FIS/02)"
+490,4ede7b7e3374100afa7ef1f12c8e8297,Gianluca,Grilli,Teaching assistant,,,
+491,dbeb0d548e9e2dbfa4aa92357ba5df94,Yari,Ciribilli,Assistant professor,0461 283173,Scienze biologiche (05),GENETICA (BIO/18)
+492,ef6052df077820b73f1df7b6cc797995,Gabriele,Baldo,Teaching assistant,0464 808126,,
+493,4f2ea3e6f4131e49b493c0909ff1d574,Francesco,Tommasino,Assistant professor,0461 281587,Scienze fisiche (02),"FISICA APPLICATA (A BENI CULTURALI, AMBIENTALI, BIOLOGIA E MEDICINA) (FIS/07)"
+494,474e212003ac62126135f0cd1e01996f,Angela,Pasqualotto,Teaching fellow,0464 808669,,
+495,1fecfbfd495da089c8c180ff7ec0998c,Gaia,Trecarichi,Teaching fellow,,,
+496,fcf1eb67b9f927fde0a92b6b8495dcb6,Seyed Mahed,Mousavi,Teaching assistant,,,
+497,ef6270daa07060c7851936778863325e,Stefan,Von Prondzinski,Teaching fellow,,,
+498,674a5dfca0e4d54a09e2541c3a3bb9b0,Giuseppe,Soraperra,Teaching fellow,,,
+499,8376c591351a0acc4ede6ce637c0ad05,Eleonora,Tomasoni,Teaching fellow,,,
+500,26c2c549b526f8f81443d06e1c210da7,Marco,Canossa,Associate professor,0461 283251,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+501,65e342fa4e6c5760408f509eec07e9e2,Serena,Tomasi,Assistant professor,0461 283513,Scienze giuridiche (12),FILOSOFIA DEL DIRITTO (IUS/20)
+502,01fe76f948daa097bcb3c33c3fb93e4b,Stefania,Yapo,Teaching assistant,0461 281448,,
+503,85fd0e59f3e54ab44e14bbe57b035ce8,Melisa,Ambrosini,Teaching assistant,,,
+504,26ddd5336d198053e6cffad8ffe2862f,Atefeh,Zareh Chahoki,Teaching assistant,,,
+505,c02faab3797c8f6990539932462e960b,Paolo,Rota,Assistant professor,0461 283760,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+506,215cdb00ddb8946812034840c7882ef1,Emiliano,Rustighi,Associate professor,0461 285347,Ingegneria industriale e dell'informazione (09),PROGETTAZIONE MECCANICA E COSTRUZIONE DI MACCHINE (ING-IND/14)
+507,56801d586a194073c62fd9ae246fb567,Denis,Viva,Associate professor,0461 281484,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",STORIA DELL'ARTE CONTEMPORANEA (L-ART/03)
+508,5cec0c9717c182c847dbf0afdd9fa6e5,Matteo,Benuzzi,Teaching assistant,,,
+509,81e0179feb2e1242d715a108ab21cfc2,Lorena,Emanuelli,Teaching assistant,0461 285287,,
+510,10658e775a0ab2f5ae1e969adb39da84,Sara,Sottile,Teaching assistant,,,
+511,d9d158ac9eb2048461df46a59f2567be,Aaron,Gaio,Assistant professor,0461 281539,Scienze matematiche e informatiche (01),MATEMATICHE COMPLEMENTARI (MAT/04)
+512,91d774e3c19d6b248a8d2f0de3f0c80c,Francesco,Geri,Research collaborator,,,
+513,2c514ef6248b330ca64fa5165e14e6c2,Maria Grazia,Zanoni,Teaching assistant,,,
+514,93fca9330ee64ada2c4e5fc559c08a38,Stefano,Teso,Assistant professor,,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+515,e3798e4b888bbeabacbf763a4913e595,Daniele,Volpe,Teaching assistant,,,
+516,dae3d41db41751bc70cf384fa620019e,Marcello,Beato,Teaching fellow,,,
+517,7e672fde16e60d1b41d5c31bfa0dbd53,Andrea,Moro,Teaching assistant,,,
+518,0df721be8153f51af5e347a89660b6b2,Marco,Giorgiutti,Teaching fellow,,,
+519,2e764d756ba883c6376fbb41ab991bc9,Lorenzo,Avanzi,Associate professor,0464 808715,,
+520,b9acddfefe63c13012fb45ff71672a6d,Paola,Bellosta,Associate professor,0461 283070,Scienze biologiche (05),GENETICA (BIO/18)
+521,8bd9d41e215cb860d038b611eeebef3d,Paolo,Belardinelli,Assistant professor,0461 283097,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+522,fb33c528074977246fc217f9313fbf8e,Andrea,Signoretti,Assistant professor,0461 281366,Scienze politiche e sociali (14),SOCIOLOGIA DEI PROCESSI ECONOMICI E DEL LAVORO (SPS/09)
+523,633cc5973b40db541a970fe9ee884b3b,Alessandro,Prada,Associate professor,0461 282516,Ingegneria industriale e dell'informazione (09),FISICA TECNICA AMBIENTALE (ING-IND/11)
+524,3c5d53859276fe7eccb96d053f663475,Andrea,Cesarini,Teaching assistant,,,
+525,e01b868a7ab43d4ed638246d68b75b4e,Alessio,Scaglia,Teaching assistant,,,
+526,f4796de7fba75f0d3a5ec82454e2f324,Giuseppe,Pellegrini,Teaching fellow,,,
+527,8e7e1d606fbcc78fad8e93152b61e8de,Giuliano,Tortoreto,Teaching assistant,,,
+528,938a4c4c4e5fb90edfcd4514ccbcb0c7,Ruggero,Caravita,Research collaborator,0461 281684,,
+529,4d80f76d69ff39d6f6c6cf76f8cd2f6b,Matteo,Piva,Teaching assistant,,,
+530,1d07d97b491b6fec9b8a9afbdcc2f710,Mauro,Scanagatta,Teaching assistant,,,
+531,abf18af73412257b82e03874b2f6dc2c,Emanuele,Massetti,Associate professor,0461 282929,Scienze politiche e sociali (14),SCIENZA POLITICA (SPS/04)
+532,7b835bf7f56cf9d1a48c88f1cbf55965,Claudia,Finotelli,Visiting professor,,,
+533,ddbf78b46035f543da34bc4d8ca52630,Andreja,Pegan,Teaching fellow,,,
+534,c02251a810a0c66841dd3c96561e4c83,Laurent Dominique Gilbert,Gamet,Teaching fellow,,,
+535,f372d05cb9799e9763c6277f7b1464d8,Marco,Magnani,Assistant professor,0461 281790,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",SLAVISTICA (L-LIN/21)
+536,73fe884889521e2a5404317574a196c2,Federica,Bertagna,Teaching fellow,,,
+537,a6648661e802ae405d58f89bb71932d2,Stefano,Dalpez,Teaching assistant,,,
+538,ec6a17ae18947c6eb5f6364723fecf8c,Salvatore,Carannante,Assistant professor,0461 282813,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA DELLA FILOSOFIA (M-FIL/06)
+539,1cf7134ca539badd8693df1e86d616c8,Giulia,Maule,Teaching assistant,,,
+540,4edc918233feee259736e50a29994976,Simone,Ariatti,Teaching assistant,,,
+541,5e42add293225d3a6c143bdc23d999b9,Mimmo,Iannelli,Research collaborator,0461 283825,,
+542,4d5fe32f6b1469afeb52623b1a8584a4,Vincenzo,D'Andrea,Associate professor,0461 282084,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+543,8caad56803cfb3f38e73bde166aa8802,Andrea,Leonardi,Senior Professor,0461 282234,,
+544,33f4f4e2fb3c7c9867e9ee7b10030a8b,Andrea,Francesconi,Associate professor,0461 282307,Scienze economiche e statistiche (13),ECONOMIA AZIENDALE (SECS-P/07)
+545,553b0d99bbc007d4e35f6aea4a4a1767,Michele,Corrà,Teaching fellow,,,
+546,19fd4e573710ebe14a54eb97a0b4718f,Rolly,Grisenti,Adjunct professor,0461 281522,,
+547,683b0ad301d74df5c0a13ae842e63574,Luisa,Antoniolli,Full professor,0461 283894,Scienze giuridiche (12),DIRITTO PRIVATO COMPARATO (IUS/02)
+548,9d528608fc8f056719540b098a110ac5,Massimo,Rizzante,Full professor,0461 281774,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA ITALIANA CONTEMPORANEA (L-FIL-LET/11)
+549,392b2a9c0a4a4e71559e624a547d91a5,Paolo,Sommaggio,Associate professor,0461 283837,Scienze giuridiche (12),FILOSOFIA DEL DIRITTO (IUS/20)
+550,a76534d62f2d7d93de28109026931150,Maria Paola,Gatti,Full professor,0461 282673,Ingegneria civile e Architettura (08),ARCHITETTURA TECNICA (ICAR/10)
+551,4c09ccb8d66f303755818633aef47d33,Maria Micaela,Coppola,Associate professor,0464 808408,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA INGLESE (L-LIN/10)
+552,f7298296d57e628936824d94639a32c8,Ricardo Alberto,Marques Pereira,Full professor,0461 282147,Scienze economiche e statistiche (13),METODI MATEMATICI DELL'ECONOMIA E DELLE SCIENZE ATTUARIALI E FINANZIARIE (SECS-S/06)
+553,3eba99182d38f38f945a933fac4491eb,Maria Enrica,Virgillito,Teaching fellow,,,
+554,f4f925c514e8c75198b2e31b0ba36334,Sara,Quercetti,Teaching assistant,,,
+555,c75eeb164b6e4c3025033f275f04fdbd,Ester,Ricci,Assistant professor,0461 282031,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+556,cf0952feb006c7fed656ce233382fb8e,Francesco Maria,Follega,Assistant professor,0461 281543,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+557,ada3af5e6155ed5cfe24ff33a4478223,Fabiana,Cupido,Teaching fellow,,,
+558,a8eab4f602c78309036860303ca7c117,Maria Luisa,Martin Hernandez,Visiting professor,,,
+559,53bbcdb1744d7e8277706e3a06e7eaca,Leonardo,Parona,Teaching assistant,,,
+560,b8e1acf7ff6e9101f4994340286b9e0f,Owen,Williams,Teaching fellow,,,
+561,15a92333ca4af4c4be5cc1ebf5bef094,Beatrice,Maffei,Teaching assistant,,,
+562,53685ef60d7c14b27be6bbd721223bad,Sylvie Florence Anne Laure,Pighini,Teaching assistant,,,
+563,37799b6d1ba8d53fb37c64f7bd736aa0,Stefania,Pighin,Assistant professor,0464 808724,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA GENERALE (M-PSI/01)
+564,ca56af68877e89f41d0ad6c25376301a,Erik,Dassi,Assistant professor,0461 282792,Scienze biologiche (05),BIOLOGIA MOLECOLARE (BIO/11)
+565,019fd943fa32615697b495731656e52a,Claudio,Agostinelli,Full professor,0461 283900,Scienze economiche e statistiche (13),STATISTICA (SECS-S/01)
+566,9cc3e8ef3685c5ce0ac855de4707e36b,Camilla,Menegoni,Teaching assistant,,,
+567,1d2a7621a5362ac0c5b20ac24c042a0d,Elena,Pavan,Associate professor,0461 281378,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+568,28e14d1ebaff6ee34a7b1217c4f64d22,Denise,Sighel,Teaching assistant,0461 283198,,
+569,2fc2121cbb7a98ce61f1876ab2ee599f,Luca,Morlino,Assistant professor,0461 282731,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",FILOLOGIA E LINGUISTICA ROMANZA (L-FIL-LET/09)
+570,c315f645020c9e4202418152ab81c7bd,Marco,Amato,Teaching assistant,,,
+571,8992e03dc3ec0d83e823e0932d8df6be,Francesco,Dimiccoli,Assistant professor,0461 281524,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+572,015e9419cb22d1e0cc64e4d59c8976d8,Chiara Tea,Antoniazzi,Teaching fellow,,,
+573,b10b5e54580fbf850d099f84716bb763,Sandro,Casal,Assistant professor,0461 282282,Scienze economiche e statistiche (13),SCIENZA DELLE FINANZE (SECS-P/03)
+574,32072ccd67497b696b0022bc0e77a7b9,Emily,Taylor,Teaching fellow,,,
+575,c333bb7df1ae58b41f6c7eaf2c8ae6d1,Mattia,Vinco,Assistant professor,0461 282799,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",STORIA DELL'ARTE MODERNA (L-ART/02)
+576,23a44987d153d8ec47dec1a59c1e8b9c,Pablo,Soler Bach,Visiting professor,,,
+577,d6ab7f90c7d18f62d8a0b9410bd282bf,Francesca,Capone,Teaching fellow,,,
+578,7c33c72e7b76fde420010e069186564c,Francesca,Forno,Associate professor,0461 281419,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+579,1bab68f60acfd0896ac7c760c98b7b26,Mario,Negri,Teaching fellow,,,
+580,87d1e52cc451ededc2e54c9ac902fe6e,Emanuele,Vaccaro,Associate professor,0461 283770,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",ARCHEOLOGIA CLASSICA (L-ANT/07)
+581,dd7980dbf1eb20e6167dedbe8b8ac0aa,Alberto,Testoni,Teaching assistant,,,
+582,3b0043c09ecfbb32950c068ce88af3b9,Matteo,Zanetti,Teaching assistant,,,
+583,cff4b58bdb9ee55274a0d375f062caf5,Marco,Frey,Teaching fellow,,,
+584,69ccf72c1564cb5be1c3d4b55370a1af,Sabina,Nuti,Teaching fellow,,,
+585,32d5e2fb4688b8a966dd9e47dea89504,Stephane,Ganassali,Teaching fellow,,,
+586,227852955a7205428e1b6d5d97e6b3ae,Emilio,Cusanelli,Associate professor,0461 285357,Scienze biologiche (05),BIOLOGIA APPLICATA (BIO/13)
+587,33d2d98d117957f2eb1c619adcf8d673,Nicholas Joseph,Downing,Teaching assistant,,,
+588,9a8ffe831da80fd1f9bcfdd514e00cec,Francesco,Tessarolo,Assistant professor,0461 282775,Ingegneria industriale e dell'informazione (09),BIOINGEGNERIA INDUSTRIALE (ING-IND/34)
+589,869c58149ebf8ebfa00e9988fe11d3db,Gianluca,Maracchini,Assistant professor,0461 281929,Ingegneria civile e Architettura (08),ARCHITETTURA TECNICA (ICAR/10)
+590,440877e4b2dacb6d511cc554b071faa6,Christian,Arnoldi,Teaching fellow,,,
+591,e3e8bc9964494a93e8ea92f2e46b16e2,Lorenzo,Giovannini,Associate professor,0461 282649,Scienze fisiche (02),FISICA PER IL SISTEMA TERRA E IL MEZZO CIRCUMTERRESTRE (FIS/06)
+592,7f5fe8f7184c93a3a9af0563942085f6,Marina,Cardano,Teaching fellow,0461 285360,,
+593,9ea03232813a84e335012fafc303d6f3,Magda Elizabeth,Altmann,Research collaborator,0461 282752,,
+594,293e61806031f61e42c6f81822ac4fb3,Roberto,Iuppa,Associate professor,0461 281997,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+595,072bc6a853dafe80f119a5055aa3260c,Thomas,Tarenzi,Teaching assistant,,,
+596,e0c28753d3d459a8a4f0a9d5e12fbf2d,Oronzo,Marucci,Teaching fellow,,,
+597,62559946a831635cfc1595c0e3eb6b95,Matteo,Daicampi,Teaching fellow,,,
+598,12def0bdbde3c504e343b5ac8b48f16a,Arif Aminmohamed,Jamal,Teaching fellow,,,
+599,8ae38e7423830aff6fcb258b3dd086bc,Luca,Tubiana,Associate professor,0461 281507,Scienze fisiche (02),"FISICA APPLICATA (A BENI CULTURALI, AMBIENTALI, BIOLOGIA E MEDICINA) (FIS/07)"
+600,fe04c981418fabe261f78f7522e7bc19,Diego,Misseroni,Associate professor,0461 282684,Ingegneria civile e Architettura (08),SCIENZA DELLE COSTRUZIONI (ICAR/08)
+601,6802483cf21e652ff14c0e1d7d6f5560,Emanuele,Scifoni,Teaching fellow,0461 283933,,
+602,38862fbb99fbbc5049bc67014d5e3fc0,Anneliese,Defranceschi,Associate professor,0461 281572,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+603,d43e8bd6cd1b5af615d35c89f4c39ff1,Roberto,Battiti,Full professor,0461 281639,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+604,3f25d0a0b5872e830858a4b8c1619c75,Silvano,Delladio,Associate professor,0461 282065,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+605,70956a21f1b361ca61291b2cc888ccb1,Eleuterio Francisco,Toro,Emeritus professor,0461 282674,,
+606,edb7b2984f39549b3425c85f517d4185,Alessandro,Gajo,Full professor,0461 282519,Ingegneria civile e Architettura (08),GEOTECNICA (ICAR/07)
+607,f1c863defb88404cce60064ec1afc0d4,Paolo,Chistè,Teaching assistant,0461 281358,,
+608,294a7027eb54d88f02ac75cb87f1e685,Giuseppe,De Toffol,Teaching assistant,,,
+609,7636a2770187e5edad4b740f82ff351b,Simonetta,Vezzoso,Assistant professor,0461 282261,Scienze giuridiche (12),DIRITTO COMMERCIALE (IUS/04)
+610,6ec8605f5e1113b94ac80074b8344a40,Gabriele,Anzellotti,Senior Professor,0461 283825,,
+611,c686afb9534c861d2c01df828bf90500,Gabriele,D'Ottavio,Assistant professor,0461 281412,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA CONTEMPORANEA (M-STO/04)
+612,3f0896f04a5b37c1ea9da68a03c1eb7d,Debora,Di Caprio,Assistant professor,0461 282144,Scienze economiche e statistiche (13),METODI MATEMATICI DELL'ECONOMIA E DELLE SCIENZE ATTUARIALI E FINANZIARIE (SECS-S/06)
+613,aa1b538986b3a21fdb062bbab04ad40f,Aronne,Armanini,Emeritus professor,0461 282612,,
+614,e88b24f509449051765c307b8b1ba560,Damiano,Florenzano,Full professor,0461 283833,Scienze giuridiche (12),ISTITUZIONI DI DIRITTO PUBBLICO (IUS/09)
+615,4a441781c73c9ed332f707eaf3d2acd1,Maria Grazia,Zorzi,Teaching fellow,0461 282276,,
+616,1ff0938ceb9ca8ec6d50bd29baefe977,Luca,Fambri,Associate professor,0461 282413,Ingegneria industriale e dell'informazione (09),SCIENZA E TECNOLOGIA DEI MATERIALI (ING-IND/22)
+617,5ab22790811545b7dee6aeabc9a13c68,Donatella,Frioli,Senior Professor,0461 282724,,
+618,ae1360320952c41b67c90450e8dce71d,Mario,Fedrizzi,Emeritus professor,0461 282151,,
+619,de77836fe0b3a295b5fc01c864bb2d44,Francesco,Biral,Associate professor,0461 282513,Ingegneria industriale e dell'informazione (09),MECCANICA APPLICATA ALLE MACCHINE (ING-IND/13)
+620,4bfe694a185af005d87fa678fe2b196b,Giovanna,Covi,Teaching fellow,0461 281723,,
+621,8a9134b8aa91d562b51291238923188d,Silvana,Dalla Bontà,Associate professor,0461 281869,Scienze giuridiche (12),DIRITTO PROCESSUALE CIVILE (IUS/15)
+622,7f7928bbd5ececdaf725e936351fd7ec,Jean Paul,Dufiet,Full professor,0461 281743,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E TRADUZIONE - LINGUA FRANCESE (L-LIN/04)
+623,f23acbd28a75903deff6c1a4f3fb17b4,Marco,Pertile,Associate professor,0461 283123,Scienze giuridiche (12),DIRITTO INTERNAZIONALE (IUS/13)
+624,2a8066b54444557edfff7ca0c0fe5570,Serenella,Baggio,Full professor,0461 282074,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUISTICA ITALIANA (L-FIL-LET/12)
+625,208dc460f2d6b9664aafd6d22f1b6e53,Silvia,Toniolo,Teaching assistant,,,
+626,4eeec0460c978b1a1631edf2137008b4,Dominic,Stewart,Full professor,0461 281731,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E TRADUZIONE - LINGUA INGLESE (L-LIN/12)
+627,d0d73185765ea3237c74a887df342531,Francesco,Sica,Teaching assistant,,,
+628,c55caafd01a08feb0802590a8040f5db,Aurelie Georgette Geraldine,Herbelot,Assistant professor,,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+629,e6d817f55b3abde18efa7792e285307e,Francesco,Petrosino,Teaching assistant,,,
+630,3ff624c2297f67f506ec3ebf659acf2c,Daria,de Pretis,Full professor,,Scienze giuridiche (12),DIRITTO AMMINISTRATIVO (IUS/10)
+631,e134c1cb6d32f561f8717aa94d477bb4,Domenico,Tosini,Full professor,0461 281324,Scienze politiche e sociali (14),"SOCIOLOGIA GIURIDICA, DELLA DEVIANZA E MUTAMENTO SOCIALE (SPS/12)"
+632,9050dd613ba8cc2f2233318a7025a7c2,Lucia,Savadori,Associate professor,0461 282328,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA GENERALE (M-PSI/01)
+633,60b87bd8164bf70285cae6ee721146b4,Sonia,Mazzucchi,Associate professor,0461 281615,Scienze matematiche e informatiche (01),PROBABILITÀ E STATISTICA MATEMATICA (MAT/06)
+634,cf61ddaad6dfff5c8f39fac978cba2cd,Antonia,Menghini,Associate professor,0461 283503,Scienze giuridiche (12),DIRITTO PENALE (IUS/17)
+635,3f7e458911b838881af20ab5b1943387,Flavia,Ravelli,Associate professor,0461 281597,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+636,d087aa82240617bd3981690507386993,Fabio,Campolongo,Teaching fellow,,,
+637,978294b81fe3aa84eb84ee455906bf08,Renzo,Azaro,Teaching fellow,,,
+638,f18581c23305118f2c997ad956887d02,Andrea,Donelli,Teaching fellow,,,
+639,0326033107bc8c931ae7375124d591cb,Graziano,Coller,Associate professor,0461 283112,Scienze economiche e statistiche (13),ECONOMIA AZIENDALE (SECS-P/07)
+640,eeeabfcf0cea8557cefff25f2410cc10,Gabriel Mark,Kuper,Associate professor,0461 282090,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+641,77c5681b7a3a46a347927c171716ab79,Jorge,Canals Piñas,Associate professor,0461 283711,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E TRADUZIONE - LINGUA SPAGNOLA (L-LIN/07)
+642,138b4fba75421406703c4f04003cd352,Roberto,Menichetti,Assistant professor,0461 283367,Scienze fisiche (02),FISICA DELLA MATERIA (FIS/03)
+643,8db95f4c18096c2bb7afff62a305aae9,Massimiliano,Andreatta,Teaching assistant,,,
+644,43569758f5a47b228e315c784dcf677a,Riccardo,Billero,Teaching assistant,,,
+645,f3a9028977ce9379609eb5a09de1eea7,Flavio,Margonari,Teaching fellow,,,
+646,fb5ecda0942a3ecb3e4e47e234124784,Andrea,Massa,Full professor,0461 282057,Ingegneria industriale e dell'informazione (09),CAMPI ELETTROMAGNETICI (ING-INF/02)
+647,e7966ccf176fafaeb3d98d87c9276814,Daniele,Zonta,Full professor,0461 282537,Ingegneria civile e Architettura (08),TECNICA DELLE COSTRUZIONI (ICAR/09)
+648,5d5d3bc4e6774cf9198cdec71df9ee47,Anna,Perini,Teaching fellow,,,
+649,64a183f5a6cb2ec085309174e87a0983,Moncef,Kartas,Teaching fellow,,,
+650,560f85206a1f3aeca659284609f23468,Andrea,Bonoldi,Full professor,0461 282233,Scienze economiche e statistiche (13),STORIA ECONOMICA (SECS-P/12)
+651,c1febc0d93f3eab4695ca188a4ff0164,Francesca,Lorandini,Teaching fellow,0461 281704,,
+652,04cd29fcb4978883ca5608abba1405b4,Emanuele,Fedeli,Teaching assistant,0461 281371,,
+653,c7f9cad26aa87eceb61743786126f8a5,Fausto,Corvino,Teaching fellow,,,
+654,7dc044854e2349f16f8c8b1032e89f2f,Elena,Piffer,Research collaborator,,,
+655,0666f3a8acb20cb637b35b5d535dff4c,Davide,Strazzari,Associate professor,0461 281438,Scienze giuridiche (12),DIRITTO PUBBLICO COMPARATO (IUS/21)
+656,b1cbb4fe8790cfcda703eac2235a4281,Cristina,Pellegatta,Teaching fellow,,,
+657,6465830c8010967857133d6610b796e5,Giuseppe,Bellantuono,Full professor,0461 282315,Scienze giuridiche (12),DIRITTO PRIVATO COMPARATO (IUS/02)
+658,c128c7355815327a68a17409dbab7856,Ericka,Costa,Associate professor,0461 282322,Scienze economiche e statistiche (13),ECONOMIA AZIENDALE (SECS-P/07)
+659,92b02973aeb064a27c9c6c46ec81b81e,Maurizio,Matteuzzi,Teaching fellow,,,
+660,ce284759834fa78d632b5ae15366273a,Giorgio,Bolego,Full professor,0461 282254,Scienze giuridiche (12),DIRITTO DEL LAVORO (IUS/07)
+661,cfda7de48b54f47600f0719f96468ea8,Stefano,Ugel,Teaching fellow,,,
+662,dbca68e8115fa6925052c44a65b49f5e,Raffaele,Mauro,Full professor,0461 282588,Ingegneria civile e Architettura (08),"STRADE, FERROVIE ED AEROPORTI (ICAR/04)"
+663,7a2b9d5cbac90ad4ffa77d8b18abbc0d,Marco,Sontacchi,Teaching assistant,,,
+664,8f6aec6c42e9949a33f0b652095bd5da,Roberto,Rosà,Associate professor,0461 615167,Scienze agrarie e veterinarie (07),PARASSITOLOGIA E MALATTIE PARASSITARIE DEGLI ANIMALI (VET/06)
+665,e1fd7939e7c91d67154563b821c992dd,Giorgio,Rosatti,Associate professor,0461 282621,Ingegneria civile e Architettura (08),IDRAULICA (ICAR/01)
+666,de7936fe0651a647890ca7eb1e477a92,Nicola,Mezzetti,Teaching assistant,,,
+667,85bda4e44f3be0b231017d937bd36f58,Angelo,Besana,Assistant professor,0461 282122,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",GEOGRAFIA ECONOMICO-POLITICA (M-GGR/02)
+668,d4b697ed394405ac084f97fcf7396e36,Claudio,Migliaresi,Emeritus professor,0461 281916,,
+669,16da4ecb1a35592490ebc711f27cf351,Fabio,Bagagiolo,Associate professor,0461 281638,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+670,e0b061725697595d19af171b8be17e01,Franco,Molinari,Teaching fellow,0461 282112,,
+671,f4c7de4e54d2e4eddaab337d2d2d0dd4,Alessandro,Perotti,Associate professor,0461 282051,Scienze matematiche e informatiche (01),GEOMETRIA (MAT/03)
+672,ff0e83659c90a2d67e0d5ef7f6205fc1,Diego,Ponte,Associate professor,0461 282136,Scienze economiche e statistiche (13),ORGANIZZAZIONE AZIENDALE (SECS-P/10)
+673,c95a9b85f431f6d4aff36b8d12e528e0,Giuseppe,Nesi,Full professor,0461 281885,Scienze giuridiche (12),DIRITTO INTERNAZIONALE (IUS/13)
+674,929dffac1ee246eb15c1cede8fb2bd54,Marta,Tomasi,Assistant professor,0461 281815,Scienze giuridiche (12),DIRITTO PUBBLICO COMPARATO (IUS/21)
+675,9e632f06879584bf1ad38c420b1e70b1,Luca,Penasa,Teaching assistant,0461 281674,,
+676,caf71a1b81a6f782dc3a5b1d22538db6,Emanuele,Castano',Assistant professor,0464 808109,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA SOCIALE (M-PSI/05)
+677,5c248fb40a5c887f028e3d121f5e9869,Daniel,Hyde,Research collaborator,,,
+678,c826ed0237bb6b5fd1ed028dceccd0c5,Gianni,Andreottola,Full professor,0461 282681,Ingegneria civile e Architettura (08),INGEGNERIA SANITARIA-AMBIENTALE (ICAR/03)
+679,c416e30222e4ff1729115f6162f28fb3,Paola,Giacomoni,Senior Professor,,,
+680,cc7f153cfe83119f6ac36d9ffc4b2c3a,Alberto,Franceschini,Teaching assistant,,,
+681,94b14f1bfdd522221e5d8685a9f4be20,Marco,Guerrieri,Associate professor,0461 281926,Ingegneria civile e Architettura (08),"STRADE, FERROVIE ED AEROPORTI (ICAR/04)"
+682,b3dce3c41f7ba6b191faa0b78d0c0851,Elena,Cicuto,Teaching assistant,,,
+683,57d965666ccc086392b01e0114d95cb0,Greta,Granocchia,Teaching assistant,,,
+684,a3262b1f503d0145dd7b13e6754dce61,Davide,Vecchia,Teaching assistant,,,
+685,4e84e0ec2c8ce68de5a22906130d7b10,Maurizio,Boscaini,Teaching fellow,,,
+686,8e82aa86ba8943c33a2ce19b06fd21dd,Giuseppe,Maiolo,Teaching fellow,,,
+687,8dc7c199efa4c9a3948042fc5619c9cd,Giuseppe,Pedone,Assistant professor,0461 282602,Ingegneria civile e Architettura (08),GEOTECNICA (ICAR/07)
+688,5fc7f3e0fbb029dd56c3b6257b373448,Vincenzo,Desantis,Teaching fellow,,,
+689,bbccb992f26f3e3955878824260369aa,Luca Serafino,Lentini,Teaching fellow,,,
+690,9d78e5cc7730582304314a44c234fcd7,Marta,Visca,Teaching fellow,,,
+691,6eaf57851444a740d2913d152eba1c6a,Jasmina,Kaluderovic,Teaching fellow,,,
+692,471d9ff5c6f58315c1cc5dea864e2f62,Raffaele,Minicozzi,Research collaborator,,,
+693,174875fda748fb9f60ea8e91694be26d,Ezio,Elasdi,Research collaborator,0464 808126,,
+694,831535bf29495f29307c21924adf1b80,Alessandra,Marzadri,Associate professor,0461 282585,Ingegneria civile e Architettura (08),COSTRUZIONI IDRAULICHE E MARITTIME E IDROLOGIA (ICAR/02)
+695,98d746e94655aef9435d34c633fa33f4,Damiano,Simoncelli,Research collaborator,,,
+696,778749526f2ad691fb7f072a3760031e,Giulia,Dal Santo,Research collaborator,,,
+697,5377f5cd2e759de893451468f4ec363c,Giulia,Forlati,Teaching assistant,,,
+698,57efd4951445f816d8916ff643cd47fd,Francesca,Virzì,Teaching assistant,,,
+699,e86ca7bd6be44ef197ba63cc843d20c7,Daniele,Fontanelli,Associate professor,0461 282080,Ingegneria industriale e dell'informazione (09),MISURE ELETTRICHE E ELETTRONICHE (ING-INF/07)
+700,ee6cbfd9e6e93ff535ee4d20999c1d01,Giorgio,Saracco,Assistant professor,0461 282821,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+701,946acf8074dcc67522284b4ddef43671,Elisa,Rapetti,Research collaborator,0461 281331,,
+702,ed45f089e9529cbe04afff7db81676ad,Stefano,Larsen,Research collaborator,,,
+703,9512a1d7153871f9ade74a698060125f,Francesco,Ghia,Associate professor,0461 281764,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",FILOSOFIA MORALE (M-FIL/03)
+704,fad3340b61bdcb60b776247dd90c9026,Lorenzo,Angeli,Teaching assistant,,,
+705,6e34016002aec4326369495bb4dc6b5b,Starlight,Vattano,Assistant professor,,Ingegneria civile e Architettura (08),DISEGNO (ICAR/17)
+706,6948956b64a1828de06236fbef3687fd,Claudio,Mulatti,Associate professor,0464 808679,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA GENERALE (M-PSI/01)
+707,8a99323d4ccdd76e896f06083788ff8d,Stefano,Toffaletti,Teaching assistant,,,
+708,2977ea6e8b05f53eb6f62df91fce962d,Veronica,Tranquillini,Research collaborator,0464 808137,,
+709,01f5022738a11504ef7a0379c36c1ea9,Martina,Todaro,Teaching fellow,,,
+710,5309286d96193e39df7ac9a791a27e1a,Francesca,Oliosi,Teaching assistant,,,
+711,4b2401a08eff108516be9958f9d5f173,Sara,Moraca,Teaching fellow,,,
+712,3c128fcac19440cf3b3a6e0e621e5aef,Luca,Rinaldi,Teaching assistant,,,
+713,e170a054082097a33af0ed9ba209ce7b,Filippo,Zemignani,Teaching assistant,,,
+714,cb045487c247716c6f66dfe8622e0769,Francesco,Dalla Sega,Teaching fellow,,,
+715,0bb27dde4dc03322a65ede798a658d38,Gabriele,Baratto,Teaching assistant,,,
+716,df9c1b4bcdd1b73a7bcdaffc3032cd74,Claudio,Fontanari,Associate professor,0461 281574,Scienze matematiche e informatiche (01),GEOMETRIA (MAT/03)
+717,8a2fdb78da03978ffd2b797682c8b0d9,Lucia,Busatta,Assistant professor,0461 283520,Scienze giuridiche (12),DIRITTO COSTITUZIONALE (IUS/08)
+718,e0092854a8c9c66e8286ea092f9252e7,Paola,Rigo,Research collaborator,0464 808103,,
+719,7e3c3e4c8321242ba449382f3d33b652,Davide,Bresolin Zoppelli,Teaching fellow,,,
+720,22457c833f9db3571d87983d8cf6d60b,Stefano,Pradel,Teaching fellow,,,
+721,4f0067f69f7a31ed9e2d9ba09ac0fd7b,Elisa,Pastorelli,Teaching assistant,,,
+722,0ac6b1450a51240ed08d70602667a06e,Elena,Vettoretto,Teaching assistant,,,
+723,3e38f6b993f781d70a7b9cc61625f18f,Chiara,Brollo,Research collaborator,,,
+724,d6c6f5970c2fc94528053f62de205386,Domenico,Stefani,Teaching assistant,,,
+725,e25c5d0e0965048f990263e40cdab2b6,Alessandra,Galizzi Kroegel,Assistant professor,0461 281783,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",MUSEOLOGIA E CRITICA ARTISTICA E DEL RESTAURO (L-ART/04)
+726,0698219075a986482a069c1a8ea438f6,Elena,Lorenzi,Assistant professor,0464 808737,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+727,50db1ef1c885345406f603963f3c8f07,Orsola,Rosa Salva,Assistant professor,0464 808106,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+728,4d8fd3859ecc4331de32b752b9c2352b,Luca,Bortolini,Teaching fellow,,,
+729,3f1f47b4cc5a65617450ccbbdc2c20e5,Omar,Rota Stabelli,Associate professor,,Scienze biologiche (05),ZOOLOGIA (BIO/05)
+730,409a5d749d7a3ea96534bcd21a832e15,Roberto,Lucin,Teaching fellow,,,
+731,cfc9f8d4e8637c3187efde79e1b9b5b7,Giovanni,Spagnolli,Teaching assistant,,,
+732,647231303b2f3474ae7ff6c36b53400b,Raffaello,Potestio,Associate professor,0461 282912,Scienze fisiche (02),FISICA DELLA MATERIA (FIS/03)
+733,9a113355c6d14835925d9e2a355731dd,Marta,Villa,Teaching assistant,0461 281470,,
+734,9021a268e7cf3be163f5fe054c2e6cd9,Anna Lisa,Copetto,Teaching fellow,,,
+735,bed758a7f7decd8f06a62914a4ddf322,Martina,Montagnana,Teaching fellow,,,
+736,81ec81e504ff7a1c02169b421b370bb2,Matteo,Trobinger,Teaching assistant,,,
+737,40b1f50aec8e60fd21f6b374c1677b99,Flavio,Guella,Assistant professor,0461 283527,Scienze giuridiche (12),DIRITTO COSTITUZIONALE (IUS/08)
+738,2bf53a8060882099947e90b37b500e94,Gerardo,Acerenza,Associate professor,0461 282710,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E TRADUZIONE - LINGUA FRANCESE (L-LIN/04)
+739,8f3d844c0965120dde51f70de2b84ce8,Alessandro,Palazzo,Associate professor,0461 281741,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA DELLA FILOSOFIA MEDIEVALE (M-FIL/08)
+740,f656e72372fbf7d3263a95f7f3edb2aa,Fernando,Ramallo Fernández,Research collaborator,,,
+741,4761c64dc855740fc7875fb1ca641be0,Paolo,Bonafede,Assistant professor,0461 281704,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PEDAGOGIA GENERALE E SOCIALE (M-PED/01)
+742,cbcccdcfb241121157d8dd06f08d2773,Giulia,Tomasi,Teaching fellow,,,
+743,1abce31e4711b46f678629c94db57329,Federico,Fracasso,Teaching assistant,,,
+744,2b02ab38ebe93bb9463454d76734413e,Nikola,Suzic,Assistant professor,0461 282460,Ingegneria industriale e dell'informazione (09),INGEGNERIA ECONOMICO-GESTIONALE (ING-IND/35)
+745,f8b4f6120f6f6687f3310382a933006d,Paolo,Campagnano,Teaching fellow,,,
+746,2998a5046845042094935767c54cf0ec,Giuseppe,Formetta,Associate professor,0461 282640,Ingegneria civile e Architettura (08),COSTRUZIONI IDRAULICHE E MARITTIME E IDROLOGIA (ICAR/02)
+747,e2394abb61038cf59450def8c55bebbb,Guendalina,Bergonzoni,Teaching assistant,,,
+748,e0ae66e47f7e5d8296b23906b44a36d5,Alessandro,Sartore,Teaching assistant,,,
+749,ad8f97e5272df11e93fe420d60e82493,Sara,Hejazi,Research collaborator,,,
+750,7ff6fc2b3a5e542b7d78036a14230003,Roberto,Leonardi,Teaching fellow,,,
+751,d87c6c5095705b90a624e897d83e9da3,Lucia,Masotti,Teaching fellow,,,
+752,81de6e07cbfa67e4bc71417718f06231,Guido,Feller,Teaching fellow,,,
+753,13c4f91bcd5873b4eedfacdbb218a1b5,Oliviero,Facchinetti,Teaching fellow,,,
+754,cd9c1b1f6888f6c5edfa749b021ed6f1,Rachele,Nieri,Assistant professor,0461 281582,Scienze agrarie e veterinarie (07),ENTOMOLOGIA GENERALE E APPLICATA (AGR/11)
+755,debcb0d9260d7204030190fd1c2c211b,Alessio,Zippo,Associate professor,0461 283735,Scienze biologiche (05),BIOLOGIA MOLECOLARE (BIO/11)
+756,024caded3bc2967e0a4861b694ce56e4,Libertario,Demi,Associate professor,0461 283942,Ingegneria industriale e dell'informazione (09),BIOINGEGNERIA ELETTRONICA E INFORMATICA (ING-INF/06)
+757,5141664ec556f2f611a6a0c56f419969,Luigi,Cattaneo,Associate professor,0461 282795,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+758,0349f7bda7fec8bf10bb152bb285a7f9,Graziano,Lolli,Associate professor,0461 285358,Scienze biologiche (05),BIOCHIMICA (BIO/10)
+759,ed6aa95391b1b975abcdf380d9c1c7ed,Caterina,Bergomi,Teaching assistant,,,
+760,978b32f76161d55d0173c6bdb7f33d05,Eyemen Gafar Ali,Kheir,Teaching assistant,,,
+761,fb4c5c3f4f60d8848c9a8225c8bfc6b3,Chiara,Tomasi,Associate professor,0461 282161,Scienze economiche e statistiche (13),ECONOMIA APPLICATA (SECS-P/06)
+762,a38aa802aaaa51e0e20590e09265dac8,Francesco,Spadoni,Teaching assistant,,,
+763,15fa56dac14ef7a469d97f582a9037af,Stefano,Berlato,Teaching assistant,,,
+764,7bf418cd8a8fbddbecdc555a26db61cb,Gastone Pietro,Rosati Papini,Assistant professor,0461 285352,Ingegneria industriale e dell'informazione (09),MECCANICA APPLICATA ALLE MACCHINE (ING-IND/13)
+765,62fab7796cfcb2267dd3ea30a7c4b2ec,Giacomo,Moretti,Assistant professor,0461 281975,Ingegneria industriale e dell'informazione (09),MECCANICA APPLICATA ALLE MACCHINE (ING-IND/13)
+766,f8edfd696886b1cdc6645c1420d7d7ca,Riccardo,Cominotti,Teaching assistant,,,
+767,c08ef5c226ffed5dca45d01b3f1f43a7,Daniela,Piazzalunga,Assistant professor,0461 282951,Scienze economiche e statistiche (13),ECONOMIA POLITICA (SECS-P/01)
+768,63b7ebf3cd242c266815ca42f7c9f741,Luigi,Telesca,Teaching fellow,,,
+769,a4a25612969d248dc9a0ea9d0a01b7fd,Giacomo,Oliveri,Associate professor,0461 285227,Ingegneria industriale e dell'informazione (09),CAMPI ELETTROMAGNETICI (ING-INF/02)
+770,b4b26a84bb73f4f38679458d3aeb342c,Filippo,Gioachin,Teaching assistant,,,
+771,04bf307486db6ad45237d522b90e557d,Ana,Rodriguez Prieto,Teaching fellow,,,
+772,f022580cbfd612b1d1fccc177107db3f,George,Gaskell,Research collaborator,,,
+773,fea5b64b3f43ecc566f3b1c37dd6df50,Priyadarshini,Jayashree,Assistant professor,0461 283726,Ingegneria industriale e dell'informazione (09),METALLURGIA (ING-IND/21)
+774,4bb60f0144d3326aca15a5fa2a544b13,Michele,Faralli,Assistant professor,,Scienze agrarie e veterinarie (07),ARBORICOLTURA GENERALE E COLTIVAZIONI ARBOREE (AGR/03)
+775,339b88a9d09a1cda2976eee7d2dfb631,Alice,Plebe,Teaching assistant,,,
+776,f3af983a944534c08f202c84e8a8d7f0,Chiara,Ambrosini,Research collaborator,,,
+777,c11fd5d8eee309c8a448901e421f4636,Moritz Franz Nikolaus,Wurm,Assistant professor,0464 808632,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+778,eb834cf96f6664eec3ae2fd93b35facc,Roberto,Saracco,Teaching fellow,,,
+779,d6372e4d6caed4f73224885015849b93,Valentina,Breschi,Teaching fellow,,,
+780,f43612166181186e7b96ec2d784fc6ef,Orietta,Massidda,Associate professor,0461 282297,Scienze mediche (06),MICROBIOLOGIA E MICROBIOLOGIA CLINICA (MED/07)
+781,aa79a551ce6af68190b012593cb66e1a,Federico,Pistelli,Assistant professor,0461 282259,Scienze giuridiche (12),DIRITTO PRIVATO (IUS/01)
+782,044a38d9f761ff5246d292d7e03b3ca9,Antonello,Cherubini,Assistant professor,0461 282459,Ingegneria industriale e dell'informazione (09),MECCANICA APPLICATA ALLE MACCHINE (ING-IND/13)
+783,d78fb6353dbed4f1bde0d57d6e5357e8,Francesca,Fiori,Teaching fellow,,,
+784,e1b195e2a1276ed62f6c74715b945726,Matthias,Carl,Associate professor,0461 283757,Scienze biologiche (05),ANATOMIA COMPARATA E CITOLOGIA (BIO/06)
+785,1702152499354cfd88805b821e89fd69,Antonio,Longa,Teaching assistant,,,
+786,42ea2fc13fbcc40a06ea351b0ec0ee34,Hendrik Anton,Dijkstra,Visiting professor,,,
+787,fdf48eab8d84aff869e42aa145965799,Michele,Castelluzzo,Teaching assistant,,,
+788,62b69f01fe371c57ca257d66ad954c22,Cristian,Consonni,Teaching assistant,,,
+789,b933814902f69b943fd7a4b1bb8c2724,Leonardo,Carrer,Assistant professor,,Ingegneria industriale e dell'informazione (09),TELECOMUNICAZIONI (ING-INF/03)
+790,7bab6b4bbd35d4363408c51f5dc4b06c,Federico,Fava,Teaching fellow,,,
+791,7a3af08bb6c48ffcb2f1f6b9a8d3ab8e,Valentina,Greco,Research collaborator,0461 282744,,
+792,6eb4d7c129de3a672df9d5305744bef4,Bernardo,Venturi,Teaching fellow,,,
+793,c0dd2da2b62fae112ac9eafcb2ca36f2,Mattia,Sensi,Teaching assistant,,,
+794,6506700c8c87b46ad35a86e169c48e8d,Enrico,Savi,Teaching assistant,,,
+795,482b9224d473cce7b47126ea71c3ed17,Giovanni,De Toni,Teaching assistant,,,
+796,0b90825de4c409a20da786f17d4a9eb1,Marco,Nicolò,Research collaborator,,,
+797,b90d2831b5d0bb53dcafdb85c0a0e69d,Lucia,Poggi,Associate professor,0461 283931,Scienze biologiche (05),BIOLOGIA APPLICATA (BIO/13)
+798,d2783177996682955a6da4b879f40f54,Davide,Gritti,Teaching assistant,,,
+799,369581b573ffcc30fc310b5c444ab963,Andrea,Montibeller,Teaching assistant,,,
+800,2d41c98738a5178b5302120d7f2e4818,Lorenzo,Zoppellari,Teaching assistant,,,
+801,a5b34c080da41e6d12c649fa2f3d0447,Konrad,Gizynski,Visiting professor,,,
+802,d4289f51433da190abb930c0751bde5a,Stefania,Sansone,Teaching assistant,,,
+803,fb3ddffa87e83a6582ba2d30b103070a,Stefano,Terruzzi,Teaching assistant,0464 808159,,
+804,4225b277e21cde659a3329f50c719e52,Domenico,Siracusa,Teaching fellow,,,
+805,cb429651179d8ccd1e50163e386fd164,Roberto,Fernandez Gago,Teaching fellow,,,
+806,48514232e4e4262bcaf225776ce54bae,Alberto,Michelotti,Teaching fellow,,,
+807,eb0f1542ae7c9684c9e90036b93f8cbf,Alberto,Taffelli,Teaching assistant,,,
+808,99125a61513204627282d693f7e318df,Alberto,Di Minin,Teaching fellow,,,
+809,5c46bd79147f613f20221d1c95a4bab3,Fabrizio,Costa,Associate professor,,Scienze agrarie e veterinarie (07),GENETICA AGRARIA (AGR/07)
+810,6473ef5ebbc56448d107170c15d9e36d,Mattia,Biesuz,Assistant professor,0461 283551,Ingegneria industriale e dell'informazione (09),SCIENZA E TECNOLOGIA DEI MATERIALI (ING-IND/22)
+811,52d0c815c31d85415cab91d5b4d7971a,Mariaclara,Rossi,Teaching fellow,,,
+812,2b40c83db6ed383e11a063cb75590886,Alessandra,Dodich,Assistant professor,0464 808162,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+813,a11f97a8d27f6102f4007956c6981072,Alessandra,Russo,Assistant professor,0461 283150,Scienze politiche e sociali (14),SCIENZA POLITICA (SPS/04)
+814,f76e77d2c17663cbcb93ef79c498328c,Giulia,Giordano,Assistant professor,0461 282539,Ingegneria industriale e dell'informazione (09),AUTOMATICA (ING-INF/04)
+815,8597a428de0120de54116ccb05302888,Sihem,Dabbou,Assistant professor,,Scienze agrarie e veterinarie (07),ZOOCOLTURE (AGR/20)
+816,ab9f54686962cbffb66f45626fb05764,Diego,Avesani,Assistant professor,,Ingegneria civile e Architettura (08),COSTRUZIONI IDRAULICHE E MARITTIME E IDROLOGIA (ICAR/02)
+817,82b98b738f1768b5ed8008efa407f272,Cesare,Colognesi,Teaching fellow,,,
+818,e90449fe1870138d17ec380a8867487c,Ornella,Mich,Teaching fellow,,,
+819,db0bfe7ac36287fa1598b8dc6966a321,Sara,Addamo,Teaching fellow,,,
+820,042cb58c7e121d2125bd53adf4fd0aa5,Ornella,Corazza,Full professor,,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA CLINICA (M-PSI/08)
+821,6a41fdd67bde38ca3e22e5cdcacb7f5c,Alessandra,Scroccaro,Teaching assistant,0461 282217,,
+822,ecf7bdb8c16c89ada0992d4390971b23,Silvia,Ricci,Teaching fellow,,,
+823,e0a6e03172d4d86eb87aa68c718872d4,Anesa,Bahtic,Research collaborator,,,
+824,406caaf29627ea230bbdb67de168fe39,Sébastien,Fassiaux,Research collaborator,,,
+825,ddf205261a80192f78157995e4165c11,Daniele,Bugnotti,Teaching assistant,,,
+826,32b71643ab57987c8c6161a8bd87044a,Chiara,Lago,Teaching assistant,,,
+827,ccab840d6bb07cd0901dd52a28feec5b,Fabio,Danelon,Teaching fellow,,,
+828,77733142e5ce24190631fa22c1f8e5ce,Alessio,Palmero Aprosio,Teaching fellow,,,
+829,2d5d4410449d68ab63b577591a7b3612,Francesco,Benso,Research collaborator,,,
+830,79e818f901bda700edfa988b266e6971,Katharina,Salzmann,Assistant professor,,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E TRADUZIONE - LINGUA TEDESCA (L-LIN/14)
+831,7798b85eac6f05af1116a7e1f0f050d8,Jorge,Espinosa,Teaching fellow,,,
+832,ab140a6caf73c916ed028e66078a5b35,Daniele,Rigotti,Teaching assistant,,,
+833,484f79343f3d5e7495aba0e60471ce32,Andrea,Pinamonti,Associate professor,0461 283298,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+834,1c5d4a26a7d635dc7a37c924124d648e,Luigi,Balasco,Teaching assistant,0464 808746,,
+835,d79f19adc812c867308f596514abb8e0,Francesco,Barone,Teaching assistant,,,
+836,002631b3082b880df0ea8a8450369347,Maria Gabriela,Rodriguez,Teaching assistant,,,
+837,cda814fdc814c6ea0667b59682ff1aa2,Arianna,Bentenuto,Assistant professor,0464 808117,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA CLINICA (M-PSI/08)
+838,10d47fe9517d451fda1d36f3fd0145b8,Paolo,Boccagni,Full professor,0461 281393,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+839,ed93f42ebfe963bfb7b90242fdb87027,Mosè,Ricci,Teaching fellow,0461 281909,,
+840,c02f4ea8329c1e7e5333cc5e276d8a51,Stefania,Pilati,Teaching assistant,,,
+841,90923e8316dafd9b1a6c3bc7f20d7c05,Mima,Stanojkovski,Assistant professor,0461 281657,Scienze matematiche e informatiche (01),ALGEBRA (MAT/02)
+842,22f5e8f364ec5c1bab7a2d205a55b75a,Antonio,Furlanetto,Teaching fellow,,,
+843,3c9ca351bdada07589a72fbd85cdf835,Milena,Stoycheva,Teaching assistant,,,
+844,883554dc7a3f397f020a454e5e3fe6f4,Andrea,Magliari,Assistant professor,0461 283522,Scienze giuridiche (12),DIRITTO AMMINISTRATIVO (IUS/10)
+845,274faf6088012f4e32e1ac5092d9a769,Pierluigi,Sartori,Teaching fellow,,,
+846,f618bd24c36bf5507d3a2b215d1d4bb9,Eva,Campi,Teaching fellow,,,
+847,5171c4f29adb683b090cc6a5fe036223,Matteo,Macilotti,Teaching assistant,,,
+848,13854a25457f080c32a3c1bb488b2694,Michela,Giovannini,Teaching assistant,0461 283165,,
+849,1856eb0370aabb782d10c133bca05bbf,Elena Maria,Rusconi,Full professor,0464 808460,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+850,4b497556b9d1a385d21e3432993adbe3,Gian Paolo,Leonardi,Full professor,0461 282939,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+851,9e4e36e6c981f4dcd668cded397f4c4e,Danny,Cliceri,Teaching assistant,,,
+852,0114d017b6939528e61edf52ac87a587,Pamela,Gatto,Teaching fellow,0461 285339,,
+853,a9be58072bcae9f4940692ba6bf47dcb,Alexander,Gohm,Teaching fellow,,,
+854,b13519b3d37a7853d1a1b68752a51b5c,Fabien,Maussion,Teaching fellow,,,
+855,72461095c1d6edb4a17b442c4f153552,Chiara,Bongiorno,Teaching fellow,,,
+856,4358e9bc7e0057c9ed1b73f61c9bead2,Guido,Salza,Teaching assistant,0461 281413,,
+857,867964964267bb5f7ef02520e6920ada,Matteo,Sanna,Teaching assistant,,,
+858,953b174b6d6e11425ef7866eb7d39df6,Nadir,Murru,Associate professor,0461 283821,Scienze matematiche e informatiche (01),ALGEBRA (MAT/02)
+859,c4513437c37e689d3e7828bb1ebeb3e5,Andrea,Guida,Teaching assistant,,,
+860,89d62995c2b4902bee99dec8d48ef5e5,James,Fitzgerald,Teaching fellow,,,
+861,aa52095fc4a34ae0778a74fea8456613,Beatrice,Heuser,Teaching fellow,,,
+862,15dbc82184c85aa84ef586debdfdee0a,Federico Carmelo,La Vattiata,Teaching fellow,,,
+863,1041a11e11f3762d641acfa5a4227aea,Nicole,Innocenti,Teaching assistant,,,
+864,fe84a0377e83fecc57f7472228e9e06e,Veronica,De Sanctis,Teaching fellow,,,
+865,04cc77512876c0acaa8328cbc0c5ad42,Halyna,Dovhan,Visiting professor,,,
+866,e04d7c1ee66e086d7d30f3a886146200,Davide,Pastorello,Assistant professor,,Scienze matematiche e informatiche (01),FISICA MATEMATICA (MAT/07)
+867,8fe137dc9a87b44ac9301cfde0860c47,Valentina,Molin,Research collaborator,,,
+868,c90b398c8f675c04cdfd3b81cf702121,Irene,Zavattero,Associate professor,0461 282491,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA DELLA FILOSOFIA MEDIEVALE (M-FIL/08)
+869,f604f876155aabd7c9babb9d3ec06199,Elisa,Frasnelli,Assistant professor,0464 808744,Scienze biologiche (05),ZOOLOGIA (BIO/05)
+870,8df35e6fe0beaf29d86cb6890d925aa3,Simone,Verzellesi,Teaching assistant,,,
+871,30e03155368f7ae7a0f506421489bc88,Olivier Marie Claire,Collignon,Visiting professor,0461 282778,,
+872,63b9f00d3224ea1c62141cc284055289,Michele,Orlandi,Associate professor,0461 282012,Scienze chimiche (03),CHIMICA GENERALE E INORGANICA (CHIM/03)
+873,c9b0fe6a55a507774adbf68210fde169,Angelo Nicola Mariano,Recchia Luciani,Research collaborator,,,
+874,7129041a6c4182e7f13460d06c4ffa40,Giovanni,Mattiotti,Teaching assistant,,,
+875,8c229a9844a1b135a10b207c32f986d3,Andrea,Stefani,Teaching fellow,,,
+876,7b5a5d4070572a111bf50cafaad9d934,Marco,Bernardis,Teaching fellow,,,
+877,4bb50d77835318f6c2d6cfd61d95c9ec,Emanuele,Ciola,Teaching fellow,,,
+878,16ea63b9ae5e8e84114409fb0ab6ff5a,Jose Ramon,Canedo Arrillaga,Teaching fellow,,,
+879,03ec247a65364123d7c7d7a2116c7eea,Andrea,Messina,Assistant professor,0464 808737,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+880,fd55124962e98fc43e0ee8836d8c8a22,Nicola,Gabellieri,Assistant professor,0461 281729,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",GEOGRAFIA (M-GGR/01)
+881,a8a2a9caba182041a472570f8dd2f505,Federica,Meconi,Assistant professor,0464 808128,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+882,8490647652761e963a0dddcba54bb69f,Paolo Vincenzo,Fioretti,Teaching assistant,,,
+883,17e7ca902bb0ce5757ea48f0ddbc3591,Riccardo,Ricci,Teaching assistant,,,
+884,bebbf6c986c0a437abb7039a2234e9c8,Chiara,Bernard,Teaching assistant,,,
+885,0d5ef374f1938af53ae5ffce088013bb,Giacomo,Vianello,Teaching assistant,,,
+886,12ddf75f6c6dc741fb4afc2604d30e83,Flavio,Vella,Assistant professor,0461 282050,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+887,db564bd121eb5e48cb3fd29e9fa79aee,Diego,Giuliani,Associate professor,0461 282309,Scienze economiche e statistiche (13),STATISTICA ECONOMICA (SECS-S/03)
+888,da4d45321d65da3f0b78deb51c80347f,Jacopo,Iannacci,Teaching fellow,,,
+889,840a54ccc2dac458c6ae7b085ed252e9,Cristina,Del Bianco,Teaching fellow,0461 283276,,
+890,10c69904b33ba02cb6ade744e3ddfb0f,Alvise,Berti,Assistant professor,,Scienze mediche (06),REUMATOLOGIA (MED/16)
+891,6fb72211507a09a5873edbe6c70ba4dd,Michael,Dumbser,Full professor,0461 282659,Scienze matematiche e informatiche (01),ANALISI NUMERICA (MAT/08)
+892,f7dc9d0458a8c7a4978786fb5b7df9be,Alessandro,Umbach,Teaching assistant,,,
+893,c1904bb237264598ef31910a7e504817,Daniela,Giudici,Assistant professor,0464 808671,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+894,e4c03cd9abee367e924bc2b681b24c42,Sheref Samir,Mansy,Associate professor,0461 283438,Scienze biologiche (05),BIOCHIMICA (BIO/10)
+895,f8494c76a1c77c33beac0c7b2e9df2a2,Stefani,Scherer,Full professor,0461 281350,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+896,b3b6d602cd18c0bed62027032dd1f4fd,Simone,Penasa,Assistant professor,0461 283510,Scienze giuridiche (12),DIRITTO PUBBLICO COMPARATO (IUS/21)
+897,3fb2715cbf0702f4e09f906113899b41,Silvia,Pellizzari,Associate professor,0461 282370,Scienze giuridiche (12),DIRITTO AMMINISTRATIVO (IUS/10)
+898,a81715e0818f7b2229cf8ec42a8ae9c1,Emanuele,Corn,Teaching assistant,0461 282134,,
+899,4d33dc5a22698df3f25016009d1fdb7f,Natalia,Magnani,Assistant professor,0461 281306,Scienze politiche e sociali (14),SOCIOLOGIA DELL'AMBIENTE E DEL TERRITORIO (SPS/10)
+900,ee495e64f2f7b84b4c9c936c9b00756a,Manuela,Fox,Teaching fellow,,,
+901,b6d16c8768f069cb8b8ab794a8175492,Paolo,Marangon,Assistant professor,0461 283700,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA DELLA PEDAGOGIA (M-PED/02)
+902,456a047db645d8d61feb0b35731540e6,Anna Gianna,Manca,Full professor,0461 282715,Scienze politiche e sociali (14),STORIA DELLE ISTITUZIONI POLITICHE (SPS/03)
+903,e6e516e38a11ba67d47ea219ffd5fd62,Antonio,Schizzerotto,Emeritus professor,0461 281431,,
+904,5df0a1fe33eb77dc72b5ce31a4717c5c,Matteo,Leoni,Associate professor,0461 282416,Ingegneria industriale e dell'informazione (09),SCIENZA E TECNOLOGIA DEI MATERIALI (ING-IND/22)
+905,f3359cd0cc595343ac63e88cd8eee72f,Maurizio,Cau,Teaching fellow,,,
+906,ce666f05e3292025b987db7d16404de4,Bruno,Crispo,Full professor,0461 282099,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+907,4f149e716421cf915d8925f77395546b,Rocco,Scolozzi,Teaching fellow,0461 281447,,
+908,ffd95e0a820a44632e46f0903a4085c9,Alessandro,Cristoforetti,Research collaborator,0461 281675,,
+909,551a4d07aa2ce3e346d008a352c13a70,Samuel,Scandola,Teaching assistant,,,
+910,ef92ea0cef39480d56c007ba83485309,Marco,Patrignani,Assistant professor,0461 285250,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+911,685c392012116bb7b90d69d25f33a3a1,Pietro,Taravacci,Full professor,0461 281718,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA SPAGNOLA (L-LIN/05)
+912,b4cd2eab0a68c1839b357f5f4b705cc6,Massimo,Giuliani,Associate professor,0461 281787,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",EBRAICO (L-OR/08)
+913,11ef90fb70b87496fcba362cd2424fa6,Eugenio,Caliceti,Teaching fellow,0461 283507,,
+914,9f917900854d600762252e991f933a9c,Filomena Medea,Tulli,Teaching assistant,,,
+915,4afbc1c18400c3fc93540a187d859a3a,Camilla,Russo,Teaching assistant,,,
+916,a88d4af17da12fe4f12f7c801ffb9949,Augusto,Visintin,Senior Professor,0461 283825,,
+917,2ade221dce3a241af49a43f5359790f2,Paola,Villa,Research collaborator,0461 282202,,
+918,0e8c273bc8da450607e0188d5a00c1c4,Patrizia,Cordin,Senior Professor,0461 281705,,
+919,91e173af9c56da0f3fec679c75a5654c,Federico,Mento,Teaching assistant,,,
+920,24f3310c885f1460b095ab214400ff5e,Fulvio,Cortese,Full professor,0461 281804,Scienze giuridiche (12),DIRITTO AMMINISTRATIVO (IUS/10)
+921,5aea7db0fb3b45acd304d7ec72fcfef3,Paola,Zanolli,Assistant professor,0461 281515,Scienze matematiche e informatiche (01),ANALISI NUMERICA (MAT/08)
+922,aee4a56a487f95e3eb0a2640ed48bac1,Erik,Gadotti,Teaching fellow,,,
+923,f3d3238c0d608b7cf583972cce304ea9,Valentino,Abram,Teaching assistant,,,
+924,94d8f85941a827dab561b9190c35a696,Carlo,Miniussi,Full professor,0461 282793,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+925,6bdecd5a6f322b3811091fb9721ee411,Luca,Pes,Associate professor,,Scienze giuridiche (12),DIRITTO PRIVATO COMPARATO (IUS/02)
+926,8bea52aa98f6e4f7c4df9af2944cc7e2,Silvia,Schiavon,Teaching assistant,,,
+927,3a397f56dc245a6d32d8663ec351f87f,Jacopo,Roccabruna,Research collaborator,,,
+928,7c107927d6e78b4a44a3db96936ae37a,Danilo,Galletti,Full professor,0461 282255,Scienze giuridiche (12),DIRITTO COMMERCIALE (IUS/04)
+929,a42600562c08603d587eb8c035584694,Marco,Bellabarba,Full professor,0461 282717,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA MODERNA (M-STO/02)
+930,a69c736ed5d75c111e4bda07b3fd16a6,Stefano,Bonaccorsi,Full professor,0461 281523,Scienze matematiche e informatiche (01),PROBABILITÀ E STATISTICA MATEMATICA (MAT/06)
+931,5a6c884d0a393f49c5fef507850ff34a,Riccardo,Ghiloni,Full professor,0461 281513,Scienze matematiche e informatiche (01),GEOMETRIA (MAT/03)
+932,27107bc5e48611a92dd9e547009cd986,Chiara,Finocchiaro,Assistant professor,0464 808678,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",GLOTTOLOGIA E LINGUISTICA (L-LIN/01)
+933,3dbe8ed09b77601e6e1097982b448e9c,Cecilia Frida,Natalini,Associate professor,0461 283843,Scienze giuridiche (12),STORIA DEL DIRITTO MEDIEVALE E MODERNO (IUS/19)
+934,d8df8ba7fd6499f7e889b597dda0a7a7,Federica,Camin,Associate professor,3357440177,Scienze chimiche (03),CHIMICA ANALITICA (CHIM/01)
+935,d9ab8f578a86b987c755de5076c990fe,Simone,Cerroni,Associate professor,0461 282372,Scienze agrarie e veterinarie (07),ECONOMIA ED ESTIMO RURALE (AGR/01)
+936,205b048590c1889aef2392a3bfef179b,Davide,Geneletti,Full professor,0461 282685,Ingegneria civile e Architettura (08),TECNICA E PIANIFICAZIONE URBANISTICA (ICAR/20)
+937,22e1177f6956cb666e44a776085edd2f,Jorge,Jovicich,Full professor,0464 808681,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+938,9bb1a60bad1db54ba86f2283ab895371,Sergei,Kichko,Assistant professor,0461 282206,Scienze economiche e statistiche (13),POLITICA ECONOMICA (SECS-P/02)
+939,12cd8503143a7936020bcf997a4781be,Matteo,Saveriano,Assistant professor,0461 282427,Ingegneria industriale e dell'informazione (09),AUTOMATICA (ING-INF/04)
+940,7922760404c3096ed48d8ee2b0fba8aa,Alessia,Monti,Teaching fellow,,,
+941,42c07130dd4a98723f5ebae37fbc15b4,Amadou,Keita,Teaching fellow,,,
+942,db87ab335d39f9be25480a2bad5e7669,Vincenzo,Galgano,Teaching assistant,,,
+943,7f7ee84c3ee89aea5890366e94fb20cb,Enzo,Falco,Associate professor,0461 282663,Ingegneria civile e Architettura (08),TECNICA E PIANIFICAZIONE URBANISTICA (ICAR/20)
+944,0440649cb78f76f55a4e30c7c51e50b7,Manuela,Piazza,Full professor,0464 808799,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+945,8f86fddb9dfc506e907b05982d716fdc,Mirco,D'Incau,Teaching assistant,0461 282426,,
+946,04327e01d051a09d86365712cd650a0f,Alessandro,Romanel,Associate professor,0461 282791,Scienze biologiche (05),BIOLOGIA MOLECOLARE (BIO/11)
+947,e8158973d81fcbae1d363c2b3d9397ab,Francesca,Bonini,Teaching fellow,,,
+948,cdf9484aa0c8a34e632261e2094abc6c,Paolo,Rocca,Associate professor,0461 283998,Ingegneria industriale e dell'informazione (09),CAMPI ELETTROMAGNETICI (ING-INF/02)
+949,1391e5bd9a0a8c0c05640168c1d3e395,Mariette,Raaijmakers,Research collaborator,0461 282702,,
+950,efb05a9acce99cdaeb0787abfc950752,Luca,Fazzi,Full professor,0461 281303,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+951,2a74266f16db77704b3ad77d0e6f82fc,Konstantinos,Hadjichristidis,Associate professor,0461 282257,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA GENERALE (M-PSI/01)
+952,d4b4b60c1ca0d8434c709b05245a1fbb,Luca,Surian,Full professor,0464 808672,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA DELLO SVILUPPO E PSICOLOGIA DELL'EDUCAZIONE (M-PSI/04)
+953,9e1b2495dd94964fc8a856eb78c11aee,Gabriele,Miceli,Senior Professor,0464 808155,,
+954,3064d00d5a754d0dc4c563bdca289114,Emanuela,Callone,Teaching assistant,0461 282463,,
+955,ef4719fbea59d63ed49fb0f97858a218,Zeno,Gaburro,Associate professor,0461 282054,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+956,02d79f2a4b0b65ba0f130f13877d31ff,Patrizia Maria Margherita,Ghislandi,Teaching fellow,0464 808305,,
+957,9e51baa428b4c56b89678405859812ab,Roberto,Bertuol,Teaching fellow,,,
+958,eeca040ff85ddd42bed79512a925809f,David Paul,Melcher,Associate professor,,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA GENERALE (M-PSI/01)
+959,4c39e288550341fd4f910d1fcbdc1637,Michela,Bonafini,Teaching assistant,,,
+960,4bbe9e86a7983c15bbea4aeeb98d5b2c,Stefano,Cainelli,Research collaborator,0464 808115,,
+961,37791b0c86deb3312a6222476f6f4e72,Carlo,Buzzi,Teaching fellow,0461 281301,,
+962,7b235c7ec8fdce80c0d6116775867b4a,Riccardo,Salomone,Full professor,0461 281803,Scienze giuridiche (12),DIRITTO DEL LAVORO (IUS/07)
+963,63be9a95a298dd7ccbf226f05cee3ddd,Stefano,Zambelli,Full professor,0461 282373,Scienze economiche e statistiche (13),ECONOMIA POLITICA (SECS-P/01)
+964,5647b340674265852c610d4470555838,Chiara,Ferrari,Teaching fellow,,,
+965,f56b2dff1cbfb723663db2c3654c653d,Andrea,Tenucci,Teaching fellow,,,
+966,0630ba765ab5db9d09d36f5069ee4484,Roberta,Sevieri,Teaching assistant,,,
+967,e864eeac7fb41944e0a05f6bf8139863,Giorgio,Licciardello,Teaching assistant,,,
+968,e6e227bf7d23d0e100730da5e36a95f0,Giulia,Boato,Associate professor,0461 283193,Ingegneria industriale e dell'informazione (09),TELECOMUNICAZIONI (ING-INF/03)
+969,7e9c436a2908b5664424837105eecfe0,Elisa,Possenti,Associate professor,0461 283832,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",ARCHEOLOGIA CRISTIANA E MEDIEVALE (L-ANT/08)
+970,cdd241a06c7b368c57b9c85dabd35aa6,Valentina,Maestrello,Teaching assistant,,,
+971,e7650f415b327d4b2ca44caf1cc13d4e,Rosalba,Roccatello,Teaching assistant,,,
+972,4687e0eb2024b2a9dfacbc0859c3d161,Loris,Gaio,Associate professor,0461 282142,Scienze economiche e statistiche (13),ECONOMIA E GESTIONE DELLE IMPRESE (SECS-P/08)
+973,3ef3ac1679327bd9b9ef609515277272,Giuseppe,Espa,Full professor,0461 282157,Scienze economiche e statistiche (13),STATISTICA ECONOMICA (SECS-S/03)
+974,06209689f6f01b4b03e6777ae407d87a,Annunziato,Siviglia,Associate professor,0461 281941,Ingegneria civile e Architettura (08),IDRAULICA (ICAR/01)
+975,cfce8cb3710f3d432fd57b38e272978e,Fabio,Casati,Full professor,0461 282044,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+976,f6140be0343e85758af2db34be71274b,Giuliana,Passamani,Full professor,0461 282108,Scienze economiche e statistiche (13),STATISTICA ECONOMICA (SECS-S/03)
+977,9380b41d896d49dec2f669dff613677a,Gaspare,Nevola,Full professor,0461 281414,Scienze politiche e sociali (14),SCIENZA POLITICA (SPS/04)
+978,34b80ef3cf2f52cf191c921c920a0c8e,Maria Paola,Paladino,Full professor,0464 808625,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA SOCIALE (M-PSI/05)
+979,c1ef17d5c1092d840f0494de701f090d,Romeo,Brunetti,Associate professor,0461 281562,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+980,6f6c75ae4993c444c764c00c7ce08d41,Federica,Maino,Teaching fellow,,,
+981,5cb6b264f245c5c753a8ec7334348c4d,Alberto,Quaranta,Full professor,0461 282450,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+982,d58f84f6ff849fe0fad3a3fa5e1c2c49,Federica,Ricci Garotti,Full professor,0461 281786,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E TRADUZIONE - LINGUA TEDESCA (L-LIN/14)
+983,f3cb6b15579085f5f808354d881ef7cc,Luigi,Pastore,Teaching fellow,,,
+984,41db077e5a8089f812378d901938075d,Marie Laure Michele,Baudet,Associate professor,0461 285334,Scienze biologiche (05),ANATOMIA COMPARATA E CITOLOGIA (BIO/06)
+985,0c84a7f9f7cfb8c28fd960905bdaee87,Marilena,Giora,Teaching assistant,,,
+986,16a64b346d59ab0c12bd9c300595633d,Gianluca,Occhetta,Full professor,0461 283899,Scienze matematiche e informatiche (01),GEOMETRIA (MAT/03)
+987,13aa9fe2dccb3a24c355aca871c55d3c,Gian Pietro,Picco,Full professor,0461 283953,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+988,fe5c87c6465d3e725c0d8d0acc8ca000,Luciano,Andreozzi,Associate professor,0461 283118,Scienze economiche e statistiche (13),ECONOMIA POLITICA (SECS-P/01)
+989,413512972564b795e096381f1ce9b54d,Daniela,Mascione,Teaching assistant,,,
+990,00d6bfc3bc479ba150a8854a785a92a8,Uwe,Mayer,Assistant professor,0464 808179,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+991,39ef1de43f52cf77021b4c23ef9be2b2,Nicola,Fraccarolo,Teaching assistant,,,
+992,ec17202e0c2dadc23832a93524fe2431,Alessio,Meneghetti,Assistant professor,0461 283896,Scienze matematiche e informatiche (01),ALGEBRA (MAT/02)
+993,f161e863924ebbc2702190778c98db85,Alessandro,Oneto,Assistant professor,0461 281555,Scienze matematiche e informatiche (01),GEOMETRIA (MAT/03)
+994,51d129a48854775b541087cadb07da55,Samuele,Girardelli,Teaching assistant,,,
+995,3fae9e1b7c77344cea85b922dad547ff,Roberta Rosa,Valtorta,Teaching fellow,,,
+996,29093500238402ad7c005d32f8cc73f3,Elisabetta,Pulice,Teaching assistant,0461 283518,,
+997,90a60d75cd9a21c7b3604f141c20ac78,Gianluca,Chiarioni,Teaching assistant,,,
+998,a66a796d88c1c62281ffee555357815e,Lisa,Marchi,Assistant professor,0461 282302,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUE E LETTERATURE ANGLO-AMERICANE (L-LIN/11)
+999,3c88a62c91a0191e6f753950986ba772,Enrico,Lovato,Teaching assistant,,,
+1000,bb9931b8cb39025656452f808e76dbc9,Alberto,Comparini,Assistant professor,0461 282782,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",CRITICA LETTERARIA E LETTERATURE COMPARATE (L-FIL-LET/14)
+1001,ed9070d5b46e6f6881612d3d308b9c5f,Mario,Wegher,Teaching assistant,,,
+1002,8c88bf4a2f033c2ed945a6cb979494dd,Fabiano,Venerini,Teaching assistant,,,
+1003,ad8273593b81ce35560482ef59c11d4a,Winfried,Leidemann,Associate professor,0461 281526,Scienze fisiche (02),FISICA NUCLEARE E SUBNUCLEARE (FIS/04)
+1004,a0f23921a3b0e1028cd3afb2740a7579,Albrecht,Haase,Associate professor,0464 808699,Scienze fisiche (02),"FISICA APPLICATA (A BENI CULTURALI, AMBIENTALI, BIOLOGIA E MEDICINA) (FIS/07)"
+1005,fe24a2ad1d2bb2032108be14ca707725,Franz Matthias,Hartwig,Teaching fellow,,,
+1006,8675e5e9f8092f1a97b163dd23f12859,Marcelo Dario,Rodas Britez,Teaching assistant,,,
+1007,0fcf87937a85b3681738477f99d40c28,Francesca,Agostinacchio,Teaching assistant,,,
+1008,255f03dba9cbf76bc2ed9db9fd61f1cf,Lorenzo,Poli,Assistant professor,,Ingegneria industriale e dell'informazione (09),CAMPI ELETTROMAGNETICI (ING-INF/02)
+1009,680d991cc4d2198e0f3ceed383f384cf,Alessandro,Polo,Assistant professor,0461 283922,Ingegneria industriale e dell'informazione (09),CAMPI ELETTROMAGNETICI (ING-INF/02)
+1010,3c6d6d2b54ce446ee26100f0839f850d,Aldo,Savoldelli,Assistant professor,,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",METODI E DIDATTICHE DELLE ATTIVITÀ SPORTIVE (M-EDF/02)
+1011,d9de2afa3d78efe7f3fa3d37b6ea6676,Emanuele,Fornasiero,Teaching fellow,,,
+1012,536412cd2864daf94565f3cea8d0d590,Scott Laurence,Fairhall,Associate professor,0464 808705,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+1013,c8b1341565d7e7a592a12aed5f5865c2,Antonio,Bucchiarone,Teaching assistant,,,
+1014,5c05d78c0b91c4c3d567b2da757e2699,Martina,Cvajner,Associate professor,0461 281391,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+1015,766878648e00d2cc0453e6606830bce1,Gabriele,Tomè,Research collaborator,,,
+1016,4bdb1a9220ec5ee2d1a971381b692115,Filippo,Saccardo,Teaching assistant,,,
+1017,81070d409e154bb38a0f8e7fce72cc39,Andrea,Luchi,Teaching fellow,,,
+1018,5096170dc3db234c98104e69a219da29,Elisabetta,Doniselli,Teaching fellow,,,
+1019,f13fef266291390e7219370ef13a8b13,Vieri,Pistocchi,Teaching assistant,,,
+1020,667fc25c566c460d3ecfe4e285f91dc3,Massimo,Cazzanelli,Teaching assistant,0461 282954,,
+1021,1c5095dab9b1b13f482651c3aef23452,Leonardo,Ricci,Associate professor,0461 282045,Scienze fisiche (02),"FISICA APPLICATA (A BENI CULTURALI, AMBIENTALI, BIOLOGIA E MEDICINA) (FIS/07)"
+1022,66ab2e242c0f2a583d839649e512cefd,Caterina,Nardella,Research collaborator,0461 282418,,
+1023,7af9255709a9e3d9bcfb8695efc284e3,Davide,Trivellato,Teaching assistant,,,
+1024,0d5808729c1db18321ccc77b103b9f96,Giorgio,Di Tizio,Teaching assistant,,,
+1025,c53af405d77f88b4f566542b4e403063,Gianluca,Schiavo,Teaching fellow,,,
+1026,f37d511f07252475bb970bea8578df6a,Jacopo,Staiano,Assistant professor,0461 282316,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+1027,250acd9c9441db4337e581ae99194cf6,Chiara,D'Arcangelo,Teaching assistant,,,
+1028,b03a20589e70b216fb733ee9546aaf09,Giovanni Battista,Benciolini,Full professor,0461 282632,Ingegneria civile e Architettura (08),TOPOGRAFIA E CARTOGRAFIA (ICAR/06)
+1029,e3c790d34748e6ae02102a8eee2e5bcf,Maria Luigia,Segnana,Senior Professor,0461 282225,,
+1030,fa614be1a485db53bfdddb00485b6d1c,Pierangelo,Schiera,Emeritus professor,,,
+1031,bc97d2f70c280e050818a39f76b77bbd,Gabriele,Stoppa,Teaching fellow,0461 282155,,
+1032,46fd6be0501860b21b729a3b508974d6,Roberto,Tamborini,Full professor,0461 282228,Scienze economiche e statistiche (13),ECONOMIA POLITICA (SECS-P/01)
+1033,e9722ba3fd83964c6b9d7bdbedc1bd74,Loris,Dallago,Research collaborator,,,
+1034,5132f1d77bd9b8127f38fab9446d7b24,Paolo,Bosetti,Associate professor,0461 282451,Ingegneria industriale e dell'informazione (09),MISURE MECCANICHE E TERMICHE (ING-IND/12)
+1035,ca505f90b825267f2843d0cd452f3010,Stefano,Baratella,Full professor,0461 281616,Scienze matematiche e informatiche (01),LOGICA MATEMATICA (MAT/01)
+1036,8e927356134577d3cfc6880852058245,Mario,Diani,Full professor,0461 281417,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+1037,9c1099dc1e918f82f8897b643e472958,Nicola,Zeni,Teaching assistant,0461 282371,,
+1038,c26cab9aff2894be418e8496ad9b34cf,Franco,Marzatico,Teaching fellow,,,
+1039,bec298c121a947193e7382552b6702e9,Giovanni,Ciappelli,Full professor,0461 282716,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA MODERNA (M-STO/02)
+1040,6eb9c4ed969d38066c0f41376bbf17c6,Christian,Zendri,Associate professor,0461 283841,Scienze giuridiche (12),STORIA DEL DIRITTO MEDIEVALE E MODERNO (IUS/19)
+1041,afda5d1e2400ce8e88114f41b1632310,Daniela,Ferrari,Research collaborator,,,
+1042,d75ca615bee9944d3d593692231cbb78,Johny Alois  Emericus,Vervaele,Teaching fellow,,,
+1043,39cc6ea38076fbbf1b85bf5cd8c56517,Vincenzo,Della Sala,Full professor,0461 283476,Scienze politiche e sociali (14),SCIENZA POLITICA (SPS/04)
+1044,623aef17046a5c6c940c3aa10dafa566,Andrea,Binelli,Associate professor,0461 283865,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E TRADUZIONE - LINGUA INGLESE (L-LIN/12)
+1045,b0d4041256343095ba7e71c700ca6905,Lucia,Bianchin,Associate professor,,Scienze giuridiche (12),STORIA DEL DIRITTO MEDIEVALE E MODERNO (IUS/19)
+1046,d744effefa2eea4075e087217abbf6d9,Rita,Dolesi,Associate professor,0461 282003,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+1047,89aa7075574b7c3ca013fd0b4319d7d1,Cristiano,Gori,Full professor,0461 281411,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+1048,704b39aac5dc3ae3bb172510349142c3,Paolo,Bettotti,Associate professor,0461 281501,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+1049,6384ccb8d2df08edde5d98a66824addf,Serena,Luzzi,Associate professor,0461 283789,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA MODERNA (M-STO/02)
+1050,83739daf5ecea0d567acc9c7d5afcdb7,Lucia,Pederiva,Teaching assistant,,,
+1051,f6233be59a0d17acc5c3072e7ff35335,Giuseppina,Orlandini,Senior Professor,0461 281578,,
+1052,ad5a1f9854905ad0ab6628451123ce54,Alessandro,Franceschini,Teaching fellow,0461 282690,,
+1053,0847af625cd6d6ac15bddae7fc95c573,Andrea,Rossato,Assistant professor,0464 808618,Scienze giuridiche (12),DIRITTO PRIVATO COMPARATO (IUS/02)
+1054,8cd43298d27ee90250cde7fd12dd68c4,Lucia,Simeoni,Assistant professor,0461 282520,Ingegneria civile e Architettura (08),GEOTECNICA (ICAR/07)
+1055,41e36ec7cd9445435feab1bd45a398a7,Marco,Roveri,Assistant professor,0461 285259,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+1056,56dacbebb394ba910fde0d9139ebe97c,Francesco,Gadotti,Research collaborator,,,
+1057,0f4ba24cf938f740b76541d12e2316df,Maurizio,Costantini,Teaching fellow,0461 282489,,
+1058,771a3ae01137becc7546fd4caaa4a7a4,Alberto,Cristofolini,Teaching assistant,,,
+1059,cd51ec2b9ba19f69b26a27b766d51713,Stefano,Corvo,Teaching fellow,,,
+1060,feb0eb07178223d211be7ded34ba34ce,Luigi,Dolores,Teaching fellow,,,
+1061,b9875c6374168e1661c6bba221c4032e,Edoardo,Ravagnin,Teaching assistant,,,
+1062,ae1fd42229a746299358930df4221340,Andrea,Mirandola,Teaching assistant,,,
+1063,68d23e1d4756f7a28731b4c4347eac83,Ambra,Di Piero,Teaching assistant,,,
+1064,1b9fb52d9c78839e54d03f3f4104660d,Luca,Graiff,Teaching assistant,,,
+1065,f969f9934ff5b7c56daf2ad22a565ff5,Md. Mahfuzul,Islam,Teaching fellow,,,
+1066,ac76538fecf316016b420cca7b714c54,Corrado,Malberti,Associate professor,0461 281841,Scienze giuridiche (12),DIRITTO COMMERCIALE (IUS/04)
+1067,a8bcf5c47688dcbde61c459d255a43f0,Afshin,Hamrabadi,Teaching assistant,,,
+1068,3ee70f42ced3ec3edc0c67342fbc71b6,Lorenzo,Marin,Research collaborator,,,
+1069,3dcc1bd3b2a7aaf0a310a143e22935e0,Andrea,Mazzullo,Teaching assistant,,,
+1070,c16f57888fcc28af5a6e044d978653c2,Andrea,Cillingovà,Visiting professor,,,
+1071,145ec1c7e0f997e9a3e8d70bb79d704b,Claudio,Gioia,Assistant professor,,Scienze chimiche (03),CHIMICA ORGANICA (CHIM/06)
+1072,7de7d8062dac9a804c12eb3e398bd638,Pier Luigi,Cudazzo,Assistant professor,0461 281544,Scienze fisiche (02),FISICA DELLA MATERIA (FIS/03)
+1073,c2da0ba984863fe2575f7dbfc125af2d,Michele,Giannotti,Teaching assistant,0464 808136,,
+1074,412f7642c268295d1dcb7d8e34bd446f,Eleonora,Parolin,Teaching assistant,,,
+1075,e2144ddce624d518fff4a1eb70bdc386,Elena,Fasoli,Associate professor,0461 281816,Scienze giuridiche (12),DIRITTO INTERNAZIONALE (IUS/13)
+1076,b56da8a7bb7f2293043e06e00f3d6b1a,Marco,Redolfi,Research collaborator,,,
+1077,66e44bf33116484cd4750e7525329706,Michela,Roccuzzo,Teaching fellow,0461 281653,,
+1078,3ef2526a46d2ad264807fc4076cff551,Mattia,Marchio,Teaching assistant,,,
+1079,95764fd41083ec7de618d4e01cf68ff4,Nadia,Vendrame,Assistant professor,0461 281930,Scienze fisiche (02),FISICA PER IL SISTEMA TERRA E IL MEZZO CIRCUMTERRESTRE (FIS/06)
+1080,e4d78448a6df198bb201f51a2dad0d42,Cecilia,Pasquini,Teaching assistant,,,
+1081,c3ad0ed4f60402f18a8d2bc8c73e7238,Alessandra,Bianca,Research collaborator,,,
+1082,ecb8ff38d32cbd970be82cbda8709063,Andrea,Ferlito,Teaching assistant,,,
+1083,fa0b9236e12489f05e76b9498e99ca73,Leonardo,Boletti,Teaching assistant,,,
+1084,95a466bdd7f17703e19c1168b4a2417b,Alberto,Ianes,Teaching fellow,,,
+1085,38464d76f40369a0a2d786b3e5ac7fde,Gian Paolo,Romagnani,Teaching fellow,,,
+1086,c9355ee2fadecc95d7aaf74b8dbefc3a,Francesca,Lorenzin,Assistant professor,,Scienze biologiche (05),BIOLOGIA MOLECOLARE (BIO/11)
+1087,6eaa0b4829a938004bdf31ae129ca941,Matteo,Aimini,Assistant professor,0461 282508,Ingegneria civile e Architettura (08),ARCHITETTURA DEL PAESAGGIO (ICAR/15)
+1088,5ea6162bc15aa0513440de09dd4357ea,Matteo,Leonardi,Assistant professor,,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+1089,74c91c58e6bc78cf4beedbf2b2fdbb9d,Luca,Pangrazzi,Teaching assistant,0464 808746,,
+1090,3c4e2f00c37913f8d766ff57f92fe6c0,Lorenzo,Sebastiani,Teaching assistant,,,
+1091,2ddf54e651ffdfe5308b1a9a4204982a,Sara,Favargiotti,Associate professor,0461 282695,Ingegneria civile e Architettura (08),ARCHITETTURA DEL PAESAGGIO (ICAR/15)
+1092,56c8abe8c2fb5339c3f94ae50805a6b9,Sara,Assecondi,Assistant professor,0464 808638,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+1093,0bff3968e8ac374a8da172ad216c1dda,Alessandro,Sardone,Teaching fellow,,,
+1094,cdfbb74e51a6212969cbaacc6b210ce1,Elisa,Lorenzoni,Teaching fellow,,,
+1095,81bb95b5c34edd86aa2a89050c411ca7,Giulia,Graldi,Teaching assistant,,,
+1096,1993ce66296e47a1d135b66d8b63d48e,Alessandro,Parenti,Associate professor,0461 281496,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",GLOTTOLOGIA E LINGUISTICA (L-LIN/01)
+1097,75d83981b0e2889195581294c582d220,Elisabetta,Ossanna,Teaching fellow,0461 282936,,
+1098,f874e43e7bd787b1bcf4280bdd890075,Omar,Brino,Teaching assistant,,,
+1099,ed3281d00cbd1d20b4b59f2329d5c078,Andrea,Margheri,Teaching fellow,0461 283106,,
+1100,6a2e03ae0245821148befe37ba45341a,Bruno Giovanni,Caprile,Teaching fellow,,,
+1101,83d634c885e145b09ac8b34908b37397,Gabriele,Fornasari,Full professor,0461 283886,Scienze giuridiche (12),DIRITTO PENALE (IUS/17)
+1102,b996d78e6fe4c7d7cb0b94a8c421f6dc,Luisa,Canal,Associate professor,0464 808647,Scienze economiche e statistiche (13),STATISTICA (SECS-S/01)
+1103,addd388f021566fe9b0442be4161f31e,Sergio,Bonini,Associate professor,0461 281852,Scienze giuridiche (12),DIRITTO PENALE (IUS/17)
+1104,e07fce76605f094be5bb7864bc15188b,Paolo,Collini,Full professor,0461 282163,Scienze economiche e statistiche (13),ECONOMIA AZIENDALE (SECS-P/07)
+1105,a6235f3ba3d3e45065e5f7bdb631f306,Roberto Sennen,Brusa,Full professor,0461 281552,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+1106,20c7b301cc43896757e832b9ff3763fb,Sandro,Manica,Teaching fellow,,,
+1107,77c2065fe12f22bea7af0003e715540f,Luciano,Pilati,Full professor,0461 282205,Scienze agrarie e veterinarie (07),ECONOMIA ED ESTIMO RURALE (AGR/01)
+1108,77228d3b9370d56ed4e8d402d2cc5f39,Carmelo,Ferrante,Teaching assistant,0461 283897,,
+1109,54fd16185b81faa6bb84df9f62fbf757,Roberto,Poli,Full professor,0461 281403,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",LOGICA E FILOSOFIA DELLA SCIENZA (M-FIL/02)
+1110,cb8e86e73cea9396807b53d572657b61,Paola,Foladori,Associate professor,0461 282683,Ingegneria civile e Architettura (08),INGEGNERIA SANITARIA-AMBIENTALE (ICAR/03)
+1111,7a6b495f71623ebb0ba502f59287ee6e,Giandomenico,Nollo,Associate professor,0461 282424,Ingegneria industriale e dell'informazione (09),BIOINGEGNERIA ELETTRONICA E INFORMATICA (ING-INF/06)
+1112,4d542ae74e6336457640859e1848833d,Paolo,Zatelli,Associate professor,0461 282618,Ingegneria civile e Architettura (08),TOPOGRAFIA E CARTOGRAFIA (ICAR/06)
+1113,0f498b9f002abc5c658dd32e3f133efe,Stefano,Giorgini,Associate professor,0461 281633,Scienze fisiche (02),FISICA DELLA MATERIA (FIS/03)
+1114,476dd515445a01177ac7cb6245d04257,Cinzia,Menapace,Associate professor,0461 282446,Ingegneria industriale e dell'informazione (09),METALLURGIA (ING-IND/21)
+1115,38a91046612cad9dd5cf463a96b6fef8,Cinzia,Lorandini,Associate professor,0461 282278,Scienze economiche e statistiche (13),STORIA ECONOMICA (SECS-P/12)
+1116,a58741d0c914d34b04338789bc1c9f43,Ilaria,Pertot,Full professor,0461615515,Scienze agrarie e veterinarie (07),PATOLOGIA VEGETALE (AGR/12)
+1117,9eb0433abf06814df89eb474c75768d3,Marco,Toffolon,Associate professor,0461 282480,Ingegneria civile e Architettura (08),IDRAULICA (ICAR/01)
+1118,afe8aeb7e5f1f8f85da00fc2eeb4cef5,Antonella,Motta,Full professor,0461 282438,Ingegneria industriale e dell'informazione (09),BIOINGEGNERIA INDUSTRIALE (ING-IND/34)
+1119,e2ab83c56689180aac778a565d73aeeb,Aldo,Galli,Full professor,0461 281837,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",STORIA DELL'ARTE MODERNA (L-ART/02)
+1120,602bf70a774aba9de3ca06cb77a19f64,Daniela,Ascenzi,Associate professor,0461 281693,Scienze chimiche (03),CHIMICA GENERALE E INORGANICA (CHIM/03)
+1121,38cedc51c5ef30060662923d48c0e026,Catherine Elizabeth,Riley,Assistant professor,0461 281779,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E TRADUZIONE - LINGUA INGLESE (L-LIN/12)
+1122,7d773d73ece7f01183aa3f80a76de014,Alessia,Montini,Teaching assistant,,,
+1123,f0005e572cd1521833348196dc7bb7b3,Gianluca,Sartori,Teaching fellow,,,
+1124,cc5dfda79ba5e01d01462f2e69b03431,Carlo,Bona,Teaching fellow,,,
+1125,0ba6d430b27354b7fdaf69db475f719a,Alfonso,Vitti,Associate professor,0461 282608,Ingegneria civile e Architettura (08),TOPOGRAFIA E CARTOGRAFIA (ICAR/06)
+1126,804715b588a515c4482a88c174fe2912,Giuliano,Marchetto,Associate professor,0461 283842,Scienze giuridiche (12),STORIA DEL DIRITTO MEDIEVALE E MODERNO (IUS/19)
+1127,5c71582c4f0809de77068e3920f46d49,Paolo,Foradori,Associate professor,0461 281376,Scienze politiche e sociali (14),SCIENZA POLITICA (SPS/04)
+1128,0a5033a28555b6a7be73aab6ae7bb60c,Gianluca,Lattanzi,Full professor,0461 283104,Scienze fisiche (02),"FISICA APPLICATA (A BENI CULTURALI, AMBIENTALI, BIOLOGIA E MEDICINA) (FIS/07)"
+1129,10a9f6e6de74d9b2be9b81f0c6a8d4d0,William Joseph,Weber,Associate professor,0461 282047,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+1130,e20e3170d0580160abc98d5275f1d16c,Willem Adriaan,De Graaf,Associate professor,0461 281614,Scienze matematiche e informatiche (01),ALGEBRA (MAT/02)
+1131,ae6a9cd9d1b82acbb8776aed3c62a2a9,Elsa Henriques,Rita dos Santos,Associate professor,0461 282301,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA PORTOGHESE E BRASILIANA (L-LIN/08)
+1132,9d58316db28aca5a95607c5c7c1dbf80,Michele,Pedrotti,Teaching fellow,,,
+1133,58df50ef15c5be7f178d11ff603b63cf,Katya,Tentori,Full professor,0464 808631,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA GENERALE (M-PSI/01)
+1134,eb3003042bb8fc273901a0698bdc0371,Cristina,Bez,Research collaborator,,,
+1135,2bcb33e7eb4c2fbe31bc9ef063dec70c,Maria Carmen,Rodriguez Santos,Teaching fellow,,,
+1136,bfb2f6b093532ac0dbaf6cc1edb4cbfe,Selene,Schintu,Assistant professor,0464 808154,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+1137,9ac188f3d9f3f81e1a900e9cb899f0ee,Mario,Quaranta,Associate professor,0461 281473,Scienze politiche e sociali (14),SCIENZA POLITICA (SPS/04)
+1138,29da8a6fca59b9e413eb429d5518083e,Massimiano,Bucchi,Full professor,0461 281323,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+1139,256e136aafe1da8714cd33227b4927df,Mary,Brunelli,Teaching fellow,0461 283106,,
+1140,5a40c83913e7ae73e5e79dcfcaccdcb0,Diego,Quaglioni,Teaching fellow,0461 283890,,
+1141,b8cd0a37447a29d8ef3f2a6e81ae73ff,Daniele,Miorandi,Teaching fellow,,,
+1142,f63c3647f641aef79a3434e909b6b3dd,Raman,Kazhamiakin,Teaching fellow,,,
+1143,cd799b1ff174c84df764f8f2b6efa965,Filippo Marco Maria,Bisanti,Teaching assistant,,,
+1144,2d0d739d099271d582cfd668d49643b9,Erica,Santini,Assistant professor,0461 282308,Scienze economiche e statistiche (13),ECONOMIA E GESTIONE DELLE IMPRESE (SECS-P/08)
+1145,cc7878b9cac73273dea8deee998e91a1,Giulia Giusy,Cusenza,Teaching fellow,,,
+1146,179cc5d9cf4d7aba72ae3b82368e5159,Elisabetta,Pederzini,Associate professor,0461 283888,Scienze giuridiche (12),DIRITTO COMMERCIALE (IUS/04)
+1147,8caed4899dbe9b3292a0738a71d65567,Edoardo,Gaffeo,Full professor,0461 282220,Scienze economiche e statistiche (13),POLITICA ECONOMICA (SECS-P/02)
+1148,313f9d697e746506ba4fa12966f9ab09,Pierluigi,Roberti,Teaching assistant,0461 285239,,
+1149,43f37f0d1d3704291fe0bf7cd41ce0da,Marco,Ronchetti,Associate professor,0461 282033,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+1150,77b3777afccc978b7b1f69c8b8fd07a9,Giorgia,Proietti,Assistant professor,0461 282953,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",STORIA GRECA (L-ANT/02)
+1151,9efa84c7695d21f4f100ca4582339ba2,Riccardo,Checchetto,Assistant professor,0461 281650,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+1152,d141ae3f4a3ba21fdba507bdacbbdf29,Sabrina,Dorigoni,Teaching fellow,,,
+1153,6258df5bcb7ef9874e081aa2ca11a9ca,Maurizio,Dapor,Teaching fellow,,,
+1154,1a3ba66f3fa10647c508fc20729cf7a9,Roberto,Gabriele,Full professor,0461 282109,Scienze economiche e statistiche (13),ECONOMIA APPLICATA (SECS-P/06)
+1155,7348316d66d4065e0c7de8f3a6462dee,Luigi,Palopoli,Full professor,0461 283967,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+1156,55f67e1327b116c21099bd31c474f871,Filippo,Sartori,Full professor,0461 283836,Scienze giuridiche (12),DIRITTO DELL'ECONOMIA (IUS/05)
+1157,5259f2cdbca6212f748b2d862fc8f952,Massimo,Donelli,Associate professor,0461 282063,Ingegneria industriale e dell'informazione (09),CAMPI ELETTROMAGNETICI (ING-INF/02)
+1158,c2f4841cf239bb75755f7a0ef173eeb6,Fabrizio,Costantino,Teaching assistant,0461 282334,,
+1159,488634757c39acf8d7020cefe0f521f4,Giorgio,Scarton,Research collaborator,,,
+1160,ef6d2ca7af608dd3cc1f772781e7fd81,Marco,Uvietta,Associate professor,0461 283709,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",MUSICOLOGIA E STORIA DELLA MUSICA (L-ART/07)
+1161,a3b3a2a3817fb8bec6553a3fea8e0987,Marco,Toller,Emeritus professor,,,
+1162,0767b4afd203ae5aa37caefc8db91e72,Franca,Scarpa,Teaching assistant,,,
+1163,922366f02b7efa07b472246640bdf549,Marco,Colapietro,Teaching assistant,,,
+1164,cf3d7872e2014bf84b113c2256d0ade7,Michela,Faccioli,Assistant professor,0461 282107,Scienze economiche e statistiche (13),POLITICA ECONOMICA (SECS-P/02)
+1165,e4586b5d1720db8596a0dffa322716c2,Luca Matteo,Martini,Assistant professor,0461 281685,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+1166,40f99680b840ce324fbb1999fac7dbca,Mauro,Nobile,Associate professor,0461 281775,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",FILOSOFIA TEORETICA (M-FIL/01)
+1167,47b81c31dfbb4402cdcf00fc7ccbeda1,Filip,Agneessens,Associate professor,0461 281381,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+1168,923d2e9fc127f3dbe9c10bad544fe5a4,Olga,Gorodetskaya,Teaching assistant,,,
+1169,ee8e78d7a700bf127ff8c822d69ddd95,Giacomo,Lamporesi,Teaching assistant,0461 282016,,
+1170,731fd531206ab6dc4d9b8460c47960b9,Michele,Iori,Teaching fellow,,,
+1171,97f9c3f2a71f25c93e3a9d89a9f8109f,Marco,Farina,Teaching assistant,,,
+1172,dcf2cfe7b4b61a8b9c9ce8aa747f93d4,Martina,Radici,Teaching assistant,,,
+1173,99b70e75d75de227c36f7a717e365658,Giulia,Peserico,Research collaborator,,,
+1174,9c5d406574eff1ca4c8a0cff8e29cff5,Noboru,Hidano,Teaching fellow,,,
+1175,6c12e65a25977e325a8c6e0cb0816519,Olga,Uryupina,Assistant professor,0461 285287,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+1176,945b53583024d962d75d50ee6df2ab06,Giuseppe,Milan,Teaching fellow,,,
+1177,5b4f7d14d03b147633213f0433f8716f,Giulia,Vettori,Teaching fellow,,,
+1178,7826c3f1d84bb4a606c9fd2435e1a3e7,Marco,Bonacini,Associate professor,0461 285320,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+1179,d656da0c4dc0f387de5f24a53359293e,Annachiara,Berardinelli,Associate professor,0461 282531,Scienze agrarie e veterinarie (07),MECCANICA AGRARIA (AGR/09)
+1180,b8e956f6a122485fa3bc0c9d51fe6627,Agnese,Vitali,Associate professor,0461 281394,Scienze economiche e statistiche (13),DEMOGRAFIA (SECS-S/04)
+1181,6d0ba36bd85afaa54435a457d7eca033,Albino,Perego,Associate professor,0461 282035,Scienze fisiche (02),"FISICA TEORICA, MODELLI E METODI MATEMATICI (FIS/02)"
+1182,309ccdd894bbbfea00d186f6c25ee56e,Luca,Piccoli,Associate professor,0461 281307,Scienze economiche e statistiche (13),POLITICA ECONOMICA (SECS-P/02)
+1183,fca305d6d7ac91ebf524de1f759c52b1,Serena,Pancheri,Teaching fellow,,,
+1184,0c2e17806744d412bbc2ab04aa8d2fbf,Nicolò Giuseppe,Di Novo,Teaching assistant,,,
+1185,4680c48f9b9daa7f427144da45943f9e,Simone,Pezzuto,Assistant professor,0461 281635,Scienze matematiche e informatiche (01),ANALISI NUMERICA (MAT/08)
+1186,7c0e17450f681061e3072e93139ce047,Cristina,Odorizzi,Teaching fellow,,,
+1187,7d8a33041c87b94147a9aa61b07df1c0,Umberto,Salvagnin,Teaching assistant,,,
+1188,bfff77234bbf5be66c856bf646ccb9f7,Horia Corneliu,Cicortas,Teaching fellow,,,
+1189,546d9a7243ba060381c8cb4ad011d74c,Michele,Urbani,Teaching assistant,,,
+1190,17f65f6e4b9254db944f13f13c69b21c,Gioele,Piccoli,Teaching assistant,,,
+1191,56a22e9ff375ba8feb3a6019e24ceced,Isabelle,Bonomo,Teaching assistant,,,
+1192,918df666dd4e54fe993a39a6312cd12d,Federico,Reali,Teaching assistant,,,
+1193,2896ea2cc3addb89c1f76b1df561467d,Ujjal Kanti,Chatterjee,Assistant professor,0461 283154,Scienze economiche e statistiche (13),ECONOMIA DEGLI INTERMEDIARI FINANZIARI (SECS-P/11)
+1194,81bfd3d07973231e7b0a336411241a13,Marco,Presotto,Full professor,0461 282714,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA SPAGNOLA (L-LIN/05)
+1195,0b00786b5e2e3a75cdc49e3a0e7a5a9f,Giorgio,Appoloni,Teaching assistant,,,
+1196,ccb30130c898ffcea20161a8e4950902,Edgar,Ferro,Assistant professor,0461 282697,Ingegneria civile e Architettura (08),GEOTECNICA (ICAR/07)
+1197,afbf41df836e325fec26007548580841,Guido Battista,Raschieri,Assistant professor,0461 283796,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",ETNOMUSICOLOGIA (L-ART/08)
+1198,3882b5bb70c427fcc0e789e59f2d6a78,Alessandro,Roggero,Assistant professor,,Scienze fisiche (02),FISICA NUCLEARE E SUBNUCLEARE (FIS/04)
+1199,edb826e76de5132d029a72625d496db1,Pasquale,Onorato,Associate professor,0461 281579,Scienze fisiche (02),DIDATTICA E STORIA DELLA FISICA (FIS/08)
+1200,ab5e7ea8225d2665375c434b652580d4,Andrea,Zignoli,Teaching fellow,,,
+1201,af1e685383e0330fe36011a61d2e08df,Ugo,Malvagna,Associate professor,0461 281872,Scienze giuridiche (12),DIRITTO DELL'ECONOMIA (IUS/05)
+1202,e9e6d6460dec4f4f4d8cdc8801a26ed1,Daniel,Gerola,Research collaborator,,,
+1203,2f18b96c408bd7414b71340b75db2e55,Daniele,Malaguti,Teaching fellow,,,
+1204,1f76f8861e5cbda98bbb10bc8b166445,Raffaele,Cetto,Teaching assistant,,,
+1205,13bf040457cbf8c1e8b4643eb772d388,Matteo,Nardello,Teaching assistant,,,
+1206,ebbad76393dff6335824d84f16e37ada,Vincenzo,Tudisco,Teaching fellow,,,
+1207,2f4a898f232f0491f8ad54e1f4552bc7,Claudia,Crocco,Teaching assistant,,,
+1208,bbe4b2f653434f37b23124b8e3ab88f3,Ivana,Stiperski,Teaching fellow,,,
+1209,ca4883004627a61502bf124645664151,Alessandro,Luchetti,Teaching assistant,,,
+1210,91a8f2f65e307b06ed4c73183e90968b,Alberto,Nucciarelli,Associate professor,0461 283155,Scienze economiche e statistiche (13),ECONOMIA E GESTIONE DELLE IMPRESE (SECS-P/08)
+1211,83079712d14d42914e76381d392eb388,Luca,Adami,Assistant professor,0461 282626,Ingegneria civile e Architettura (08),IDRAULICA (ICAR/01)
+1212,b374132a9ac4dd01942c8d0a59977f9e,Chiara,Di Francescomarino,Assistant professor,0461 285228,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+1213,ed07ceb5c19359640582080170c75df2,Ilse Harriet Gunilla,Julkunen,Visiting professor,,,
+1214,fb20a2237f18c76b0244c236edded792,Elena,Baruzzo,Research collaborator,,,
+1215,1c14b7b3b8f6fd7d12c91ee723e107ac,Paula Rebecca,Schreiber,Research collaborator,,,
+1216,a6ef536ad86547bf70b86654f44f90f3,Aurore Jeanne Stanislava,Dudka,Research collaborator,,,
+1217,e225eaa577667b0f60b609869e175a4f,Cristina,Rigutto,Research collaborator,,,
+1218,5a24c5cd727a9c556fd14819afdad415,Malcolm Hayden,Murfett,Teaching fellow,,,
+1219,646be1e5807c4b438b59a75a0c71ad0f,Kevin,Silvestri,Teaching assistant,,,
+1220,fc2a82bd5aaa5ceee750403518cf5e89,Andrea,Passerini,Associate professor,0461 285224,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+1221,fa5e4276b2ec54eebaba22447b9a35bb,Cristina Felicia,Rebek,Teaching fellow,,,
+1222,e8c78aa9781fe89555eb0242edc7fbdb,Zoi,Krokida,Teaching fellow,,,
+1223,45cddae1599a9daa7f48a73035149dca,Roberta,Capelli,Associate professor,0461 282497,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",FILOLOGIA E LINGUISTICA ROMANZA (L-FIL-LET/09)
+1224,29bfb536d2eb27e116e25dde25dffdeb,Maria Jesus,Perez Ruiz,Teaching fellow,,,
+1225,00f07b80bdea767199443369033a9797,Silvia,De Rosa,Assistant professor,,Scienze mediche (06),ANESTESIOLOGIA (MED/41)
+1226,fc59da60969dfe3bc326449487256372,Giovanni,Bertalot,Assistant professor,,Scienze mediche (06),ANATOMIA PATOLOGICA (MED/08)
+1227,8ad60f3b9335681cdb11dfd118f369ec,Nadezhda,Zelenovskaia,Research collaborator,,,
+1228,27be77d00ab6b2e718e94dd2c28b06cc,Stefano,Palestini,Assistant professor,,Scienze politiche e sociali (14),SCIENZA POLITICA (SPS/04)
+1229,f849fd1a016e4e12d0f280be8665c8bb,Francesco,Trenti,Teaching assistant,,,
+1230,2c69e738e76ee8011181cb9e76da2660,Stefano,Bonafini,Teaching assistant,,,
+1231,23b49b5345d30e5b9bc9d2376bdb3f92,Chiara,Spadafora,Teaching assistant,,,
+1232,5921b181f7b5387e0d55a735141f6a01,Carlo,Zancanaro,Teaching fellow,,,
+1233,8aa57fca493398eb118cdfa2a622e03a,Michele,Perazzolli,Associate professor,0461615411,Scienze biologiche (05),FISIOLOGIA VEGETALE (BIO/04)
+1234,43d8506c3ec694e0fa2930cd63f1352a,Sol,Bekic,Research collaborator,,,
+1235,f1a7e752833c236c6b6ea73027d8c027,Alvise,Schiavon,Teaching fellow,,,
+1236,412d72b3fa84b1218db7cf1a171d9db5,Leopoldo,Zuanelli Brambilla,Teaching fellow,,,
+1237,c347e72ccfcd6a0e2282b0544a454f66,Vito Giuseppe,D'Agostino,Associate professor,0461 282972,Scienze biologiche (05),BIOLOGIA APPLICATA (BIO/13)
+1238,2d8332833096ae865e0bcc397156e053,Marco,Bezzi,Teaching fellow,,,
+1239,1e995ed47329045ffbc3b428d2f9d0cd,Rosa Miriam,Salzberg,Associate professor,0461 281335,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",STORIA MODERNA (M-STO/02)
+1240,5e46c810c4997457d117df11eddfe7d6,Michele,Coghi,Assistant professor,0461 283911,Scienze matematiche e informatiche (01),PROBABILITÀ E STATISTICA MATEMATICA (MAT/06)
+1241,12c060d681eb8395767128c458ecd596,Alessio,Perinelli,Assistant professor,0461 282135,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+1242,a09d03f9c7939e170c7c7ecc2db8448d,Irma Carolina,Fung Escalante,Research collaborator,,,
+1243,6a35702ddd76c9829be8361e4ed58ab3,Andrea,Angelillis,Teaching fellow,,,
+1244,aec4559726cd4fd459d1eb2aae2debb0,Francesco,Salemi,Assistant professor,,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+1245,718f9963249d4d33763744b039f43b8b,Iuri,Mastrandrea,Research collaborator,,,
+1246,5a4592fe19fe2dc9fc5a534af24c8c8d,Carlos Esteban,Budde,Assistant professor,,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+1247,cf190cba1badf16b37746d338e9fd45d,Simona,Monaco,Assistant professor,0461 283088,Scienze biologiche (05),FISIOLOGIA (BIO/09)
+1248,eadcbde6f976b7f21a81b77ed9ffb4c8,Federica,Pich,Assistant professor,0461 282273,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA ITALIANA (L-FIL-LET/10)
+1249,934fe09d34b36502c5fa87ee4678a8d6,Fabrizio,Chini,Teaching assistant,,,
+1250,54d67641ebe82be952f72108699f138f,Lucio,Da Ros,Teaching fellow,,,
+1251,34abc4f17b86e227005baee121d5766c,Tommaso,Bisutti,Research collaborator,,,
+1252,8ec0048379a1165b552ed8844fa3843e,Ivan,Cardillo,Teaching fellow,,,
+1253,d2b48251737a69da1dcc0a80d6e74414,Flavia,Betti Tonini,Teaching fellow,,,
+1254,4452379bd76dcb1fe5a2bdb4ecc426bb,Marco,Salucci,Assistant professor,,Ingegneria industriale e dell'informazione (09),CAMPI ELETTROMAGNETICI (ING-INF/02)
+1255,b1bb3660535857d73f5297c01d20123c,Mattia,Andreola,Teaching assistant,,,
+1256,436be56b6c7f1a6535fea59cae860db5,Chiara,Bassetti,Assistant professor,0461 281474,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+1257,8f3ac9ca0f3f46caf9750e46fbc1ac04,Andrea,Caria,Associate professor,0464 808465,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+1258,b3449a5d7135bfecf76ddeb9b9352306,Stefania,Benetti,Assistant professor,0464 808607,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+1259,7c8c74226f9e6f3a1b3afb72490e21c6,Giovanna Paola,Varni,Associate professor,,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+1260,4bccaf9bd8adecf3fce3ee90684dd304,Alberto,Acerbi,Assistant professor,,Scienze politiche e sociali (14),SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI (SPS/08)
+1261,479643d3aa7f97910fc545611145efba,Rossella Alessandra,Bottoni,Associate professor,0461 283532,Scienze giuridiche (12),DIRITTO CANONICO E DIRITTO ECCLESIASTICO (IUS/11)
+1262,2342cf5d72085eb2075f07027d81c124,Giorgia,Bincoletto,Teaching assistant,,,
+1263,55198852c5b9a81a52c83704ad83738b,Michele,Focchi,Assistant professor,0461 283161,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+1264,2b2dccaef61d5970d50c563cd2450dc5,Paolo,Casari,Associate professor,0461 283783,Ingegneria industriale e dell'informazione (09),TELECOMUNICAZIONI (ING-INF/03)
+1265,05cf14d0a04109afed1a267c0edd83d5,Tommaso,De Mari Casareto Dal Verme,Teaching assistant,,,
+1266,ea2b7157a864bd01f2eede18ddc15a8b,Sonia Iolanda,Garritano,Research collaborator,,,
+1267,4eb373d4ea918d3afeb9fe40f6bcea6f,Chiara,Jermini-Martinez Soria,Teaching fellow,,,
+1268,8517ba93abdc520f6fb48048f88c7546,Mariasole,Bannò,Teaching fellow,,,
+1269,6427408a080751048a44540453cecc63,Angelo,Danese,Teaching assistant,,,
+1270,d6351ac35932fbeead5dc2f6cae7a8e2,Claudia,Di Fonzo,Teaching fellow,,,
+1271,d1a7f0d13a3854e01fe63bba13661eba,Silvia,Lorenzi,Teaching assistant,,,
+1272,9312dd82319ca3ee5231c5d389ce2621,Giulio,Dolcetti,Teaching assistant,,,
+1273,e50a080a004593b2c0bd36d8134a2a33,Luca,Poltronieri Rossetti,Teaching fellow,,,
+1274,456c6c24fcb6a79c46a4d8c821743fd2,Toma,Tebaldi,Assistant professor,0461 283790,Scienze biologiche (05),BIOLOGIA MOLECOLARE (BIO/11)
+1275,a54ded5129832ba0429bc12bab3033db,Erica,Alfinelli,Teaching assistant,,,
+1276,7482d94b07ae1a86b15e119c0c4ba370,Antonio,Bibbò,Assistant professor,0461 282702,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E TRADUZIONE - LINGUA INGLESE (L-LIN/12)
+1277,1965c98b1727fbdbb80f0ebc44d57686,Ghislandi,Patrizia Maria Margherita,Teaching fellow,,,
+1278,62a68589d8547502eb091b922f92bdd8,Matteo,Calandra Buonaura,Full professor,0461 282037,Scienze fisiche (02),FISICA DELLA MATERIA (FIS/03)
+1279,1064046b6592d4676ed2be6cfa51b6f7,Marco,Minati,Teaching fellow,,,
+1280,95c3a64b27d29456a39bcd9b6b6f94a0,Francesca,Cutrupi,Teaching assistant,,,
+1281,9a9e8af56333d2f129410bb0ca6a29c6,Gerardo,Roselli,Teaching assistant,,,
+1282,3a4c1e1d9bfadcad304bb595b81a0b47,Camila Gloria,Aldunate Vidaurre,Teaching assistant,,,
+1283,d311c3d9ea7ce9ee56ab0803b3cb4a4d,Giacomo,Pallante,Assistant professor,0461 283182,Scienze economiche e statistiche (13),POLITICA ECONOMICA (SECS-P/02)
+1284,c4a2679eed2098f03349da0a91dd1845,Sofia,Graziani,Associate professor,0461 282988,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUE E LETTERATURE DELLA CINA E DELL'ASIA SUD-ORIENTALE (L-OR/21)
+1285,2ec211f514341b770f0fe8120d091ab7,Giorgio Giulio,Fumagalli,Assistant professor,0464 808156,Scienze mediche (06),NEUROLOGIA (MED/26)
+1286,0b91e17736bd83f6640a07bef0486d18,Lorenzo,Battisti,Associate professor,0461 282515,Ingegneria industriale e dell'informazione (09),MACCHINE A FLUIDO (ING-IND/08)
+1287,0203ed20c9762218c0ec928dc6771788,Roberta,Springhetti,Assistant professor,0461 282526,Ingegneria civile e Architettura (08),SCIENZA DELLE COSTRUZIONI (ICAR/08)
+1288,8ecab78f282c7d132514faf7797254d7,Vincenza,Vigorito,Teaching assistant,,,
+1289,8bc4f20a634bbd469351d98d7391a942,Stefano,Gialanella,Associate professor,0461 282420,Ingegneria industriale e dell'informazione (09),SCIENZA E TECNOLOGIA DEI MATERIALI (ING-IND/22)
+1290,9f1ceac5d67b1ff5897a7b0f65d5d5dd,Graziano,Guella,Full professor,0461 281536,Scienze chimiche (03),CHIMICA ORGANICA (CHIM/06)
+1291,93abe9b49f7d0bdfff0d557bc60f9609,Maurizio,Giangiulio,Full professor,0461 282713,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",STORIA GRECA (L-ANT/02)
+1292,03b34e6f347cdf7fb66d1019d3dd311d,Paolo,Baggio,Full professor,0461 282630,Ingegneria industriale e dell'informazione (09),FISICA TECNICA AMBIENTALE (ING-IND/11)
+1293,55568e8d2acbd36dc9f92ffa6cf372fb,Francesco,De Natale,Full professor,0461 282058,Ingegneria industriale e dell'informazione (09),TELECOMUNICAZIONI (ING-INF/03)
+1294,53664613f5ab2c4e7061cfcd6e004502,Stefano,Siboni,Associate professor,0461 282422,Scienze matematiche e informatiche (01),FISICA MATEMATICA (MAT/07)
+1295,d931faf7563470622469a41572494338,Matteo,Tomaselli,Teaching assistant,,,
+1296,c168109218a5658c9964a54ac4dbfec7,Giuliano,Rizzi,Teaching assistant,,,
+1297,ea846b39f9815d367466e0f227017908,Valeria,Ferraretto,Teaching assistant,,,
+1298,02231c6a149f4117995f8d5e5b0ee666,Marco,Tubino,Full professor,0461 281911,Ingegneria civile e Architettura (08),IDRAULICA (ICAR/01)
+1299,702c600424801807d65365c6e38eaf26,Ilya,Peshkov,Associate professor,,Scienze matematiche e informatiche (01),ANALISI NUMERICA (MAT/08)
+1300,2c6d46c97ad70dc2e4cef9745ed6ead9,Ilaria,Campagna,Teaching fellow,,,
+1301,77d153df4ea8a928b9bb2911c3054dc9,Geremia,Gios,Senior Professor,0461 282224,,
+1302,4cd315cdd7a48be2f5dd4f0d6dc5b6d5,Annaluisa,Pedrotti,Associate professor,0461 282701,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",PREISTORIA E PROTOSTORIA (L-ANT/01)
+1303,28ee34ccb31c50e1ed0922d93ebf9ed7,Luigi,Blanco,Full professor,0461 281466,Scienze politiche e sociali (14),STORIA DELLE ISTITUZIONI POLITICHE (SPS/03)
+1304,f8e7950d64b9e80cd38037f5100c4f14,Nicola,Anselmi,Assistant professor,,Ingegneria industriale e dell'informazione (09),CAMPI ELETTROMAGNETICI (ING-INF/02)
+1305,79b674c3d483c6dfb07c2cb5f3786604,Laura,Berlingozzi,Teaching fellow,,,
+1306,d298edc8a062e4819209ff226d731dee,Mattia,Comancini,Teaching fellow,,,
+1307,6c2cb0c88b39564092e4475a044b7ac4,Marco,Solinas,Teaching fellow,,,
+1308,3c1e04a84c708203590e6a816f5ca4d8,Luca,Vaiani,Teaching fellow,,,
+1309,e79da812374a9726837b6cc7b0264893,Samuel,Valentini,Research collaborator,,,
+1310,13a4a31354b804732e8cc6b778953405,Philipp Hans Juergen,Hauke,Associate professor,0461 281631,Scienze fisiche (02),FISICA DELLA MATERIA (FIS/03)
+1311,6c39a35ec6b1bc55eaf875e06ace53ed,Alice,Dal Gobbo,Assistant professor,0461 281404,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+1312,defdf633de4bda91e3318d969fb97739,Martin,Tangeman,Teaching fellow,,,
+1313,ba29210a9906dcd6fe36beb0e4cf42cf,Giannantonio,Scaglione,Teaching fellow,0461 281770,,
+1314,bfc1252f43f4c9d29df0a87682e5c3bb,Mattia,Piazza,Teaching assistant,,,
+1315,f64d8eaabe7eff31aa1e36327ae56c66,Raffaella,Improta,Teaching assistant,,,
+1316,a7998c9a68eaa7b8798be6057a3e1177,Tesfaye,Salarin,Teaching assistant,,,
+1317,951870582056eb8e0d20f2365a018930,Giulia,Turrina,Research collaborator,,,
+1318,7df49fb5e769f4af0a0556e7c6b2aa9c,Marco,Biasio,Teaching fellow,,,
+1319,5dfcff46edde265545d44bcfff2f7cd5,Giulia,Di Domizio,Teaching assistant,,,
+1320,ebb8c7f13d87a9fdd57e850563728106,Luigi Amedeo,Bianchi,Associate professor,0461 283847,Scienze matematiche e informatiche (01),PROBABILITÀ E STATISTICA MATEMATICA (MAT/06)
+1321,c55244fca235f28f31a3a90243b94a43,Deanna,Dalla Serra,Teaching assistant,,,
+1322,a03b014b004296bd46566b3902c164eb,Dirk,Jumpertz,Teaching fellow,,,
+1323,f9a407556ac5f523797d32732818e4c9,Mauro,Caselli,Assistant professor,0461 283131,Scienze economiche e statistiche (13),POLITICA ECONOMICA (SECS-P/02)
+1324,b1250348f1df35af83ccba8f2b48d7ba,Paolo,Rech,Assistant professor,0461 283722,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+1325,04a167c27f77a651a68c2d1d64d4faea,Roberto,Bottini,Associate professor,0461 282778,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOBIOLOGIA E PSICOLOGIA FISIOLOGICA (M-PSI/02)
+1326,8055502a8f96a8211b63bd555b222512,Edoardo,Bressanelli,Teaching fellow,,,
+1327,0af5b2241f6f3aa3751238842210f645,Emanuela,Bozzini,Associate professor,0461 281168,Scienze politiche e sociali (14),SOCIOLOGIA DEI FENOMENI POLITICI (SPS/11)
+1328,2508812ea119f57537fb742b508e5129,Anna,Formilan,Research collaborator,,,
+1329,486cfd4efcdb1ef32fffec7291790c61,Giuseppe,Turchetti,Teaching fellow,,,
+1330,56de318d8ac1e07730b9ab4f2f24a24f,Aldo,Scarpa,Teaching fellow,,,
+1331,183bb910900af29def101d6682388456,Katia,Donadello,Teaching fellow,,,
+1332,034bdb157052fdda994755fba9ebe7d1,Francesco,Nozzoli,Teaching fellow,0461 283102,,
+1333,ce07a53758cc2cabab5d55b84130bfa6,Luca Giuseppe,Dalle Carbonare,Teaching fellow,,,
+1334,bb46b387e5a10ff94f73bc7d0470dd1c,Davide,Stocco,Teaching assistant,,,
+1335,bff5aab08c5d39b49a7c0d03efacbf62,Elena,Franchi,Full professor,0461 282986,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",STORIA GRECA (L-ANT/02)
+1336,08b45c66c957d92a54175beeb9c1cacf,Riccardo,Longo,Teaching assistant,,,
+1337,b8ea329bd71f2f80718acbb0305a2163,Raffaele,Grotti,Assistant professor,0461 281451,Scienze politiche e sociali (14),SOCIOLOGIA GENERALE (SPS/07)
+1338,bf0864d7af546d9b2d5ef2cfac505a09,Manuela,Valle,Teaching assistant,,,
+1339,430c75289551ce4d58833d9b10ae488d,Ralf,Wagner,Teaching fellow,,,
+1340,6ab9cce69ed442e1ab70d9b4c8ff8759,Davide,Rocchetti,Teaching assistant,,,
+1341,0ec2de7bec49fcc98799509d9cf7568b,Ingrid,Battistella,Teaching assistant,,,
+1342,af34006b4d1644c90c147271fd78733f,Raffaele,Guzzon,Teaching fellow,,,
+1343,dbf90fb260173eb07aefff546ac75fde,Luca,Zigiotto,Teaching assistant,,,
+1344,cd2c1fe4272db7ade7aa8d772904ce88,Nicolò,Leone,Teaching assistant,,,
+1345,bc0a9def3d364876afa9a61e43285a76,Caterina,Pesci,Associate professor,0461 282129,Scienze economiche e statistiche (13),ECONOMIA AZIENDALE (SECS-P/07)
+1346,8d3cc55b07d18aea480ed88895456dce,Luca,Tiberi,Associate professor,0461 285356,Scienze biologiche (05),BIOLOGIA APPLICATA (BIO/13)
+1347,d2cb1d60bc67c23af8062e84f23faf1a,Carlo,Menapace,Teaching fellow,,,
+1348,3111014bff0925fa58adb0c7f552bd76,Beatrice,Ghitti,Teaching assistant,,,
+1349,4fe48efbd17a73aa1cfde6f95d99cbbb,Carolina,Coco,Teaching fellow,0464 808119,,
+1350,c09bcaf0f2a31655a07fca3a7b54711e,Ilaria,Marchi,Teaching assistant,,,
+1351,c61673fa9daf252f4227648a5ca45d12,Anna Maria,Paini,Teaching fellow,,,
+1352,8cd3585bf97e6ab672c4d97b5c20f4dd,Giandomenico,Falcon,Emeritus professor,,,
+1353,b225f330165fe425d08d9623a6e8fde6,Maurizio,Piazza,Senior Professor,0461 282535,,
+1354,2ff626cf3bc9579776edf030e7f0d704,Enrico,Bertolazzi,Associate professor,0461 282590,Scienze matematiche e informatiche (01),ANALISI NUMERICA (MAT/08)
+1355,cc6146562abab268f79dbc031ac8ff7b,Luca,Erzegovesi,Full professor,0461 282130,Scienze economiche e statistiche (13),ECONOMIA DEGLI INTERMEDIARI FINANZIARI (SECS-P/11)
+1356,b33c9b4bf8027b0afadac55d018e1ac9,Luca,Nogler,Full professor,0461 283866,Scienze giuridiche (12),DIRITTO DEL LAVORO (IUS/07)
+1357,f7a501a07e1b4a8cb8fe9b612d174413,Salvatore,Abbruzzese,Full professor,0461 281424,Scienze politiche e sociali (14),SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI (SPS/08)
+1358,bbe104446788ae54db37fa78b9b19d71,Luciano,Tubaro,Research collaborator,0461 283825,,
+1359,0aeb0daeb8dd557a1cb27cf8538cb940,Paolo,Gatti,Emeritus professor,0461 282735,,
+1360,0ae71788f7ec7c4a42eaefa9f7e528eb,Alberto,Valli,Full professor,0461 281580,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+1361,160b99af4af128382f1c5fa76f0f0b46,Bruno,Dallago,Senior Professor,0461 283448,,
+1362,214eee734455ab8f157dc396c7f85843,Carla,Locatelli,Emeritus professor,,,
+1363,db1aa0f3340b0f328e863463ec6892c9,Maria,Cantiani,Associate professor,0461 282678,Scienze agrarie e veterinarie (07),ASSESTAMENTO FORESTALE E SELVICOLTURA (AGR/05)
+1364,6c7f66d4da4f0583e602fad4b611e2cd,Alessandra,Di Ricco,Full professor,0461 281785,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA ITALIANA (L-FIL-LET/10)
+1365,2a9f8066b3604755146a4eed3b9409e6,Fausto,Giunchiglia,Full professor,0461 281533,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+1366,8bc9b4c8cc7fb2837b3f7d26f2aa8187,Andrea,Molinari,Teaching fellow,0461 282344,,
+1367,3069fb055f870e7a2528626e81cf11a9,Paolo,Maggioni,Associate professor,0461 282209,Scienze economiche e statistiche (13),ECONOMIA POLITICA (SECS-P/01)
+1368,c346c2e5e31c6a53179dfd3d01c9a2eb,Michele,Fedrizzi,Full professor,0461 282148,Scienze economiche e statistiche (13),METODI MATEMATICI DELL'ECONOMIA E DELLE SCIENZE ATTUARIALI E FINANZIARIE (SECS-S/06)
+1369,502f22c3f12011016d003844e02bbd0b,Italo,Trevisan,Associate professor,0461 282138,Scienze economiche e statistiche (13),ECONOMIA E GESTIONE DELLE IMPRESE (SECS-P/08)
+1370,12b32591cb7639fdb39733f310229d73,Maurizio,Manzin,Full professor,0461 283854,Scienze giuridiche (12),FILOSOFIA DEL DIRITTO (IUS/20)
+1371,7f27465171c183f04bb8aefc558f4583,Francesca,Decimo,Associate professor,0461 283717,Scienze politiche e sociali (14),SOCIOLOGIA DELL'AMBIENTE E DEL TERRITORIO (SPS/10)
+1372,5057e66e9498efd439ac07e614c922d6,Alessio,Recati,Teaching fellow,,,
+1373,e091ab0ea5ae1f3edff7899265bdb6f6,Enrico,Blanzieri,Associate professor,0461 282097,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+1374,12495214ac8f470849b260a41a2ca27c,Massimo,Zancanaro,Full professor,0464 808439,Scienze matematiche e informatiche (01),INFORMATICA (INF/01)
+1375,db1c13d8f8ee6f86667093a45ccad4a9,Elena,Mattevi,Assistant professor,0461 283524,Scienze giuridiche (12),DIRITTO PENALE (IUS/17)
+1376,f5685f4c1d6141d92922af8da865c730,Roberta,Ferrario,Visiting professor,,,
+1377,a12ccdcf85db1ef3fe2ba49a898cc178,Massimo,Bertamini,Associate professor,0461615659,Scienze agrarie e veterinarie (07),ARBORICOLTURA GENERALE E COLTIVAZIONI ARBOREE (AGR/03)
+1378,3afaac023c432a7e6cc78317e9843839,Luciano,Vanzo,Associate professor,0461 281528,Scienze fisiche (02),"FISICA TEORICA, MODELLI E METODI MATEMATICI (FIS/02)"
+1379,5c6b24f010a513272e74a87ace36ac17,Elisabetta,De Antoni,Teaching fellow,0461 282218,,
+1380,8b689f82f9965284c7389668014f3361,Alessandra,Magliaro,Assistant professor,0461 283856,Scienze giuridiche (12),DIRITTO TRIBUTARIO (IUS/12)
+1381,99428673e4acac8187f16fe9b3a0ee4f,Michela,Pagliacci,Teaching assistant,0461 282016,,
+1382,87b0b777e1537246b0027468f73f6417,Giolo,Fele,Full professor,0461 283716,Scienze politiche e sociali (14),SOCIOLOGIA DEI PROCESSI CULTURALI E COMUNICATIVI (SPS/08)
+1383,f8e729e0b5f6d4c90b28121d2fc1944d,Ilaria,Cristofolini,Associate professor,0461 282509,Ingegneria industriale e dell'informazione (09),DISEGNO E METODI DELL'INGEGNERIA INDUSTRIALE (ING-IND/15)
+1384,66c27212f555e2ab3ca97fa75a32b003,Luigi,Perna,Teaching assistant,,,
+1385,707370ed120c3e0408237117406d66ac,Edoardo,Ballico,Full professor,0461 281646,Scienze matematiche e informatiche (01),GEOMETRIA (MAT/03)
+1386,b18b98c85944f801e7fb87d47071d70c,Fausto,Dallarosa,Teaching assistant,,,
+1387,79fbf2076fbbe8370a400e6773257b34,Laura,Baccaglini,Associate professor,0461 283766,Scienze giuridiche (12),DIRITTO PROCESSUALE CIVILE (IUS/15)
+1388,16dd05fb2bf7c0e4a5f94efd7d7cbbfe,Galena,Pisoni,Teaching fellow,,,
+1389,c82d9d764f7aa0a675ae05f218b62426,Vigilio,Fontanari,Full professor,0461 282430,Ingegneria industriale e dell'informazione (09),PROGETTAZIONE MECCANICA E COSTRUZIONE DI MACCHINE (ING-IND/14)
+1390,1db3ce05bfe0377d3c6bdc897736a364,Antonio,Fici,Teaching fellow,0461 282256,,
+1391,7a260e14f8ff1b01b7298679610abbb8,Giorgio,Ieranò,Full professor,0461 281763,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E LETTERATURA GRECA (L-FIL-LET/02)
+1392,946a757b5f9d918f9b7b867c535fcab0,Raoul,Pisani,Full professor,0461 282113,Scienze economiche e statistiche (13),ECONOMIA DEGLI INTERMEDIARI FINANZIARI (SECS-P/11)
+1393,95a985af46ed8dea5c921acf3582cf6d,Marco,Ballerini,Assistant professor,0461 282532,Ingegneria civile e Architettura (08),TECNICA DELLE COSTRUZIONI (ICAR/09)
+1394,38bbf0c11f76ccf473af4c3fce00b3a2,Paolo,Tamassia,Associate professor,0461 281737,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA FRANCESE (L-LIN/03)
+1395,f64f6235d48362e0d814bebfe6dca4e7,Luca,Lutterotti,Associate professor,0461 282414,Ingegneria industriale e dell'informazione (09),SCIENZA E TECNOLOGIA DEI MATERIALI (ING-IND/22)
+1396,c997d8fc4b25b0f2944afa53fd28a073,Carlo,Fezzi,Associate professor,0461 282215,Scienze economiche e statistiche (13),ECONOMETRIA (SECS-P/05)
+1397,450990d908d4ead9b1df71683ecf808e,Andrea,Sbaragli,Teaching assistant,,,
+1398,ded7ca860b39656ae3afed04256bc5dc,Enrico,Perinelli,Assistant professor,0464 808640,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",PSICOLOGIA DEL LAVORO E DELLE ORGANIZZAZIONI (M-PSI/06)
+1399,4cc0a64f5f316db1228e688803c05017,Sara,Tamanini,Teaching assistant,,,
+1400,999e858027d92a198670189906e50c98,Roberta Giovanna,Arcaini,Teaching fellow,,,
+1401,d12cebd585733ad88281efd2efcb0bfd,Luca,Crescenzi,Full professor,0461 281739,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA TEDESCA (L-LIN/13)
+1402,e6b2f4337fed4a7c8c76ae0b87acc41e,Roberto,Larcher,Teaching fellow,,,
+1403,78c9a1c3e1cda8d81ef6e91e29303c9b,Sandro,Censi,Teaching fellow,,,
+1404,e2d544bf3415c962b195bbebc3429659,Maria Stella,Grando,Associate professor,0461615197,Scienze agrarie e veterinarie (07),GENETICA AGRARIA (AGR/07)
+1405,f933583299d25a214e4d91e552ebb4ea,Sabrina,Francesconi,Associate professor,0461 281754,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LINGUA E TRADUZIONE - LINGUA INGLESE (L-LIN/12)
+1406,9b7ce2b06c3968bb244b8ef5235d3ee7,Claudio,Tugnoli,Teaching fellow,,,
+1407,3eb8e6cd890bce1e435cc7b0a031c168,Flavia,Bazzoni,Teaching fellow,,,
+1408,e32c587286a1ae5f6389430348770672,Maria Livia,Alga,Teaching fellow,,,
+1409,e6c8d7fb4098755703c8c75c94428213,Dino,Zardi,Full professor,0461 282682,Scienze fisiche (02),FISICA PER IL SISTEMA TERRA E IL MEZZO CIRCUMTERRESTRE (FIS/06)
+1410,d7f8beeec2b35ebd649ba510020d7290,Renato,Mezzena,Teaching assistant,0461 281609,,
+1411,4fcc9778d82e4b3a7444a34d5b83de9a,Antonio,Cassatella,Associate professor,0461 283519,Scienze giuridiche (12),DIRITTO AMMINISTRATIVO (IUS/10)
+1412,2b1d0476390872d4def11f4a1dfbeee5,Alessandro,Melchionda,Full professor,0461 283853,Scienze giuridiche (12),DIRITTO PENALE (IUS/17)
+1413,9804384715d0e02ce056de49a478d44c,Fabio,Ferrari,Teaching assistant,0461 282120,,
+1414,169ea98198a0db3cb7fd9bdef7a0e71d,Anna,Simonati,Full professor,0461 281889,Scienze giuridiche (12),DIRITTO AMMINISTRATIVO (IUS/10)
+1415,972dc95164f0e1328a2e3a6d85d74e63,Marco,Broccardo,Associate professor,0461 282572,Ingegneria civile e Architettura (08),TECNICA DELLE COSTRUZIONI (ICAR/09)
+1416,39aedc74f5606d9eaca5d280f33ba945,Lucio,Pancheri,Associate professor,0461 281532,,
+1417,78c710959895666fe55d8c51b721eaeb,Mauro,Da Lio,Full professor,0461 282501,Ingegneria industriale e dell'informazione (09),MECCANICA APPLICATA ALLE MACCHINE (ING-IND/13)
+1418,0f6a18bbd9f15d1964b98853727a8d2e,Federica,Buffa,Associate professor,0461 282146,Scienze economiche e statistiche (13),ECONOMIA E GESTIONE DELLE IMPRESE (SECS-P/08)
+1419,221b981a031ca6acc6d64405b8be29b6,Maurizio,Fauri,Associate professor,0461 282524,Ingegneria industriale e dell'informazione (09),SISTEMI ELETTRICI PER L'ENERGIA (ING-IND/33)
+1420,d24706392405cef83b65a92999405565,Giuseppe,Jurman,Teaching fellow,,,
+1421,fbadd32c6bc7d8bf7232327ce0db5764,Antonio,Frattari,Teaching fellow,0461 282668,,
+1422,f045260a1a2e79b0c61d1ad57ccf7947,Matteo,Brunelli,Associate professor,0461 283723,Scienze economiche e statistiche (13),METODI MATEMATICI DELL'ECONOMIA E DELLE SCIENZE ATTUARIALI E FINANZIARIE (SECS-S/06)
+1423,787d9c5943f007342b0ea513deaf827c,Luigi,Fraccarollo,Associate professor,0461 282680,Ingegneria civile e Architettura (08),IDRAULICA (ICAR/01)
+1424,a8716dcdb61dd44e7419e38f0ee9597f,Corrado,Diamantini,Research collaborator,,,
+1425,6e807f6a9d854a33457a0ac039de6923,Enrico,Zaninotto,Full professor,0461 282378,Scienze economiche e statistiche (13),ECONOMIA E GESTIONE DELLE IMPRESE (SECS-P/08)
+1426,8145c006e1b4aa1f521a6297c046e159,Mariangela,Franch,Senior Professor,0461 282131,,
+1427,45ca7d1cfbd25636f1f37e21932aa20e,Paolo,Zuccon,Associate professor,0461 281556,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+1428,d1dd6ddf06aff9ec92978d7b01fda67a,Gianluigi,Grandesso,Teaching assistant,,,
+1429,0f845151001c721b44495066f2d4eff4,Magdalena,Cogo,Teaching assistant,,,
+1430,98be82c09b3e6b1457cd7ceb93cc492f,Claudio,Moser,Teaching fellow,,,
+1431,c9cbd8587a9ec3422506fd1329a2f09c,Marco,Tonellato,Assistant professor,0461 282159,Scienze economiche e statistiche (13),ORGANIZZAZIONE AZIENDALE (SECS-P/10)
+1432,8adce3322785b9336a9ebef4cba2c823,Elisa,Postinghel,Assistant professor,0461 283845,Scienze matematiche e informatiche (01),GEOMETRIA (MAT/03)
+1433,df4a152f66f63701af31d2ff4d2f4b4e,Marco,Di Mauro,Teaching assistant,,,
+1434,fa6c3460ad7ecb0154ea9f131fc1c95f,Aude,Pommeret,Teaching fellow,,,
+1435,634c6ec87af9583e06a3ee3dc4dbb23e,Andrea Maria,Garofalo,Assistant professor,0461 283835,Scienze giuridiche (12),DIRITTO PRIVATO (IUS/01)
+1436,c72f3fac73b32a082ac65fc4aa336408,Giulio,Weikmann,Teaching assistant,,,
+1437,9a83dcaee1dc1308e839585fbc303d47,Lucas Omar,Muller,Associate professor,0461 285222,Scienze matematiche e informatiche (01),ANALISI NUMERICA (MAT/08)
+1438,bb62667785fdcbf9ffde6052c957a442,Valentina,Cafaro,Research collaborator,,,
+1439,eb119e052adbde31df6349befbffa77c,Alberto,Todeschini,Teaching fellow,,,
+1440,21038a43aaecdf90321bda12ea9a3e7a,Paola Claudia,Baldracchi,Teaching fellow,,,
+1441,3dac9db8b98cbaccf9708c52fb7b0402,Elena,Pezzato,Teaching assistant,,,
+1442,d169e6272acf9d4a1945af8e9cd4dc63,Stefano,Calzolari,Teaching fellow,,,
+1443,c13632955baf56f579cd92a75c7109ce,Andrea,Ferigo,Teaching assistant,,,
+1444,703300ed121035314b1520a7383ba695,Enrico,Saccon,Teaching assistant,,,
+1445,626c513724a4daf026b67ef7d7153bcf,Francesca,Pesce,Teaching assistant,,,
+1446,32c13780c7c0f6658e8c0c3ad1a86dac,Vittorio,Chiavegato,Teaching assistant,,,
+1447,4c85d62d2a170ce738b9702a8b01d573,Emanuele,Pastorino,Research collaborator,0461 281867,,
+1448,b336b9ef39b50ba2a0ca67f4c2e3c3cf,Anja,Bühler,Teaching assistant,,,
+1449,f75a119a92ae65c8bd5c1a8cb82eeb22,Giuseppe,Scaglione,Associate professor,0461 282691,Ingegneria civile e Architettura (08),URBANISTICA (ICAR/21)
+1450,1c17b6b17964bfa5a143c4a5bdc3f3ef,Shamnaaz Begum,Sufrauj,Teaching assistant,0461 283154,,
+1451,e49b7a00ca0ce1674521433f3aabb63b,Salvatore,Magliarisi,Teaching fellow,,,
+1452,0076d1f5d30547e219eeb741b990cd57,Cristina Anna,Rossi,Teaching assistant,,,
+1453,5ed3d278c9184b09b5c50aa71ac215f2,Andrea,Gaspari,Teaching assistant,0461 282556,,
+1454,1fadfec397f2b9d4e51cc7446299a2b2,Andrea,Girardi,Teaching assistant,0461 282240,,
+1455,38d53b3fb71b5720efb141e56d654ba0,Laura,Di Nicola,Research collaborator,,,
+1456,55ddbb68ae8bfdff40b6c56ded661cdc,Lucia,Rodler,Associate professor,0464 808312,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",LETTERATURA ITALIANA (L-FIL-LET/10)
+1457,c16e0d6ca5d7ff31c10311f4bc7af288,Boris,Raehme,Teaching fellow,,,
+1458,5900fdf47b4d7fde5f8b1393db4eb504,Daniele,Peroni,Teaching fellow,0461 281688,,
+1459,e7f01558276b8780b6981584363fafd9,Marco,Zago,Assistant professor,0461 282428,Ingegneria industriale e dell'informazione (09),DISEGNO E METODI DELL'INGEGNERIA INDUSTRIALE (ING-IND/15)
+1460,ed10e0b6a0a3aced52435d72189aa4c3,Hugh Gurney,Beale,Teaching fellow,,,
+1461,5597acab4fcdf297e52813300bcfc656,Massimo,Turrini,Teaching fellow,,,
+1462,3966b09833ea11c8d8a7b13a23558bf1,Matteo,Larcher,Teaching assistant,,,
+1463,26347fc0ca1739f863f2fbfd85b05e6b,Giovanni,Iacca,Associate professor,0461 285220,Ingegneria industriale e dell'informazione (09),SISTEMI DI ELABORAZIONE DELLE INFORMAZIONI (ING-INF/05)
+1464,016f559142ee0399f2f4675337154547,Simona,Bordoni,Full professor,0461 282606,Scienze fisiche (02),FISICA PER IL SISTEMA TERRA E IL MEZZO CIRCUMTERRESTRE (FIS/06)
+1465,a31aa6621959707e1408d62aa11dcfce,Donald Martin,Truxillo,Visiting professor,,,
+1466,7b693d1c357941f85b57e5445749729e,Carlo,Strapparava,Teaching fellow,,,
+1467,1fdae47a3de4b97cb845a2853e0c6382,Sophie,Bini,Teaching assistant,,,
+1468,dec994f36d10dcf5c2931cf1825d3472,Daniel,Zugliani,Assistant professor,0461 282629,Ingegneria civile e Architettura (08),IDRAULICA (ICAR/01)
+1469,d9edbd08a704c39457f8ba5a0ee83067,Enrico,Nava,Teaching fellow,,,
+1470,6253086f6bee8d3bc46f184e438aaa3e,Laura,Del Rio,Teaching assistant,,,
+1471,735c673d432a14a6eaab0492836eb712,Ermira,Zhobe,Teaching assistant,,,
+1472,93c85d0b30c8d21e9bf461055251b0d2,Filippo,Marchelli,Assistant professor,,Ingegneria industriale e dell'informazione (09),PRINCIPI DI INGEGNERIA CHIMICA (ING-IND/24)
+1473,0cc68c4460cb8bd8e7f57c1e629937e1,Mattia,Mancinelli,Assistant professor,0461 282018,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+1474,005a7e66a14adf39e0214010695ee69c,Maria Elena,Castellini,Teaching assistant,,,
+1475,46d7dc8e06df7b4a7c792e52690623b8,Michele,Cozzio,Teaching fellow,0461 283509,,
+1476,7d27a3b65827511b8c5393c08a741d45,Katiuscia,Guerriero,Teaching assistant,,,
+1477,6d01a25925a12b70311615516335a81c,Simone,Giacopuzzi,Teaching fellow,,,
+1478,a766bdff9c0da754659b911dfeb886e1,Stefano,Cirella,Associate professor,0461 282591,Ingegneria industriale e dell'informazione (09),INGEGNERIA ECONOMICO-GESTIONALE (ING-IND/35)
+1479,d97c4213376de7ed2193292a768108ce,Maurizio,Di Rocco,Teaching assistant,,,
+1480,b5bc5ef1dd78c0b05521ec9855160e80,Andrea,Nicolodi,Teaching assistant,,,
+1481,fb8bdbaa64bdb549313ff526ceddb771,Fabiana,Zollo,Teaching fellow,,,
+1482,ee4a3206ccc1df513f747d85db8ea469,Mauro,Hausbergher,Teaching fellow,,,
+1483,793c0305c8fcec7a790d0d08d72c01cd,Eva,Struhal,Associate professor,0461 281765,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",MUSEOLOGIA E CRITICA ARTISTICA E DEL RESTAURO (L-ART/04)
+1484,497b103730c969419fec204ade219efd,Mirko,Lobino,Associate professor,0461 282631,Scienze fisiche (02),FISICA SPERIMENTALE (FIS/01)
+1485,41e8212241236678992238fcafd06de2,Ivan,Giongo,Associate professor,0461 282543,Ingegneria civile e Architettura (08),TECNICA DELLE COSTRUZIONI (ICAR/09)
+1486,4b56462a9a037ae9cb0b7c6c3673d5df,Kudzo Woezo,Parkoo,Teaching fellow,,,
+1487,fb64222747c237df1247cda74f13679a,Roberto,Belloni,Full professor,0461 281422,Scienze politiche e sociali (14),SCIENZA POLITICA (SPS/04)
+1488,164222e963998f8682a2a2f5ccf44cd6,Ilaria,Mirandola,Research collaborator,,,
+1489,f25dab5ae077c46a21de015232c56b90,Gianmarco,Perantoni,Teaching assistant,,,
+1490,e59c86b06344694982c613dceaea2bdd,Igor,Spanò,Teaching fellow,,,
+1491,a5c1162e88ab6ee85178b631ed6beae6,Andrea,Bolner,Teaching fellow,,,
+1492,f1c9c7cd2decfd227b6a16bebaa9eaea,Paeivi Sisko,Maijanen Kylaeheiko,Visiting professor,,,
+1493,df645323b6355456f18bc5c26d0499e7,Flaminia,Festuccia,Research collaborator,,,
+1494,bfb0cd0d98168e92ae31281b664ab1bf,Anna,Peripoli,Teaching assistant,0464 808119,,
+1495,c87a9fd26d90eff706543ac73db1a735,Huma,Saeed,Teaching fellow,,,
+1496,406ae94de43d4f931898681821dee4bf,Annalisa,Tirella,Assistant professor,0461 282431,Ingegneria industriale e dell'informazione (09),BIOINGEGNERIA INDUSTRIALE (ING-IND/34)
+1497,401f51875758bfd342e4ec1f56c8443e,Christian,Poggioni,Teaching fellow,,,
+1498,60c840bf17025df794df3975deb7f91a,Alvaro Ignacio,Vidal Valenzuela,Teaching assistant,,,
+1499,62f9ead0ce47ffbe6e4d30e8bae3ced8,Bruno,Giometto,Associate professor,,Scienze mediche (06),NEUROLOGIA (MED/26)
+1500,15ea1b5c58576443b82afdba13929838,Lorenzo,Mazzieri,Full professor,0461 281672,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+1501,ead8165c0f67ffbdd99b22957737ac2c,Walter,Frizzera,Teaching assistant,,,
+1502,231da166a35a48cde1f62fc73acbdaae,Andrea,Del Prete,Associate professor,0461 281915,Ingegneria industriale e dell'informazione (09),AUTOMATICA (ING-INF/04)
+1503,e026618ed88a16349e128f0da12843fd,Massimo,Mazzola,Teaching fellow,,,
+1504,2da9af9530c4d84ff19becdd97e941d2,Mattia,Cutolo,Teaching assistant,,,
+1505,118fec333b8997a316a825634b163a8d,Federico,Laudisa,Associate professor,0461 282732,"Scienze storiche, filosofiche, pedagogiche e psicologiche (11)",LOGICA E FILOSOFIA DELLA SCIENZA (M-FIL/02)
+1506,923ada37e2b92b97f7136dd6400be42e,Paula,Moreno Sanz,Research collaborator,,,
+1507,026e487260fd94aa211b7ea6ca3b6bc0,Linda,Masante,Teaching assistant,,,
+1508,9d98021889565e23ce53ce186798dfc8,Katarina,Mladenovic,Research collaborator,,,
+1509,e97d45d75674a293fd626aa94d831a4b,Nicola,Zadra,Teaching assistant,,,
+1510,a9e91911ba946ad639c840afa5f79f84,Giorgio,Doglioni,Teaching assistant,,,
+1511,e3982af21a5f63ba169380a52d7ec75c,Judith,Habicher,Teaching assistant,,,
+1512,639171236eb029e8c20a620364da1247,Federico,Fallucca,Teaching assistant,,,
+1513,fe9711fe67bad5ce7cf437ad4350e685,Ira,Mataj,Teaching assistant,0461 281443,,
+1514,75ee6fa088fdcbf4b0efc2785f38186e,Reinhard,Huenerberg,Teaching fellow,,,
+1515,bc1588f7629ca129caa9635b82b47b9c,Angela,Valente,Research collaborator,,,
+1516,1eb04e5a31c1d8caa4b864c1e9fcd2fb,Mario,Martelli,Teaching assistant,,,
+1517,9a95f807325f1513bd3d61ef73d900e3,Elena,Righetti,Teaching assistant,,,
+1518,0c8b7c9d0a423e5be699f40f5d8d428d,Austeja,Kazemekaityte,Teaching assistant,,,
+1519,f0fecd89e79c1e09fc73d5860dc15eb3,Michele,Bof,Teaching assistant,,,
+1520,8722722fdac37919bc3b8a6ffec0b9d4,Lucio,Gobbi,Assistant professor,0461 282264,Scienze economiche e statistiche (13),ECONOMIA POLITICA (SECS-P/01)
+1521,693bfd9d07d50622deda30b8c32f2e90,Elena,Missale,Teaching assistant,,,
+1522,f80efd70a94edcfe5bb8cef45eb1f386,Sunil,Raghavendra,Teaching assistant,,,
+1523,a389432a2fac34ec63271880698045c6,Giulio,Binosi,Teaching assistant,,,
+1524,e1373c155978568c6cd5f94f93b93e0f,Bianca,Menini,Teaching assistant,,,
+1525,53744ea0e96e4e8c4d4ec3ae9ee1e219,Elena,Bertazza,Research collaborator,,,
+1526,9c31094eedcd2d8ca13b824c90060f18,Francesco,Testa,Teaching fellow,,,
+1527,2b26ada720bb670d736de8eb835d579c,Andrea,Mina,Teaching fellow,,,
+1528,0b545b3f8894abc36709dbca517c73de,Coralie,Neubuser,Teaching assistant,0461 281551,,
+1529,51b341113c1194d97dbe512766ada181,Marco,Chierici,Teaching assistant,,,
+1530,c39f3930ce46e3c4492e465c4f4d2b45,Andrea,Marchese,Assistant professor,0461 281581,Scienze matematiche e informatiche (01),ANALISI MATEMATICA (MAT/05)
+1531,813650db3261574d43023e39825aa922,Alessandro,Provenzani,Full professor,0461 283094,Scienze biologiche (05),BIOLOGIA MOLECOLARE (BIO/11)
+1532,e3feaa3ece41eb52fc05aa10eaac9c9f,Chiara,Cristofolini,Assistant professor,0461 283525,Scienze giuridiche (12),DIRITTO DEL LAVORO (IUS/07)
+1533,0cc92ba161c1e01d24ec724067b1d0d5,Mirko,Tommasini,Teaching assistant,0461 282616,,
+1534,aa7bee11178052a2f700b702db0e1ce0,Hana,Horak,Teaching fellow,,,
+1535,37218c7ddc83fb9d5b322b08a48bcb09,Laura,Riondato,Teaching assistant,,,
+1536,5f021e818634ae2d9127f037f6110abf,Maria,Pantano,Associate professor,0461 282601,Ingegneria civile e Architettura (08),SCIENZA DELLE COSTRUZIONI (ICAR/08)
+1537,b8c2720177d6ccc4fb47dde3eb50b143,Beatrice,Primerano,Teaching assistant,,,
+1538,98d24f9680397fc8bfbb31b8f6f31014,Pejman,Abdolmohammadi,Associate professor,0461 282068,"Scienze dell'antichita', filologico-letterarie e storico-artistiche (10)",STORIA DEI PAESI ISLAMICI (L-OR/10)
+1539,7c77a4a08257ddfbb2670eb207849406,Lorena,Leonardelli,Teaching assistant,,,

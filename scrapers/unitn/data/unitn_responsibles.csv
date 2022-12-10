@@ -1,0 +1,948 @@
+id,name,surname,role,phone_number
+2d64e2fa7cf97b3c3b83726793a6f27f,Paola,Giacopelli,Staff,0461 282837
+42654e3627fb81a15a33ea24ed7faafb,Matteo,Giovannelli,Staff,0461 283085
+b6ddef9db342825bdb8380fc6bb4c1cf,Ilaria,Tezcan,Staff,0461 283329
+1438c3dcea8b2a765815531a4ec69c57,Francesca,Belton,Staff,0461 283989
+242e1a8a0f3fa02de7d38a885a557dc7,Arianna,Aste,Staff,0461 282842
+6999621eae36de381cb62fd26c7898f4,Marianna,Malfatti,Staff,0461 283130
+7b2760d7ee3b6444b84768a08fe112be,Jonathan Brys,Bibee,Staff,0461 282980
+a30ddcbf731ab3146bdde151c7468bdf,Marco,Buiatti,Staff,0464 808178
+080044aed21e27060986bdc1fb620493,Marianna,Menestrina,Staff,0461 283257
+73669baa79d6b7a654da9050974be6bc,Francesca,Tomasi,Head,0461 283653
+95b0f4bb58c5bbb29a7467873b6ab094,Mirian Soledad,Ayala De Chenu Abente,Staff,0461 282094
+54f690ca02a2f9651e93918f22f4ec47,Massimo,Eccel,Staff,0461 281108
+de146e87b4cf2ce00140063d3fe86e74,Sara,Retrosi,Staff,0461 283049
+6b3e588f467d8935af1d264fadbb590e,Sandro,La Barbera,Employees' representative for safety issues,0461 281766
+537656c35cfd3e042532fe2ab9ebaad0,Sara,Di Salvo,Staff,0461 281925
+7cab8f73a49aeca4441251c86fec8c21,Giulia,Possamai,Staff,0461 281181
+181c6219e3354df00bab3f210ca46efb,Giuseppina,Matichecchia,Staff,0461 281875
+669dbc4fdf89ae8b15f81deccad3abbd,Roberta,Guidolin,Staff,0461 283055
+8c985b92f912d1a4a480affe4a786f0b,Thomas,Cammilleri,Head,0461 281253
+0d3ae620274fefdfa2b62e0fb9a76563,Roberto,Napoli,Staff,0461 282269
+15746dc92cb6337b0e843811b210208d,Fabio,Romagnoli,Head,0461 282229
+fe0cdb143270c44ef7707cc1b17f9ad7,Chiara,Valentini,Staff,
+c8d4ff99193857ce212204f9de22736c,Massimo,Santoni,Staff,
+43d0b4b1ae551a4514bb9f617773041e,Simone,Bridi,Staff,0461 285323
+75e5ca575f7bdefef248800cf18d7b42,Barbara,Zoccatelli,Collaborator,
+f581e74f90f948a00b5082ae5a186681,Chiara,Zendri,Staff,0461 281489
+de9aa44cba82597ea71a0feda05ee937,Camilla,Scandella,Staff,0461 281454
+0406c2b26cd2893dd8448cad1d608005,Giada,Crema,Research grant holder,
+aabb1b578a41f76d301f3893024f8ee4,Daniele,Pegoretti,Staff,0461 283442
+c68c1ab8696f87326740d13ea86ab089,Maura,Mingozzi,Staff,0461 283996
+34e81bfa01e6aec53b03ff02ed176f55,Olesya,Kifa,Staff,0461 281125
+41da7c9d68cb4ea7fa8cbaabb209a04f,Caroline Rosemary Frances,Chick,Linguistic expert,0461 282021
+e98ef39c13d9eb9e09d15f861f488233,Matthew James,Millward,Linguistic expert,
+adc9c649396cdc52d9396edbb5c8371a,Dominika Agnieszka,Klopotek,Research grant holder,0461 281456
+75e968680239d75ffb3c055c75b7c4bd,Francesca,Pericolosi,Staff,0461 283325
+dfae03d8c39ae539c54b2184ffbfca2a,Diamila,Righi,Head,0461 283018
+329267fb1b3a40f5c16698ea7baa2f50,Michael,Pancher,Employees' representative for safety issues,
+4a35c0bdb379c440060501cb33fb2145,Paolo,Struffi,Staff,0461 283588
+a3d304534b1a13e0b0b0aa0cf2603c73,Benedetta,Magalotti,Staff,0461 283457
+7c0823e23242e91ee1b36001e48555e2,Lorenzo,Covi,Staff,0461 283226
+1573516f46a6a05a3d7a3958519ab2d4,Selene,Sordo,Staff,0461 281121
+33359a357d3101a03d316da9a6e55711,Erika,Belardi,Staff,0461 283343
+3004997d840c0953ef1d225a52390f42,Miodrag,Petrovic,Staff,0461 282198
+fc857731a42b21bd166a907bd44eb6ef,Giacomo,De Sero,Staff,
+6a8bdc55320683136b8ca0f9e17ebe0b,Elisa,Chiarani,Staff,0461 283973
+77ce67192e15d02ce834fd410e0474cb,Vincenzo,Maltese,Head,0461 281944
+2b0d31a16050e2968856b76ae483cbd2,Valentina,Fasolino,Head,0461 281645
+02b2680b9c3bfa698b9b8e4603870fa4,Serena,Peterlini,Staff,0461 283349
+2743b4679f5d7c68acac2d00b8e17fd7,Daniela,Sicurelli,Deputy dean,0461 281483
+973ce16c93b081450430ee63976f39a7,Maurizio,Festi,Head,0461 281286
+8e3cbdb2bc6adf4f2844338d3e84273c,Danilo,Severina,Staff,0461 282082
+21bcd21c55f90873fe90cb4b9428c4c8,Massimiliano,Zampini,Deputy coordinator,0464 808670
+1561f437f342754e54ef5102236eccda,Giorgia,Martin,Staff,0461 281266
+bb1c166c618d6730b5f3c82ca405513b,Mario,Rossi,Staff,0461 282008
+60bde439bb96ef581c061b55ddc0f04c,Mariano,Dimauro,Staff,0461 281603
+4499fe77ef056ab97c181b48356d37e5,Micaela,Amico,Head,0461 281606
+adab51f0b7241b062e80c1a99c81e2c3,Cristina,Cattani,Staff,0461 283334
+6e984ea032196899007338463b1cbd5c,Paola,Cestari,Staff,0461 281237
+004a687793d75821df582b21d21da041,Veronica,Rizzi,Staff,0461 282005
+a12bf793ab07e5334b19a029901eb498,Valentina,Lucatti,Staff,0461 281802
+85264e69f578d5df96e474ddf44b2650,Ornella,Bernardi,Staff,0461 281805
+b268048076bc43e0e929cfb13ce9dd98,Barbara,Siboni,Staff,0461 281490
+e0016ab73e20cf713ef00dcfaa2bb5ee,Mauro,Cescatti,Staff,0461 285274
+c14e82849acc600300f1c382ab4e7dd9,Stefano,Bernardini,Head,0461 281726
+dd6ed89521b6b66bbb390d1625346138,Paola,Capuana,Staff,0461 281319
+32112cb474feaa1b57e7ab49422ac414,Marco,Versienti,Research grant holder,
+c7a14ef6d0a39fb430f2cc4b26774b42,Silvia,Bulighin,Research grant holder,
+bdeb00d8170c5946e93d3fd75935a3c2,Elena,Manara,Staff,0461 282790
+0bd9b995d4ea939e1ee86e3051061c0d,Andrea,Fracasso,Vice-Rector for Organisational and Resource Planning,0461 282216
+33e9902b096ef8483945bb49a2c3bac0,Roberta,Baranca,Staff,0461 283363
+abeffeb7ea53767d34dc493140b9826c,Cristina,Masciangelo,Staff,0461 283237
+f01cf45e1e7e5e7e12e4c9a4a5fb2961,Francesca,Pecoraro,Staff,0461 281947
+f782d39dbe68d8f01416d0d94220e88f,Roberto,Margoni,Head,0461 283138
+e2053e85c7c760812b80edcdd9ae9778,Lorenzo,Nuvoloni,Staff,0461 283391
+96d44fe4c2c691e0b8d9f1bcbf177840,Daniele,Brandalise,Staff,0461 281380
+13d6f671af6d2dcffc93c8ed82274a94,Chiara,Lombardo,Staff,0461 283224
+c1c47ef926751fdd483b2f36e61142f2,Annalisa,Guerzoni,Staff,0461 282238
+33e36d07be0dad9816aeb99a38fe4b76,Gerardo,Puopolo,Deputy coordinator,0461615502
+e8760d08a9beab04780de06032ccf660,Davide,Santuari,Staff,0461 283756
+8a2f9e73f47533b7849d76dd27152ded,Valentina,Pedrotti,Staff,0461 281243
+9b15e02cb1d3e562af3a97923c84caf8,Isabella,Bassetto,Staff,0461 281240
+672a0efc20c7290edb83b697d5ba701d,Micaela,Paoli,Staff,0461 281575
+88f178da5ae20e49cfc764bcfae7632c,Galina,Kamburova,Staff,0461 283105
+b438ddb3ad95e7952341e0f1c217019d,Paolo,Rosa,Coordinator,0461 283715
+8d6a52a5829d0e36bf3e5290015ef02f,Martino,Pedrini,Staff,0461 281784
+ae7902604adcd61115b958729d27e85e,Fabiana,Silvello,Staff,0461 283353
+24a6d2d31752714d538cd9e3bc837af4,Alberto,Brodesco,Staff,0461 281410
+c93b84866c200030a0d18263cc256d86,Fabio,Cavulli,Staff,0461 282070
+1f893434bd614bb2303ff0bfea57e770,Stefano,Tessari,Head,0461 283079
+8325603ec4158330f7b227cf14bfd8de,Paolo,Bonfatti,Head,0461 282959
+2d906b38e394c9434415ddea04cce969,Maurizio,Marchese,Vice-Rector for the Development of International Relationships,0461 282083
+601fc9161c224d3b36c029756fcbbefa,Silvia,Girotto,Head,0461 281298
+8bbcae2900e5d442a032ebf511a0ebaa,Gianmarco,Tomasi,Staff,0461 283317
+514522a890f36f7ce1f40bfbcdeef0e6,Giovanna,Massari,Rector's delegate for Open Access and Copyright Policies,0461 282644
+8e412378238eda6e476e3030cd7dfead,Mauro,Mion,Staff,0461 282347
+a2dec24f97bcce1d48056b1eb9358d07,Stefania,Valentini,Staff,0461 282193
+9fc9b810c4ef789059b2e690390d058e,Marilena,Menapace,Staff,0461 283460
+4d0e50f16fe6abf638660be0a53647a8,Matteo,Degasperi,Head,0461 282352
+4ad401b0d9c5d207c9b3e55d6a8fa318,Francesca,Gozzer,Staff,0461 281906
+726bc17766644aec06aa8abdd25ce91a,Luca,Pellegrini,Head,0461 283390
+f6679791a73e9ae35721f52b483e72d7,Davide,Tabarelli,Staff,0461 283644
+735b5343b5afb0314fe7dfb05b0de48f,Michela,Monselesan,Staff,0461 281337
+88dd6eb1078e95454a3bbac5a5a65f32,Sara,Giovinazzi,Staff,0461 281793
+e9e4225fca7744add63f4c4de28c3655,Paolo,Bertolini,Staff,0461 281907
+54832f31fd70a5640e53f24177ff8544,Valeria Maria,Nencini,Staff,0461 283084
+fea52ca987164a620660ed633c4ed714,Silvia,Lavecchia,Research grant holder,
+5e1e7dfec35c56175f9cf8e7504e0022,Mauro,Ferrari,Head,0461 283372
+a192ed23c657ff6094b3ea9cf8e777e6,Federica,Cobbe,Staff,0461 283307
+8df9b21d1f9bd5c4eaeb20d96099f065,Marco,Graziadei,Staff,0461 282436
+1f4cdd01b2175fa87f738fb13c32c089,Francesco,Granza Rocchetta,Staff,0461 283188
+842fcd10584c8f58ddb737d64c8ce92e,Felicia,Sicignano,Linguistic expert,
+b613669f4c6a87f505cdfc20766a3ca6,Chiara,Marcon,Linguistic expert,
+5a51283e2c36d71f7c7b0e38ee197eba,Nicola,Pace,Staff,0461 283063
+5bda5419912b01032874614fdafce089,Virginie Odile Suzanne,Alnet,Linguistic expert,
+7cfb88146173ea4b50f73217634e4b81,Roger Howard,Smith,Linguistic expert,
+6a006ab2b012fc6131c213bfcdf3785a,Emiliano,Lever,Staff,0461 283359
+c085e2ca541bf396af04f46877896ef8,Anna,Capitanio,Head,0461 283324
+08d85cc72103f7a5ea5e7d5a0d91aed8,Andrea,Celva,Staff,0461 283037
+88a822c75578de691a006794f374d09c,Alessia,Soldano,Research grant holder,
+cdbedb87c78eda5ba5d4fd9ab4b8d5f1,Martina,Franceschi,Staff,0461 281866
+76d938a063e2f3e97a08b496bae096f3,Nicolò,Torresani,Staff,
+6456891f6eb56559430125eb67e27399,Martina,Fellin,Staff,0461 283362
+8a4023d09313db6eb00d0da001c070a9,Leah Beth,Kaplan,Linguistic expert,0461 281780
+a466ebbc9d17414aa4467bb5b1907e2d,Barbara,Bassi,Staff,0461 283314
+45157f1ab738139520b6ea629a8555d1,Ornella,Mutinelli,Staff,0464 808404
+04741ea0271cdcffa710fad4229e145c,Enrico,Moser,Staff,0461 282001
+974ac4f359e40512f0cd025d9f7d0a75,Alessandra,Depedri,Staff,0461 281752
+c64fed8d7a8834a49a5b6485005d0a4f,Cristina,Pouli,Head,0461 283357
+a6f11577a29b5e418cbdecd38a18a603,Giorgia,Nardon,Staff,0461 281755
+d1deff0b9f5504b28e6414105091f9c4,Paola,Pasquali,Staff,0464 808414
+41eed995454beda248f1917efa47d1d8,Marco,Adami,Staff,0461 283666
+6f901a82be5306c246e87d18498baf56,Sara,Bressan,Staff,0461 283498
+9ab816325dde9e03d4fd3e899214ebce,Mauro,Bortolotti,Staff,0461 282490
+7fdee1ff4d0ce38e10e52b44e26c8b36,Stefano,Girardi,Staff,0461 282540
+72fd39ccf0209be848cceb4add64e9ea,Anna Maria,Pretaroli,Staff,0461 282126
+1fa8095ae7a4129eeeaea82af90d2343,Wilma,Vaona,Staff,0461 282482
+ae96f76bc7272557c756212cead1215c,Marco,Ragazzi,Rector's delegate for Environmental Sustainability,0461 282609
+5d1110c48950372b6c688b507768a728,Franco,Andreis,Staff,0461 283930
+968e9d76b14038ddfed0794761dc8d0e,Sara,Longhi,Staff,
+80c6d8ead9ff86576a915c1226281dc7,Claudia,Fraizingher,Staff,0461 283909
+d0c836109105c9ebcc7ea64f38d64126,Katia,Salvadori,Head,0461 281396
+d290fb3e3bf3b956a69ddebaa2b113d8,Antonio,Zandonai,Staff,0464 808836
+a7bd0dba22cd6df2a4b9b342976345eb,Chiara,Donati,Head,0461 283145
+594f7b0565cc621bac57aa85058cafaa,Pasquale,Gurzi,Staff,0464 808428
+7a7308987176c6847785596074f19489,Tonino,Cirillo,Staff,
+4d1d122165acfc40eaf3cf40bbd2a099,Fabio Damiano,Ledda,Head,0461 285337
+250b75f8826fedad57ab5e11280ad0fc,Roberto,Longo,Head,0461 281213
+b332e32c5bbf847fa2cc3ece099d99d1,Laura,Braico,Head,0461 283212
+e7182bdfb038e61ec043f04757bfa872,Michele,Dell'Orco,Head,0464 808420
+afd226fd43caf1890bdfbbdf76a7804c,Anne-Sophie,Vandamme,Linguistic expert,
+27d15aec0198bc3acfa57dc807896a2c,Mario,Planchesteiner,Staff,0461 281275
+def85088125e081a55ced455e64b5005,Francesco,Scannicchio,Staff,0461 283269
+a537de16015902cbf4205d211a813e6e,Sarah Kathleen,Haigh,Linguistic expert,0461 281779
+f2014d09548e119234bce302d0695dab,Nicola,Accordini,Research grant holder,
+a72837c95adb8e22232bebcfb2875594,Rawaa,Olabi,Collaborator,
+044d1529ca67f4aa18f54cd9eb3d6e34,Cristina,Pegoretti,Staff,0461 282670
+35d5b7509906a462a4bb151f837d85d9,Gianluca,Signore,Staff,0461 281186
+ae2a9619fc9b134bb65f574f6cf99070,Krzysztof Pawel,Pawlikowski,Staff,0461 283038
+670dd9dd960829aacb201d2d6a77feb2,Pamela,Cetto,Staff,0461 281934
+80d4c5fca904dec47107b3f19612d4d5,Graziano,Giordano Olivieri,Staff,0461 281927
+b94655fae0e1e6c60abec91cee3707be,Nadia,Andreolli,Staff,0461 283344
+eb9139509dc40d199b6864399b7e805c,Barbara,Dorigatti,Staff,0461 283752
+6c515f78cd5545fc23a2053b81618a71,Massimo,Gennara,Staff,0461 281623
+fd367e48fbbb65706cdb9801784b9079,Rudi,Tranquillini,Staff,0464 808449
+baa8b3a2e4eb2c70a71d0d88fc406c44,Marta,Cazzanelli,Staff,0464 808416
+3cbb321361898c4788c6546276c663ea,Giorgia,Lughezzani,Staff,0461 283015
+085a13df074f4ac5cf5b2a2de2be5a16,Lucilla,Giuri,Staff,0461 283181
+2edec5a8d9f29b69a7d2df652ae80985,Moreno,Nardelli,Staff,0461 283341
+0950f727d000005124791cfe1ff2237c,Diego,Franch,Staff,0461 282435
+aaa88ad8883f3598c98f9d839369369a,Ines,Girardi,Head,0461 281649
+0a52e12c84b6c3b3734221a755a062b5,Emilio,Bracchetti,Staff,0464 808419
+01e1c2ad34b4c3f59dbe96541185f618,Andrea,Rigobello,Staff,0464 808457
+bac479186cf672c9afe01590f76e14ee,Katia,Ruaben,Staff,0461 282375
+e5e292416ba24dcc77f08a0ba68273e1,Fabrizio,Granelli,Rector's delegate for IT Services and Technologies,0461 282062
+d797d333772feeb95388115bd52d4668,Angela,Dalvai,Staff,0461 283389
+8633663f0b333c57fc26c5248f10343c,Andrea,Avi,Head,0461 283404
+a099ee7d4f7dd0e4f9474778b70ced49,Carlo,Atz,Staff,0461 283137
+ac5190528c07762b8de9750f6463a1d6,Silvia,Tomaselli,Head,0461 283125
+a4d0ae28769945987b7c83be60623490,Vanessa,Ravagni,Alternate member,0461 281238
+21d8cf850864f2e421474ecfcf203d46,Corrado,Masini,Staff,0461 282914
+c8eb817f8c64fb5dc23dcffeb3038b60,Helga,Franzoi,Head,0461 281727
+3ccf307828d4b77512e438a5bccd2d9a,Elena,Ferrari,Head,0461 283291
+b2e5ca10e629c3427efd38537eca8859,Ylenia,Zamboni,Staff,0461 283387
+17c656e3c7165cd4496542efa54947a6,Albert,Tyszkiewicz,Staff,0461 281850
+4b1699c26955fb9b83a87090ba42a208,Andrea,Bampi,Staff,0461 282657
+572d5b32886c5a20f5057de12975d491,Monica,Paoli,Head,0461 281958
+5cf09ea4a661647ed9b4c9e55745f5d4,Lucia,Pisoni,Staff,0461 283319
+8039eeee7dfb1031a721967d66b4bb39,Mirella,Carli,Head,0461 283966
+d1edd0fea4530a0df26ae8b46d85380a,Pierluigi,Minati,Staff,0461 282022
+0f175e26cf68471ea361a23c4c9838cc,Diego E.,Angelucci,Deputy coordinator,0461 282700
+63c7bdf160491b57a6da766ec34a0cd9,Mario,Depaoli,Head,0461 283321
+9279d867998179e3ec720df5470347cc,Elena,Staltari,Staff,0461 282549
+aea8f36c52291fba1e2bb6603c191415,Anna,Bertolini,Staff,0461 283456
+f969236664b5b5072a9f0c614de71b5d,Marco,Tecilla,Staff,0461 282313
+4c3197b6d48775c69cbf3e14ffbd6143,Alessandra,Saletti,Head,0461 281131
+2b2535e69ba34e8784d9b95c308f45b9,Matteo,Cosulich,Deputy dean,0461 282376
+8d60f6e7216fd4be1c7563c5c93aa193,Maria,Barbone,Head,0461 283027
+b8d654f5940f766076f437933e2604d8,Patrizia,Biasi,Staff,0461 283333
+f1d6dba6e681b55f38c9e124b1b67c67,Mara,Orsi,Head,0461 283330
+4ea29f6936381baed5123237e88d2c58,Grazia,Callovini,Head,0461 282181
+00e914a6332311354e3bba0a59fe1935,Gian Franco,Dalla Betta,Coordinator,0461 283904
+ca85d5a3134ffc7e75a01498836cd67a,Claudio,Cestari,Staff,
+0f6b12a123a540bcf3180cb847812ecf,Emanuela,Giacetti,Staff,0461 283017
+534f313022e80217c75f79ddb5810476,Cristina,Gelmini,Head,0461 283146
+d06c6f799d500a1269a364d25cdb3a9b,Nadja,Lonardi,Staff,0461 281220
+12155cb0239fdcb335ba06e6b0c3dd63,Fabrizia,Patton,Staff,0461 281753
+eacc88d445429c5c201d14b228f185f4,Lucilla,Balzarini,Head,0461 282172
+1a9da4788828318e76453fa16dda1673,Sabrina,Brugnolli,Head,0461 283908
+e82dfa2a44d2e266b501d20ba0b015f5,Iratxe,Martin Ruiz,Linguistic expert,
+a783ed535d5f4860182084642052aa7b,Felicity Anne,Hope,Linguistic expert,
+fedf077a0594a061c8b0e58c42b7b7ca,Fiorella,Sartori,Staff,0461 281667
+c132310ef38fa6280a361959e88af434,Valentina,Segatta,Staff,0461 282176
+1d686f4460edf9ec80076d5ddc4b53bc,Patrizia,Ritondale Spano,Linguistic expert,
+0e0a60197561bf800d7e4258fc7b5325,Leonor,Hernandez Diaz,Linguistic expert,
+3d70df484ab391d98bd4dd927738ed09,Paolo,Deimichei,Staff,0461 282351
+bde03ef624125ec0cd00f7a2ba4f4272,Helena,Steiger,Linguistic expert,
+220dd5ac74cdfd60774a16da30ab2329,Matteo,Borzaga,Deputy dean,0461 283873
+9418e7f55f3e461cf95218892a871d66,Marcello Luigi,Busetto,President,0461 283829
+bd2bfbec531a8e677310e9bbbe5330ab,Rossana,Rizzato,Staff,0461 283315
+5aab919f78772928ee54c85c46be3e6f,Daniela,Dascola,Head,0461 281814
+93f8693678b7b7b275ace1d341a9e953,Filippo,Moser,Staff,0461 283046
+be4eedaaf2e3b48aa8b2b699e614ff38,Manuel,Zucchellini,Head,0461 283936
+74e21605abb64d8f9e1313284ff573ec,Iryna,Haponchyk,Staff,
+f7b1510b6cdc012ffd468099d7391d3e,Francis Arun,Vettori,Staff,0461 283250
+8aaff9e7ddabe08f9eacced12309f1ec,Francesca,Carbonari,Staff,0461 282975
+7ae1a13e27ba0c14e4f05a782623a136,Giorgia,Zappacosta,Research grant holder,
+62ec55405fc70bb19e301c44bfb47b13,Sasa,Ilic,Staff,0461 283878
+7c981874419913130933fb3dbee411d5,Pierangela,Baldo,Staff,0464 808611
+437f8c1594584b3ffd138a199d6e12a3,Doris,Pedrotti,Staff,0461 283332
+855f3c5e21cfbdb3e6657f315b1c4b86,Emanuela,Vitti,Staff,0461 283361
+d7aa04792d940e2aa25eeb2956462a2a,Roberta,Villa,Staff,
+3bc7784845b0b286da68f9d2a4011d41,Myriam,Eroess,Staff,0461 283215
+cd2f05e12bdbc15fb1d5ad1705e39d88,Elisa,Armellini,Staff,0461 281246
+ed4f864796d676966cadb2b83cc0110d,Elisa,Sartori,Staff,0461 283874
+f03dc89d00475d7e43b232c5242e0ffe,Lodovica,Simionato,Staff,0461 283119
+f88e1c9826cce007b8fba53f3d20bc81,Samuele,Sartori,Research grant holder,
+60bbe6bc805beb845269c69775c68ef8,Allegra Elena,Pallaroni,Research grant holder,
+930e759fff91dbaa5a0faf2aaf5d7884,Alessandra,Tobaldi,External staff,0464 808166
+af2271e83c37945c40a1796746056135,Nicola,Vigagni,Staff,0464 808601
+1d27bca7b7e1692bddd56fe6633c9ea0,Stefano,Setti,Staff,0461 283289
+cff2f695e4305de0987e7eb320ccbdbf,Serenella,Panaro,Staff,
+21a88e18c29af481f4ba885379af8de3,Cristina,Algranati,Linguistic expert,
+e5c25746cef57467cc6df32ef5d54f04,Monica,Chemotti,Staff,0461 283340
+8c6ea886e6353b07a7fd2bb41b59f777,Flavio,Bazzana,Director,0461 282119
+896834473a686d83dc9c91ff206322da,Viviana,Caldara,Staff,0461 283235
+f0231e53a1f55abca49310a94ea620b3,Sonia,Caset,Staff,0461 283029
+1f0acd64df6d92bc4df344f4c9aa13c6,Yannick Cabrel,Koueni Ngueulieu,Staff,0461 283113
+0dbea74666083f27a06f58f1dd92e675,D M S,Sultan,Research grant holder,0461 282592
+ab6ff5a0ecd22a804447d63fdacee492,Lorena,Zubovic,Research grant holder,
+518c98860447fb8286493ac70038f502,Alessandra,Gilli,Staff,0464 808173
+f88f1d4752ffeb534582e392b93c00d8,Karine Laurence,Frisinghelli,Staff,0461 282032
+99674b94f36aaa7707e4fdaa2162f528,Guerriero,Raimato,Staff,0461 283409
+ffc4c15bee695f3eaf0447f313c2fb0c,Stefania,Santarelli,Research grant holder,
+e28687eaeb7f4d3afe3dff74603ea1d3,Nicola,Furlan,Staff,0461 281679
+dbc392b1d566becf70cd241a2990e824,Stefano,Avanzi,Staff,0461 283143
+f5b29dce43611bdebb22d4bf1c201de8,Stefania,Merz,Staff,0461 282841
+bb76c8b5a19b42e67d5410169d988c6c,Alessia,Mattivi,Research grant holder,
+be29d5657a8359c35d214e69fb984b53,Sara,Carneri,Staff,0461 281218
+285ff66abb018db82c685d3585748d9d,Francesca,Cardiello,Staff,0461 282977
+9a6c2aa7ea66166f896906ba435fcdac,Chiara,Vicario,Collaborator,
+4ab0608230a00e044e9ff2afbb3ca534,Michela,Verbi,Staff,0461 283159
+72b5ce196726661994dc2dd3a1a6e614,Lorenzo,Paci,Research grant holder,
+22a8de1842843272144a9eb6a8274809,Andrea,Tomasi,Staff,0461 281109
+472d473c3f8d76c852f4b86d6a45b615,Arianna,Zenoniani,Staff,0461 281540
+7df340625e1cb962e7b8cce4bd5a5751,Manuela,Arnoldo,Staff,0461 283209
+01c8313bec4f832a4eb3fe4f5fc30bb1,Sara,Giuffrè,Staff,
+517307d1e72e3f2d5b1b5f53366c6d1f,Alice,Aste,Staff,0461 285345
+81ee6d54dc19bc138b0f1f94dd091e38,Federica,Alessandrini,Staff,0461 283196
+985ba77e280e6d48bc030408a5815c40,Andrea,Stenico,Staff,0461 282059
+19fe54bfdff192b9ac4d007812ea5ef2,Mariella,Soggia,Staff,0461 281957
+138d40402f8ec8383d759e70031024f1,Francesca,Zappini,External staff,0464 808161
+27ed2a9089533f3c070e0ad96889dcbd,Alessandra,Montresor,Head,0461 281112
+088447fa69c0b5fb00b617fbd4a10e9e,Nadia,Callovi,Head,0461 282204
+fe713991a6ead0b3778826c341ed6d37,Angela,Sciannamea,Staff,0461 282807
+3cd1cf258bbd6b781976240f0757c698,Davide,Saretta,Research grant holder,
+e342848aa2a8ba9d60908044bccfe68f,Francesca,Marangoni,Staff,0461 283461
+5d6bebecc8e3353acce0500860eb0c03,Cristina,Chiriac,Staff,0461 281950
+b0480c56b09e9dc2f3058ab38f5528a2,Vera,Liachenko,Collaborator,
+25e3933e7e7d22285206b83f4f751f52,Monica,Dallona,Collaborator,
+7dfe7d39cbada2c0f60244bfd5afe8ee,Enzo,Veronesi,Head,0461 283437
+ef12677fe5a2afbd84b4297bb0764c6f,Luisa,Passamani,Staff,0461 282183
+22d53ede47f083a3d7cd2fa37ed48c3e,Moris,Triventi,Deputy coordinator,0461 281351
+63715aaa9ea914c374f3aae7f57291a2,Valeria,Panozzo,Staff,0461 282445
+4040148d49c02eadc518258ce9d66380,Maddalena,Bosetti,Research grant holder,
+75a2c1e111e5b4342b73d8a2af7f0b9b,Mariya,Lenko,Research grant holder,
+de9e09821d4059fa9dce6e7255553524,Alberto,Raoss,Research grant holder,
+3b1160d0d1131902b80376d52d512f91,Paolo,Vanini,Staff,0461 283487
+b890fad7e65509a024a0db8428326f36,Martina,Bridi,Head,0461 283117
+6c2d65b02cdf7044b158d5f5ca68887c,Marta,Simonatto,Staff,0461 281163
+0920da16e4ba00e021fbc10671133630,Gianna Claudia,Giannelli,Coordinator,
+e44e5246b71d2aeafb78d453cd0905ab,Andrea,Peterlongo,Head,0461 283418
+fa90589db1623f390a2d4ec721b299c9,Silvia,Ubaldi,Staff,0461 285279
+57962acbda5677b9360f02079e0c3b8c,Silvia,Eccher,Staff,0461 281746
+cdaafa0bf8b117bd360e93bcbed530ff,Luigi,Simeone,Staff,0461 283994
+7da6b2785830ac7177814d5d76d6fff6,Giuseppe,Caputo,Head,0461 281242
+7f81909636bc91f238051d9007fec799,Andrea,Silvestri,Staff,0461 282932
+dc5f5b623b6f90fad3f3490496961fe2,Valentina,De Concini,Staff,0461 281632
+5ece87922f1919d94c8f55c7f33fdbf8,Valentina,Paterno,Staff,0464 808450
+182bdbcef15a88eb22bf124f9d9caa21,Christina Alice,Gallagher,Collaborator,
+c044fc80163d943e14ad39ddace91df7,Gaia,Tomassini,Collaborator,
+44bc550fec1490d05cbb1b9ec2551592,Giulia,Carradori,Research grant holder,
+fff8769ce1425d13364f0321687b6726,Sonia,Stenico,Head,0461 282010
+a8bb097c826a846d9cd47c21eda4333d,Lorenzo,Forti,Staff,0461 282657
+86dead3b0c9d9d0ef1508c60cd5e0a97,Giuliano,Girardi,Head,0461 283035
+7d7a0ee8c34c8bdc7d41345f34d9f156,Alberta,Fedel,Staff,0461 281656
+d71abdc49335dc37207a543f479f4290,Ester,Gallo,Rector's delegate for Academic and International Solidarity,0461 281375
+34727c33ac44229b38dfd2d0e4905c0c,Giuseppe,Froner,Staff,0461 281707
+4ef591aedcd970d561e91b440136468c,Antonietta,Bonomi,Staff,0461 281300
+b3d2ce1ff0070bc7fcc4882516e8c481,Guido,Zolezzi,Rector's delegate for Development Cooperation,0461 282662
+76719fbaf2e6b49484cfe1141238b53c,Sandro,Gadotti,Staff,0461 282006
+beff8aabafc502ad42daf1e0e64a6e9a,Cinzia,Paolisso,Staff,0461 282175
+941e9e8d4d9a794a13123f968a887805,Ivan,Brandolise,Staff,0461 282560
+49437473289ee3b94bd8eb365003788f,Daria,Abram,Staff,0461 283555
+52956ab2064a23f1ff890d09cfc67547,Laura,Martuscelli,Staff,0461 283293
+046d04345e8df7c76f051bb1634625f6,Cristian,Giuliani,Staff,0461 283807
+0b641ef9b4209760341c874a6aa8cef5,Pier Luigi,Novi Inverardi,Rector's delegate for Orientation to Graduate Education,0461 282287
+1d4494ec52454abdcf224290b7f67c18,Stefano,Mattedi,Staff,0461 283470
+498f3ea54d68bb6ef4bcfc7e08a446f0,Virna,Eccli,Staff,0461 282587
+f25e5a7f60bd467d4ef7becb67a04886,Nicola,Battelli,Staff,0461 283980
+406a6d39de7bed6cb2750f831bd06f12,Massimo,Lazzaro,Head,0461 281124
+3a10e3727c710bc8c9362e0fe6d81f1e,Valentino,Fenner,Staff,0464 808444
+9dfbf0eb52464c5cf7cb96c07b6360a2,Victor,Zanasco,Staff,0461 281632
+5ec63dd1bfbedbf92c0dc5eed028fe2f,Eleonora,Gennarini,Collaborator,
+855b5ccf900683e6efc2316776a433a1,Giorgia,Stefani,Staff,0461 285266
+fb29bf69b18546814ee5eb73bc1cadce,Michele,Gasparoli,Staff,0461 285324
+6ede0791836d683b663ab10d97ccbd1f,Chiara,Fondriest,Staff,0461 283817
+92ac9d2cc11bd040dd0045e7409cd32f,Ivana,Pasquazzo,Staff,0461 281788
+c56b67b0a9573c7b04996e61345de69e,Olga,Alter,Research grant holder,
+82c441e20e08a549d5956cadf2e952cf,Patrizia,Betti,Staff,0461 282920
+a285b7d476e9fee81456a98450753d80,Tiziana,Capra,Head,0461 283323
+259c016727306e83779bd75edbe44928,Pierantonia,Sterlini,Staff,0461 283975
+f3196c410ef247aa5354f330629d7a2a,Antonia Laura Philipa,Jakobi,Research grant holder,
+7efe775d0e7b10e96ba263e07485d7a5,Roberto,Battiston,Coordinator,0461 281590
+f6367cc804027a091a33896668955872,Pietro,Bianchini,Employees' representative for safety issues,0461 282979
+5505aa49677a076d383e34a8202c1944,Elena,Uber,Staff,0461 282669
+98d0f6a8ca8d3c5cb371350e551aea60,Elvira,D'Amato,Staff,0461 283071
+178a87284f7b993de64157ee92c21fc6,Paolo,Dal Piaz,Head,0461 281933
+ae7ab855978bec25ab38075a8878c2ee,Patrizia,Stanchina,Staff,0461 283028
+89c3a0ab959a9d1a13523f5568a9232d,Antonella,Degl'Innocenti,Deputy dean,0461 281734
+4455334699af81c5c90c9ff6438c329a,Maria,Cuocina,Staff,0461 283054
+2698f153bf2d19fb525b4da5ec56dc4c,Patrizia,Tomio,Head,0461 281144
+91a718ec4ccf68d975393545d8530708,Orietta,Veronesi,Staff,0461 281294
+d462016259a6f845aa3d8d0592d7521a,Sandra,Dirè,Deputy coordinator,0461 282456
+2f49470e1ffb399582529ac192d35fcb,Norberto,Anesi,Staff,0461 281936
+b5eca39cc016fc9e44ee8e0d15d9dff6,Rosanna,Verones,Staff,0461 282503
+728f8b2f4637b05bfdde3b38697b9395,Elena,Spagnolli,Executive assistant to the Head of the Direction,0461 281228
+8913386b01c6ef44e37e2bcc98ab636f,Stefano,Tonetta,Deputy coordinator,
+93a3c980ea86193fb84868c17e69c0b9,Richard,Straub,Linguistic expert,0461 281779
+59aa6f23bd945c8da06cdabc2edd0f92,Gloria,Ischia,Staff,0461 282581
+74262e433a23d614cc137be0c690430a,Maria Michela,Dickson,Alternate member,0461 282384
+0e79244c283ff775cbb5d8a6d3c5187f,Alberto,Ciotola,Staff,0461 283026
+53f4cb2e99277856847605918e4f2c6d,Elvira,Migliario,Coordinator,0461 281750
+089ba750c863324e10466d28ce5bc21a,Viviana,Tartarotti,Staff,0461 281709
+d9836c421b1a9551ef89c35924b435ee,Angelo,Giacomozzi,Staff,0461 283401
+32cb3815bcb3cca4a2d47c7d38ba0717,Franco,Fraccaroli,Vice-Rector for Organizational Well-Being and Employee Relations,0464 808410
+9f7f9d335d9c00622783944a0fbdf928,Massimo,Miglietta,President,0461 283840
+c8e76b6175a1df48a2a1e53e1217d5a0,Maria Pilar,Pastor,Linguistic expert,0461 281782
+e4214ea1e0c3afe04c7ce35617a0542b,Elisabetta,Morelli,Linguistic expert,0461 282019
+ab24b4b55b1807123b958e55c8de3be1,Cinzia,Piciocchi,Rector's delegate for the Animal Welfare Committee,0461 283502
+2a66d454a8cc53bfe5af883258744068,Claudia,Gavazza,Staff,0461 282483
+404db6517af7cbe37bf215f8f7088fbe,Ana Maria,Alonso Rodriguez,Director,0461 281621
+c57e25f142dc0cbe3c7bda475874cf55,Alberta,Giacomoni,Staff,0461 281652
+c9c21cf88f22a0410f7d92ab8e497a03,Luca,Benedetti,Staff,0461 282462
+f8fc30bc4b4bfdae213cb9b84a76c1fb,Angela,Berloffa,Staff,0461 282415
+7a9fbf11e2876bc3e8de1afbb4ad52fa,Ginevra,Gioia,Staff,0461 283246
+2c723150e1f5c6c2a66d79cee50121b0,Suay Melisa,Oezkula,Research grant holder,
+55be9f18ae952adeeddb5985b33a2dfc,Serena,Fusaro,Staff,0461 281964
+0fa55f1215c3743593ae0c83e9525b3a,Jane Elizabeth,Price,Linguistic expert,0461 282007
+58e7e95795c1746ed5d09241c0807608,Martina,Andreoli,Staff,0461 282704
+6f9608d6f75b8f5eab75ed2ce3bf384b,Remo,Iori,Staff,0461 281598
+6d01a0ff77ca25862faa135f21378418,Loredana,Zandonai,Staff,0464 808434
+3bf49f9a149caf6e386f165f6b66bcb8,Serena,Stedile,Staff,0461 281923
+2bd38735c3d6e4328ba0ed952de56c27,Rimma Alexeevna,Urkhanova,Collaborator,
+22d733820054d3da592f1be2826b83a6,Cesarina,Zeni,Staff,0461 282500
+fcd0745bad3b98f4365f2006012be4e9,Giuseppe,Pinto,Staff,0461 281610
+af4a7c4f52e844a830a3e1dcb82005a9,Riccardo,Ceccato,Rector's delegate for Safety in the workplace,0461 282466
+236383b2197be363b10c05e5a542624a,Luigi,Mittone,Coordinator,0461 282213
+d44c64d2749f137db38eb348bdcb4524,Mirko,Paoletto,Staff,0461 281935
+455a29e21600fadbb8996a6d0e62b91b,Mauro,Hueller,Head,0461 281584
+f2e21dc32579512b3ad22eb324f6f47c,Mauro,Tonetti,Staff,0461 283252
+fad4f7d1fbe6cd007e3bbefd72569d3d,Alberto,Moser,Staff,0461 281233
+71e86f2eab77a8809deceb19dc9f7145,Valter,Moretti,Coordinator,0461 281627
+4442ce930296d9067a80fa33b296e31a,Gianna,Adami,Head,0461 283016
+6afe0e43238074f761c16aa58ba0a457,Anna,Pallaver,Staff,0461 281772
+c1ceb674f0616565f8b2c7ed329bc098,Marco,Dorigatti,Head,0461 281183
+f11b65a9d5b9ee553a1daf67d7288b17,Miriam,Sebastiani,Staff,0461 283249
+648250a896a3041ddb37b0b1bb0dad14,Silvia,Fedrizzi,Staff,0461 281795
+930cc1838047ecd9ae70eea3daf8696a,Marco,Antonelli,Staff,0461 283217
+0f5b2b8c19b843da59625c08646ca70b,Roberto,Demattè,Staff,0461 281127
+64b4a244137470bff4fba257742ad078,Donato,Romano,Deputy coordinator,
+33f55ae749954e0779f0f7e3afac9d3d,Mariarosa,Nicolodi,Staff,
+6a3aa9efc5dfd17ba2e69292b12d7941,Susanna,Pedrotti,Staff,0461 283024
+569ee98e5f6a94eae6aa8c9bfc3dae7e,Sabrina,Adamoli,Head,0461 283082
+49bb7470829aa066b45ba235073ed304,Paola,Biotti,Staff,0461 281545
+67a068964d3f6182cd623ef980d3c3f6,Samanta,Voltolini,Staff,0464 808304
+4847f3799d33429b454dda0873a456cf,Fabio,Sartori,Head,0461 282624
+ed4d6a3bc0789c468fd75c62c94ea1ae,Ivana,Rizzi,Staff,0461 283261
+dcaa4f9743028f988df760b90de736af,Giorgia,Dossi,Head,0461 283278
+6e4c4f8125b00b7071121f72f282c606,Laura,Salvetti,Head,0461 281129
+265903f99f068058ddaecfe38d6c991a,Sebastiano,Perisi,Staff,0461 283443
+dde2832e9f4d4caa201b835dc68b05fc,Antonella,Voltolini,Staff,0461 283376
+8f4602e0b79c53ea25f9855dc855efa2,Massimo,Pizzato,Deputy dean,0461 283286
+72f5e5533b0937e9eb0aab7cbb05d5f0,Serena,Caron,Staff,0461 282268
+f095e077a52fbefd786181bc433a430f,Davide,Molteni,Staff,0461 283772
+1629913ab50c5e71c97661462256758b,Giovanna,Atzei,Alternate member,
+d3cebb0bbfcc598763d6efc2a83f3d58,Federica,Gallo,Research grant holder,
+34c0634d1c94d2f55994c73faeaf068a,Maria Ines,Pisoni,Staff,0461 283335
+aaa9598ccab5f1b6533f6b0f204de9e9,Alessio,Amistadi,Staff,0461 282363
+80e95b7c08caa115144b0bb55e7ef602,Chiara,Piotto,Staff,0461 282966
+ad21adc75a4c52a6612ff7fd16cb935e,Mario,Passamani,Head,0461 283171
+e3c7128b618d0dd122efbb7b63e1ba37,Lucia,Appoloni,Staff,0461 282042
+abe020ed46e426c9a7299465302a6cc1,Claudia,Tarzariol,Staff,0461 283234
+0fe8f23c86c2467656ca1c42433c43c8,Denis,Paissan,Staff,0461 283388
+7fb26f0131878d7e761716c102c40b15,Claudia,Plotegher,Staff,0464 808443
+79acbd2165d9b8487802fa550907ecb6,Anna,Eccel,Research grant holder,
+f3b1f0bbb039fd4ee2d67bb59498a94a,Fulvia Gisella,Guerini,Staff,0461 282992
+873ced3948530d83f44716e808dd1f50,Sara,Siragna,Staff,0461 283350
+3af71962febfb6a4d0a810c15921db98,Marco,Segabinazzi,Staff,0461 281960
+54cbcb3865ccc6278c08c75d23589b6e,Luciana,Fia,Staff,0461 283136
+d1085d10988baff676cb7fd3f5b4362f,Lorenza,Liandru,Staff,0461 281205
+ecf677a25a2b65274aab0745ba8a3bbe,Tommaso,Mastropasqua,Staff,0464 808716
+3f8e1eb77f78a7e2d8d4043dc2bbb28e,Rossella,Tomazzolli,Head,0461 282023
+9ea7e3702a2c595045cca93ee63da2cf,Mattia,Dei Cas,Research grant holder,
+17f64612c7e47e82db1a60be7b914e84,Juri,Bottura,Collaborator,
+24b188bb1f197e86eb157fc8d9adaffa,Clarissa,D'Alberto,Staff,0461 283122
+28009124b8040d01be49ed555e4f485a,Iris,Zendron,Head,0461 283640
+a287f9ba298c2d5759cfc4ce74011ea5,Alexia,Bassino,Research grant holder,
+c39a3e7a902bb4280419594cea5cafe9,Michela,Favero,Head,0461 281200
+d0169db0a039276eac655cc63359c89b,Marta,Conci,Staff,0461 281969
+f3307f4748ca7872eba30fb98f14d4e0,Monica,Cosi,Staff,0461 285208
+a6abb5f9bdefe294bfea043cc4f41b1f,Manuela,Rizzoli,Staff,0461 283021
+96207c0d12b935f7713b4892fa8ef722,Stefano,Aterno,Data Protection Officer,
+4f6f35197f98066294306adf66da2032,Michela,Poletti,Research grant holder,
+33634f8a9733e61a6434c693b721e0f9,Nunzio,Pezzino,Staff,0461 282976
+549043128e1b1b05cced7f56d0952c40,Volha,Tarasevich,Staff,0461 283974
+980802b52b359f60e09083a143f753d4,Francine,Ricordi Oliveira,Staff,0461 281211
+5e33a91d7ba84138ff779fed512378c2,Chiara,Cesareo,Collaborator,0461 281471
+40a36453eb2515c394d9f0ad805a9b0d,Silvia,Ricchiuto,Linguistic expert,
+c6168f4b3c61d6a57814c443cfd19512,Ilaria,Mazzeo,Staff,0461 285340
+c61988d7da1a2c2687de92a215aba76a,Marin Alexandru,Munteanu,Collaborator,
+880eda6a496d7370334d0d6408e82bac,Cecilia,Molteni,Staff,0461 285253
+cb6413ff2860bccaf098cd89ba0811eb,Gabriele,Ferrari,Deputy coordinator,0461 285333
+106a94c57fb9383e9f7ebf0d29a66503,Tiziana,Bordatti,Staff,0461 283368
+6301582bd98026368f74db82f2124f7d,Gaia,Giancaspro,Research grant holder,
+ed9be8657fb83354651ed86f1338dc39,Giulia,Grasso,Research grant holder,
+39e5fe078997bdf41ff92836721c4088,Francesca,Florio,Research grant holder,
+5f1fc14578570459d8f22701f08a27ea,Ahmed Almustfa,Hussin Adam Khatir,Research grant holder,
+982f9ebcebd4d19d58cb814d37f91796,Sara,Modena,Staff,0461 285355
+93643174baa4800edb49dfd84f652007,Veronica,Vinciotti,Deputy coordinator,0461 283979
+a622fb098eb4d44695d20bf6cb494d44,Chiara,Toldo,Staff,0461 282069
+14fb8661c8da8d6baa7626a63c9c10e6,Jessica,Grisenti,Staff,0461 281972
+f40d65c04c0df6bd5da4b46fb78810bb,Antonia,Basile,Staff,0461 283463
+7fa75d49d2e21893770aae40a5a53d98,Paolo,Cavallerio,Staff,
+88ed5f1d15508f324af41274033b09f0,Rosalia,Giuga,Research grant holder,
+9825cb53bfb9a3cce66e346d53513042,Joséphine Marie-ange,Lionti,Linguistic expert,
+80fc8cd6b6a9fd978fe0c849ed600d1e,Mirella,Collini,Head,0461 281634
+b041408b841fcf8cb99d791ee049f198,Leonardo,Franceschini,Staff,
+2f28495f31b1f33f7bcd5ae097022bfb,Giulia,Citroni,Staff,0461 281150
+fd526339790f5c90df3b22544e0102ef,Rudj,Gorian,Staff,0461 283185
+83d056d2dde04b9a178d044e0b884f81,Andrea,Avi,Staff,0461 281535
+43bbb1a2ed31c43f3c6768830f7d0a39,Elsa,Pesenti Bolò,Staff,0461 282345
+dfc8bc99ff9d3cfe842dd53cda70706a,Birte,Marquardt,Collaborator,
+73231c63d9a56aa3f07338fe188706b7,Leonardo,Facchini,Head,0461 283550
+433d0e8229d554709e4367cf386ec245,Marina,Cindolo,Staff,0461 283128
+cefa458d952915d69410617be09d7e82,Martina,Nardelli,Staff,0461 282386
+1d223eae46702e3d12b111c31b6a2e72,Stefania,Mattedi,Staff,0461 282127
+03be3a115419fa4900882bf1d508218e,Silvia,Raia,Staff,0461 281372
+481d90e7d0bae80a97238411468e8d3e,Giada,Placido,Staff,0461 283530
+117a453a555df38a539496af62498cd5,Camilla,Kandamulla Arachchige,Staff,0461 283172
+d2ac87b5adf13ff638d7c94aa99695c9,Federica,Dell'Amore,Staff,0461 283052
+3c94b2fef48bbf815718b9bf7aaa06e7,Claudia,Cattani,Staff,
+ec514a209240b697691a6a96cdc605fb,Luca,Valenzin,Staff,0461 283288
+0e3bd9a47ccf09b2ee1c36dcab19d492,Monica,Bersani,Staff,
+4dc466fb0fc0b4c0adfd04a28cfb47f9,Iuliia,Pysmenna,Research grant holder,
+efb8cc9e310c90f5d017adca549c1279,Caterina,Mordeglia,Deputy coordinator,0461 283785
+668218edec7b729a9238240dcb6946cc,Nicola,Margoni,Staff,0461 283410
+d076d04c01b8586638bf9fd7bc18bc2e,Serena,Vecchietti,Staff,0461 281170
+41ef14fbced59f87460793dad3166899,Daniele,Finocchiaro,President,0461 281241
+c96e056bcd138cf1a22694c395a8368d,Francesca,Bertotti,Staff,0461 282167
+f88a8592d18e0345f8a73fb8162f118a,Mara,Sartori,Head,0461 281209
+33a69b83fb3c8a9ec8c1bf12dbb84c3c,Guido,Cavagnoli,President,
+31cd7fe75ef41f9b9a5d2fae9f2eaf9b,Fabiola,Parisi,Staff,0461 281756
+424c01fdda20b072d0661b49cc2f5183,Maria Giuseppa,Muriglio,Research grant holder,
+959fee8a48284b195f2a155c27d18f3c,Cinzia,Frison,Staff,0461 281120
+841381bb926f69cbb1af596f31bddb33,Alice,Negri,Staff,0461 281285
+53c2390b7f17ea4c8fbe7e9322fe34c6,Aaron Angel,Salas Sanchez,Research grant holder,
+26a495f2cd6c0c3718a8149726a3d8ec,Vanina,Micheletti,Staff,0461 283976
+709104a7780dbb21c70cff44d8c999ab,Nadia,Nollo,Staff,0461 283736
+21aca1c1d94e3a39f0d7316660405402,Calogerina Maria,Culora,Collaborator,
+a041ee29e8761a162e33ddf87f43c4ca,Maria,Morelli,Staff,0461 281430
+48c823bc3e086379665943da60603095,Nicola,Bazzanella,Staff,0461 282015
+b9ee15b3100894c2f78ffbae2e0da573,Caterina,Rinaldi,Staff,0461 283271
+b74f4fe6998a17c809f2af849b48ee8f,Sarita,Giuliani,Head,0461 281981
+00a407f2b370c6df6dffc54a847ec095,Angela,Rosignoli,Staff,0461 281464
+54a155ad18ab52ee94418ad824a2cab8,Claudio,Salomon,Head,0461 281644
+4ff9f62e9e4ec15217c2e7ffe8e1dc62,Loredana,Sansone,Staff,0461 283473
+62d865ea6499362085325c7861fa03c4,Massimo,Scandella,Staff,0461 282517
+7b9f01f8103bdbfbb945f582ff9f0383,Paolo Maria,Casetti,Staff,0461 283036
+4f2e7da1a266c6ef95d5a9ee563160ee,Alessandra,Bergamo,Head,0461 281921
+b9627323df06b1ec5b3cdf25188d4c0e,Lucia,Scarfiello,Staff,0464 808422
+f160046516cc01e11a2b89102a4891a8,Mariagiovanna,Ceschi,Staff,0461 283144
+f53a420685a3b5d1c5f51dcd2aa3aae3,Sergio,Setti,Staff,0461 282467
+9062fd86bfc262d802b4d16d865cbad3,Alice,Fondriest,Staff,0461 282171
+20961a20f315e028c551c3b9325abc08,Susanna,Donini,Staff,0461 281913
+8d93ca341688407925ffc4853c400134,Maria Chiara,Chistè,Staff,0461 281182
+b581411bbaba90d8f0b7c0f366e48e25,Serena,Tarter,Collaborator,
+561dc4d773b0741839b4022485c9ba68,Monica,Berti,Head,0461 283236
+bdd776f80a432830787e46b83d22c518,Roberto,Passerone,Deputy coordinator,0461 283971
+5dcca5faedbc63a0a3415dfdeaa29511,Valentina,Marchegiani,Staff,0461 283231
+51645688244ddebfb8c0f954545db866,Luca,Battisti,Staff,
+bc3688a3c67d47df33796b3016f67dad,Elsa,Ganassini,Staff,0461 283266
+b7071809c8722e5c1d8d27e471a051a4,Massimo,Vescovi,Staff,0464 808687
+6e6554373bc9c2f0ce91f1eb0b4ceb39,Lino,Giusti,Staff,0461 281203
+877f36c61beb8c978b9d3b90b1a1761c,Matteo,Ploner,Deputy coordinator,0461 283139
+7e061caafa0aca5b842de39f8eab1b6d,Wanna,Manca,Staff,0461 283033
+c55a65f151088ec7d84f54f36b33ea08,Marco,Molinari,Head,0461 282560
+0759632b299a239dce3dd78fd82c326d,Marzia,Filippi,Head,0461 281272
+f95553686d52d111f2427beeece67a24,Elizabeth Anne,Gregson,Linguistic expert,0461 282019
+76bef3eb17bb236cfe6efd577eec7c48,Marco,Bombardelli,President,0461 282258
+32242ac268d54f7e73b5f1c01af32423,Chiara,Briani,Staff,0461 283240
+da98a464e141c79dc793773fa8133f93,Patrizia,Fontanive,Staff,0461 281970
+d427a00f73e2ef83b1e8111cee25050b,Anna,Broll,Staff,0461 285332
+4aacad4fe5e3bb2c4365538457ae6ad6,Barbara,Zamboni,Staff,0461 285341
+53c86e4b59c90765cff3d6ab3cb50c0d,Lucia Anna,Di Paolo,Head,0461 281118
+6a0ed1be08ab922dd910d66bbb2c5d05,Sara,Mazzeo,Staff,0461 283309
+6ccde3504f2ecec65960fcc6745bb083,Sonia,Maistrelli,Executive assistant to the Head of the Direction,0461 283321
+685e335c6837ad3ed7ed9296739b0f0f,Georgia,Gabrielli,Head,0461 283248
+12a8b128f6ad13f2d55885b012755968,Haidi,Garulli,Head,0461 283229
+8c18d024e1bac9ff3b56e7d2857b3fe4,Manuela,Galuppo,Staff,0461 283529
+538351fbaad3a64d3841f62297b7169a,Damiano,Avi,Staff,0461 281641
+36c96154732efcbaeab9e4723c9bcb4c,Alex,Pellacani,Director General,0461 281126
+db3f162e42c306632b4a7d63d0d6d6d4,Antonella,Franceschi,Head,0461 283355
+90ebe178b4d17149a04ba735f3b2841d,Mattia,Zomer,Staff,0461 281185
+d350e856245140ab57b5af1d021e8e52,Lara,Fiamozzini,Head,0461 281508
+73cef7f2bed1dc1b4420225ab439350d,Emanuele,Curzel,Rector's delegate for Student Services and Relations,0461 282907
+3c6a0e7950acb3b33abc9ea67e00580a,Alessandro,Bignami,Staff,0461 283203
+145ac9a806665f961638d117e2b5b54e,Andrea,Ventimiglia,Collaborator,
+603b8abf143f6337088f74d7288ebabf,Manuela,Orsini,Staff,0461 283073
+e2dce1c93e06f610db7df602c747e890,Andrea,Rosani,Head,0461 285273
+211712c1ba5f7f57b09d887c6b362692,Maria Teresa,López-Arias Montenegro,Employees' representative for safety issues,0461 283912
+cde40ba3162b8ba50059abc83e7fd271,Matteo,Rossaro,Staff,0461 283811
+f1bd83a086e4fc563b19c7905b39d154,Andrea,Boschetti,Staff,0461 281806
+b4afc2a67850b6d1e945b9d8487cb5a6,Nicole,Bertotti,Staff,0461 282290
+6d0e4dadf700b6d7d47207e0a4f4ca24,Valentina,Franceschini,Staff,0461 283356
+5033d8c9a37d5880a5a0bf4680836b9f,Lorenza,Dallapiccola,Staff,0461 283364
+332faa83e941090a796f96096727eea1,Gae,Santi,Staff,0461 281840
+361bddda44eba8f9213f21a8b4c35822,Manuela,Bazzanella,Staff,0461 283304
+663012256a951280a315343bbe0e1773,Chiara,Miorandi,Staff,0464 808462
+7255b9cf6e06ee03d1843bff89f05fb1,Roberto,Caso,Alternate member,0461 283881
+9538f4f2992ff060fee13b5c175689ec,Carlo,Casonato,Vice-president,0461 283876
+aba338a4783e8b8e4f8d93cf2ae0b41e,Arianna,Dorigatti,Staff,0461 281881
+ab52b5db5125c91a1e6799b7fb7ae7c8,Tiziana,Purin,Staff,0461 283208
+18a39e8a549d1013340614430c22a375,Maria,Lunardi,Staff,0464 808413
+ce0d389eaecd64c5d01d6749c42dbaf0,Michele,Tomasi,Staff,0461 281610
+32a0c7cba72e0f364f9d93ace88983d5,Iliana,Brugnera,Staff,0461 281928
+ed7b4c230c87aac88d4d2894bb854dae,Rosa,Bragagna,Staff,0461 282188
+fc5c1ee8c1263dd9edb7bed01fab8f72,Massimo,Turatto,Coordinator,0464 808673
+375181a3d03904d4cc975ea21a2ce5fd,Luca,Deseri,Coordinator,0461 282511
+ad40446a8476fe87a299bc78a4d5f5db,Rosa,Di Maggio,Deputy dean,0461 282419
+f9009e0d63b8b581ab7ce9ceb41149b2,Paola,Iamiceli,Vice-Rector,0461 282317
+748cc9d56644b0ec73cdab239e2caa1a,Umberto,Martini,Deputy dean,0461 282102
+93de102a2ce64e5155788927bb16623e,Claudia,Calliari,Staff,0461 282952
+40f60abaa52110cb28bbca3b0dea9c0b,Leah Martha,Mercanti,Staff,0464 808617
+a23b7190db929416a8f0e973635d0b69,Riccardo,Gilmozzi,Research grant holder,
+6396a4121885841df2305fcf1489d6ba,Francesca,Demichelis,Vice-Rector for research,0461 285305
+db3c100705ce78863cc5578d56373b14,Marika,Prati,Staff,
+02d32137b2164c007e8d3491d27b3dff,Marina,Giandoriggio,Research grant holder,
+6540f6ba3f02fbf78afdd8a35f37331e,Lorena,Cebolla Sanahuja,Staff,0461 283423
+c76f97781831a3154eb46b82fc51f155,Silvia,Faccio,Research grant holder,
+ad9db903c2274599abc9bade4fc9bab2,Marcello,D'Adamo,Staff,0461 281271
+dfe9bffd3b662481d8f669af2ecf1bfd,Alessandro,D'Este,Head,0461 281273
+a587752cb58cfce5c959f4be5211ab1c,Anita,Ghane,Linguistic expert,
+9d5fb21bfa84d75f387f48f31cef7864,Kiran,Rigotti,Linguistic expert,0461 282034
+343a5e0297f685c383521d33f0407c0d,Jens,Woelk,Rector's delegate for Initiatives on Linguistic Minorities,0461 283877
+6ac5c27021c69aff4886d9118c75ba4a,Viktoryia,Sidarovich,Staff,0461 283439
+8d8d11064fc769f8891699c229bf134c,Sofia,Simakova,Collaborator,
+9f2fc83dde07304be2bfd0980829ead3,Giulia,Tommasi,Staff,0461 283434
+3ceda5cafc6ff13bc0c0995033892320,Martina,Fruet,Staff,0461 281563
+28af4eef18902c7e3e4b6b09f5fb8af2,Eleonora,Brisotto,Staff,0461 283245
+13e263ec08cd250830c68c60947b4027,Elisa,Ricci,Coordinator,0461 281516
+8427ff74bafbfd953a80d579537b91fa,Massimiliano,Troilo,Staff,0461 281433
+a832e2e57cfe1b81e2c6c4e570b2c7a9,Alberto,Moscardi,Staff,0464 808695
+ba9cc8490c7a5d5a0bd326a7880514f9,Alberto,Sanna,Staff,0461 281485
+d72b8091b7404f9d37a628205559fcd9,Alexia,Conci,Staff,0461 282474
+c26c63f10a985baeb874fa5c5fe98e48,Roberto,Begliuomini,Head,0461 283308
+246fef6b5373bd57472b745c94085d1e,Laura,Giordano,Staff,0461 282318
+039c15e6383a2a707e4ab942527ba718,Cinzia,Moratelli,Staff,0461 282237
+e9a0e0854041e62501f21ecf7438baa4,Sonia,Pompermaier,Staff,0461 281813
+340c0150f7d871e702660d2e7f9c8070,Marcello,Prada,Staff,0461 282173
+f238128158e1f777d62d00091498a347,Gian Antonio,Benacchio,Coordinator,0461 283895
+1bbaa7d65080a87f7629d88755549bda,Vania,Bellamoli,Staff,0461 281130
+21a831fa5871663ad8be5d3215f98c0d,Lucia,Pretti,Staff,0461 283023
+349740966b6c5ec79f7daa06aa89e7d3,Vincenzo Maria,Sglavo,Coordinator,0461 282468
+449d6192f1af2732b0f9326cedfc0ec3,Fabiola,Nardelli,Staff,0461 283244
+9c93e3f6e489cdab38b63cc680b5a632,Paolo,Leoni,Staff,0464 808426
+31d158ee7d8145e32b72ae6c31e9d2ce,Maria Valeria,Ceraolo,Staff,0461 283268
+7b91fcb518c519172b0dafa50fe76c90,Orietta,Osele,Staff,0461 281625
+bd93c3f20538f17922c7f424b7281588,Cinzia,Parolari,Staff,0461 281701
+3eec08803ebac5bd1bf470aed6829a89,Elsa,Osti,Staff,0461 283032
+6c71f445d766ad2e6a6ac705dcc74f8b,Monica,Pavan,Head,0461 281398
+bd1f7ad0f2daa0914e35e0961cc1e87c,Nadia,Peccolo,Staff,0461 283051
+95272213ae56f37e23fb02787e87f375,Monica,Giovanaz,Staff,0461 282165
+e1ec0dd3fceadce15b2f28e49efd5868,Rossana,Iannacchino,Staff,0461 282349
+62ac3c6c8e51a40ffdf96bfc4d8b24ca,Alfredo,Casagranda,Staff,0461 282410
+4754efec8899aba242dd6cf084eee339,Roberta,Serafin,Staff,0461 281257
+c0bafc5ecfd59c2e434777c7603908b9,Eliana,Gozzer,Staff,0461 281655
+760850903a94b8bc98db3f0765a5815c,Fabrizio,Gottardi,Head,0461 282038
+ea0c1c8060b81bca53bd9e6083c90237,Luciano,Conti,Alternate member,0461 285216
+d1e79c06585110db106c638a3c0e1a17,Simona,Sorrentino,Staff,0461 281149
+0da8c922a4d5801b796d848767eeb4e4,Marco,Prest,Staff,0461 283449
+925450c90ee67d55c6a20288e195bb0f,Andrea,Di Nicola,Director,0461 281823
+97f2581bb29eb80dbda7663d7c208294,Luca,Zancanella,Head,0461 283262
+dff30ccc74a6e87a873c91ba816f75b7,Michele,Bortolotti,Head,0461 283406
+addeda5262a289dae82285fa60abe109,Stefano,Oss,Rector's delegate for Science Communication and Orientation for High-School Students,0461 281550
+4252df01040a38c47e085400cb659c61,Lucia,Gilli,Head,0461 283331
+ab9042083b5b88459bb02329e137fb61,Antonio,Mattei,Head,0464 808424
+c33ed40e912790e0c7ba5bca3a414af7,Bruno,Zanella,Head,0461 281769
+660cc10273a81dcee7661357eb41258d,Daniela,Tosi,Staff,0461 283253
+6b5baee551ca903fa39f1464d8af1039,Ivan,Franceschini,Head,0461 282242
+1bdf6fe16cec7dfe2fdc561021b5ffff,Micaela,Rapetti,Staff,0464 808448
+d73df789bd5d1f7d77af156829a2ce5a,Paola,Bodio,Staff,0464 808429
+e7c2b2ab5d755cad054fe29b61be4bea,Francesco,Pavani,Rector's delegate for Doctoral Programmes,0464 808674
+60de6ac1055d222b93a98f6539cb9dc5,Matteo,Largaiolli,Staff,0461 281215
+212da3e73c22da6b06e3cbe32cf66d93,Lucia Agnese,Dorna,Head,0461 283424
+fce9b6f8b62777d272d62e484321cd80,Ciro,Petrone,Staff,0464 808788
+91a103e31e20f7ed61dc2c574b44dd54,Fabiana,Rosi,Rector's delegate for Language Education,0461 281705
+6f8881002cb7bdcba84fe609d1a78a54,Giuseppe,Biagini,President,
+276297a2626ce18f52a1d0b6e1da9537,Chiara,La Tessa,Coordinator,0461 282742
+4967a73fa5978e6e9e965150a7560a41,Elisa,Fancello,Staff,0461 283134
+5c262564dd04ef6d5574cf1bdfbac99f,Leonardo,Assi,Staff,0461 281296
+fb900717fbcbf2f6087cb0f183ea5f02,Kerry Ellen,Hellmuth,Collaborator,
+0655714a08375be2fe45e2941f5d3660,Elena,Trentin,Collaborator,0461 283978
+a1ec0ea6cb207cea39cbb269aa5966f8,Silvia,Facchinelli,Staff,0461 283446
+66cbf345ed86bbdcca393c1057241ef4,Floriana,Cova,Staff,0461 283246
+8c2f25f2f5efa01c6d0550fdd5e68de6,Nadia,Eccher,Staff,0461 283360
+619de6e20e2105c2a12e03578f6c896b,Barbara,Carner,Head,0461 282190
+32525c0675506c4749c0879ad2f0f08c,Filippo,Degasperi,Staff,0461 282550
+c89e6ff49eea08de2b07ebef2b8efc2c,Susanna,Cavagna,Employees' representative for safety issues,0461 283232
+685a691dc0c8b01e41abf257638b534b,Mirta,Alberti,Head,0461 282092
+6043582c58796eed0c290ff8f0360386,Ketty,Pellizzari,Staff,0461 281268
+93c9205e00b7aa43907121945e9378b5,Paola,Fusi,Head,0461 281669
+9fe4cb863924486d00549cdfe3476d59,Paola,Marcon,Staff,0461 283047
+070da297a96f45a2e25283eac02c5d9e,Giorgia,Moser,Staff,0461 281622
+46a1b088bae5665cd270b46947cd355f,Monica,Agostini,Staff,0461 283043
+fc555b0ccd0a23d5e8a7abc3ef6c18f9,Enrico,Marchi,Staff,0461 285211
+33b4c6b787986570656101a90d5707f7,Carla,Simoncelli,Staff,0461 282298
+9cbe2f2990ab9f296aa341821e82508c,Elena,Erbi,Staff,0461 281379
+e50356d31f826f272aa9f97547f5b43b,Paola,Marzadro,Staff,0464 808417
+c3263e0880d12c2a0399da8968ea8652,Lorena,Ziller,Staff,0461 281771
+2375bcbb64d032221fbabfd9492f04bb,Roberto,Manica,Staff,0464 808436
+d7c7c7d0dfcdcc3c5ce686155a53301b,Stefania,Cainelli,Staff,0461 282249
+a3d18f2efb8401f7395106eda31c709f,Micaela,Bellu,Head,0461 282189
+499b910654a4177898415744e6b132c6,Federica,Dalla  Torre,Staff,0461 283352
+f1554093525a0e1ad418acf2e2fbe873,Chiara,Eberle,Staff,0461 283263
+14a7fbed95c3105836ac6daee8f4c464,Daniela,Paolino,Head,0461 283270
+e05aec08bf92f2d0e6a27dcc6aac775d,Francesca,Pizzini,Staff,0461 283206
+7c8778d9fcbef3fadb6f8dbeb6d3f4d1,Daniela,Tarolli,Head,0464 808433
+cc64e72a6ca8f38a8950d92da16f3fae,Roberta,Moscon,Staff,0461 283022
+554a937ee778a20a040ca6c98b78c339,Alessia,La Micela,Staff,0464 808458
+c98d9ea4736c0df4fee732a74baeaddc,Elena,Barbieri,Head,0461 283201
+815050cca162c558f06234bdb0d8cf0b,Lorenzo,Moschini,Staff,0461 283642
+5439f17c633d5aa7c0d223ab0ccb7f07,Patrizia,Paoli,Head,0461 283706
+eac2fa6e232479b6a031eda5ae24fb96,Lorena,Galante,Staff,0461 282660
+8efdc31704891ee6f749bba5ab9401fb,Novella,Brugnolli,Staff,0461 283494
+11096cfd6b7070d98999578555d3f0ce,Marina,Rogato,Staff,0461 282611
+b59e55eac239a00f2f06682a70f2bd6d,Mauro,Filippi,Head,
+33d655d08a01786e8a7ba96036ddb7f4,Piera,Menghini Zuech,Head,0461 281904
+ed013b76d02f1baf47aa1b7910e008bd,Ivano,Cristofolini,Staff,0461 281940
+2151b2d2b790a675ffe78ab4dfd723a0,Oreste S.,Bursi,Director,0461 281901
+2366edbdbe7dd95cb19e82d6ef2dc8b8,Claudio,Casagranda,Staff,0461 282464
+abf601aa1781fe338f45ffb4128dbc76,Maddalena,Bonat,Staff,0461 281383
+92510be5c706e22a857bb311e9b46d57,Daniela,Taschetti,Staff,0461 283302
+136ad39e0034c10435d1ddc45ab12761,Alessandro,Villani,Head,0461 281592
+8fd21ecc466a274a0e083e3671847bf9,Marta,Balducci,Staff,0461 281864
+4a0f543325462d41f29f2cccf0a4db33,Katia,Piccoli,Staff,0461 283053
+baf08b8d8e626b58168833a33d7bd677,Giovanna,Viviani,Head,0461 281207
+9816085ee47eecaf2d7ef9f69de1082e,Chiara,Leonardi,Head,0461 281191
+1240fd046c67328c16c274414b9a75bf,Daniela,Dalmaso,Staff,0461 281134
+da214a4a46fa9932aa8ac7ad7b961587,Paolo,Tramonti,Staff,0461 283273
+a3937d9c7ef62dd344ab3961331b8623,Maria,Marchese,Head,0461 283328
+7b184704267c3be4c4978cee82dd939b,Paolo,Carta,Rector's delegate for the Collegio Bernardo Clesio,0461 283882
+5c3b5ee1964f1a89f79e99284c3c7348,Andrea,Bommassar,Staff,
+8bfd131565450a36d7a39dcfdb35b051,Roberto,Torresani,Staff,0461 282958
+8756b940cfd9c4c80424269c200c494d,Enzo,Loner,Staff,0461 281467
+60374114ccf41c5cbf1549fc508cd978,Teresio,Poggio,Staff,0461 283705
+aebe9d4cf050f25f2fa105f490375b9c,Marco,Bettonte,Staff,0461 283951
+28b961d1451c3103d83b72dfb982a790,Angela,Granatiero,Staff,0461 281399
+1e8941049d34f3b3943cd4ccb448bcdf,Sergio,Dell'Anna,Staff,0461 282553
+aebc2c4941fcfebffa56b015253eab15,Ermanno Celeste,Tortia,Deputy coordinator,0461 282383
+6e5954a2546b16c679a7ee7f969d4181,Gloria,Leva,Research grant holder,
+c79c595d945138b6bb3cfbf157600026,Martina,Lorenzi,Staff,0461 283254
+b8bc06821d0303ef4a95a01462f4de59,Elena,Rizzi,Head,0461 283280
+72754e6b477eb0552e1053e784b6acd6,Daniele,Patoner,Staff,0464 808698
+49319d3afd3a313aa6e8d46ba1920264,Josefine Petra Lydia,Coucke,Linguistic expert,
+b83df3ba1c1fbb996f55d4c52af39dd5,Paolo,Manfredi,Staff,0461 281610
+adf330cbb99baee2572edf9cf2597172,Paola,Eccher,Head,0461 283403
+11cab5b0445878ef317d14c1a8b081b2,Giosuè,Pacifico,Staff,0461 283407
+66984583b7dabfb7871662e54f794076,Mauro,Zago,Staff,0464 808604
+b4a82026527b07c1ea562c708b6a327a,Francesca,Salvetti,Head,0461 283345
+7a173c51a162745b20c99772afa56a77,Elisabetta,Rossi,Head,0461 281661
+36bef814737d9765db7046b6b3a71d03,Rita,Rizzi,Head,0461 281760
+ae13674ee8417530ea87556c270758a2,Francesca,Briani,Staff,0461 283239
+e4f124d6baea304570b2dff5d3a7bb84,Annalisa,Nardelli,Staff,0461 282194
+a2d1c3ac529ee5230d81fdb70443dfc8,Massimo,Bertoldi,Staff,0461 281171
+77d74a4b0c677094871e559e8cc6b737,Barbara,Santodonato,Staff,0461 283380
+3f8bc86fc0aaab19ec1510f8b9100dc0,Barbara,Poggio,Vice-Rector for Equity and Diversity Policies,0461 283719
+288543c80a5ba895c9112e623be920aa,Martina,Guarna,Staff,0461 285315
+fd792bab6086db56d3e105a8ee8efa62,Ornella,Pomino,Staff,0464 808418
+14e223165e0f8b72ddbd704afc32e36d,Luca,Castellani,Head,0461 283313
+ed8ac7773a13b157c2494cab9b5ccc7d,Maurizio,Battisti,Staff,0464 808303
+6758da193ed1396e90513ca7742eb1f4,Laura,Perillo,Staff,0461 283041
+f200ffdf25c881bf03c1f8e80795ff6b,Giovanni,Lenardon,Staff,
+fadb9a0489895e433437825c27f77e45,Ilaria,Bonomi,Staff,0461 283272
+d82272d597ff5a0f6003d13cd1c50493,Michela,Vinotti,Staff,0461 281980
+50613fdfea992ad5b0612081d9dcfa10,Anna Rita Adele,Brancato,Staff,0461 281428
+0fba4ace82ee424b9a8b0d68c36c3eb2,Michela,Buratti,Head,0461 283020
+529623d94ca43f851dbe97853d497e50,Davide,Bortoloso,Staff,0464 808401
+71d97ec1257d0c4ce5053d85d3d05d03,Francesco,Giampiccolo,Collaborator,
+ca4fa266c3d810fb33b41adfa61aa02b,Andrea,Bortolotti,Staff,0461 283274
+6315c5c850673d727b9d01fc7f05d831,Laura,Tovazzi,Staff,0464 808152
+36497be9a3899d49448e740ed70189fa,Chiara,Nardelli,Staff,0461 282342
+2a6ab39b391eedd645b9584bace185d9,Pia Antonia,Port,Staff,0461 283205
+c0a246437c98c96394fceadbc7d0a7ed,Elisabetta,Nones,Head,0461 283411
+4647c071e8e1726e4084c5806d831568,Sandro,Colò,Staff,0461 285342
+968210e8db2ad7e08de5d503f214d0dc,Anna,Pasquali,Staff,0461 283311
+289a75d524f369a080a6c5b255b51c53,Giulia,Frisanco,Staff,0461 281187
+45fd899259350ce193d75737127c2aac,Annalisa,Rossi,Staff,0461 281660
+162d96e97cf6da35c2ae221335d9f084,Anna,Frattin,Head,0461 281914
+de9e9e758e51fb901f0890a949a777ec,Ludovico,Agostini,Research grant holder,
+41af2e162f393f5925c06a600ed113e0,Giorgia,Susin,Research grant holder,
+4ba79c3a8d89da0d32bb3345648cf58a,Erica,Bastasin,Staff,0461 281965
+0a7cf0f08c60bc31393968568c2608d6,Gian Mario,Moretta,Research grant holder,
+9af0794162ce866493975c4af25e5f08,Alessia,Marinelli,Research grant holder,
+60ad8e1b299f3c0b42eafb30273a2259,Federica,Pinto,Staff,0461 285285
+2bc0f8cdd457342b4c35b64ea1980ae8,Devis,Dal Moro,Research grant holder,
+50f87bb7b7393068f921056fc41d2ada,Barbara,Treccani,Deputy coordinator,0464 808630
+a0c58b3e307766fd741a4c3e6dfad0f6,Geraldina Ester,Di Natali,Research grant holder,
+a419d3e09692f0bf1720895c5e67a8c9,Abhinav,Azad,Research grant holder,
+021f21528807a6baa396c52cf2fbc816,Francesca,Correr,Staff,0461 283109
+2336f003c29bdf54a660b3f5a390e6b0,Patrizia,Pisetta,Staff,0461 282211
+1f598d70575f29d42f0b97071dec48dc,Gianluca,Marconi,Staff,0461 283119
+6c71c3e2a0a97544d6261da8cb8f2bae,Mattia,Menestrina,Staff,
+bda8d9d1893c626072191f20c4394439,Roberto,Bertorelli,Staff,
+cd64fb3667733a3855ddd89e6aa13f50,Lorenzo,Messa,Research grant holder,
+f5490d6bced22f5784aca62e6784fbfa,Gaia,Fanelli,Staff,0461 281504
+2c480c243208179cbb67ba028c47b9a2,Luca,Bolner,Staff,
+78caeb791c8d625fb698fc93e05cb620,Greta,Benedetti,Staff,0461 282284
+fd9c7e32ade0d24a969fabd28542ddaa,Isabella,Ravanelli,Staff,0461 283995
+b9fed3bc8c1298cf21f8877cb242e8bb,Laura,Segalla,Staff,0461 283233
+07c0c6ba479925d9a526201f8e9c0e85,Katja,Volpin,Linguistic expert,
+4f60fa2f5793927053ab39f58761ec0a,Jasmine,Ravanelli,Linguistic expert,
+e3ab3f477bf022bac92027ff1d4f35c6,Federica,Armanini,Staff,
+7d1eea4cfee15ad36b7660550d5a35e0,Stefania,Mosna,Staff,0461 283108
+d587fa9f154730690fab3907e8039dda,Francesca,Blasiol,External staff,
+b9b4e7a10839bc33d586544eadd60bcd,Arianna,Adami,External staff,0464 808151
+20f491ce01c6d743bc16bb7b8c51b63e,Anna,Cereseto,Deputy dean,0461 285303
+482c0482d9244fe24284cab09872ab08,Gianpiero,Monittola,Staff,0461 283652
+a0fece7e87f1b4ed6e55e962dfa9edc2,Alberto,Inga,Coordinator,0461 283714
+d594cdd4f364d21f6a75160f12003469,Erica,Girardi,Staff,0461 281745
+41402bcbced746cff036bb1d5ec3f4f9,Silvia,Pagano,Staff,0461 283243
+d04b9120fd700d38633bd1c9b13c5d18,Marica,Dalmonego,Alternate member,
+f1afddefc906ae481877876e0bd5ea9a,Simona,Pangrazzi,Staff,0461 281961
+c249f5ac70298c3682ded75fc805c494,Rachele,Zanchetta,Staff,0461 281982
+137e026480790da9216340653caa3dbb,Mirella,Ponte,Head,0461 281564
+c33e5b74a112ed20074245fd6669ea3a,Annalisa,Costanzi,Staff,0461 281620
+a8a7576f78483133ba23e035131b64e5,Irene,De Stefani,Staff,0461 281979
+72172cc6ad3fba0c498dea8ce2e8b17b,Paola,Filippi,Staff,0461 283326
+986546751e23f3606bd05def4da94688,Fabio,Santaniello,Staff,0461 281767
+0448b5c63dd46a4a1a377123690bc1bb,Cristiano,Cumer,Staff,0461 283019
+3aa8a1961d35fc320603878b67289143,Daniele,Pegoretti,Staff,0461 281873
+240c7938815022ef4bd91e4ab23ea10d,Elisabetta,Dolzan,Staff,0461 283160
+f2b7a2bcb671296537e5f6bf12cc1255,Gianluca,Esposito,Coordinator,0464 808643
+7f9602f9b047ec5f0140fa095f513d2b,Michele,Dalba,Staff,0461 283493
+38ec1d265fcc6bf797ef09f544f04215,Daniele,Santuliana,Staff,0461 281249
+ee35f471e63bd65a79fd8cf71f3d0229,Ermann,Bisesti,Staff,
+e558c8a7906de94664ec73391b4d6d62,Elisa,Largaiolli,Staff,0461 281241
+86f684dee343b52c615aa794337828d6,Chunye,Niu,Collaborator,
+d8dfd1327a2c2895e2fde9a4e35e9244,Merj,Morani,Staff,0461 283221
+dce8461b23264efee42476cdc0a3079d,Cristina,Ciambella,Staff,0461 281662
+301d5c822e07051d68551fc1d64e4406,Stefania,Mazzalai,Research grant holder,
+dd44197ff57d06e667652b4aa7e1e4f1,Anna Birgitta Elisabeth,Helander,Head,0461 285338
+026cbe32c2e1076139fcca1338307812,Betty,Balduin,Staff,0461 285302
+81fe9ae645ae45014bcd774767762d80,Carlotta,Zaupa,Research grant holder,
+90e53a14c1c95f35bf3c3fe117c38761,Laura,Poggi Pollini,Staff,0461 283034
+fefe2a4bca42826594422f5f2be3737c,Chiara,Vantini,Collaborator,
+1a40f48dd4be81e3a886c5bf086a1fec,Maria Cristina,Gilli,Staff,0461 283963
+5247f64353fe1f668ae00d07a573b159,Francesca,Tomasi,Collaborator,
+4f1ad55107218ced9aff51256e49f089,Enrica,Cerilli,Research grant holder,
+ff160353b5ead3551cd944142db25386,Malgorzata,Kos,Staff,0461 282904
+d3fb3f258eee4bf436a3eb6c508f4eec,Jennifer Joyce,Hill,Collaborator,
+60d128bf5de1d16e336cae6f8ef01516,Arseniy,Petrov,Research grant holder,
+2e92789b7bd8b798472fafbfd1b3afd5,Ilaria,Signori,Staff,0461 283133
+79b5d5bde3c14239d4a1eca89b39cb52,Lorena,Maines,Staff,0461 282421
+a9ff0d3fb21c7731764473ac4fd8c97f,Anna,Giacomelli,Staff,0461 283114
+31e6259f86d495b80900c51d59179b86,Jacopo Maria,Mallozzi,Research grant holder,
+f5d769003d31766bb9c6ac982d5d4fbd,Olena,Frysheva,Linguistic expert,0461 281736
+ccaa4048aba794b98b044accb7a58b39,Antonella,Favrin,Staff,0464 808608
+f0efe03958b488e1e76570d4f7b359a6,Paola,Bisoffi,Staff,0461 281164
+76eb46a71614f3e115deaf3df034fc0a,Marco,Russo,Staff,0461 281761
+dbf2a0e9fc118d58414114f7af13dd61,Franco,Camparsi,Staff,0461 281932
+dd8b68eba762ed3c9ef44aa065195e6b,Ida,Franch,Staff,0461 281757
+7267e7a6c1d24eeb47b1be6831aada92,Elena,Aloisi,Staff,0464 808435
+49f4eb6655789c8f0c9248968a85896a,Franca,Degasperi,Staff,0461 282310
+eaf4877b99ff9b5a8827718a6a45ae14,Gloria,Fontana,Staff,0461 283459
+4cfa23349a2680a6fbbb821fd35daaa6,Cinzia,Chini,Staff,0461 283050
+832ee9e76b6108e76303cca857478560,Clara,Broseghini,Staff,0461 281611
+c1ef5de938788d750fd1e2767848a2c5,Paolo,Bottura,Staff,0461 282667
+b4c634ef9ed86198df4a0f2831948f50,Pierluigi,Agostini,Staff,0461 283042
+b3fe30cd16df17b8c0c11e3cf93dd5f8,Nadya,Bobova,Staff,0461 285269
+5bff55053ea1793f7a9f0afbeb62fb13,Elisa,Baldessari,Staff,0464 808453
+7719a763077b0e5fce358ea2c5fde95d,Vittoria,Bort,Staff,0461 281140
+55e81b87e371d0f6cf56debccc705d4f,Elena,Rossetto,Head,0461 283327
+fd01b0c6ca4abe4e978d7dbd0d6263d1,Irene,Nardis,Head,0461 283306
+688ebd23fac76370dafea3c067648e93,Roberta,Raffaelli,Coordinator,0461 282274
+943a235242ad5a2e96e4229957b5dfc5,Marco,Li Calzi,President,
+68433f802ce77d0e5848d1b7b0e980ca,Antonella,Calore,Research grant holder,
+d9123f112e9bea6afab56ea576337e26,Aureliano,Cerreti,Staff,0461 283597
+a86088a9b0e32521a6904e92ff946b85,Silvia,Bevilacqua,Staff,0461 281703
+437a01ed8faf03b57f3e6e70c51ba9ab,Lorenzo,Varponi,Staff,0461 283745
+d03c5a42efdc74112bd08d38f5164bb0,Valentina,Sandri,Staff,0461 283247
+1bacc3c3f9f496ee084ff677e71af28b,Emma,Procopio,Staff,0461 281694
+9c8b8bc976276b6aa4ea720275056174,Liliana,Brugnara,Staff,0461 281135
+fbbd5f82f0f43163f8b86ccee5b5dcc5,Vanessa Maria,Caleca,Staff,0464 808616
+da969968e126ae3c2620d1b6ed2f458d,Massimo,Franceschi,Staff,0461 285226
+82996eae5fcc4d86c1679b134ada13b1,Matteo,La Mendola,Staff,0461 282582
+318336f513a0a20b1bfa238a65f4842f,Daniela,Costantini,Head,0461 281142
+bb5d577ec2212c359fdcb5832df13fa8,Myrka,Zago,Deputy coordinator,
+2635e53e84219e69d2e94080df3e6d76,Stefano,Tambalo,Staff,0461 283433
+fde5b7032d47d1ae44a6749c9ae8a01c,Francesca,Stanca,Staff,0461 283898
+2d250e123083af7e554a64fa6b4addfa,Flavio,Dalponte,Staff,0461 281169
+ec9fb2eddfe7adaef7214ed3dc6b40bd,Luca,Corradini,Staff,0461 282560
+d365388fc269da89bfabd2ca4f0d3856,Tiziano,Dalla Torre,Staff,0461 282578
+c7a779189e48eb6a3477cb05159ad4da,Giovanni,Straffelini,Rector's delegate for Vocational and Continuing Training,0461 282458
+1b21c8da5ccf94a3bf03ced40f85d19d,Emilia,Demattè,Staff,0461 281322
+c87f8ae22962c0d7d91e497c05f62cb9,Roberta,Varneri,Staff,0461 283284
+50bccbf34c706e0d9d89a8688f9172f9,Giulia,Girolami,Staff,0461 281157
+1c8a80f481d49d54463f496bf4960035,Paola,Venuti,Vice-Rector for Teaching and Learning,0464 808451
+c05143b46bbf60778e6f4b1779e57215,Alessandro,Rossi,Rector's delegate for Support to the Business Sector,0461 282101
+82e02c11d50d8ec713a0cd72b5ef2d0e,Daniele,Bortoluzzi,Deputy dean,0461 282504
+77ccc3deb02ebaefb692ce1b92fc9afa,Luca,Cigalotti,Staff,0461 281708
+dabc986b393b78931af9109b49796272,Claudio,Giunta,Rector's delegate for Press and Communication,0461 282736
+e636c70c3cfef59b9ad42fbc012a2b3f,Luigi,Lombardi,Deputy dean,0464 808642
+bd8fa118cf305b4af10158d3501e6bef,Dario,Petri,President,0461 283902
+56326d4c5590917386f5a3511afb1498,Susanna,Celegato,Linguistic expert,
+4017f6a67897f80b52b86e2a81147958,Sean Edward,Somers,Linguistic expert,0461 282011
+e567c3bee1183c3ce830e650c61b1bed,Federico,Puppo,Deputy coordinator,0461 283511
+57963d3bf1071155ff1b27f1aa7d27f5,Diana,Giovanaz,Staff,0461 281261
+265e3dcb5c371a34950d113c909a4f72,Alfredo,Pojer,Staff,0461 282560
+805c37b9a29dfeff3a1ef2b5e2258988,Lorenzo,Bruzzone,President,0461 282056
+a1350e5f4ec4516e0a2191c6743e792b,Paolo,Scarfiello,Staff,0461 282652
+c56cd9bc96c48303cffa4c65a2d21869,Rossano,Albatici,Implementation of the Development Plan,0461 282622
+bcd9543da0c3a4fa9c28b5cd4481adc5,Piergiorgio,Frisanco,Staff,0461 281968
+beaa6942eddcf6d622d5ebf2f1762e64,Loredana,Giacomelli,Head,0461 283818
+62c2f6e917482cfd9cb6e0e9b648a55f,Livio,Zottele,Staff,0461 282405
+a97bebf43ce196cbe0fc7f927f1dd85f,Giorgia,Sartori,Staff,0461 281844
+04d96ddc8f63f0ca42e4df8ae84ca547,Maurizio,Rosanelli,Linguistic expert,
+cfd71cd3c83973c411ffe4d1eb9ad2e8,Grazia,Gambardella,Staff,0464 808712
+71a6405f1f72534fdf9988d7543d66b6,Beatrice,Incapo,Staff,0464 808313
+8716775a1e3311d1554769ebfb01750f,Annamaria,Larentis,Head,0461 282299
+bd1df170791e8d2a48725d3d0e01d76c,Alessandra,Rossaro,Staff,0464 808437
+7e09295e54f55621df79ed4b027267e7,Sandra,Iob,Head,0464 808610
+d8c78e1f5dfbb5207dee250c7d27da0b,Francisco Javier,Andres Mieza,Linguistic expert,
+37857cb91f815159b0e668b57a1f925f,Stefano,Mariucci,Head,0461 283366
+0025b1c89c5de85aaac374273c3848ba,Anita,Nicolussi Zatta,Staff,0461 281931
+ced3412c0dabd51c3fdf28d30165ffa0,Carlo,Berti,Staff,0461 281730
+8d6208c65531c5ed459f1b6343d27050,Maria,Della Lucia,Rector's delegate for Alumni,0461 282195
+9c958c65b4cb440208a04bb8bd67ec72,Corrado,Paternolli,Staff,0461 281427
+82cd6043aedfcf582fb9d3b92a7ea51f,Pierluigi,Endrizzi,Staff,0461 281269
+17aafd3261178f285d4861927393f357,Francesco,Serra Cassano,Deputy dean,0461 281673
+cdc696ea51bd4631ef6ed2d1f3c42af3,Antonio,Miotello,Deputy dean,0461 281637
+b3b772a4e9f0578df2d615b0d00e0065,Roberto,Graziola,Head,0461 282064
+77ea77e892945f9949fa2d4343a35172,Antonella,Neri,Staff,0461 281777
+008e5afe2608de726b0f0b0b6ede5971,Marcella,Orrù,Staff,0461 281996
+ec17f21df8e4bccc76ce735f67efb88d,Giovambattista,Longo,Staff,0461 283486
+c9b262984f5f4d5c24b6ed966c4e1f2a,Maddalena,Trenti,Staff,0461 283281
+e7bf37642f58b8f41460bbe521691fb1,Farid,Melgani,Deputy dean,0461 281573
+f2a6f5ed673238e9ada62b9c79c7304b,Patrizia,Cuel,Staff,0461 282943
+0875ccfdfe0993c936be8d31a007e96c,Luca,Pichenstein,Staff,0461 281643
+dd43d8ea8aa1eb332bfdfe42e3a24c8e,Stefano,Benati,Deputy coordinator,0461 282106
+e2adb6343c3178ea01ef46d5b753fd90,Alessandro,Valluzzi,Staff,0461 283260
+e7e4827923d31f5e4c20c54293d14cf5,Giovanna,Giordano,Staff,0461 283440
+01151b1688abfe3d4dc12e023c330361,Luigi,Donadio,Head,0464 808430
+572e4c386db00cefdbf71d801dce58bb,Francesca,Valentini,Head,0461 283044
+94de2f65ed130f437bdda48ce19631d6,Michela,Litterini,Staff,0461 285291
+8b24a1d6b685e1a6bc62209e33c2ff40,Bianca,Andrighettoni,Staff,0461 281229
+1a019794da31812a204d97353da2a09f,Fulvio,Ferrari,Coordinator,0461 282709
+7604ee0e1bae90a6ba2ac6866c345eae,Cristiano,Santinello,Staff,0461 281321
+abcb0140ed353c67fa4d945d09deb956,Giovanni,Bettio,Staff,0461 283303
+8901f0c3154de52227aac71d6fd6eec8,Marica,Piffer,Staff,0461 282239
+9cdb55633128920b90d25a04a1d97b9d,Viviana,Bertolini,Staff,0461 281222
+1702ea0f843706e65a019c1e78356f67,Umberto,Garbari,Staff,0461 283045
+bfb04ab4be7ffcf69cf3296684122efa,Gustavo,Torres,Staff,0461 283402
+65a58670663bd56b3fe7b33a990df42b,Fabrizio,Donatoni,Staff,0461 281289
+5dee3ff911a83ab172b32c7ea5d1142c,Michela,Nigri,Staff,0461 283445
+6d80d35b757590912e023aa164136c50,Giuliana,Pegoretti,Staff,0461 283384
+024aa125272a5dc35609de2b7d219ade,Sara,Sartori,Staff,0464 808445
+6fa6552b3ef137d26bd34eac267d3bae,Patrizia,Guzzo,Staff,0461 281278
+fb591922552de4c85a1c3dc5741b92d2,Cristina,Merlo,Staff,0461 281719
+fe4e945a0cafb7986431fc4c1faf319f,Sara,Camarotto,Head,0461 283371
+a307d7f6c1e63f079a30d5b837857e10,Luca,Tranquillini,Staff,0464 808113
+ea91cff78257d62024ed96692ea34a92,Inga Katharina,Wagner,Linguistic expert,
+faa76dd1e4c9951ad20d179a5939ee29,Silvia,Lucchini,Staff,0461 282808
+79e42e61d149f1d46a7e98d035079ba6,Alessio,Battiston,Staff,0461 281239
+0a3daa4d0cfe9a605f9c01facd91f347,Valentina,Adami,Head,0461 282763
+b6fd4b1fecb4726a3596dfda7a0fe0f5,Pino,Zingale,President,
+8798892c7bb045824c05d702e214c470,Alessia,Magnabosco,Staff,0461 282970
+a8b1f936f0190a7ed420caf72e308bf6,Asia,La Rocca,Research grant holder,
+bf7a6b7a6954f82f662b6ad62aa47cd1,Sara,Sighel,Staff,0461 283275
+d45b88bc6497846d1359af737dac6498,Elisabetta Andreina,Brunelli,Staff,0461 281136
+f1725c9d067decc31e9c437572815d14,Michela Alessandra,Denti,Deputy coordinator,0461 283820
+74bb0bf901d9304ab0754035bd515a01,Stefano,Zanelli,Staff,0461 283450
+80999b0fcd03ecca732ed1af4f79d984,Fabio,Cecchinato,Collaborator,
+80ef5f23e01aa589d83712d47bfe0b04,Nicola,Marzadro,Staff,0461 281506
+15dc92163af7bb402ddfc2f97e91adbb,Manuela,Paolino,Head,0461 282196
+cce843471b77e85f8003adcbfe75c884,Anna,Fazion,Staff,0461 283225
+07a3bb81ba03dc2ab9e231bbf4b1a095,Serena,Greco,Research grant holder,
+d518b07fcf6f9a1250b592810e5dc355,Barbara,Dell'Anna,Staff,0464 808311
+9425be41224b0651d8c622c29f328bd9,Cristiana,Bucella,Staff,
+d3fa7db191c734a88c2a95d6023aebaf,Maria Rosaria,Astarita,Staff,0461 285328
+302d2fa27e9d5b9d0a7b039063c6e7b8,Anna,Indelicato,Staff,0461 283135
+a0c8f56491119979c792e0b02658d6e9,Gianfranco,Anfora,Deputy dean,0461615143
+c19c29614a989cf364cae2b9744d8367,Fabio,Leto,Staff,0461 281666
+099b6b888e521099e421d05aae1827dc,Vittorio,Iacovella,Staff,0461 283219
+42b8b415425d66d27f38c676331355e2,Irene,Pontalti,Staff,0464 808405
+c98c23b35583d1fb94fd25180cf3de7d,Isabella,Pesce,Staff,0461 283429
+5180c3e076b7f92cf2ff65d3fc3b3910,Alessandro,Pincigher,Staff,0461 281176
+91d950cffa7160a6659c7f661a583f7e,Paola,Bonadiman,Staff,0461 281214
+271e1c20dbac167c52c24b3157d57606,Matteo,Mutinelli,Staff,0461 281966
+b411bc6aed19d2d321d4634ed02d5d85,Tatsiana,Egorova,Staff,0461 283305
+f5322a5be4eac6200e9cd6c3f462786d,Laura,Fileno,Staff,0461 283531
+fc1323caef96f3afd8ddfe3cb7398504,Paolo,Degasperi,Collaborator,
+3fc1e9d2f1f8406521ad1dc4ba9e3376,Tommaso,Pecchia,Staff,0464 808719
+7936679f7af03a88269cd7c25022511d,Valeria,Cataldo,Staff,0461 281339
+fcbfe0ebfac8d18c7769f4ef07146132,Giulia,Scudiero,Staff,0464 808467
+232e16c78e2212a3877ad91810164d24,Mauro,Poggianella,Staff,0461 285293
+4de41665bd6c0aac88a2944a79e23854,Elena Rita,Vecchi,Research grant holder,
+1dc9c613909fe68f09f8a4a986d4e71b,Cristiana,D'Arrigo,Staff,0461 281274
+973ab7c99a3dee57970e5a1675d14a08,Sara,Formaggio,Collaborator,0461 281363
+02025d16c6801f2882eb056196fe476b,Stefano,Nicolodi,Staff,0461 281154
+ea1143b8cac5a0fc102725d6196977ef,Silvia,Chini,Staff,0461 283220
+9826a576749bc7510a89642ea722e70a,Eyueal Getachew,Haile,Staff,0461 283444
+567930bdad674bb3c48ac873286177c0,Roberto,Demattè,Staff,0461 281585
+a7b1b0a6248e414b8e1841235bbd120c,Greta,Braga,Executive assistant to the Head of the Direction,0461 283204
+ee99fabaee4f7b3e6013adb07e71aa8b,Laura,Uez,Staff,0461 281665
+2f26135249ef34270a0fdf27bd3bcd3a,Serena,Piovesan,Collaborator,
+9191ad19a658ad5df5f388229d251ad1,Fabio,Serafini,Staff,0461 281722
+8363d86136bef6631904baaf424744d3,Pietro,Chiesa,Head,0461 283068

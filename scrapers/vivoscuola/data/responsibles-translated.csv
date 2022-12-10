@@ -1,0 +1,293 @@
+,nome,cognome,titolo,id_istituto
+0,BRUNO,GENTILINI,Principal,0
+1,MARCO,FELICETTI,Principal,1
+2,ENRICA,RIGOTTI,Principal,2
+3,CARLO,MUSIO,Principal,3
+4,LOREDANA,FRISINGHELLI,President of Managing Body,4
+5,CHRISTIAN,BONAZZA,Principal,5
+6,BRUNO,DAVES,Director,5
+7,CHRISTIAN,BONAZZA,Principal,6
+8,BRUNO,DAVES,Director,6
+9,MARCELLO,SOTTOPIETRA,Principal,7
+10,MICHELE,FILIPPINI,Director,8
+11,DIEGO,FREO,Director,9
+12,GIULIANA,BATTISTI,Pedagogican Coordinator,10
+13,CATERINA,FRUET,Pedagogican Coordinator,11
+14,RITA,FERENZENA,Pedagogican Coordinator,12
+15,LUCA,BRANZ,Director,13
+16,DINO,MOSER,Director,14
+17,EMILIO,SALVATERRA,Director,15
+18,MASSIMO,MALOSSINI,Director,16
+19,PAOLA,COCCIA,Director,17
+20,BERNARDO,ZANONER,Principal,18
+21,CHIARA,BERTOLINI,Director,18
+22,BERNARDO,ZANONER,Principal,19
+23,ANNA,PRATI,Director,19
+24,ERIK,GADOTTI,Principal,20
+25,CLAUDIO,NICOLUSSI,Director,21
+26,WALTER,IORI,Director,22
+27,WALTER,IORI,Director,23
+28,PAOLO,ZANLUCCHI,Director,24
+29,WALTER,IORI,Director,25
+30,FAUSTO,ECCHER,Director,26
+31,SARA,DE ZOLT,Pedagogican Coordinator,27
+32,ELENA,RICCI,Pedagogican Coordinator,28
+33,CARMEN,FATTORI,Pedagogican Coordinator,29
+34,IVANA,LEONARDELLI,Pedagogican Coordinator,30
+35,SILVANO,MEDVES,Pedagogican Coordinator,31
+36,VALENTINA,ZANOLLA,Principal,32
+37,DANIELA,SIMONCELLI,Principal,33
+38,LORENZA,MORELLI,Principal,34
+39,PAOLO,MUNARETTO,Principal,35
+40,NICOLA,TOFFANELLO,Principal,36
+41,ANDREA,BEZZI,Principal,37
+42,ALFREDO,ROMANTINI,Principal,38
+43,GIUSEPPE,SANTOLI,Principal,39
+44,GIUSEPPE,RIZZA,Principal,40
+45,LAURA,ZOLLER,Principal,41
+46,PAOLO,PENDENZA,Principal,42
+47,STEFANO,KIRCHNER,Principal,43
+48,TERESA,PERITI,Principal,44
+49,MANUELA,BROZ,Principal,45
+50,PAOLA,BARATTER,Principal,46
+51,ELENA,RUGGIERI,Principal,47
+52,TIZIANA,ROSSI,Principal,48
+53,FEDERICO,CORRADINI,SORASTANT,49
+54,FEDERICO,CORRADINI,Principal,49
+55,GIOVANNI,SCALFI,Principal,50
+56,CLAUDIO,MARCH,Director,50
+57,PAMELA,TOMASELLI,Pedagogican Coordinator,51
+58,SANDRA,CIAPPI,Pedagogican Coordinator,52
+59,ELENA,RICCI,Pedagogican Coordinator,53
+60,GIANNA,ANGELI,Pedagogican Coordinator,54
+61,FRANCESCA,VARESCHI,Pedagogican Coordinator,55
+62,MARIANGELA,SIMONCINI,Pedagogican Coordinator,56
+63,GIANNA,ANGELI,Pedagogican Coordinator,57
+64,ALESSANDRA,POMILIO,Pedagogican Coordinator,58
+65,ROBERTA,MEDEGHINI,Pedagogican Coordinator,59
+66,PAOLA,SANGIORGI,Pedagogican Coordinator,60
+67,FRANCESCA,VARESCHI,Pedagogican Coordinator,61
+68,MARIANGELA,SIMONCINI,Pedagogican Coordinator,62
+69,MARIANGELA,SIMONCINI,Pedagogican Coordinator,63
+70,SARA,DE ZOLT,Pedagogican Coordinator,64
+71,UTE,PANCHER,Pedagogican Coordinator,65
+72,TIZIANA,CEOL,Pedagogican Coordinator,66
+73,PAMELA,TOMASELLI,Pedagogican Coordinator,67
+74,ROBERTA,MEDEGHINI,Pedagogican Coordinator,68
+75,DANIELA,DALCASTAGNE',Pedagogican Coordinator,69
+76,SANDRA,CIAPPI,Pedagogican Coordinator,70
+77,SARA,DE ZOLT,Pedagogican Coordinator,71
+78,ROBERTA,MEDEGHINI,Pedagogican Coordinator,72
+79,GIANNA,ANGELI,Pedagogican Coordinator,73
+80,DANIELA,DALCASTAGNE',Pedagogican Coordinator,74
+81,ALESSANDRA,POMILIO,Pedagogican Coordinator,75
+82,FRANCESCA,VARESCHI,Pedagogican Coordinator,76
+83,ALESSANDRA,POMILIO,Pedagogican Coordinator,77
+84,LORENZO,SANTORUM,Pedagogican Coordinator,78
+85,IVANA,LEONARDELLI,Pedagogican Coordinator,79
+86,ROBERTA,MEDEGHINI,Pedagogican Coordinator,80
+87,PAMELA,TOMASELLI,Pedagogican Coordinator,81
+88,LORENZO,SANTORUM,Pedagogican Coordinator,82
+89,LUISA,FONTANARI,Pedagogican Coordinator,83
+90,LUISA,FONTANARI,Pedagogican Coordinator,84
+91,PAOLA,SANGIORGI,Pedagogican Coordinator,85
+92,PAOLA,SANGIORGI,Pedagogican Coordinator,86
+93,UTE,PANCHER,Pedagogican Coordinator,87
+94,PAOLA,SANGIORGI,Pedagogican Coordinator,88
+95,LUISA,FONTANARI,Pedagogican Coordinator,89
+96,DANIELA,DALCASTAGNE',Pedagogican Coordinator,90
+97,DANIELA,DALCASTAGNE',Pedagogican Coordinator,91
+98,LUISA,FONTANARI,Pedagogican Coordinator,92
+99,PAOLA,SANGIORGI,Pedagogican Coordinator,93
+100,DANIELA,DALCASTAGNE',Pedagogican Coordinator,94
+101,SANDRA,CIAPPI,Pedagogican Coordinator,95
+102,IVANA,LEONARDELLI,Pedagogican Coordinator,96
+103,SANDRA,CIAPPI,Pedagogican Coordinator,97
+104,IVANA,LEONARDELLI,Pedagogican Coordinator,98
+105,ANDREA,VALERIO,President of Managing Body,98
+106,SANDRA,CIAPPI,Pedagogican Coordinator,99
+107,IVANA,LEONARDELLI,Pedagogican Coordinator,100
+108,ANDREA,VALERIO,President of Managing Body,100
+109,UTE,PANCHER,Pedagogican Coordinator,101
+110,LUISA,FONTANARI,Pedagogican Coordinator,102
+111,ROBERTA,BERTOLAS,Pedagogican Coordinator,103
+112,SANDRA,CIAPPI,Pedagogican Coordinator,104
+113,GIANNA,ANGELI,Pedagogican Coordinator,105
+114,CARMEN,FATTORI,Pedagogican Coordinator,106
+115,LORENZO,SANTORUM,Pedagogican Coordinator,107
+116,CARMEN,FATTORI,Pedagogican Coordinator,108
+117,DANIELA,DALCASTAGNE',Pedagogican Coordinator,109
+118,MARIANGELA,SIMONCINI,Pedagogican Coordinator,110
+119,PAMELA,TOMASELLI,Pedagogican Coordinator,111
+120,ALESSANDRA,POMILIO,Pedagogican Coordinator,112
+121,GIORGIO,FERRARI,President of Managing Body,112
+122,MARIANGELA,SIMONCINI,Pedagogican Coordinator,113
+123,ROBERTA,BERTOLAS,Pedagogican Coordinator,114
+124,PAOLA,SANGIORGI,Pedagogican Coordinator,115
+125,CARMEN,FATTORI,Pedagogican Coordinator,116
+126,GIANNA,ANGELI,Pedagogican Coordinator,117
+127,ILARIA,MANCINI,Pedagogican Coordinator,118
+128,DANIELA,DALCASTAGNE',Pedagogican Coordinator,119
+129,ELENA,RICCI,Pedagogican Coordinator,120
+130,ELENA,RICCI,Pedagogican Coordinator,121
+131,SARA,DE ZOLT,Pedagogican Coordinator,122
+132,LUISA,FONTANARI,Pedagogican Coordinator,123
+133,UTE,PANCHER,Pedagogican Coordinator,124
+134,ELENA,RICCI,Pedagogican Coordinator,125
+135,PAMELA,TOMASELLI,Pedagogican Coordinator,126
+136,SILVANO,MEDVES,Pedagogican Coordinator,127
+137,LUISA,FONTANARI,Pedagogican Coordinator,128
+138,MORENO,MURANO,President of Managing Body,128
+139,SILVANO,MEDVES,Pedagogican Coordinator,129
+140,GIORGIO,RELLA,President of Managing Body,130
+141,ROBERTA,MEDEGHINI,Pedagogican Coordinator,131
+142,LORENZO,SANTORUM,Pedagogican Coordinator,132
+143,LORENZO,SANTORUM,Pedagogican Coordinator,133
+144,FRANCESCA,VARESCHI,Pedagogican Coordinator,134
+145,FRANCESCA,VARESCHI,Pedagogican Coordinator,135
+146,DANIELA,DALCASTAGNE',Pedagogican Coordinator,136
+147,GIANNA,ANGELI,Pedagogican Coordinator,137
+148,PAOLA,SANGIORGI,Pedagogican Coordinator,138
+149,UTE,PANCHER,Pedagogican Coordinator,139
+150,PAMELA,TOMASELLI,Pedagogican Coordinator,140
+151,FRANCESCA,VARESCHI,Pedagogican Coordinator,141
+152,DANIELA,DALCASTAGNE',Pedagogican Coordinator,142
+153,ILARIA,MANCINI,Pedagogican Coordinator,143
+154,CARMEN,FATTORI,Pedagogican Coordinator,144
+155,ALESSANDRA,POMILIO,Pedagogican Coordinator,145
+156,UTE,PANCHER,Pedagogican Coordinator,146
+157,LORENZO,SANTORUM,Pedagogican Coordinator,147
+158,ALESSANDRA,POMILIO,Pedagogican Coordinator,148
+159,DANIELA,DALCASTAGNE',Pedagogican Coordinator,149
+160,MARIANGELA,SIMONCINI,Pedagogican Coordinator,150
+161,ALESSANDRA,POMILIO,Pedagogican Coordinator,151
+162,ILARIA,MANCINI,Pedagogican Coordinator,152
+163,ROBERTA,MEDEGHINI,Pedagogican Coordinator,153
+164,TIZIANA,CEOL,Pedagogican Coordinator,154
+165,GIANNA,ANGELI,Pedagogican Coordinator,155
+166,PAMELA,TOMASELLI,Pedagogican Coordinator,156
+167,FRANCESCA,VARESCHI,Pedagogican Coordinator,157
+168,ILARIA,MANCINI,Pedagogican Coordinator,158
+169,ILARIA,MANCINI,Pedagogican Coordinator,159
+170,ALESSANDRA,POMILIO,Pedagogican Coordinator,160
+171,ILARIA,MANCINI,Pedagogican Coordinator,161
+172,CARMEN,FATTORI,Pedagogican Coordinator,162
+173,SILVANO,MEDVES,Pedagogican Coordinator,163
+174,ILARIA,MANCINI,Pedagogican Coordinator,164
+175,ROBERTA,BERTOLAS,Pedagogican Coordinator,165
+176,PAMELA,TOMASELLI,Pedagogican Coordinator,166
+177,LORENZO,SANTORUM,Pedagogican Coordinator,167
+178,DANIELA,DALCASTAGNE',Pedagogican Coordinator,168
+179,ILARIA,MANCINI,Pedagogican Coordinator,169
+180,MARIANGELA,SIMONCINI,Pedagogican Coordinator,170
+181,CARMEN,FATTORI,Pedagogican Coordinator,171
+182,CHIARA,GHETTA,Principal,172
+183,GIUSEPPE,PRIGIOTTI,Principal,173
+184,SARA,TURRINI,Principal,174
+185,PAOLA,MARONI,Principal,175
+186,GABRIELLA,VITALE,Principal,176
+187,TIZIANA,CHEMOTTI,Principal,177
+188,VENERA,MUNAFO',Principal,178
+189,ROMEO,COLLINI,Principal,179
+190,ROBERTA,BISOFFI,Principal,180
+191,ROBERTA,GAMBARO,Principal,181
+192,MILENA,ENDRIZZI,Pedagogican Coordinator,182
+193,TATIANA,SORAPERRA,Pedagogican Coordinator,183
+194,FEDERICO,CORRADINI,SORASTANT,183
+195,ALESSANDRO,MIORELLI,Principal,184
+196,LAURA,SCALFI,Director,185
+197,MAURA,MAINO,Principal,186
+198,TIZIANA CHIARA, PASQUINI,Principal,187
+199,FRANCO,VANIN,Principal,188
+200,PIERA,PEGORETTI,Principal,189
+201,NORMA,BORGOGNO,Principal,190
+202,CLAUDIA,TERRANOVA,Principal,191
+203,DANIELA,FRUET,Principal,192
+204,STEFANO,MORELATO,Principal,193
+205,ELISABETTA,PIZIO,Principal,194
+206,MAURIZIO,CAPRONI,Principal,195
+207,DANIELA,DEPENTORI,Principal,196
+208,GIULIANA,SIGHEL,Principal,197
+209,RENATO,PAOLI,Principal,198
+210,FRANCESCA,LASARACINA,Principal,199
+211,EZIO,MONTIBELLER,Principal,200
+212,PAOLA,SIGMUND,Principal,201
+213,CINZIA,CASNA,Principal,202
+214,VITO,ROVIGO,Principal,203
+215,PASQUA CINZIA, SALOMONE,Principal,204
+216,LUIGI,VITULLO,Principal,205
+217,ROBERTO,TROLLI,Principal,206
+218,STEFANO,CHESINI,Principal,207
+219,MAURA,ZINI,Principal,208
+220,ALBERTO,PARIS,Principal,209
+221,LAURA,DE DONNO,Principal,210
+222,CARLO,ZANETTI,Principal,211
+223,LINA,BROCH,Principal,212
+224,PATRIZIA,VISCONTI,Principal,213
+225,PAOLA,PASQUALIN,Principal,214
+226,GIULIO,BERTOLDI,Principal,215
+227,ALESSANDRO,FABRIS,Principal,216
+228,TIZIANA,GULLI,Principal,217
+229,KATIA,PEGORETTI,Pedagogican Coordinator,218
+230,LAURA,BERTOLDI,Pedagogican Coordinator,219
+231,VALENTINA,DANTE,Principal,220
+232,ANDREA,SCHELFI,Principal,221
+233,CAZZANI,DANIELA,Director,221
+234,WALTER,IORI,Director,222
+235,FEDERICO,SAMADEN,Principal,223
+236,TARGA,WALTER,Director,223
+237,MARIA,PRODI,Principal,224
+238,MASSIMILIANO,LATINO,Principal,225
+239,PAOLO,CHINCARINI,Principal,226
+240,MARIA RITA, MAGISTRO,Principal,227
+241,DELUCA,ENZO,Director,227
+242,LICIA,CAMPI,Principal,228
+243,NICOLA,PARZIAN,Principal,229
+244,MARIA TERESA, DOSSO,Principal,230
+245,PAOLO ANDREA, BUZZELLI,Principal,231
+246,GIUSEPPE,GAMMINO,Principal,232
+247,MASSIMO,GABURRO,Principal,233
+248,CHIARA,MOTTER,Principal,234
+249,PAOLA,BORTOLOTTI,Principal,235
+250,FRANCESCA,BORROI,Principal,236
+251,MICHELE,ROSA,Principal,237
+252,SARA,TONAZZOLI,Pedagogican Coordinator,238
+253,ERMINIA, MORELLI,President of Managing Body,238
+254,ANNARITA,CAPPELLETTI,Pedagogican Coordinator,239
+255,MARTINA,BASSETI,Pedagogican Coordinator,240
+256,SIMONETTA,ERRIGO,Pedagogican Coordinator,241
+257,CHIARA,NADALON,Pedagogican Coordinator,242
+258,GINEVRA,RELLA,Pedagogican Coordinator,243
+259,FRANCESCA,VARESCHI,Pedagogican Coordinator,244
+260,ALBERTO,GALLI,President of Managing Body,245
+261,FRANCESCA,PAROLARI,Director,246
+262,FRANCO,ANTONINI,President of Managing Body,247
+263,STEFANO,TALASSI,President of Managing Body,248
+264,CHIARA,ZONTINI,President of Managing Body,249
+265,PIER LUIGI, SACCANI,President of Managing Body,250
+266,FRANCESCA,PAROLARI,Director,251
+267,PAOLA,SANGIORGI,Pedagogican Coordinator,252
+268,MARCO,MANICA,President of Managing Body,253
+269,ANNA,DALDOSS,President of Managing Body,254
+270,MARCO,SALVATERRA,President of Managing Body,255
+271,ANTONIO,GIRARDI,President of Managing Body,256
+272,SARA,DE ZOLT,Pedagogican Coordinator,257
+273,TULLIO,MUSSI,President of Managing Body,258
+274,ALESSANDRA,BIANCHI,Pedagogican Coordinator,259
+275,PIERLUIGI,PIFFER,President of Managing Body,259
+276,TIZIANA,CEOL,Pedagogican Coordinator,260
+277,ALESSANDRO,LARENTIS,President of Managing Body,260
+278,DORIS,LOSA,Pedagogican Coordinator,261
+279,LUANA,CLINAZ,President of Managing Body,261
+280,DIEGO,MARIA BONAZZA,President of Managing Body,262
+281,STEFANO,ZENDRI,President of Managing Body,263
+282,TIZIANA,CEOL,Pedagogican Coordinator,264
+283,ALESSANDRO,LARENTIS,President of Managing Body,264
+284,SARA,DE ZOLT,Pedagogican Coordinator,265
+285,MANUEL,PENASA,Principal,266
+286,CLAUDIA,BISOGNIN,Director,266
+287,UTE,PANCHER,Pedagogican Coordinator,267
+288,LUCA,BRANZ,Director,268
+289,FRANCESCO,MICHELETTI,Director,269
+290,TIZIANA,CEOL,Pedagogican Coordinator,270
+291,ROBERTA,MEDEGHINI,Pedagogican Coordinator,271
