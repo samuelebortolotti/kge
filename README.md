@@ -19,18 +19,16 @@ cd kge
 Type the following command to install the required dependencies
 
 ```bash
-bundle install
+pip install -r requirements.txt
 ```
 
 ## Usage
 
-Type the following command in order to see how to use the application
+The main part of the code is located inside the "scrapers" folder.
 
-```bash
-./bin/kge_tools -h
-```
-Or alternatively
+Data was collected mainly from three sources:
+- Vivoscuola
+- Google Reviews
+- University of Trento's Digital University
 
-```bash
-ruby lib/main.rb -h
-```
+Inside each specific folder, there will be a notebook that collects data, and another notebook that processes it.
